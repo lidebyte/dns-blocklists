@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 May 2026 16:56 UTC
-# Version: 2026.0501.1656.27
+# Last modified: 02 May 2026 09:35 UTC
+# Version: 2026.0502.0935.41
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 12424
+# Number of entries: 12421
 #
 *.003396815.xyz
 *.004430.xyz
@@ -320,7 +320,6 @@
 *.4kvod.tv
 *.4megaupload.com
 *.4mirrorlink.com
-*.4movierulz.mn
 *.4pda.to
 *.4players.org
 *.4realtorrentz.com
@@ -568,7 +567,6 @@
 *.alibabanetwork.net
 *.alice.al
 *.alienflix.net
-*.aliez.me
 *.aliez.tv
 *.alifanet.com
 *.iptv.aliflailabd.com
@@ -682,7 +680,6 @@
 *.altadefinizione.red
 *.altadefinizione.ru
 *.altadefinizione.solutions
-*.altadefinizione.soy
 *.altadefinizione.tienda
 *.altadefinizione.tokyo
 *.altadefinizione.tours
@@ -762,7 +759,6 @@
 *.altadefinizionegratis.space
 *.altadefinizionegratis.store
 *.altadefinizionegratis.surf
-*.altadefinizionegratis.top
 *.altadefinizionegratis.vip
 *.altadefinizionegratis.watch
 *.altadefinizionegratis.wiki
@@ -875,6 +871,7 @@
 *.animekaizoku.com
 *.animekayo.com
 *.animekhor.org
+*.animekizz.live
 *.animelab.com
 *.animeland.tv
 *.animeland.us

@@ -12,13 +12,6 @@ https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filters-share/1st_domains.txt
 https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filters-share/3rd_domains.txt
 https://codeberg.org/KhodeKiaa/PersianBlocker/raw/branch/main/PersianBlocker.txt
 https://codeberg.org/remad0/TurkHosts404/raw/branch/main/dns-blocklists/adblock.txt
-https://codeberg.org/xRuffKez/DNSBunker_DNSBL/raw/branch/main/01_ad.txt
-https://codeberg.org/xRuffKez/DNSBunker_DNSBL/raw/branch/main/02_mal.txt
-https://codeberg.org/xRuffKez/DNSBunker_DNSBL/raw/branch/main/03_scam.txt
-https://codeberg.org/xRuffKez/DNSBunker_DNSBL/raw/branch/main/04_fake.txt
-https://codeberg.org/xRuffKez/DNSBunker_DNSBL/raw/branch/main/05_popup.txt
-https://codeberg.org/xRuffKez/DNSBunker_DNSBL/raw/branch/main/06_phish.txt
-https://codeberg.org/xRuffKez/DNSBunker_DNSBL/raw/branch/main/07_search-domains.txt
 https://ctu.gov.cz/vyhledavaci-databaze/blokovane-weby/csv
 https://dl.red.flag.domains/red.flag.domains.txt
 https://easydutch-ublockorigin.github.io/EasyDutch/EasyDutch.all.txt
@@ -57,6 +50,8 @@ https://hole.cert.pl/domains/v2/domains.txt
 https://hosts.tweedge.net/malicious.txt
 https://lists.cyberhost.uk/malware.txt
 https://mf.gov.cz/assets/attachments/Zverejnovane-udaje-ze-Seznamu-nepovolenych-internetovych-her_vNNN.csv
+https://nsfw.oisd.nl
+https://opendata.sukl.cz/soubory/NELEGALNI_STRANKY/Nelegalni_stranky_LP.csv
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 https://phish.co.za/latest/phishing-domains-ACTIVE.txt
 https://phishing.army/download/phishing_army_blocklist_extended.txt
@@ -100,6 +95,7 @@ https://raw.githubusercontent.com/arfshl/anti-gambling-domains/refs/heads/main/d
 https://raw.githubusercontent.com/arkynx/blocklists/refs/heads/main/gambling-domains.txt
 https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
 https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/quad9_blocklist.txt
+https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt
 https://raw.githubusercontent.com/bet-blocker/bet-blocker/refs/heads/main/blocklist.txt
 https://raw.githubusercontent.com/betterwebleon/slovenian-list/refs/heads/master/filters.txt
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/hosts
@@ -174,6 +170,7 @@ https://raw.githubusercontent.com/iam-py-test/my_filters_001/refs/heads/main/Alt
 https://raw.githubusercontent.com/Infinitum-IT/IOAs/master/domains.txt
 https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 https://raw.githubusercontent.com/jpgpi250/piholemanual/refs/heads/master/DOH/DOHadb.txt
+https://raw.githubusercontent.com/kdkiss/online-sicher-blocklist/main/domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/admaven-domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/admeasures-domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/bt-contentza-domains.txt
@@ -246,6 +243,14 @@ https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspici
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/free_web_hosting.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/onion.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/port_proxy.txt
+https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/static/malicious/browser_locker.txt
+https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/static/malware/apt_kun3.txt
+https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/static/malware/apt_unc6691.txt
+https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/static/malware/fakeapp.txt
+https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/static/malware/santa.txt
+https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/static/malware/silverfox.txt
+https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/static/suspicious/android_pua.txt
+https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/static/suspicious/pua.txt
 https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts
 https://raw.githubusercontent.com/tcptomato/ROad-Block/master/road-block-filters-light.txt
 https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
@@ -275,6 +280,7 @@ https://secure.fanboy.co.nz/fanboy-agegate.txt
 https://secure.fanboy.co.nz/fanboy-annoyance.txt
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
 https://secure.fanboy.co.nz/fanboy-social.txt
+https://small.oisd.nl
 https://threatfox.abuse.ch/downloads/hostfile
 https://threatview.io/Downloads/DOMAIN-High-Confidence-Feed.txt
 https://trends.netcraft.com/cybercrime/tlds
@@ -289,6 +295,7 @@ https://www.globalantiscam.org/scam-websites
 https://www.kushari.org/downloads/mal.txt
 https://www.spamhaus.org/reputation-statistics/gtlds/domains/
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
+https://www.szpi.gov.cz/ViewFile.aspx?docid=3000211
 https://www.trustedshops.de/fake-shops/
 https://www.usom.gov.tr/url-list.txt
 https://www.verbraucherzentrale-niedersachsen.de/vorsicht-falle

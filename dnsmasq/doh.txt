@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 May 2026 16:54 UTC
-# Version: 2026.0501.1654.18
+# Last modified: 02 May 2026 09:42 UTC
+# Version: 2026.0502.0942.17
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3472
+# Number of entries: 3469
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -117,7 +117,6 @@ local=/ad.800801.xyz/
 local=/my.8484848.cn/
 local=/dns.853852.xyz/
 local=/dns19.854000.xyz/
-local=/dns.866865.xyz/
 local=/tyo.883933770.xyz/
 local=/dns.886886886.xyz/
 local=/dns.888654.xyz/
@@ -131,7 +130,6 @@ local=/dns.920313.xyz/
 local=/de-passage.9273082020.ru/
 local=/jp.95576.app/
 local=/959818.xyz/
-local=/dd.961188.xyz/
 local=/bella.981377612.xyz/
 local=/9827015.xyz/
 local=/dns.985900.xyz/
@@ -2191,7 +2189,6 @@ local=/dns.miyun1.com/
 local=/doh.mmmalia.com/
 local=/dns.mnet-online.de/
 local=/dns.mni.li/
-local=/moamao.shop/
 local=/dnstls.mobik.com/
 local=/query.mobyds.com/
 local=/doh.mochou.site/

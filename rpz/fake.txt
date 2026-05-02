@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777655700 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777707900 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 May 2026 17:15 UTC
-; Version: 2026.0501.1715.39
+; Last modified: 02 May 2026 07:45 UTC
+; Version: 2026.0502.0745.41
 ; Syntax: RPZ
-; Number of entries: 28958
+; Number of entries: 28948
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -1792,8 +1792,6 @@ abodeare.com CNAME .
 *.abodeare.com CNAME .
 abodeena.com CNAME .
 *.abodeena.com CNAME .
-abodeene.com CNAME .
-*.abodeene.com CNAME .
 abrahamr.com CNAME .
 *.abrahamr.com CNAME .
 abrisphere.com CNAME .
@@ -2242,8 +2240,6 @@ amazonboxus.com CNAME .
 *.amazonboxus.com CNAME .
 amazongori.com CNAME .
 *.amazongori.com CNAME .
-amazonia-investing.com CNAME .
-*.amazonia-investing.com CNAME .
 amazonliw.com CNAME .
 *.amazonliw.com CNAME .
 amazonspallet.com CNAME .
@@ -18264,14 +18260,10 @@ alle-hebel.de CNAME .
 *.alle-hebel.de CNAME .
 allesescooter.de CNAME .
 *.allesescooter.de CNAME .
-allesfurbaby.de CNAME .
-*.allesfurbaby.de CNAME .
 allesfurzuhause.de CNAME .
 *.allesfurzuhause.de CNAME .
 allesheizung.de CNAME .
 *.allesheizung.de CNAME .
-allesoutdoor.de CNAME .
-*.allesoutdoor.de CNAME .
 allgreen-handel.de CNAME .
 *.allgreen-handel.de CNAME .
 aloas.de CNAME .
@@ -23910,6 +23902,8 @@ sohoohair.de CNAME .
 *.sohoohair.de CNAME .
 sola-mode.de CNAME .
 *.sola-mode.de CNAME .
+solagoshop.de CNAME .
+*.solagoshop.de CNAME .
 solamira.de CNAME .
 *.solamira.de CNAME .
 solanex.de CNAME .
@@ -25388,8 +25382,6 @@ vow.foundation CNAME .
 *.vow.foundation CNAME .
 1m2.fr CNAME .
 *.1m2.fr CNAME .
-aieurope.fr CNAME .
-*.aieurope.fr CNAME .
 alfa-aesar.fr CNAME .
 *.alfa-aesar.fr CNAME .
 alter48.fr CNAME .
@@ -27024,8 +27016,6 @@ akustikholz.shop CNAME .
 *.akustikholz.shop CNAME .
 al-nassr.shop CNAME .
 *.al-nassr.shop CNAME .
-alldiamondpaintingdeeu.shop CNAME .
-*.alldiamondpaintingdeeu.shop CNAME .
 allkitchen.shop CNAME .
 *.allkitchen.shop CNAME .
 alturarituals.shop CNAME .
@@ -27034,8 +27024,6 @@ amaribaby.shop CNAME .
 *.amaribaby.shop CNAME .
 ameise.shop CNAME .
 *.ameise.shop CNAME .
-aminatakidseu.shop CNAME .
-*.aminatakidseu.shop CNAME .
 amuseliebe.shop CNAME .
 *.amuseliebe.shop CNAME .
 andrewsstore.shop CNAME .
@@ -27430,6 +27418,8 @@ huiiltn.shop CNAME .
 *.huiiltn.shop CNAME .
 icelandichorse.shop CNAME .
 *.icelandichorse.shop CNAME .
+ikea-eu.shop CNAME .
+*.ikea-eu.shop CNAME .
 impulsa.shop CNAME .
 *.impulsa.shop CNAME .
 incude.shop CNAME .

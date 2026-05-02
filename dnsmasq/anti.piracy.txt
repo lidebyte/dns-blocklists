@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 May 2026 16:56 UTC
-# Version: 2026.0501.1656.27
+# Last modified: 02 May 2026 09:35 UTC
+# Version: 2026.0502.0935.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12424
+# Number of entries: 12421
 #
 local=/003396815.xyz/
 local=/004430.xyz/
@@ -320,7 +320,6 @@ local=/4khdhub.click/
 local=/4kvod.tv/
 local=/4megaupload.com/
 local=/4mirrorlink.com/
-local=/4movierulz.mn/
 local=/4pda.to/
 local=/4players.org/
 local=/4realtorrentz.com/
@@ -568,7 +567,6 @@ local=/tracker.ali213.net/
 local=/alibabanetwork.net/
 local=/alice.al/
 local=/alienflix.net/
-local=/aliez.me/
 local=/aliez.tv/
 local=/alifanet.com/
 local=/iptv.aliflailabd.com/
@@ -682,7 +680,6 @@ local=/altadefinizione.pink/
 local=/altadefinizione.red/
 local=/altadefinizione.ru/
 local=/altadefinizione.solutions/
-local=/altadefinizione.soy/
 local=/altadefinizione.tienda/
 local=/altadefinizione.tokyo/
 local=/altadefinizione.tours/
@@ -762,7 +759,6 @@ local=/altadefinizionegratis.skin/
 local=/altadefinizionegratis.space/
 local=/altadefinizionegratis.store/
 local=/altadefinizionegratis.surf/
-local=/altadefinizionegratis.top/
 local=/altadefinizionegratis.vip/
 local=/altadefinizionegratis.watch/
 local=/altadefinizionegratis.wiki/
@@ -875,6 +871,7 @@ local=/animekai.to/
 local=/animekaizoku.com/
 local=/animekayo.com/
 local=/animekhor.org/
+local=/animekizz.live/
 local=/animelab.com/
 local=/animeland.tv/
 local=/animeland.us/

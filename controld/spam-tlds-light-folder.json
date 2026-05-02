@@ -295,6 +295,13 @@
       }
     },
     {
+      "PK": "fans",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "financial",
       "action": {
         "do": 0,
@@ -429,6 +436,13 @@
     },
     {
       "PK": "lifestyle",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "living",
       "action": {
         "do": 0,
         "status": 1

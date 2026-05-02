@@ -11,10 +11,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 01 May 2026 09:32 UTC
-! Version: 2026.0501.0932.05
+! Last modified: 01 May 2026 20:25 UTC
+! Version: 2026.0501.2025.13
 ! Syntax: uBlock
-! Number of latin TLDs: 286 - punycode TLDs: 151
+! Number of latin TLDs: 289 - punycode TLDs: 151
 !
 ||actor^$doc
 ||africa^$doc,domain=~nation.africa
@@ -105,6 +105,7 @@
 ||faith^$doc
 ||family^$doc
 ||fan^$doc,domain=~lemmy.fan|~os.fan
+||fans^$doc
 ||fashion^$doc,domain=~haal.fashion
 ||finance^$doc,domain=~raster.finance|~xynth.finance
 ||financial^$doc
@@ -123,6 +124,7 @@
 ||fyi^$doc,domain=~apollo.fyi|~better.fyi|~crypt.fyi|~genderdysphoria.fyi|~iusearchlinux.fyi|~laelaps.fyi|~levels.fyi|~lunar.fyi|~notbyai.fyi|~ost2.fyi|~poyoanon.fyi|~recollect.fyi|~vercel.fyi|~wpt.fyi
 ||ga^$doc,domain=~google.ga|~mmo.ga
 ||games^$doc,domain=~crazypanda.games|~embark.games|~eneba.games|~gxcorner.games|~skystone.games
+||garden^$doc,domain=~file.garden
 ||gdn^$doc,domain=~cst.gdn
 ||gent^$doc,domain=~stad.gent
 ||gift^$doc,domain=~discord.gift
@@ -160,6 +162,7 @@
 ||lgbt^$doc,domain=~lex.lgbt|~mint.lgbt|~tech.lgbt
 ||life^$doc,domain=~2ch.life|~billo.life|~circles.life|~colorgame.life|~digitalcitizen.life|~fami.life|~iboost.life|~lifetime.life|~loveinfaith.life|~stepone.life|~via.life|~yiff.life
 ||lifestyle^$doc
+||living^$doc
 ||llc^$doc,domain=~ratcloud.llc
 ||llp^$doc
 ||loan^$doc

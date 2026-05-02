@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 May 2026 16:55 UTC
-# Version: 2026.0501.1655.06
+# Last modified: 02 May 2026 09:43 UTC
+# Version: 2026.0502.0943.07
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 19095
+# Number of entries: 19083
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -222,7 +222,6 @@ local=/dnstw.3300000.xyz/
 local=/oracle001.330k.biz/
 local=/dns.333551.xyz/
 local=/n.3363.net/
-local=/33bitbank.com/
 local=/33laomao.com/
 local=/dhlifeus-micro1.dns.3456.kr/
 local=/dns.354688.xyz/
@@ -283,9 +282,7 @@ local=/4proxy.de/
 local=/4q577yay.online/
 local=/4rclash.com/
 local=/4thunter.net/
-local=/4tmiqmwguzcwcn.online/
 local=/zarr0wspace.4trust.cl/
-local=/zarrowfe.4trust.cl/
 local=/zarrowquasar.4trust.cl/
 local=/zarrows-site.4trust.cl/
 local=/train.terms.4twenty.us/
@@ -320,7 +317,6 @@ local=/vps.559299366.xyz/
 local=/55aktnolkvuoctxitm.online/
 local=/55clash.com/
 local=/55gms.com/
-local=/55gms.me/
 local=/55gms.store/
 local=/55laomao.com/
 local=/dns.565349.xyz/
@@ -348,7 +344,6 @@ local=/6bc.net/
 local=/6brothersimports.com/
 local=/6ifodhb2vbm0jyf1fhcowag.online/
 local=/dns.6level.net/
-local=/6s5kmc5yrlhjux.online/
 local=/agh.710523.xyz/
 local=/ayman-dns.731my.com/
 local=/735ccd763ea591d7374902d8b1a39dd0f8f5eb39.com/
@@ -358,7 +353,6 @@ local=/dns.73zls.com/
 local=/7713.info/
 local=/774e8125b1288a33109e6996cc8e2a26.top/
 local=/7777112.xyz/
-local=/www-proxy.777kingslots.fun/
 local=/777schoolutilities.website/
 local=/777surfer.info/
 local=/77ae7237c8a5270448b037ab7c41c8a4.top/
@@ -382,7 +376,6 @@ local=/my.8484848.cn/
 local=/dns.853852.xyz/
 local=/dns19.854000.xyz/
 local=/85la.com/
-local=/dns.866865.xyz/
 local=/867732738.xyz/
 local=/87826100.xyz/
 local=/87d2524dc9e2482190b643306920dc32.top/
@@ -419,7 +412,6 @@ local=/de-passage.9273082020.ru/
 local=/935a0c6f55dc46d2dcf2522c4d8bd546.top/
 local=/jp.95576.app/
 local=/959818.xyz/
-local=/dd.961188.xyz/
 local=/bella.981377612.xyz/
 local=/9827015.xyz/
 local=/dns.985900.xyz/
@@ -1003,8 +995,6 @@ local=/kintoun.alves.cc/
 local=/alvgenad.com/
 local=/dns.alvosec.com/
 local=/alwaysvpn.com/
-local=/interstellar.nana.alyaf.com/
-local=/rammer.nana.alyaf.com/
 local=/amandahugnkiss.org/
 local=/amanvpn.com/
 local=/amazingtechno.com/
@@ -1050,9 +1040,7 @@ local=/innov-windows.s3.us-east-2.amazonaws.com/
 local=/commandedurchin.amber-cypress.com/
 local=/ambervpn.ru/
 local=/ambslot-truewallet.org/
-local=/american-proxy.com/
 local=/americanvpn.org/
-local=/americaproxy.info/
 local=/jobixtetoyuri.ames.website/
 local=/amgwebgroup.com/
 local=/dns.amigo-mgn.ru/
@@ -11209,7 +11197,6 @@ local=/dns.mnet-online.de/
 local=/dns.mni.li/
 local=/mnqwscym.com/
 local=/moacity.com/
-local=/moamao.shop/
 local=/dnstls.mobik.com/
 local=/mobilejump.mobi/
 local=/mobilevpn.net/
@@ -11345,6 +11332,7 @@ local=/mofangvpn.com/
 local=/mogotech.net/
 local=/mogujiasu.net/
 local=/moguvpn.net/
+local=/mohamedadel.cfd/
 local=/mojie.app/
 local=/mojie.best/
 local=/mojie.host/

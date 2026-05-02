@@ -2422,6 +2422,13 @@
       }
     },
     {
+      "PK": "*.fans",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "fap.bar",
       "action": {
         "do": 1,
@@ -2486,6 +2493,13 @@
     },
     {
       "PK": "figureit.biz",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "file.garden",
       "action": {
         "do": 1,
         "status": 1
@@ -2789,6 +2803,13 @@
       "PK": "gamesindustry.biz",
       "action": {
         "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.garden",
+      "action": {
+        "do": 0,
         "status": 1
       }
     },
@@ -4203,6 +4224,13 @@
       "PK": "link.space",
       "action": {
         "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.living",
+      "action": {
+        "do": 0,
         "status": 1
       }
     },

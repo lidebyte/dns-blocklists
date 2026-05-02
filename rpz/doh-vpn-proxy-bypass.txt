@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777654500 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777714980 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 May 2026 16:55 UTC
-; Version: 2026.0501.1655.06
+; Last modified: 02 May 2026 09:43 UTC
+; Version: 2026.0502.0943.07
 ; Syntax: RPZ
-; Number of entries: 38190
+; Number of entries: 38166
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -2403,6 +2403,8 @@ hazepeak.cfd CNAME .
 *.hazepeak.cfd CNAME .
 lightspeedisgay.cfd CNAME .
 *.lightspeedisgay.cfd CNAME .
+mohamedadel.cfd CNAME .
+*.mohamedadel.cfd CNAME .
 nowgg.cfd CNAME .
 *.nowgg.cfd CNAME .
 shanhai.cfd CNAME .
@@ -2539,8 +2541,6 @@ canvas.2028.cl CNAME .
 *.canvas.2028.cl CNAME .
 zarr0wspace.4trust.cl CNAME .
 *.zarr0wspace.4trust.cl CNAME .
-zarrowfe.4trust.cl CNAME .
-*.zarrowfe.4trust.cl CNAME .
 zarrowquasar.4trust.cl CNAME .
 *.zarrowquasar.4trust.cl CNAME .
 zarrows-site.4trust.cl CNAME .
@@ -3915,8 +3915,6 @@ dns.2poi.com CNAME .
 *.302verify.com CNAME .
 30eec7eee452ff883ea3d12afa49ef9147ae505f.com CNAME .
 *.30eec7eee452ff883ea3d12afa49ef9147ae505f.com CNAME .
-33bitbank.com CNAME .
-*.33bitbank.com CNAME .
 33laomao.com CNAME .
 *.33laomao.com CNAME .
 365ads9.com CNAME .
@@ -4629,10 +4627,6 @@ dns.alvosec.com CNAME .
 *.dns.alvosec.com CNAME .
 alwaysvpn.com CNAME .
 *.alwaysvpn.com CNAME .
-interstellar.nana.alyaf.com CNAME .
-*.interstellar.nana.alyaf.com CNAME .
-rammer.nana.alyaf.com CNAME .
-*.rammer.nana.alyaf.com CNAME .
 amanvpn.com CNAME .
 *.amanvpn.com CNAME .
 amazingtechno.com CNAME .
@@ -4717,8 +4711,6 @@ innov-windows.s3.us-east-2.amazonaws.com CNAME .
 *.innov-windows.s3.us-east-2.amazonaws.com CNAME .
 commandedurchin.amber-cypress.com CNAME .
 *.commandedurchin.amber-cypress.com CNAME .
-american-proxy.com CNAME .
-*.american-proxy.com CNAME .
 amgwebgroup.com CNAME .
 *.amgwebgroup.com CNAME .
 amnezia-go.com CNAME .
@@ -20575,8 +20567,6 @@ dns.zarchbox.fr CNAME .
 *.dns.zarchbox.fr CNAME .
 318341906.fun CNAME .
 *.318341906.fun CNAME .
-www-proxy.777kingslots.fun CNAME .
-*.www-proxy.777kingslots.fun CNAME .
 adfiltro.fun CNAME .
 *.adfiltro.fun CNAME .
 axaxa.fun CNAME .
@@ -21795,8 +21785,6 @@ micro.alloxr.info CNAME .
 *.micro.alloxr.info CNAME .
 vps.alloxr.info CNAME .
 *.vps.alloxr.info CNAME .
-americaproxy.info CNAME .
-*.americaproxy.info CNAME .
 amytelecom.info CNAME .
 *.amytelecom.info CNAME .
 anonymousblog.info CNAME .
@@ -23781,8 +23769,6 @@ doh.30x.me CNAME .
 *.doh.30x.me CNAME .
 365ld87948.me CNAME .
 *.365ld87948.me CNAME .
-55gms.me CNAME .
-*.55gms.me CNAME .
 dns.a47.me CNAME .
 *.dns.a47.me CNAME .
 dns.aaflalo.me CNAME .
@@ -29349,8 +29335,6 @@ vapor.onl CNAME .
 *.4l0qpkh5i4gwifmeb.online CNAME .
 4q577yay.online CNAME .
 *.4q577yay.online CNAME .
-4tmiqmwguzcwcn.online CNAME .
-*.4tmiqmwguzcwcn.online CNAME .
 4vtw3ktojjadh0xlr.online CNAME .
 *.4vtw3ktojjadh0xlr.online CNAME .
 55aktnolkvuoctxitm.online CNAME .
@@ -29361,8 +29345,6 @@ vapor.onl CNAME .
 *.5fvfofc9f.online CNAME .
 6ifodhb2vbm0jyf1fhcowag.online CNAME .
 *.6ifodhb2vbm0jyf1fhcowag.online CNAME .
-6s5kmc5yrlhjux.online CNAME .
-*.6s5kmc5yrlhjux.online CNAME .
 737fxvxfe6v3.online CNAME .
 *.737fxvxfe6v3.online CNAME .
 7qk7b79rs.online CNAME .
@@ -34339,8 +34321,6 @@ luminalos.shop CNAME .
 *.luminalos.shop CNAME .
 miscrosoft.shop CNAME .
 *.miscrosoft.shop CNAME .
-moamao.shop CNAME .
-*.moamao.shop CNAME .
 nextlink.shop CNAME .
 *.nextlink.shop CNAME .
 obscurenamelab.shop CNAME .
@@ -37071,8 +37051,6 @@ dns.853852.xyz CNAME .
 *.dns.853852.xyz CNAME .
 dns19.854000.xyz CNAME .
 *.dns19.854000.xyz CNAME .
-dns.866865.xyz CNAME .
-*.dns.866865.xyz CNAME .
 867732738.xyz CNAME .
 *.867732738.xyz CNAME .
 87826100.xyz CNAME .
@@ -37095,8 +37073,6 @@ dns.920313.xyz CNAME .
 *.dns.920313.xyz CNAME .
 959818.xyz CNAME .
 *.959818.xyz CNAME .
-dd.961188.xyz CNAME .
-*.dd.961188.xyz CNAME .
 bella.981377612.xyz CNAME .
 *.bella.981377612.xyz CNAME .
 9827015.xyz CNAME .

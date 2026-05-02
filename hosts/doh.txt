@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 May 2026 16:54 UTC
-# Version: 2026.0501.1654.18
+# Last modified: 02 May 2026 09:42 UTC
+# Version: 2026.0502.0942.17
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3932
+# Number of entries: 3929
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -133,7 +133,6 @@
 0.0.0.0 my.8484848.cn
 0.0.0.0 dns.853852.xyz
 0.0.0.0 dns19.854000.xyz
-0.0.0.0 dns.866865.xyz
 0.0.0.0 tyo.883933770.xyz
 0.0.0.0 dns.886886886.xyz
 0.0.0.0 dns.888654.xyz
@@ -147,7 +146,6 @@
 0.0.0.0 de-passage.9273082020.ru
 0.0.0.0 jp.95576.app
 0.0.0.0 959818.xyz
-0.0.0.0 dd.961188.xyz
 0.0.0.0 bella.981377612.xyz
 0.0.0.0 9827015.xyz
 0.0.0.0 dns.985900.xyz
@@ -2514,7 +2512,6 @@
 0.0.0.0 doh.mmmalia.com
 0.0.0.0 dns.mnet-online.de
 0.0.0.0 dns.mni.li
-0.0.0.0 moamao.shop
 0.0.0.0 dnstls.mobik.com
 0.0.0.0 query.mobyds.com
 0.0.0.0 doh.mochou.site

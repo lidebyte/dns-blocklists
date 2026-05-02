@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777654560 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777714500 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 May 2026 16:56 UTC
-; Version: 2026.0501.1656.27
+; Last modified: 02 May 2026 09:35 UTC
+; Version: 2026.0502.0935.41
 ; Syntax: RPZ
-; Number of entries: 24848
+; Number of entries: 24842
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -12510,6 +12510,8 @@ allwrestling.live CNAME .
 *.allwrestling.live CNAME .
 altadefinizione.live CNAME .
 *.altadefinizione.live CNAME .
+animekizz.live CNAME .
+*.animekizz.live CNAME .
 anytv.live CNAME .
 *.anytv.live CNAME .
 aurorabird6.live CNAME .
@@ -13036,8 +13038,6 @@ streamingcommunityz.mba CNAME .
 *.9276.me CNAME .
 aarsen.me CNAME .
 *.aarsen.me CNAME .
-aliez.me CNAME .
-*.aliez.me CNAME .
 alphaomega.me CNAME .
 *.alphaomega.me CNAME .
 altadefinizione.me CNAME .
@@ -13540,8 +13540,6 @@ torrents-csv.ml CNAME .
 *.torrents-csv.ml CNAME .
 vegamovies.ml CNAME .
 *.vegamovies.ml CNAME .
-4movierulz.mn CNAME .
-*.4movierulz.mn CNAME .
 putlockers.mn CNAME .
 *.putlockers.mn CNAME .
 uwatchfree.mn CNAME .
@@ -20800,8 +20798,6 @@ cb01.solutions CNAME .
 *.cb01.solutions CNAME .
 hdmovie2.solutions CNAME .
 *.hdmovie2.solutions CNAME .
-altadefinizione.soy CNAME .
-*.altadefinizione.soy CNAME .
 eurostreaming.soy CNAME .
 *.eurostreaming.soy CNAME .
 cineblog01.spa CNAME .
@@ -22130,8 +22126,6 @@ tr.abiir.top CNAME .
 *.tr.abiir.top CNAME .
 altadefinizione01.top CNAME .
 *.altadefinizione01.top CNAME .
-altadefinizionegratis.top CNAME .
-*.altadefinizionegratis.top CNAME .
 annas-archive.top CNAME .
 *.annas-archive.top CNAME .
 autoeq.top CNAME .

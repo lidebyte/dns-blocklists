@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 01 May 2026 16:55 UTC
-! Version: 2026.0501.1655.53
+! Last modified: 02 May 2026 07:47 UTC
+! Version: 2026.0502.0747.42
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -354,7 +354,6 @@
 @@||7ny.tv^
 @@||7oi.de^
 @@||7or.net^
-@@||7vd.cn^
 @@||7z.si^
 @@||8.ly^
 @@||8591.tw^
@@ -404,7 +403,6 @@
 @@||a360.co^
 @@||a38.fr^
 @@||a3st.in^
-@@||a4k.co^
 @@||a4r.at^
 @@||a4u.me^
 @@||a8s.app^
@@ -578,7 +576,6 @@
 @@||aighy.com^
 @@||go.aim.edu^
 @@||aim2.cc^
-@@||aimetath.com^
 @@||aimqr.com^
 @@||aintok.com^
 @@||ainurl.pro^
@@ -618,7 +615,6 @@
 @@||akunss.com^
 @@||akunsu.com^
 @@||akunvip.top^
-@@||akunvip.win^
 @@||akunwso.gratis^
 @@||al.st^
 @@||al4.dev^

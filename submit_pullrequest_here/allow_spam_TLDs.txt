@@ -294,6 +294,7 @@ embark.games
 eneba.games
 gxcorner.games
 skystone.games
+file.garden
 cst.gdn
 stad.gent
 discord.gift

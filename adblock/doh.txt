@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 01 May 2026 16:54 UTC
-! Version: 2026.0501.1654.18
+! Last modified: 02 May 2026 09:42 UTC
+! Version: 2026.0502.0942.17
 ! Syntax: AdBlock
-! Number of entries: 3472
+! Number of entries: 3469
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -118,7 +118,6 @@
 ||my.8484848.cn^
 ||dns.853852.xyz^
 ||dns19.854000.xyz^
-||dns.866865.xyz^
 ||tyo.883933770.xyz^
 ||dns.886886886.xyz^
 ||dns.888654.xyz^
@@ -132,7 +131,6 @@
 ||de-passage.9273082020.ru^
 ||jp.95576.app^
 ||959818.xyz^
-||dd.961188.xyz^
 ||bella.981377612.xyz^
 ||9827015.xyz^
 ||dns.985900.xyz^
@@ -2192,7 +2190,6 @@
 ||doh.mmmalia.com^
 ||dns.mnet-online.de^
 ||dns.mni.li^
-||moamao.shop^
 ||dnstls.mobik.com^
 ||query.mobyds.com^
 ||doh.mochou.site^

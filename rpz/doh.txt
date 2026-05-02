@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777654440 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777714920 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 May 2026 16:54 UTC
-; Version: 2026.0501.1654.18
+; Last modified: 02 May 2026 09:42 UTC
+; Version: 2026.0502.0942.17
 ; Syntax: RPZ
-; Number of entries: 6944
+; Number of entries: 6938
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -5997,8 +5997,6 @@ amopython.shop CNAME .
 *.amopython.shop CNAME .
 hfgx.shop CNAME .
 *.hfgx.shop CNAME .
-moamao.shop CNAME .
-*.moamao.shop CNAME .
 dns.olimpya44.shop CNAME .
 *.dns.olimpya44.shop CNAME .
 polisitogel.show CNAME .
@@ -6747,8 +6745,6 @@ dns.853852.xyz CNAME .
 *.dns.853852.xyz CNAME .
 dns19.854000.xyz CNAME .
 *.dns19.854000.xyz CNAME .
-dns.866865.xyz CNAME .
-*.dns.866865.xyz CNAME .
 tyo.883933770.xyz CNAME .
 *.tyo.883933770.xyz CNAME .
 dns.886886886.xyz CNAME .
@@ -6761,8 +6757,6 @@ dns.920313.xyz CNAME .
 *.dns.920313.xyz CNAME .
 959818.xyz CNAME .
 *.959818.xyz CNAME .
-dd.961188.xyz CNAME .
-*.dd.961188.xyz CNAME .
 bella.981377612.xyz CNAME .
 *.bella.981377612.xyz CNAME .
 9827015.xyz CNAME .

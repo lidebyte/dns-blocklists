@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 May 2026 16:55 UTC
-# Version: 2026.0501.1655.53
+# Last modified: 02 May 2026 07:47 UTC
+# Version: 2026.0502.0747.42
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9981
+# Number of entries: 9977
 #
 local=/0.gp/
 local=/00m.in/
@@ -360,7 +360,6 @@ local=/7news.link/
 local=/7ny.tv/
 local=/7oi.de/
 local=/7or.net/
-local=/7vd.cn/
 local=/7z.si/
 local=/8.ly/
 local=/8591.tw/
@@ -411,7 +410,6 @@ local=/a2z.tools/
 local=/a360.co/
 local=/a38.fr/
 local=/a3st.in/
-local=/a4k.co/
 local=/a4r.at/
 local=/a4u.me/
 local=/a8s.app/
@@ -586,7 +584,6 @@ local=/aiecj2.com/
 local=/aighy.com/
 local=/go.aim.edu/
 local=/aim2.cc/
-local=/aimetath.com/
 local=/aimqr.com/
 local=/aintok.com/
 local=/ainurl.pro/
@@ -626,7 +623,6 @@ local=/akunnp.com/
 local=/akunss.com/
 local=/akunsu.com/
 local=/akunvip.top/
-local=/akunvip.win/
 local=/akunwso.gratis/
 local=/al.st/
 local=/al4.dev/

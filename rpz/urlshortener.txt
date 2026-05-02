@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777654500 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777708020 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 May 2026 16:55 UTC
-; Version: 2026.0501.1655.53
+; Last modified: 02 May 2026 07:47 UTC
+; Version: 2026.0502.0747.42
 ; Syntax: RPZ
-; Number of entries: 19962
+; Number of entries: 19954
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2213,8 +2213,6 @@ a.189.cn CNAME .
 *.2i1i.cn CNAME .
 3.cn CNAME .
 *.3.cn CNAME .
-7vd.cn CNAME .
-*.7vd.cn CNAME .
 athm.cn CNAME .
 *.athm.cn CNAME .
 b6e.cn CNAME .
@@ -2319,8 +2317,6 @@ z5h.cn CNAME .
 *.7mbl.co CNAME .
 a360.co CNAME .
 *.a360.co CNAME .
-a4k.co CNAME .
-*.a4k.co CNAME .
 ab.co CNAME .
 *.ab.co CNAME .
 abc13.co CNAME .
@@ -3283,8 +3279,6 @@ aiecj2.com CNAME .
 *.aiecj2.com CNAME .
 aighy.com CNAME .
 *.aighy.com CNAME .
-aimetath.com CNAME .
-*.aimetath.com CNAME .
 aimqr.com CNAME .
 *.aimqr.com CNAME .
 aintok.com CNAME .
@@ -19603,8 +19597,6 @@ w.wiki CNAME .
 *.w.wiki CNAME .
 agmd.win CNAME .
 *.agmd.win CNAME .
-akunvip.win CNAME .
-*.akunvip.win CNAME .
 cashurl.win CNAME .
 *.cashurl.win CNAME .
 dogelexus.win CNAME .

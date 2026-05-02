@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 May 2026 17:15 UTC
-# Version: 2026.0501.1715.39
+# Last modified: 02 May 2026 07:45 UTC
+# Version: 2026.0502.0745.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14479
+# Number of entries: 14474
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -105,7 +105,6 @@ local=/abipartyxxl.de/
 local=/abm-industrie.com/
 local=/abodeare.com/
 local=/abodeena.com/
-local=/abodeene.com/
 local=/aboveinvesting.pro/
 local=/abrahamr.com/
 local=/abrisphere.com/
@@ -254,7 +253,6 @@ local=/aichaintrader.com/
 local=/aichecker.club/
 local=/aicheleholzgmbh.de/
 local=/aidulovesm.click/
-local=/aieurope.fr/
 local=/aifundbtc.com/
 local=/aigleoutletuk.com/
 local=/aik-yr.shop/
@@ -345,16 +343,13 @@ local=/allbirdswien.at/
 local=/allbuysport.com/
 local=/allcart.xyz/
 local=/allclothes.club/
-local=/alldiamondpaintingdeeu.shop/
 local=/alle-hebel.de/
 local=/allefoxmesser.com/
 local=/allegoo.com/
 local=/alles-anhanger.com/
 local=/allesescooter.de/
-local=/allesfurbaby.de/
 local=/allesfurzuhause.de/
 local=/allesheizung.de/
-local=/allesoutdoor.de/
 local=/alleuropills.com/
 local=/allforyourlife.org/
 local=/allgamesinone.com/
@@ -480,7 +475,6 @@ local=/amaznboxde.com/
 local=/amazonboxus.com/
 local=/amazonglobal.live/
 local=/amazongori.com/
-local=/amazonia-investing.com/
 local=/amazonliw.com/
 local=/amazonspallet.com/
 local=/ambestenkleider.com/
@@ -500,7 +494,6 @@ local=/amessa24.de/
 local=/amethysts.de/
 local=/amffrance.com/
 local=/amffrance.org/
-local=/aminatakidseu.shop/
 local=/amira-boutique.de/
 local=/amkleidung.com/
 local=/amodafashion.de/
@@ -6412,6 +6405,7 @@ local=/ihremed.de/
 local=/ihrepotenzmittel.de/
 local=/ihrrasentraktor.com/
 local=/iinfitenily.com/
+local=/ikea-eu.shop/
 local=/ikici.com/
 local=/ikkimelpoppstar.de/
 local=/ikkotrader.com/
@@ -11847,6 +11841,7 @@ local=/softwarebilliger1.de/
 local=/sohoohair.de/
 local=/soideverteilung.com/
 local=/sola-mode.de/
+local=/solagoshop.de/
 local=/solamira.de/
 local=/solancie.com/
 local=/solandis.com/

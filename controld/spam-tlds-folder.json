@@ -631,6 +631,13 @@
       }
     },
     {
+      "PK": "*.fans",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.fashion",
       "action": {
         "do": 0,
@@ -751,6 +758,13 @@
     },
     {
       "PK": "*.games",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.garden",
       "action": {
         "do": 0,
         "status": 1
@@ -1010,6 +1024,13 @@
     },
     {
       "PK": "*.lifestyle",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.living",
       "action": {
         "do": 0,
         "status": 1

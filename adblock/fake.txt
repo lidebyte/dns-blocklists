@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 01 May 2026 17:15 UTC
-! Version: 2026.0501.1715.39
+! Last modified: 02 May 2026 07:45 UTC
+! Version: 2026.0502.0745.41
 ! Syntax: AdBlock
-! Number of entries: 14479
+! Number of entries: 14474
 !
 ||01broker.com^
 ||01crypto.com^
@@ -106,7 +106,6 @@
 ||abm-industrie.com^
 ||abodeare.com^
 ||abodeena.com^
-||abodeene.com^
 ||aboveinvesting.pro^
 ||abrahamr.com^
 ||abrisphere.com^
@@ -255,7 +254,6 @@
 ||aichecker.club^
 ||aicheleholzgmbh.de^
 ||aidulovesm.click^
-||aieurope.fr^
 ||aifundbtc.com^
 ||aigleoutletuk.com^
 ||aik-yr.shop^
@@ -346,16 +344,13 @@
 ||allbuysport.com^
 ||allcart.xyz^
 ||allclothes.club^
-||alldiamondpaintingdeeu.shop^
 ||alle-hebel.de^
 ||allefoxmesser.com^
 ||allegoo.com^
 ||alles-anhanger.com^
 ||allesescooter.de^
-||allesfurbaby.de^
 ||allesfurzuhause.de^
 ||allesheizung.de^
-||allesoutdoor.de^
 ||alleuropills.com^
 ||allforyourlife.org^
 ||allgamesinone.com^
@@ -481,7 +476,6 @@
 ||amazonboxus.com^
 ||amazonglobal.live^
 ||amazongori.com^
-||amazonia-investing.com^
 ||amazonliw.com^
 ||amazonspallet.com^
 ||ambestenkleider.com^
@@ -501,7 +495,6 @@
 ||amethysts.de^
 ||amffrance.com^
 ||amffrance.org^
-||aminatakidseu.shop^
 ||amira-boutique.de^
 ||amkleidung.com^
 ||amodafashion.de^
@@ -6413,6 +6406,7 @@
 ||ihrepotenzmittel.de^
 ||ihrrasentraktor.com^
 ||iinfitenily.com^
+||ikea-eu.shop^
 ||ikici.com^
 ||ikkimelpoppstar.de^
 ||ikkotrader.com^
@@ -11848,6 +11842,7 @@
 ||sohoohair.de^
 ||soideverteilung.com^
 ||sola-mode.de^
+||solagoshop.de^
 ||solamira.de^
 ||solancie.com^
 ||solandis.com^
