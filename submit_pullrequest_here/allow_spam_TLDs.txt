@@ -127,6 +127,7 @@ rutracker.cc
 shottr.cc
 silca.cc
 sneakpeek.cc
+theradio.cc
 toxicland.cc
 ultra.cc
 ultracloud.cc
