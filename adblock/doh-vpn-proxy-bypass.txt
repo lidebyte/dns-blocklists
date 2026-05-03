@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 May 2026 10:14 UTC
-! Version: 2026.0503.1014.03
+! Last modified: 03 May 2026 16:57 UTC
+! Version: 2026.0503.1657.22
 ! Syntax: AdBlock
-! Number of entries: 18997
+! Number of entries: 18977
 !
 ||000000555.xyz^
 ||ss.0001.xyz^
@@ -5491,7 +5491,6 @@
 ||site-3.duckdns.org^
 ||soporte-premium.duckdns.org^
 ||surviil.duckdns.org^
-||testapp-0-1-1.duckdns.org^
 ||thaibksri.duckdns.org^
 ||theadblocksg.duckdns.org^
 ||ts653d.duckdns.org^
@@ -5521,7 +5520,6 @@
 ||dunggtrob.online^
 ||adguard.duongphuckhanh.dev^
 ||dupatruwi22.fun^
-||duqtajc1od3xvawpvysoqq.online^
 ||durev-connect.online^
 ||durev-vpn.com^
 ||durevpn.com^
@@ -5551,12 +5549,10 @@
 ||interstellar-ad.dynipv6.de^
 ||majimekun.dynipv6.de^
 ||rafi.dynns.com^
-||nextgenscholars.dynreisser.ch^
 ||ccadguard.dynu.net^
 ||adguard.ekhozie.dynu.net^
 ||flyloadguard.dynu.net^
 ||quangdo92.dynu.net^
-||saomai.dynu.com^
 ||getjumpscared.dynv6.net^
 ||ineedmymoney.dynv6.net^
 ||treesareplanted.dynv6.net^
@@ -5892,7 +5888,6 @@
 ||easyvalorant.com^
 ||easyveee.com^
 ||easyvpn.com^
-||easyvpn.zone^
 ||easyvypr.com^
 ||easywaiwang.com^
 ||easywancheng.com^
@@ -5996,7 +5991,6 @@
 ||eglobaleducation.com^
 ||egorovna.su^
 ||vpn.egorrko.ru^
-||egymail.ovh^
 ||ehbxkjhy.com^
 ||doh.eieidns.com^
 ||scifi0.eigenlicht.us^
@@ -6096,7 +6090,6 @@
 ||enetssr.com^
 ||clock.engalsaati.com^
 ||moon.engalsaati.com^
-||range.engalsaati.com^
 ||schoology.engalsaati.com^
 ||standard.engalsaati.com^
 ||dns.engineer-lib.ru^
@@ -6156,7 +6149,6 @@
 ||eryno.ru^
 ||es-proxy.com^
 ||how-about-no.esal.cl^
-||closed.escape-one-massage.biz^
 ||dns.esegece.com^
 ||dns-family.esegece.com^
 ||dns.esnube.es^
@@ -6308,7 +6300,6 @@
 ||socchanpxy.f5.si^
 ||f56eb41z.online^
 ||jp1.f7b6h9.tk^
-||f7tfjrsmrvgx4ts1.online^
 ||dns.f97.xyz^
 ||dns.fabidouille.com^
 ||fernn.fabricecosta.com^
@@ -6353,8 +6344,6 @@
 ||falemonqf.com^
 ||falemonrl.com^
 ||falemonrq.com^
-||falemons.org^
-||falemons.xyz^
 ||falemonsh.com^
 ||falemonsr.com^
 ||falemonvj.com^
@@ -6975,14 +6964,6 @@
 ||fotiaoqiang.vip^
 ||fotiaoqiang.xyz^
 ||fouwer.ru^
-||disturbing-the-peace.foxgateway.com^
-||get-out-of-my-head-get-out-of-my-head.foxgateway.com^
-||i-understand-it-now.foxgateway.com^
-||jacob-is-too-tiny.foxgateway.com^
-||sena-and-jacob-yap-too-much.foxgateway.com^
-||small-kids.foxgateway.com^
-||stop-it-now-stop-it-now.foxgateway.com^
-||we-need-more.foxgateway.com^
 ||dns.foximao.cn^
 ||de-f1.foxyfy.net^
 ||dns.foxyfy.net^
@@ -7204,7 +7185,6 @@
 ||live.fumcennis.org^
 ||fun4school.store^
 ||doh.funil.de^
-||funknetwork.com^
 ||funnyaisite.org^
 ||funti.cc^
 ||funtikspb.ru^

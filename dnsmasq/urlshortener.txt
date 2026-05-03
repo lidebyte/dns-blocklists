@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 May 2026 08:23 UTC
-# Version: 2026.0503.0823.47
+# Last modified: 03 May 2026 16:58 UTC
+# Version: 2026.0503.1658.13
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9965
+# Number of entries: 9962
 #
 local=/0.gp/
 local=/00m.in/
@@ -2655,7 +2655,6 @@ local=/ezstat.ru/
 local=/ezurl.cc/
 local=/ezurl.co/
 local=/ezwashing.com/
-local=/ezylnk.com/
 local=/ezymanage.net/
 local=/ezyurl.co/
 local=/ezyurl.net/
@@ -2802,7 +2801,6 @@ local=/flowcaster.link/
 local=/flowcode.com/
 local=/flowhits.com/
 local=/flp.ai/
-local=/flpl.us/
 local=/flq.us/
 local=/flrt.me/
 local=/fltr.ai/
@@ -2893,7 +2891,6 @@ local=/fumacrom.com/
 local=/go-admin.functorz.com/
 local=/fund.school/
 local=/fundgop.co/
-local=/funnel2income.shop/
 local=/funurl.com/
 local=/fur.ly/
 local=/furl.in/

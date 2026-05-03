@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 May 2026 08:17 UTC
-! Version: 2026.0503.0817.53
+! Last modified: 03 May 2026 16:49 UTC
+! Version: 2026.0503.1649.53
 ! Syntax: AdBlock
-! Number of entries: 51797
+! Number of entries: 51770
 !
 ||0.beer^
 ||0.club^
@@ -7599,6 +7599,7 @@
 ||ambientplatform.vn^
 ||ambiguityornamenttell.com^
 ||ambiguousafternoon.com^
+||ambiguousinternational.com^
 ||ambiliarcarwin.com^
 ||ambitious-cook.com^
 ||ambitious-quote.com^
@@ -9594,7 +9595,9 @@
 ||barxpf.icu^
 ||barytemarkup.com^
 ||barytethynnid.com^
-||base.shop^
+||chiyouranai.base.shop^
+||tokujiro.base.shop^
+||uranai1111.base.shop^
 ||baseballletters.com^
 ||basejudgementquizmaster.com^
 ||basementunfamiliar.com^
@@ -13629,7 +13632,6 @@
 ||cmzdm.com^
 ||dynamic.163data.com.cn.tv^
 ||everpharmanet.cn.tv^
-||tudthrone.cn.com^
 ||cn-idm.com^
 ||cn2f.cn^
 ||cn846.com^
@@ -16007,7 +16009,6 @@
 ||laude.daudingnahua.world^
 ||daughterinlawnineteenpie.com^
 ||daughterkiller.com^
-||daugrugli.net^
 ||dauntonedder.com^
 ||dauntroof.com^
 ||dauvoowhou.net^
@@ -17834,7 +17835,6 @@
 ||dualstiff.com^
 ||duamilsyr.com^
 ||df.duanelayers.com^
-||dubai-signage.net^
 ||dubiobesoot.com^
 ||dubiousgrudge.com^
 ||dubiouspenthousedollar.com^
@@ -17915,7 +17915,6 @@
 ||rf.dushbarba.com^
 ||dusioknopper.com^
 ||duskedaruac.com^
-||dustarmature.com^
 ||dustersaying.com^
 ||dustexhibition.com^
 ||dustinga.com^
@@ -17928,7 +17927,6 @@
 ||dutalonflameer.com^
 ||dutchmadameraised.com^
 ||dutftuaz.icu^
-||dutiesvijay.shop^
 ||dutifuldatabase.com^
 ||dutorterraom.com^
 ||dutyfalteroats.com^
@@ -17978,7 +17976,6 @@
 ||dwvdofpcelstt.site^
 ||dwyofqsfugu.com^
 ||dwztkzptvisct.site^
-||dx-44717-tr.xyz^
 ||dx-fu.com^
 ||dx5722.com^
 ||dx828.com^
@@ -18015,7 +18012,6 @@
 ||dyiket.com^
 ||dyingforecast.com^
 ||dyjupoci.pro^
-||ro.dykagegemini.shop^
 ||dykcrgourwilq.space^
 ||dyl88m88.com^
 ||dylop.xyz^
@@ -18335,7 +18331,6 @@
 ||eduseio.com^
 ||edutechlearners.com^
 ||edvfwlacluo.com^
-||edvipubjekzec.xyz^
 ||edwmpt.com^
 ||edxilaprgjxqt.site^
 ||3082420b7f.eeb201e6da.com^
@@ -18465,7 +18460,6 @@
 ||ehlfnpduxldcy.online^
 ||ehlrxixabvzbo.tech^
 ||ehmnmovcnwkyb.website^
-||ehrydnmdoe.com^
 ||ehtkfjhrozkeu.website^
 ||app.ehuaya.net^
 ||ehungroundt.org^
@@ -18539,7 +18533,6 @@
 ||eldestceramiccash.com^
 ||eldestcontribution.com^
 ||eldredbeveto.top^
-||tj.eldresspaine.top^
 ||eleavers.com^
 ||electconvertcompanion.com^
 ||electdiscipline.com^
@@ -18611,14 +18604,11 @@
 ||ellipticalofficial.com^
 ||ellipticaltrack.com^
 ||wb.ellsconuses.com^
-||elmassar-ar.com^
 ||elmnassa.com^
-||elninodigital.store^
 ||elogiado.info^
 ||elonreptiloid.com^
 ||eloquentrealestate.com^
 ||eloypatrick.pro^
-||elpex.site^
 ||elsaidthecharit.com^
 ||an.elsapreplot.com^
 ||elsematesneaking.com^
@@ -18666,7 +18656,6 @@
 ||ru.embraceungripe.click^
 ||embroiderynaturalistsfighter.com^
 ||embtrk.com^
-||embusyjurata.help^
 ||embwmpt.com^
 ||emediate.dk^
 ||ementrandings.org^
@@ -18839,7 +18828,6 @@
 ||engbjwqvwznxg.website^
 ||enginecorruptiontrice.com^
 ||enginedriverlatter.com^
-||engineeringultra.com^
 ||engineersbyzipcode.com^
 ||engineexplicitfootrest.com^
 ||englandconfident.com^
@@ -18921,7 +18909,6 @@
 ||entertainrankreprimand.com^
 ||enthaitingshospic.org^
 ||enthronediscovering.com^
-||enthroneunborn.com^
 ||enthusiasticfibreassembly.com^
 ||enthusiasticground.com^
 ||enthusiasticraspberrydecoy.com^
@@ -19136,7 +19123,6 @@
 ||escribedas.com^
 ||escy55gxubl6.com^
 ||esegaybine.shop^
-||esemnjeptffjb.xyz^
 ||esemrvueskrke.site^
 ||esesmyinteukre.org^
 ||esfljmhdtpdvj.xyz^
@@ -19167,7 +19153,6 @@
 ||essaytheshark.com^
 ||essbld.com^
 ||essence-one.net^
-||essencesnore.com^
 ||essencewidow.com^
 ||essential-trash.com^
 ||essentialmost.com^
@@ -19247,6 +19232,7 @@
 ||etxyhcxycpbql.space^
 ||etyerecentlyhav.org^
 ||etymonsibycter.com^
+||geniusclip.eu.com^
 ||hmdv2.gogomailbali.eu.org^
 ||new-rutor.eu.org^
 ||rutor.eu.org^
@@ -19312,7 +19298,6 @@
 ||everhiking.com^
 ||everinform.com^
 ||everlasting-instance.pro^
-||everlastinghighlight.com^
 ||everlastingrisk.pro^
 ||evernorthrentals.com^
 ||fb.evertsmiggles.com^
@@ -19448,7 +19433,6 @@
 ||exebasusion.org^
 ||executeknowledge.com^
 ||executivehadregent.com^
-||exejfbqkavbst.rocks^
 ||exemplarymouse.com^
 ||exemplarymuscle.com^
 ||exemptmet.com^
@@ -19507,7 +19491,6 @@
 ||expendtheatres.com^
 ||expensesillinessreversion.com^
 ||expensesmentor.xyz^
-||expensiveadoptionevent.com^
 ||expensivediscipline.pro^
 ||expensiveinspection.com^
 ||expensivelikeness.com^
@@ -19529,8 +19512,6 @@
 ||explodeddeitycomparatively.com^
 ||explorads.com^
 ||explore-site.com^
-||explorerapiecebachelor.com^
-||explorerippledisperse.com^
 ||explorerpurity.com^
 ||explorersloft.ca^
 ||explorewanderer.com^
@@ -19847,7 +19828,6 @@
 ||familywinemerchants.com^
 ||cdn.famitaa.com^
 ||famousassistant.pro^
-||famtoaphoobo.com^
 ||fanatics.bet^
 ||fancifuidates.net^
 ||fancifuldates.net^
@@ -19990,7 +19970,6 @@
 ||fatkh.com^
 ||fatlikeaiwain.com^
 ||lt.fatsoesbecry.com^
-||fd.fattensnines.shop^
 ||fattingnines.com^
 ||fattishmanna.shop^
 ||fatzuclmihih.com^
@@ -20008,7 +19987,6 @@
 ||faverogroup.com^
 ||ep.favismnilgau.com^
 ||favoritedawn.com^
-||favorkiss.net^
 ||favorsbch.com^
 ||favorscenes.com^
 ||favoshepe.com^
@@ -20072,7 +20050,6 @@
 ||fcseed.com^
 ||fcswogrcyplcs.space^
 ||fcvxmhtpvpuld.space^
-||fcw724.xyz^
 ||fcwdsidinixoz.website^
 ||fcwenming.cn^
 ||fcxbs.com^
@@ -20126,7 +20103,6 @@
 ||yo.feddanseldom.com^
 ||fedease.com^
 ||federationconservativewomen.org^
-||fedim.site^
 ||fedirresponsibilityface.com^
 ||fedlee.com^
 ||fedra.info^
@@ -20273,7 +20249,6 @@
 ||ffhash.com^
 ||ffjrpdfduteic.website^
 ||ffkan.com^
-||fflbpi.top^
 ||ffpmlheychmat.store^
 ||ffpwnd.icu^
 ||ffqumyjlunpga.online^
@@ -20289,7 +20264,6 @@
 ||fgmxaceav.xyz^
 ||fgnuvjwe.icu^
 ||fgqyxgbqfxyot.website^
-||fgtsrewz.icu^
 ||fgzjcspcnzrhf.store^
 ||fh-dxy.com^
 ||fh-wgt.com^
@@ -20379,7 +20353,6 @@
 ||filetarget.net^
 ||filetool.cn^
 ||filetrac.io^
-||filewings.cloud^
 ||filexstorage.site^
 ||filezilla.es^
 ||filezilla.fr^
@@ -20484,7 +20457,6 @@
 ||finestmortifyfertility.com^
 ||finetrack.ru^
 ||fingerboarding.com^
-||fingercough.xyz^
 ||fingerlastingadmissible.com^
 ||fingerrealistic.com^
 ||fingertipsquintinclusion.com^
@@ -20561,7 +20533,6 @@
 ||fistevasionjoint.com^
 ||fistulywi.pro^
 ||fistwaygrub.com^
-||fitformfusion.com^
 ||fitforpurposetreatment.org^
 ||fitheaters.com^
 ||fitnesspools.com^
@@ -20609,7 +20580,6 @@
 ||fjwdlijdyntkc.store^
 ||fjwhpouzlllfh.space^
 ||fjxiqjmutcgqo.store^
-||fjzht.com^
 ||fkadisxwaacs.com^
 ||fkbwtoopwg.com^
 ||fkczwsqlpdokj.online^
@@ -20951,7 +20921,6 @@
 ||foldedaddress.com^
 ||foldinsinuate.com^
 ||foldyahoolestorderly.com^
-||foliaryshaping.shop^
 ||tb.folioleformism.com^
 ||foliosenumbing.com^
 ||folkgrid.com^
@@ -20978,7 +20947,6 @@
 ||fondlevolleyballdata.com^
 ||fondonberake.com^
 ||fondstudy.com^
-||fonduesrhythms.cfd^
 ||fongumporg.net^
 ||foniuhuuwwnhm.tech^
 ||tracking.foodblog.it^
@@ -20996,7 +20964,6 @@
 ||foomaque.net^
 ||fooptoat.com^
 ||foot.wiki^
-||footageostentatious.com^
 ||footballdismantleidle.com^
 ||footbathmockerpurse.com^
 ||footerfont.com^
@@ -21318,7 +21285,6 @@
 ||freegamefinder.com^
 ||freegamezone.net^
 ||freehookupaffair.com^
-||freelocalwebcamchat.com^
 ||freelovehere.com^
 ||dvkog.freeluckytiming.com^
 ||xlvkl.freeluckytiming.com^
@@ -21425,7 +21391,6 @@
 ||frjrwixwogqjt.site^
 ||frmmqfwviupoa.today^
 ||froaqldtuqssk.website^
-||frockherbal.com^
 ||frocogue.store^
 ||frocompactcountless.com^
 ||frodo.space^
@@ -21486,14 +21451,12 @@
 ||oz.fruzhipe.com^
 ||frwgxofndcasv.site^
 ||fryboldlymalice.com^
-||frycornwhole.com^
 ||frydtyhhya.com^
 ||fs-loader.com^
 ||fsalfrwdr.com^
 ||fsdfvnmf.icu^
 ||fsdzafmzbdyan.store^
 ||fsfibjccvgkki.site^
-||fsghdhdwww.click^
 ||fsgkzonhuoafn.store^
 ||fsgpxvemqbven.store^
 ||fsled.com^
@@ -21666,7 +21629,6 @@
 ||futcceabr.com^
 ||futebolmania.net^
 ||futilereposerefreshments.com^
-||future-future55.com^
 ||future-marvellous.com^
 ||futureads.io^
 ||futurecoders.com^
@@ -21689,7 +21651,6 @@
 ||fvziwdycvudxd.tech^
 ||fwbntw.com^
 ||fwcavwstvmekw.online^
-||fwciiqsskqyih.site^
 ||fwefafajrjaz.com^
 ||fwledzup.icu^
 ||fwode.com^
@@ -22198,6 +22159,7 @@
 ||getdstudio.app^
 ||getdstudio.com^
 ||getdstudio.dev^
+||getfinefile.com^
 ||getflowads.net^
 ||getfresh298.com^
 ||getgx.net^
@@ -24602,7 +24564,18 @@
 ||hkwrwuqlcpelq.site^
 ||hkygalzumaqv.com^
 ||hkzhongzhuangzhan.cc^
-||hl.cn^
+||app-google-zh.hl.cn^
+||apps-chrome-zh.hl.cn^
+||chrome-gooogle-zh.hl.cn^
+||chrome-hl.hl.cn^
+||cnzh-google-apps.hl.cn^
+||go-todesk.hl.cn^
+||googgle-chrrome.hl.cn^
+||google-chrrome-zh.hl.cn^
+||office-wps-hl.hl.cn^
+||todesk-zh.hl.cn^
+||zh-googlle-chrome.hl.cn^
+||zhcn-googele.hl.cn^
 ||hl2u.com^
 ||hlbmaat.com^
 ||hldijphcjszui.store^

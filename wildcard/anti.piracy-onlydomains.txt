@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 May 2026 10:06 UTC
-# Version: 2026.0503.1006.23
+# Last modified: 03 May 2026 16:58 UTC
+# Version: 2026.0503.1658.47
 # Syntax: Domains (without subdomains)
-# Number of entries: 12428
+# Number of entries: 12415
 #
 003396815.xyz
 004430.xyz
@@ -3137,7 +3137,6 @@ ds-reloaded.com
 ds2play.com
 open.dstud.io
 dsvplay.com
-dtbook.shop
 dtvd.net
 dubbedanime.net
 dubbedanime.vip
@@ -3339,7 +3338,6 @@ eonmovies.fit
 eonmovies.fun
 eonmovies.live
 epforums.org
-epicplayplay.cfd
 epider.me
 episodes-tv.com
 rocketnet.epizy.com
@@ -3360,7 +3358,6 @@ retracker.perm.ertelecom.ru
 elmellowebmaster.es.tl
 kinox.escapethefog.com
 eshiel.com
-espnv2.online
 estrenoslatinos.com
 esubmovie.net
 liber3.eth.limo
@@ -3430,7 +3427,6 @@ eurostreaming.fm
 eurostreaming.fun
 eurostreaming.games
 eurostreaming.giving
-eurostreaming.haus
 eurostreaming.homes
 eurostreaming.info
 eurostreaming.ink
@@ -3451,9 +3447,7 @@ eurostreaming.quest
 eurostreaming.repair
 eurostreaming.sbs
 eurostreaming.skin
-eurostreaming.soy
 eurostreaming.store
-eurostreaming.tattoo
 eurostreaming.taxi
 eurostreaming.tel
 eurostreaming.today
@@ -3518,7 +3512,6 @@ evillagectg.com
 evillinks.de
 evolution-network.ws
 evonetbd.com
-evopt.org
 eweka.nl
 ex-torrenty.org
 piranha.excom.us
@@ -3822,7 +3815,6 @@ filmoflix.vc
 filmon.tv
 filmoteka.cc
 filmoviez.com
-filmowo.club
 filmpalast.one
 filmpalast.to
 filmpertutti.be
@@ -4001,7 +3993,6 @@ fitgirlrepacks.co
 fitgirlrepacks.in
 fitgirlrepacks.org
 fitgirlrepacks.pro
-fitgirlrepacksite.com
 fitgirltorrent.com
 tracker.fixr.pro
 fl1x.com
@@ -4098,7 +4089,6 @@ fmovies.fo
 fmovies.gd
 fmovies.hn
 fmovies.llc
-fmovies.one
 fmovies.org
 fmovies.rs
 fmovies.sc
@@ -4295,7 +4285,6 @@ frmovies.live
 fromhot.com
 fromhot.to
 fromhots.com
-rutorrent.frontline-mod.com
 frostcomet5.pro
 frostglimmer59.xyz
 frostshine12.wiki
@@ -4335,9 +4324,7 @@ full4movies.help
 fullcrackserial.net
 fulldls.com
 fulldownloads.com
-fullfilmstream.co
 fullfilmstream.net
-fullhdfilm.cx
 fullhdfilmizlesene.pw
 fullhdizle.one
 fulllengthaudiobooks.net

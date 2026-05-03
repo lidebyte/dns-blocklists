@@ -10,8 +10,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 May 2026 12:44 UTC
-# Version: 2026.0503.1244.16
+# Last modified: 03 May 2026 16:38 UTC
+# Version: 2026.0503.1638.49
 # Syntax: Domains (without subdomains)
 # Number of latin TLDs: 290 - punycode TLDs: 151
 #

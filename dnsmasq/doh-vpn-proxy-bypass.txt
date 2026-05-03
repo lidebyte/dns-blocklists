@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 May 2026 10:14 UTC
-# Version: 2026.0503.1014.03
+# Last modified: 03 May 2026 16:57 UTC
+# Version: 2026.0503.1657.22
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 18997
+# Number of entries: 18977
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -5490,7 +5490,6 @@ local=/site-2.duckdns.org/
 local=/site-3.duckdns.org/
 local=/soporte-premium.duckdns.org/
 local=/surviil.duckdns.org/
-local=/testapp-0-1-1.duckdns.org/
 local=/thaibksri.duckdns.org/
 local=/theadblocksg.duckdns.org/
 local=/ts653d.duckdns.org/
@@ -5520,7 +5519,6 @@ local=/dummygummy.xyz/
 local=/dunggtrob.online/
 local=/adguard.duongphuckhanh.dev/
 local=/dupatruwi22.fun/
-local=/duqtajc1od3xvawpvysoqq.online/
 local=/durev-connect.online/
 local=/durev-vpn.com/
 local=/durevpn.com/
@@ -5550,12 +5548,10 @@ local=/interstaller-ae.dynipv6.de/
 local=/interstellar-ad.dynipv6.de/
 local=/majimekun.dynipv6.de/
 local=/rafi.dynns.com/
-local=/nextgenscholars.dynreisser.ch/
 local=/ccadguard.dynu.net/
 local=/adguard.ekhozie.dynu.net/
 local=/flyloadguard.dynu.net/
 local=/quangdo92.dynu.net/
-local=/saomai.dynu.com/
 local=/getjumpscared.dynv6.net/
 local=/ineedmymoney.dynv6.net/
 local=/treesareplanted.dynv6.net/
@@ -5891,7 +5887,6 @@ local=/easyusgame.com/
 local=/easyvalorant.com/
 local=/easyveee.com/
 local=/easyvpn.com/
-local=/easyvpn.zone/
 local=/easyvypr.com/
 local=/easywaiwang.com/
 local=/easywancheng.com/
@@ -5995,7 +5990,6 @@ local=/efxyyjlf.cc/
 local=/eglobaleducation.com/
 local=/egorovna.su/
 local=/vpn.egorrko.ru/
-local=/egymail.ovh/
 local=/ehbxkjhy.com/
 local=/doh.eieidns.com/
 local=/scifi0.eigenlicht.us/
@@ -6095,7 +6089,6 @@ local=/enetjc.com/
 local=/enetssr.com/
 local=/clock.engalsaati.com/
 local=/moon.engalsaati.com/
-local=/range.engalsaati.com/
 local=/schoology.engalsaati.com/
 local=/standard.engalsaati.com/
 local=/dns.engineer-lib.ru/
@@ -6155,7 +6148,6 @@ local=/erymax.ru/
 local=/eryno.ru/
 local=/es-proxy.com/
 local=/how-about-no.esal.cl/
-local=/closed.escape-one-massage.biz/
 local=/dns.esegece.com/
 local=/dns-family.esegece.com/
 local=/dns.esnube.es/
@@ -6307,7 +6299,6 @@ local=/skrt.f5.si/
 local=/socchanpxy.f5.si/
 local=/f56eb41z.online/
 local=/jp1.f7b6h9.tk/
-local=/f7tfjrsmrvgx4ts1.online/
 local=/dns.f97.xyz/
 local=/dns.fabidouille.com/
 local=/fernn.fabricecosta.com/
@@ -6352,8 +6343,6 @@ local=/falemonpw.com/
 local=/falemonqf.com/
 local=/falemonrl.com/
 local=/falemonrq.com/
-local=/falemons.org/
-local=/falemons.xyz/
 local=/falemonsh.com/
 local=/falemonsr.com/
 local=/falemonvj.com/
@@ -6974,14 +6963,6 @@ local=/schoolmath.foryourviewingpleasure.com/
 local=/fotiaoqiang.vip/
 local=/fotiaoqiang.xyz/
 local=/fouwer.ru/
-local=/disturbing-the-peace.foxgateway.com/
-local=/get-out-of-my-head-get-out-of-my-head.foxgateway.com/
-local=/i-understand-it-now.foxgateway.com/
-local=/jacob-is-too-tiny.foxgateway.com/
-local=/sena-and-jacob-yap-too-much.foxgateway.com/
-local=/small-kids.foxgateway.com/
-local=/stop-it-now-stop-it-now.foxgateway.com/
-local=/we-need-more.foxgateway.com/
 local=/dns.foximao.cn/
 local=/de-f1.foxyfy.net/
 local=/dns.foxyfy.net/
@@ -7203,7 +7184,6 @@ local=/fumatek.baby/
 local=/live.fumcennis.org/
 local=/fun4school.store/
 local=/doh.funil.de/
-local=/funknetwork.com/
 local=/funnyaisite.org/
 local=/funti.cc/
 local=/funtikspb.ru/

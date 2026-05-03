@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777802760 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777827480 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 May 2026 10:06 UTC
-; Version: 2026.0503.1006.23
+; Last modified: 03 May 2026 16:58 UTC
+; Version: 2026.0503.1658.47
 ; Syntax: RPZ
-; Number of entries: 24856
+; Number of entries: 24830
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -1962,8 +1962,6 @@ dood.cfd CNAME .
 *.dood.cfd CNAME .
 doodstream.cfd CNAME .
 *.doodstream.cfd CNAME .
-epicplayplay.cfd CNAME .
-*.epicplayplay.cfd CNAME .
 eurostreamings.cfd CNAME .
 *.eurostreamings.cfd CNAME .
 extraflix.cfd CNAME .
@@ -2366,8 +2364,6 @@ ffilms.club CNAME .
 *.ffilms.club CNAME .
 filmoflix.club CNAME .
 *.filmoflix.club CNAME .
-filmowo.club CNAME .
-*.filmowo.club CNAME .
 filmstreaming.club CNAME .
 *.filmstreaming.club CNAME .
 filmstreamingita.club CNAME .
@@ -2602,8 +2598,6 @@ french-stream.co CNAME .
 *.french-stream.co CNAME .
 fsharetv.co CNAME .
 *.fsharetv.co CNAME .
-fullfilmstream.co CNAME .
-*.fullfilmstream.co CNAME .
 g2a.co CNAME .
 *.g2a.co CNAME .
 gamestorrent.co CNAME .
@@ -4884,8 +4878,6 @@ firesticktricks.com CNAME .
 *.firesticktricks.com CNAME .
 fitgirl-repack.com CNAME .
 *.fitgirl-repack.com CNAME .
-fitgirlrepacksite.com CNAME .
-*.fitgirlrepacksite.com CNAME .
 fitgirltorrent.com CNAME .
 *.fitgirltorrent.com CNAME .
 fl1x.com CNAME .
@@ -5042,8 +5034,6 @@ fromhot.com CNAME .
 *.fromhot.com CNAME .
 fromhots.com CNAME .
 *.fromhots.com CNAME .
-rutorrent.frontline-mod.com CNAME .
-*.rutorrent.frontline-mod.com CNAME .
 frostwire.com CNAME .
 *.frostwire.com CNAME .
 frozen-layer.com CNAME .
@@ -9060,8 +9050,6 @@ cineblog01.cx CNAME .
 *.cineblog01.cx CNAME .
 fmovies2.cx CNAME .
 *.fmovies2.cx CNAME .
-fullhdfilm.cx CNAME .
-*.fullhdfilm.cx CNAME .
 gidonline.cx CNAME .
 *.gidonline.cx CNAME .
 hdfilme.cx CNAME .
@@ -10680,8 +10668,6 @@ streamingcommunityz.hair CNAME .
 *.123movies.haus CNAME .
 altadefinizione.haus CNAME .
 *.altadefinizione.haus CNAME .
-eurostreaming.haus CNAME .
-*.eurostreaming.haus CNAME .
 kinox.haus CNAME .
 *.kinox.haus CNAME .
 mkvcinemas.haus CNAME .
@@ -16098,8 +16084,6 @@ filmywap.one CNAME .
 *.filmywap.one CNAME .
 flemmix.one CNAME .
 *.flemmix.one CNAME .
-fmovies.one CNAME .
-*.fmovies.one CNAME .
 footybite.one CNAME .
 *.footybite.one CNAME .
 french-stream.one CNAME .
@@ -16274,8 +16258,6 @@ dldokan.online CNAME .
 *.dldokan.online CNAME .
 doceru.online CNAME .
 *.doceru.online CNAME .
-espnv2.online CNAME .
-*.espnv2.online CNAME .
 ettv.online CNAME .
 *.ettv.online CNAME .
 eurostreaming.online CNAME .
@@ -16994,8 +16976,6 @@ eurostreamings.org CNAME .
 *.eurostreamings.org CNAME .
 everythingmoe.org CNAME .
 *.everythingmoe.org CNAME .
-evopt.org CNAME .
-*.evopt.org CNAME .
 ex-torrenty.org CNAME .
 *.ex-torrenty.org CNAME .
 exitorrent.org CNAME .
@@ -20362,8 +20342,6 @@ cineby.shop CNAME .
 *.cineby.shop CNAME .
 crichd.shop CNAME .
 *.crichd.shop CNAME .
-dtbook.shop CNAME .
-*.dtbook.shop CNAME .
 eurostreamings.shop CNAME .
 *.eurostreamings.shop CNAME .
 filmpertutti.shop CNAME .
@@ -20812,8 +20790,6 @@ cb01.solutions CNAME .
 *.cb01.solutions CNAME .
 hdmovie2.solutions CNAME .
 *.hdmovie2.solutions CNAME .
-eurostreaming.soy CNAME .
-*.eurostreaming.soy CNAME .
 cineblog01.spa CNAME .
 *.cineblog01.spa CNAME .
 streamingcommunity.spa CNAME .
@@ -21282,8 +21258,6 @@ hdmovie2.taipei CNAME .
 *.9kmovies.tattoo CNAME .
 eurekaddl.tattoo CNAME .
 *.eurekaddl.tattoo CNAME .
-eurostreaming.tattoo CNAME .
-*.eurostreaming.tattoo CNAME .
 filmpertutti.tattoo CNAME .
 *.filmpertutti.tattoo CNAME .
 kinox.tattoo CNAME .

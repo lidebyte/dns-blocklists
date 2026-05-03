@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 May 2026 10:06 UTC
-# Version: 2026.0503.1006.23
+# Last modified: 03 May 2026 16:58 UTC
+# Version: 2026.0503.1658.47
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12428
+# Number of entries: 12415
 #
 local=/003396815.xyz/
 local=/004430.xyz/
@@ -3137,7 +3137,6 @@ local=/ds-reloaded.com/
 local=/ds2play.com/
 local=/open.dstud.io/
 local=/dsvplay.com/
-local=/dtbook.shop/
 local=/dtvd.net/
 local=/dubbedanime.net/
 local=/dubbedanime.vip/
@@ -3339,7 +3338,6 @@ local=/eonmovies.fit/
 local=/eonmovies.fun/
 local=/eonmovies.live/
 local=/epforums.org/
-local=/epicplayplay.cfd/
 local=/epider.me/
 local=/episodes-tv.com/
 local=/rocketnet.epizy.com/
@@ -3360,7 +3358,6 @@ local=/retracker.perm.ertelecom.ru/
 local=/elmellowebmaster.es.tl/
 local=/kinox.escapethefog.com/
 local=/eshiel.com/
-local=/espnv2.online/
 local=/estrenoslatinos.com/
 local=/esubmovie.net/
 local=/liber3.eth.limo/
@@ -3430,7 +3427,6 @@ local=/eurostreaming.fm/
 local=/eurostreaming.fun/
 local=/eurostreaming.games/
 local=/eurostreaming.giving/
-local=/eurostreaming.haus/
 local=/eurostreaming.homes/
 local=/eurostreaming.info/
 local=/eurostreaming.ink/
@@ -3451,9 +3447,7 @@ local=/eurostreaming.quest/
 local=/eurostreaming.repair/
 local=/eurostreaming.sbs/
 local=/eurostreaming.skin/
-local=/eurostreaming.soy/
 local=/eurostreaming.store/
-local=/eurostreaming.tattoo/
 local=/eurostreaming.taxi/
 local=/eurostreaming.tel/
 local=/eurostreaming.today/
@@ -3518,7 +3512,6 @@ local=/evillagectg.com/
 local=/evillinks.de/
 local=/evolution-network.ws/
 local=/evonetbd.com/
-local=/evopt.org/
 local=/eweka.nl/
 local=/ex-torrenty.org/
 local=/piranha.excom.us/
@@ -3822,7 +3815,6 @@ local=/filmoflix.vc/
 local=/filmon.tv/
 local=/filmoteka.cc/
 local=/filmoviez.com/
-local=/filmowo.club/
 local=/filmpalast.one/
 local=/filmpalast.to/
 local=/filmpertutti.be/
@@ -4001,7 +3993,6 @@ local=/fitgirlrepacks.co/
 local=/fitgirlrepacks.in/
 local=/fitgirlrepacks.org/
 local=/fitgirlrepacks.pro/
-local=/fitgirlrepacksite.com/
 local=/fitgirltorrent.com/
 local=/tracker.fixr.pro/
 local=/fl1x.com/
@@ -4098,7 +4089,6 @@ local=/fmovies.fo/
 local=/fmovies.gd/
 local=/fmovies.hn/
 local=/fmovies.llc/
-local=/fmovies.one/
 local=/fmovies.org/
 local=/fmovies.rs/
 local=/fmovies.sc/
@@ -4295,7 +4285,6 @@ local=/frmovies.live/
 local=/fromhot.com/
 local=/fromhot.to/
 local=/fromhots.com/
-local=/rutorrent.frontline-mod.com/
 local=/frostcomet5.pro/
 local=/frostglimmer59.xyz/
 local=/frostshine12.wiki/
@@ -4335,9 +4324,7 @@ local=/full4movies.help/
 local=/fullcrackserial.net/
 local=/fulldls.com/
 local=/fulldownloads.com/
-local=/fullfilmstream.co/
 local=/fullfilmstream.net/
-local=/fullhdfilm.cx/
 local=/fullhdfilmizlesene.pw/
 local=/fullhdizle.one/
 local=/fulllengthaudiobooks.net/

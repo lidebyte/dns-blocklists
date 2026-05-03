@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 May 2026 10:13 UTC
-# Version: 2026.0503.1013.17
+# Last modified: 03 May 2026 16:56 UTC
+# Version: 2026.0503.1656.31
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3926
+# Number of entries: 3924
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -1432,7 +1432,6 @@
 0.0.0.0 site-3.duckdns.org
 0.0.0.0 soporte-premium.duckdns.org
 0.0.0.0 surviil.duckdns.org
-0.0.0.0 testapp-0-1-1.duckdns.org
 0.0.0.0 thaibksri.duckdns.org
 0.0.0.0 theadblocksg.duckdns.org
 0.0.0.0 ts653d.duckdns.org
@@ -1461,7 +1460,6 @@
 0.0.0.0 adguard.ekhozie.dynu.net
 0.0.0.0 flyloadguard.dynu.net
 0.0.0.0 quangdo92.dynu.net
-0.0.0.0 saomai.dynu.com
 0.0.0.0 dns.dynx.pro
 0.0.0.0 adg.dz.ax
 0.0.0.0 az.dz4fun.top

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777803240 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777827420 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 May 2026 10:14 UTC
-; Version: 2026.0503.1014.03
+; Last modified: 03 May 2026 16:57 UTC
+; Version: 2026.0503.1657.22
 ; Syntax: RPZ
-; Number of entries: 37994
+; Number of entries: 37954
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -1049,8 +1049,6 @@ dedvpn.biz CNAME .
 *.dedvpn.biz CNAME .
 errwan65878.biz CNAME .
 *.errwan65878.biz CNAME .
-closed.escape-one-massage.biz CNAME .
-*.closed.escape-one-massage.biz CNAME .
 evavpn.biz CNAME .
 *.evavpn.biz CNAME .
 ewon.biz CNAME .
@@ -2435,8 +2433,6 @@ bt.demoteam.ch CNAME .
 *.bt.demoteam.ch CNAME .
 digitale-gesellschaft.ch CNAME .
 *.digitale-gesellschaft.ch CNAME .
-nextgenscholars.dynreisser.ch CNAME .
-*.nextgenscholars.dynreisser.ch CNAME .
 mortar.e-cloud.ch CNAME .
 *.mortar.e-cloud.ch CNAME .
 atom.area.freemath.ch CNAME .
@@ -7587,8 +7583,6 @@ roucious.dyndns-remote.com CNAME .
 *.roucious.dyndns-remote.com CNAME .
 rafi.dynns.com CNAME .
 *.rafi.dynns.com CNAME .
-saomai.dynu.com CNAME .
-*.saomai.dynu.com CNAME .
 dzeron.com CNAME .
 *.dzeron.com CNAME .
 e-ix.com CNAME .
@@ -8313,8 +8307,6 @@ clock.engalsaati.com CNAME .
 *.clock.engalsaati.com CNAME .
 moon.engalsaati.com CNAME .
 *.moon.engalsaati.com CNAME .
-range.engalsaati.com CNAME .
-*.range.engalsaati.com CNAME .
 schoology.engalsaati.com CNAME .
 *.schoology.engalsaati.com CNAME .
 standard.engalsaati.com CNAME .
@@ -9059,22 +9051,6 @@ fortvpn.com CNAME .
 *.fortvpn.com CNAME .
 schoolmath.foryourviewingpleasure.com CNAME .
 *.schoolmath.foryourviewingpleasure.com CNAME .
-disturbing-the-peace.foxgateway.com CNAME .
-*.disturbing-the-peace.foxgateway.com CNAME .
-get-out-of-my-head-get-out-of-my-head.foxgateway.com CNAME .
-*.get-out-of-my-head-get-out-of-my-head.foxgateway.com CNAME .
-i-understand-it-now.foxgateway.com CNAME .
-*.i-understand-it-now.foxgateway.com CNAME .
-jacob-is-too-tiny.foxgateway.com CNAME .
-*.jacob-is-too-tiny.foxgateway.com CNAME .
-sena-and-jacob-yap-too-much.foxgateway.com CNAME .
-*.sena-and-jacob-yap-too-much.foxgateway.com CNAME .
-small-kids.foxgateway.com CNAME .
-*.small-kids.foxgateway.com CNAME .
-stop-it-now-stop-it-now.foxgateway.com CNAME .
-*.stop-it-now-stop-it-now.foxgateway.com CNAME .
-we-need-more.foxgateway.com CNAME .
-*.we-need-more.foxgateway.com CNAME .
 fprmvgwu.com CNAME .
 *.fprmvgwu.com CNAME .
 fqmfwhpx.com CNAME .
@@ -9221,8 +9197,6 @@ fulcrumtheatreinc.com CNAME .
 *.fulcrumtheatreinc.com CNAME .
 fumarkel.com CNAME .
 *.fumarkel.com CNAME .
-funknetwork.com CNAME .
-*.funknetwork.com CNAME .
 futuretechuu.com CNAME .
 *.futuretechuu.com CNAME .
 fyzlzdyo.com CNAME .
@@ -29311,8 +29285,6 @@ dns4eu.online CNAME .
 *.dns4eu.online CNAME .
 dunggtrob.online CNAME .
 *.dunggtrob.online CNAME .
-duqtajc1od3xvawpvysoqq.online CNAME .
-*.duqtajc1od3xvawpvysoqq.online CNAME .
 durev-connect.online CNAME .
 *.durev-connect.online CNAME .
 durevpn.online CNAME .
@@ -29349,8 +29321,6 @@ excelkin.online CNAME .
 *.excelkin.online CNAME .
 f56eb41z.online CNAME .
 *.f56eb41z.online CNAME .
-f7tfjrsmrvgx4ts1.online CNAME .
-*.f7tfjrsmrvgx4ts1.online CNAME .
 fashionstyleshop.online CNAME .
 *.fashionstyleshop.online CNAME .
 fdbswnwh8irbiml.online CNAME .
@@ -30375,8 +30345,6 @@ soporte-premium.duckdns.org CNAME .
 *.soporte-premium.duckdns.org CNAME .
 surviil.duckdns.org CNAME .
 *.surviil.duckdns.org CNAME .
-testapp-0-1-1.duckdns.org CNAME .
-*.testapp-0-1-1.duckdns.org CNAME .
 thaibksri.duckdns.org CNAME .
 *.thaibksri.duckdns.org CNAME .
 theadblocksg.duckdns.org CNAME .
@@ -30525,8 +30493,6 @@ dns.faked.org CNAME .
 *.dns.faked.org CNAME .
 fakeip.org CNAME .
 *.fakeip.org CNAME .
-falemons.org CNAME .
-*.falemons.org CNAME .
 dns.falkenthal.org CNAME .
 *.dns.falkenthal.org CNAME .
 kendrickandpetezah.s81.fast-page.org CNAME .
@@ -31821,8 +31787,6 @@ cloudns.bosco.ovh CNAME .
 *.cloudns.bosco.ovh CNAME .
 dns.clanless.ovh CNAME .
 *.dns.clanless.ovh CNAME .
-egymail.ovh CNAME .
-*.egymail.ovh CNAME .
 eliatofani.ovh CNAME .
 *.eliatofani.ovh CNAME .
 adguardhome.favrep.ovh CNAME .
@@ -37099,8 +37063,6 @@ ezhyperlix.xyz CNAME .
 *.ezhyperlix.xyz CNAME .
 dns.f97.xyz CNAME .
 *.dns.f97.xyz CNAME .
-falemons.xyz CNAME .
-*.falemons.xyz CNAME .
 fastcontent.xyz CNAME .
 *.fastcontent.xyz CNAME .
 fastfetch.xyz CNAME .
@@ -37999,8 +37961,6 @@ easymoney.zone CNAME .
 *.easymoney.zone CNAME .
 easytap.zone CNAME .
 *.easytap.zone CNAME .
-easyvpn.zone CNAME .
-*.easyvpn.zone CNAME .
 freevpn.zone CNAME .
 *.freevpn.zone CNAME .
 dns.froth.zone CNAME .

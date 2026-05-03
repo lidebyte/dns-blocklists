@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777796580 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777827480 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 May 2026 08:23 UTC
-; Version: 2026.0503.0823.47
+; Last modified: 03 May 2026 16:58 UTC
+; Version: 2026.0503.1658.13
 ; Syntax: RPZ
-; Number of entries: 19930
+; Number of entries: 19924
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -4285,8 +4285,6 @@ ezlinkcloaker.com CNAME .
 *.ezlinkcloaker.com CNAME .
 ezwashing.com CNAME .
 *.ezwashing.com CNAME .
-ezylnk.com CNAME .
-*.ezylnk.com CNAME .
 f1mate.com CNAME .
 *.f1mate.com CNAME .
 f5url.com CNAME .
@@ -17525,8 +17523,6 @@ yau.sh CNAME .
 *.4l.shop CNAME .
 djarum88.shop CNAME .
 *.djarum88.shop CNAME .
-funnel2income.shop CNAME .
-*.funnel2income.shop CNAME .
 indahnyaberbagi.shop CNAME .
 *.indahnyaberbagi.shop CNAME .
 l9po.shop CNAME .
@@ -19049,8 +19045,6 @@ ewed.us CNAME .
 *.ewed.us CNAME .
 exx.us CNAME .
 *.exx.us CNAME .
-flpl.us CNAME .
-*.flpl.us CNAME .
 flq.us CNAME .
 *.flq.us CNAME .
 fuxx.us CNAME .

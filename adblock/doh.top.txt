@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 May 2026 10:13 UTC
-! Version: 2026.0503.1013.49
+! Last modified: 03 May 2026 16:57 UTC
+! Version: 2026.0503.1657.06
 ! Syntax: AdBlock
-! Number of entries: 3412
+! Number of entries: 3410
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -1182,7 +1182,6 @@
 ||site-3.duckdns.org^
 ||soporte-premium.duckdns.org^
 ||surviil.duckdns.org^
-||testapp-0-1-1.duckdns.org^
 ||thaibksri.duckdns.org^
 ||theadblocksg.duckdns.org^
 ||ts653d.duckdns.org^
@@ -1210,7 +1209,6 @@
 ||adguard.ekhozie.dynu.net^
 ||flyloadguard.dynu.net^
 ||quangdo92.dynu.net^
-||saomai.dynu.com^
 ||dns.dynx.pro^
 ||adg.dz.ax^
 ||az.dz4fun.top^

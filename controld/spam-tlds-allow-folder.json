@@ -1373,13 +1373,6 @@
       }
     },
     {
-      "PK": "dinsden.top",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
       "PK": "disasterpr.fun",
       "action": {
         "do": 1,

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777803180 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777827360 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 May 2026 10:13 UTC
-; Version: 2026.0503.1013.17
+; Last modified: 03 May 2026 16:56 UTC
+; Version: 2026.0503.1656.31
 ; Syntax: RPZ
-; Number of entries: 6932
+; Number of entries: 6928
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -1037,8 +1037,6 @@ roucious.dyndns-remote.com CNAME .
 *.roucious.dyndns-remote.com CNAME .
 rafi.dynns.com CNAME .
 *.rafi.dynns.com CNAME .
-saomai.dynu.com CNAME .
-*.saomai.dynu.com CNAME .
 safe.eaccelera.com CNAME .
 *.safe.eaccelera.com CNAME .
 easyhandshake.com CNAME .
@@ -4799,8 +4797,6 @@ soporte-premium.duckdns.org CNAME .
 *.soporte-premium.duckdns.org CNAME .
 surviil.duckdns.org CNAME .
 *.surviil.duckdns.org CNAME .
-testapp-0-1-1.duckdns.org CNAME .
-*.testapp-0-1-1.duckdns.org CNAME .
 thaibksri.duckdns.org CNAME .
 *.thaibksri.duckdns.org CNAME .
 theadblocksg.duckdns.org CNAME .
