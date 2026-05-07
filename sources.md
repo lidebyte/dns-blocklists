@@ -12,6 +12,12 @@ https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filters-share/1st_domains.txt
 https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filters-share/3rd_domains.txt
 https://codeberg.org/KhodeKiaa/PersianBlocker/raw/branch/main/PersianBlocker.txt
 https://codeberg.org/remad0/TurkHosts404/raw/branch/main/dns-blocklists/adblock.txt
+https://codeberg.org/xRuffKez/DNSBunker_DNSBL/raw/branch/main/01_ad.txt
+https://codeberg.org/xRuffKez/DNSBunker_DNSBL/raw/branch/main/02_mal.txt
+https://codeberg.org/xRuffKez/DNSBunker_DNSBL/raw/branch/main/03_scam.txt
+https://codeberg.org/xRuffKez/DNSBunker_DNSBL/raw/branch/main/04_fake.txt
+https://codeberg.org/xRuffKez/DNSBunker_DNSBL/raw/branch/main/05_popup.txt
+https://codeberg.org/xRuffKez/DNSBunker_DNSBL/raw/branch/main/06_phish.txt
 https://ctu.gov.cz/vyhledavaci-databaze/blokovane-weby/csv
 https://dl.red.flag.domains/red.flag.domains.txt
 https://easydutch-ublockorigin.github.io/EasyDutch/EasyDutch.all.txt
@@ -211,8 +217,13 @@ https://raw.githubusercontent.com/mtxadmin/ublock/master/hosts/_all_bets_are_off
 https://raw.githubusercontent.com/NullAngst/Domain-Blocklists/main/Domain-Blocklist
 https://raw.githubusercontent.com/openphish/public_feed/refs/heads/main/feed.txt
 https://raw.githubusercontent.com/phishdestroy/destroylist/main/community/blocklist.json
+https://raw.githubusercontent.com/phishdestroy/destroylist/main/community/blocklist.txt
+https://raw.githubusercontent.com/phishdestroy/destroylist/main/community/content_live.txt
 https://raw.githubusercontent.com/phishdestroy/destroylist/main/community/live_blocklist.json
+https://raw.githubusercontent.com/phishdestroy/destroylist/main/community/live_blocklist.txt
 https://raw.githubusercontent.com/phishdestroy/destroylist/main/dns/active_domains.json
+https://raw.githubusercontent.com/phishdestroy/destroylist/main/dns/active_domains.txt
+https://raw.githubusercontent.com/phishdestroy/destroylist/main/dns/content_active.txt
 https://raw.githubusercontent.com/phishdestroy/destroylist/main/list.txt
 https://raw.githubusercontent.com/phishdestroy/destroylist/main/rootlist/formats/primary_active/domains.txt
 https://raw.githubusercontent.com/Phishing-Database/phishing/refs/heads/master/additions/permanent/domains.list
@@ -223,6 +234,7 @@ https://raw.githubusercontent.com/sakib-m/BDIX-Piracy-Blocklist/refs/heads/main/
 https://raw.githubusercontent.com/sakib-m/Pi-hole-Torrent-Blocklist/refs/heads/main/all-torrent-trackers.txt
 https://raw.githubusercontent.com/sakib-m/Pi-hole-Torrent-Blocklist/refs/heads/main/all-torrent-websites.txt
 https://raw.githubusercontent.com/scamsniffer/scam-database/main/blacklist/domains.json
+https://raw.githubusercontent.com/security-alliance/blocklists/refs/heads/main/domain.txt
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/DNS
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dynamic

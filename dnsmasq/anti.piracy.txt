@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 May 2026 16:55 UTC
-# Version: 2026.0506.1655.20
+# Last modified: 07 May 2026 09:55 UTC
+# Version: 2026.0507.0955.43
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12497
+# Number of entries: 12496
 #
 local=/003396815.xyz/
 local=/004430.xyz/
@@ -2156,11 +2156,9 @@ local=/cinepulse.ac/
 local=/cinepulse.au/
 local=/cinepulse.cam/
 local=/cinepulse.cc/
-local=/cinepulse.ch/
 local=/cinepulse.cx/
 local=/cinepulse.fr/
 local=/cinepulse.info/
-local=/cinepulse.live/
 local=/cinepulse.lol/
 local=/cinepulse.org/
 local=/cinepulse.to/
@@ -2329,6 +2327,7 @@ local=/crichd.com.ua/
 local=/cueclub.com.bd/
 local=/digitalbroadband.com.bd/
 local=/dizipal1.com.tr/
+local=/dizipal2.com.tr/
 local=/www.e24.com.bd/
 local=/ekino.com.ua/
 local=/filmoflix.com.cv/
@@ -7274,7 +7273,6 @@ local=/mycima.horse/
 local=/mycima.host/
 local=/mycima.im/
 local=/mycima.kim/
-local=/mycima.la/
 local=/mycima.live/
 local=/mycima.loan/
 local=/mycima.lol/
@@ -7298,7 +7296,6 @@ local=/mycima.studio/
 local=/mycima.study/
 local=/mycima.style/
 local=/mycima.surf/
-local=/mycima.tv/
 local=/mycima.us/
 local=/mycima.vin/
 local=/mycima.ws/
@@ -8665,6 +8662,7 @@ local=/realfiles.net/
 local=/mail.realliferpg.de/
 local=/realstation.live/
 local=/realstresser.com/
+local=/reanime.to/
 local=/rebellyon.tv/
 local=/reboot.tube/
 local=/receitasone.com/
@@ -11082,6 +11080,7 @@ local=/ultracine.net/
 local=/ultradownloads.com/
 local=/ultraflixhd.net/
 local=/ultramovies.net/
+local=/cerf.cs.umd.edu/
 local=/websites.umich.edu/
 local=/ummagurau.com/
 local=/umq.me/

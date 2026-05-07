@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 May 2026 18:07 UTC
-# Version: 2026.0506.1807.26
+# Last modified: 07 May 2026 08:50 UTC
+# Version: 2026.0507.0850.25
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1325
+# Number of entries: 1326
 #
 local=/000a.de/
 local=/000free.us/
@@ -1157,6 +1157,7 @@ local=/turkish.lc/
 local=/tusblogos.com/
 local=/tw.gp/
 local=/tw1.ru/
+local=/twc1.net/
 local=/u.gp/
 local=/ua.gp/
 local=/ubpages.com/

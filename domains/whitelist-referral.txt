@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 May 2026 07:29 UTC
-# Version: 2026.0506.0729.29
+# Last modified: 07 May 2026 07:35 UTC
+# Version: 2026.0507.0735.06
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2184
+# Number of entries: 2202
 #
 1-aclk.net
 1aurl.io
@@ -257,10 +257,12 @@ seu.cleverreach.com
 369869.seu.cleverreach.com
 37135.seu.cleverreach.com
 38970.seu.cleverreach.com
+7464.seu.cleverreach.com
 8437.seu.cleverreach.com
 8820.seu.cleverreach.com
 seu1.cleverreach.com
 170770.seu1.cleverreach.com
+176818.seu1.cleverreach.com
 40076.seu1.cleverreach.com
 40961.seu1.cleverreach.com
 42849.seu1.cleverreach.com
@@ -289,6 +291,7 @@ seu1.cleverreach.com
 79558.seu1.cleverreach.com
 175597.84296.seu1.cleverreach.com
 85516.seu1.cleverreach.com
+88974.seu1.cleverreach.com
 90461.seu1.cleverreach.com
 seu2.cleverreach.com
 100125.seu2.cleverreach.com
@@ -298,11 +301,13 @@ seu2.cleverreach.com
 105116.seu2.cleverreach.com
 107335.seu2.cleverreach.com
 114510.seu2.cleverreach.com
+116089.seu2.cleverreach.com
 120263.seu2.cleverreach.com
 123961.seu2.cleverreach.com
 125632.seu2.cleverreach.com
 128793.seu2.cleverreach.com
 129026.seu2.cleverreach.com
+129171.seu2.cleverreach.com
 130088.seu2.cleverreach.com
 131729.seu2.cleverreach.com
 133616.seu2.cleverreach.com
@@ -416,7 +421,9 @@ seu2.cleverreach.com
 372230.seu2.cleverreach.com
 374108.seu2.cleverreach.com
 374768.seu2.cleverreach.com
+374956.seu2.cleverreach.com
 382058.seu2.cleverreach.com
+393609.seu2.cleverreach.com
 393666.seu2.cleverreach.com
 394092.seu2.cleverreach.com
 394250.seu2.cleverreach.com
@@ -542,6 +549,7 @@ open.convertkit-mail.com
 86db75f9.open.convertkit-mail.com
 af5d45b9.open.convertkit-mail.com
 c5e21242.open.convertkit-mail.com
+dd57e575.open.convertkit-mail.com
 efba0d60.open.convertkit-mail.com
 preferences.convertkit-mail.com
 preview.convertkit-mail.com
@@ -569,6 +577,7 @@ open.convertkit-mail2.com
 0d31423c.open.convertkit-mail2.com
 13924f41.open.convertkit-mail2.com
 16b0ec2b.open.convertkit-mail2.com
+18c39674.open.convertkit-mail2.com
 18f44d8a.open.convertkit-mail2.com
 23895e7c.open.convertkit-mail2.com
 2a607801.open.convertkit-mail2.com
@@ -587,6 +596,7 @@ open.convertkit-mail2.com
 9343673d.open.convertkit-mail2.com
 9968f34e.open.convertkit-mail2.com
 9adb1e69.open.convertkit-mail2.com
+9ae13412.open.convertkit-mail2.com
 a1881e7e.open.convertkit-mail2.com
 aefbefb5.open.convertkit-mail2.com
 cd26c57f.open.convertkit-mail2.com
@@ -645,6 +655,7 @@ open.convertkit-mail4.com
 91e7efd1.open.convertkit-mail4.com
 986419df.open.convertkit-mail4.com
 9adb1e69.open.convertkit-mail4.com
+9dd0b3de.open.convertkit-mail4.com
 a01c829f.open.convertkit-mail4.com
 a4d65a79.open.convertkit-mail4.com
 b43d6384.open.convertkit-mail4.com
@@ -688,6 +699,7 @@ m-6pyms.custobar.com
 m-eqxt2.custobar.com
 m-fqlpo.custobar.com
 m-gzmk5.custobar.com
+m-htgjb.custobar.com
 m-kpz.custobar.com
 m-ll23a.custobar.com
 m-nvdxq.custobar.com
@@ -1126,6 +1138,7 @@ sites.hscoscdn-eu1.net
 24855079.sites.hscoscdn-eu1.net
 24880693.sites.hscoscdn-eu1.net
 24942465.sites.hscoscdn-eu1.net
+25042371.sites.hscoscdn-eu1.net
 25140907.sites.hscoscdn-eu1.net
 25160908.sites.hscoscdn-eu1.net
 25212269.sites.hscoscdn-eu1.net
@@ -1154,6 +1167,7 @@ sites.hscoscdn-eu1.net
 26556211.sites.hscoscdn-eu1.net
 26609264.sites.hscoscdn-eu1.net
 26743233.sites.hscoscdn-eu1.net
+26750902.sites.hscoscdn-eu1.net
 26826924.sites.hscoscdn-eu1.net
 27001291.sites.hscoscdn-eu1.net
 27031067.sites.hscoscdn-eu1.net
@@ -1164,6 +1178,7 @@ sites.hscoscdn-eu1.net
 7885891.sites.hscoscdn-eu1.net
 group0.sites.hscoscdn-eu1.net
 142290803.group0.sites.hscoscdn-eu1.net
+143293620.group0.sites.hscoscdn-eu1.net
 143338098.group0.sites.hscoscdn-eu1.net
 143439914.group0.sites.hscoscdn-eu1.net
 143611028.group0.sites.hscoscdn-eu1.net
@@ -1201,6 +1216,7 @@ group0.sites.hscoscdn-na2.net
 244842231.group0.sites.hscoscdn-na2.net
 sites.hscoscdn-na3.net
 group0.sites.hscoscdn-na3.net
+341850582.group0.sites.hscoscdn-na3.net
 sites.hscoscdn00.net
 group0.sites.hscoscdn00.net
 group1.sites.hscoscdn00.net
@@ -1483,6 +1499,7 @@ mkto-ab400124.com
 mkto-ab400143.com
 mkto-ab420081.com
 mkto-ab420198.com
+mkto-ab430045.com
 mkto-ab430076.com
 mkto-ab430111.com
 mkto-ab430114.com
@@ -2061,6 +2078,7 @@ click.taobao.com
 g.click.taobao.com
 s.click.taobao.com
 ud.click.taobao.com
+ud-gateway.click.taobao.com
 click.simba.taobao.com
 click.mz.simba.taobao.com
 click.world.taobao.com

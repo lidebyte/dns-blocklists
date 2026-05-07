@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778086500 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778147700 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 06 May 2026 16:55 UTC
-; Version: 2026.0506.1655.20
+; Last modified: 07 May 2026 09:55 UTC
+; Version: 2026.0507.0955.43
 ; Syntax: RPZ
-; Number of entries: 24994
+; Number of entries: 24992
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -2036,8 +2036,6 @@ arenabg.ch CNAME .
 *.arenabg.ch CNAME .
 cinefreak.ch CNAME .
 *.cinefreak.ch CNAME .
-cinepulse.ch CNAME .
-*.cinepulse.ch CNAME .
 cpasbien.ch CNAME .
 *.cpasbien.ch CNAME .
 open.demonoid.ch CNAME .
@@ -9662,6 +9660,8 @@ webcast.berkeley.edu CNAME .
 *.webcast.berkeley.edu CNAME .
 diva.sfsu.edu CNAME .
 *.diva.sfsu.edu CNAME .
+cerf.cs.umd.edu CNAME .
+*.cerf.cs.umd.edu CNAME .
 websites.umich.edu CNAME .
 *.websites.umich.edu CNAME .
 guardaserie.education CNAME .
@@ -12296,8 +12296,6 @@ lookmovie2.la CNAME .
 *.lookmovie2.la CNAME .
 mp4ba.la CNAME .
 *.mp4ba.la CNAME .
-mycima.la CNAME .
-*.mycima.la CNAME .
 putlockers.la CNAME .
 *.putlockers.la CNAME .
 rojadirectatv.la CNAME .
@@ -12620,8 +12618,6 @@ cineblog001.live CNAME .
 *.cineblog001.live CNAME .
 cinemacity.live CNAME .
 *.cinemacity.live CNAME .
-cinepulse.live CNAME .
-*.cinepulse.live CNAME .
 citynet.live CNAME .
 *.citynet.live CNAME .
 clearflare66.live CNAME .
@@ -22002,6 +21998,8 @@ rarbgproxy.to CNAME .
 *.rarbgproxy.to CNAME .
 rargb.to CNAME .
 *.rargb.to CNAME .
+reanime.to CNAME .
+*.reanime.to CNAME .
 revanced.to CNAME .
 *.revanced.to CNAME .
 rlsbb.to CNAME .
@@ -22610,6 +22608,8 @@ bollyflix.tr CNAME .
 *.bollyflix.tr CNAME .
 dizipal1.com.tr CNAME .
 *.dizipal1.com.tr CNAME .
+dizipal2.com.tr CNAME .
+*.dizipal2.com.tr CNAME .
 hdmovie2.tr CNAME .
 *.hdmovie2.tr CNAME .
 tracker.4.babico.name.tr CNAME .
@@ -22984,8 +22984,6 @@ movies2watch.tv CNAME .
 *.movies2watch.tv CNAME .
 mp3juice.tv CNAME .
 *.mp3juice.tv CNAME .
-mycima.tv CNAME .
-*.mycima.tv CNAME .
 mycujoo.tv CNAME .
 *.mycujoo.tv CNAME .
 myflixtor.tv CNAME .
