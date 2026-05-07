@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778140200 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778174100 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 May 2026 07:50 UTC
-; Version: 2026.0507.0750.18
+; Last modified: 07 May 2026 17:15 UTC
+; Version: 2026.0507.1715.13
 ; Syntax: RPZ
-; Number of entries: 28762
+; Number of entries: 28768
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -18602,12 +18602,16 @@ bikeambulanz-mobil.de CNAME .
 *.bikeambulanz-mobil.de CNAME .
 bikeauction.de CNAME .
 *.bikeauction.de CNAME .
+bikebox-salzgitter.de CNAME .
+*.bikebox-salzgitter.de CNAME .
 bikeboys-onlineshop.de CNAME .
 *.bikeboys-onlineshop.de CNAME .
 bikecomponents24.de CNAME .
 *.bikecomponents24.de CNAME .
 bikelight.de CNAME .
 *.bikelight.de CNAME .
+bikenetz.de CNAME .
+*.bikenetz.de CNAME .
 bikeskraft.de CNAME .
 *.bikeskraft.de CNAME .
 bikiniskin.de CNAME .
@@ -20322,6 +20326,8 @@ gartenmaschinenpro.de CNAME .
 *.gartenmaschinenpro.de CNAME .
 gartenmotor.de CNAME .
 *.gartenmotor.de CNAME .
+gartenpflege-in-duisburg.de CNAME .
+*.gartenpflege-in-duisburg.de CNAME .
 gartenpicks.de CNAME .
 *.gartenpicks.de CNAME .
 gartenpools24.de CNAME .

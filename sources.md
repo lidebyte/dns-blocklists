@@ -216,16 +216,11 @@ https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 https://raw.githubusercontent.com/mtxadmin/ublock/master/hosts/_all_bets_are_off
 https://raw.githubusercontent.com/NullAngst/Domain-Blocklists/main/Domain-Blocklist
 https://raw.githubusercontent.com/openphish/public_feed/refs/heads/main/feed.txt
-https://raw.githubusercontent.com/phishdestroy/destroylist/main/community/blocklist.json
 https://raw.githubusercontent.com/phishdestroy/destroylist/main/community/blocklist.txt
 https://raw.githubusercontent.com/phishdestroy/destroylist/main/community/content_live.txt
-https://raw.githubusercontent.com/phishdestroy/destroylist/main/community/live_blocklist.json
-https://raw.githubusercontent.com/phishdestroy/destroylist/main/community/live_blocklist.txt
-https://raw.githubusercontent.com/phishdestroy/destroylist/main/dns/active_domains.json
 https://raw.githubusercontent.com/phishdestroy/destroylist/main/dns/active_domains.txt
 https://raw.githubusercontent.com/phishdestroy/destroylist/main/dns/content_active.txt
 https://raw.githubusercontent.com/phishdestroy/destroylist/main/list.txt
-https://raw.githubusercontent.com/phishdestroy/destroylist/main/rootlist/formats/primary_active/domains.txt
 https://raw.githubusercontent.com/Phishing-Database/phishing/refs/heads/master/additions/permanent/domains.list
 https://raw.githubusercontent.com/Phishing-Database/phishing/refs/heads/master/additions/permanent/domains.wildcard.list
 https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADomains.txt

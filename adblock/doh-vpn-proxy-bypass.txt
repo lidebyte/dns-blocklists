@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 07 May 2026 10:02 UTC
-! Version: 2026.0507.1002.46
+! Last modified: 07 May 2026 16:56 UTC
+! Version: 2026.0507.1656.46
 ! Syntax: AdBlock
-! Number of entries: 18257
+! Number of entries: 18256
 !
 ||000000555.xyz^
 ||ss.0001.xyz^
@@ -14677,7 +14677,6 @@
 ||lousiana-history-careers-ixl-geoly-education.spacetechnology.net^
 ||spacevpn.io^
 ||spanish101.college^
-||sparklabs.com^
 ||lomoff.spb.ru^
 ||spbyjzu.cn^
 ||wifrousl.spdns.de^

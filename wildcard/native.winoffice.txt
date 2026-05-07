@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 May 2026 17:05 UTC
-# Version: 2026.0506.1705.10
+# Last modified: 07 May 2026 17:06 UTC
+# Version: 2026.0507.1706.37
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 384
+# Number of entries: 385
 #
 *.c-bingapis-com.dual-a-0034.a-msedge.net
 *.measure.office.com.akamaized.net
@@ -377,6 +377,7 @@
 *.citrixtelemetryeh-alias.servicebus.windows.net
 *.citrixtelemetryeheu.servicebus.windows.net
 *.citrixtelemetryeheu-alias.servicebus.windows.net
+*.ehtelemetrystaging-alias.servicebus.windows.net
 *.ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net
 *.hme-live-loganalytics-namespace.servicebus.windows.net
 *.hme-uat-loganalytics-namespace.servicebus.windows.net

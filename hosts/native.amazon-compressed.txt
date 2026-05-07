@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 May 2026 17:04 UTC
-# Version: 2026.0506.1704.22
+# Last modified: 07 May 2026 17:05 UTC
+# Version: 2026.0507.1705.45
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
 # Number of entries: 78
 #
@@ -83,8 +83,8 @@
 0.0.0.0 vfw-us-gamma.amazon-adsystem.com vfw-us-west-gamma.amazon-adsystem.com vfw-us-west.amazon-adsystem.com vfw-us.amazon-adsystem.com vfw.amazon-adsystem.com vfwm-us-west.amazon-adsystem.com vfwm-us.amazon-adsystem.com vfwm.amazon-adsystem.com vfws.amazon-adsystem.com
 0.0.0.0 video-ads.a2z.com video-player.aps.amazon-adsystem.com video.web.bid-na.ads.aps.amazon-adsystem.com vq-eu-west-1.amazon-adsystem.com vq-fe-us-west-2.amazon-adsystem.com vq-test-us-east-1.amazon-adsystem.com vq-us-east-1.amazon-adsystem.com vq-us-west-2.amazon-adsystem.com web-banner-event-cell8001.ads.aps.amazon-adsystem.com
 0.0.0.0 web-banner-event-cell8002.ads.aps.amazon-adsystem.com web-banner-event-cell8005.ads.aps.amazon-adsystem.com web-banner-event-cell8006.ads.aps.amazon-adsystem.com web-banner.ads.aps.amazon-adsystem.com web-cf-event-cell7001.ads.aps.amazon-adsystem.com web-cf-event-cell7002.ads.aps.amazon-adsystem.com web-cf-event-cell8001.ads.aps.amazon-adsystem.com web-cf-event-cell8002.ads.aps.amazon-adsystem.com web-cf-event-cell8003.ads.aps.amazon-adsystem.com
-0.0.0.0 web-cf-event-cell8004.ads.aps.amazon-adsystem.com web-cf-event-cell8005.ads.aps.amazon-adsystem.com web-cf-event-cell8006.ads.aps.amazon-adsystem.com web-cf-event-cell8011.ads.aps.amazon-adsystem.com web-cf-event-cell8021.ads.aps.amazon-adsystem.com web-video.ads.aps.amazon-adsystem.com web.ads.aps.amazon-adsystem.com web.ap-southeast.aps.axp.amazon-adsystem.com web.bid-na.ads.aps.amazon-adsystem.com
-0.0.0.0 web.eu-west.aps.axp.amazon-adsystem.com web.event-na.ads.aps.amazon-adsystem.com web.us-east.aps.axp.amazon-adsystem.com wetfs.global-1.telemetry.insights.video.a2z.com wetfs.global-2.telemetry.insights.video.a2z.com wetfs.global-3.telemetry.insights.video.a2z.com wms-eu.amazon-adsystem.com wms-eu.assoc-amazon.com wms-fe.amazon-adsystem.com
-0.0.0.0 wms-in.amazon-adsystem.com wms-na.amazon-adsystem.com wms-na.assoc-amazon.com wms.assoc-amazon.com ws-eu.amazon-adsystem.com ws-eu.assoc-amazon.com ws-fe.amazon-adsystem.com ws-fe.assoc-amazon.com ws-in.amazon-adsystem.com
-0.0.0.0 ws-na.amazon-adsystem.com ws-na.assoc-amazon.com ws.assoc-amazon.com www.assoc-amazon.ca www.assoc-amazon.com www.assoc-amazon.de www.assoc-amazon.es www.assoc-amazon.fr www.assoc-amazon.it
-0.0.0.0 www.assoc-amazon.jp www.paa-reporting-advertising.amazon z-eu.amazon-adsystem.com z-fe.amazon-adsystem.com z-in.amazon-adsystem.com z-na.amazon-adsystem.com 
+0.0.0.0 web-cf-event-cell8004.ads.aps.amazon-adsystem.com web-cf-event-cell8005.ads.aps.amazon-adsystem.com web-cf-event-cell8006.ads.aps.amazon-adsystem.com web-cf-event-cell8011.ads.aps.amazon-adsystem.com web-cf-event-cell8013.ads.aps.amazon-adsystem.com web-cf-event-cell8021.ads.aps.amazon-adsystem.com web-video.ads.aps.amazon-adsystem.com web.ads.aps.amazon-adsystem.com web.ap-southeast.aps.axp.amazon-adsystem.com
+0.0.0.0 web.bid-na.ads.aps.amazon-adsystem.com web.eu-west.aps.axp.amazon-adsystem.com web.event-na.ads.aps.amazon-adsystem.com web.us-east.aps.axp.amazon-adsystem.com wetfs.global-1.telemetry.insights.video.a2z.com wetfs.global-2.telemetry.insights.video.a2z.com wetfs.global-3.telemetry.insights.video.a2z.com wms-eu.amazon-adsystem.com wms-eu.assoc-amazon.com
+0.0.0.0 wms-fe.amazon-adsystem.com wms-in.amazon-adsystem.com wms-na.amazon-adsystem.com wms-na.assoc-amazon.com wms.assoc-amazon.com ws-eu.amazon-adsystem.com ws-eu.assoc-amazon.com ws-fe.amazon-adsystem.com ws-fe.assoc-amazon.com
+0.0.0.0 ws-in.amazon-adsystem.com ws-na.amazon-adsystem.com ws-na.assoc-amazon.com ws.assoc-amazon.com www.assoc-amazon.ca www.assoc-amazon.com www.assoc-amazon.de www.assoc-amazon.es www.assoc-amazon.fr
+0.0.0.0 www.assoc-amazon.it www.assoc-amazon.jp www.paa-reporting-advertising.amazon z-eu.amazon-adsystem.com z-fe.amazon-adsystem.com z-in.amazon-adsystem.com z-na.amazon-adsystem.com 

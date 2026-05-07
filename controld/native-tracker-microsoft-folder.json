@@ -995,6 +995,13 @@
       }
     },
     {
+      "PK": "ehtelemetrystaging-alias.servicebus.windows.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "euc-excel-telemetry.officeapps.live.com",
       "action": {
         "do": 0,

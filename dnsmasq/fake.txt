@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 May 2026 07:50 UTC
-# Version: 2026.0507.0750.18
+# Last modified: 07 May 2026 17:15 UTC
+# Version: 2026.0507.1715.13
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14381
+# Number of entries: 14384
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -1453,6 +1453,7 @@ local=/bikeambulanz-mobil.de/
 local=/bikeauction.de/
 local=/bikebabyseatde.com/
 local=/bikebitsde.com/
+local=/bikebox-salzgitter.de/
 local=/bikeboys-onlineshop.de/
 local=/bikechainlockde.com/
 local=/bikecomponents24.de/
@@ -1470,6 +1471,7 @@ local=/bikelovershop.com/
 local=/bikemarket.com/
 local=/biken-fahrrad.com/
 local=/bikenabende.com/
+local=/bikenetz.de/
 local=/bikepartonline.com/
 local=/bikepartsale.com/
 local=/bikepartsneu.com/
@@ -4931,6 +4933,7 @@ local=/gartenmotor.de/
 local=/gartenmotorgerate.com/
 local=/gartenobstshop.com/
 local=/gartenpflanzende.com/
+local=/gartenpflege-in-duisburg.de/
 local=/gartenpflegeshop.com/
 local=/gartenpicks.de/
 local=/gartenplus24.com/

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 May 2026 10:02 UTC
-# Version: 2026.0507.1002.46
+# Last modified: 07 May 2026 16:56 UTC
+# Version: 2026.0507.1656.46
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 18257
+# Number of entries: 18256
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -14676,7 +14676,6 @@ local=/ilovemath.spacetechnology.net/
 local=/lousiana-history-careers-ixl-geoly-education.spacetechnology.net/
 local=/spacevpn.io/
 local=/spanish101.college/
-local=/sparklabs.com/
 local=/lomoff.spb.ru/
 local=/spbyjzu.cn/
 local=/wifrousl.spdns.de/
