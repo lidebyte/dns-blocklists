@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778319420 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778441880 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's The World's Most Abused TLDs - Aggressive
@@ -14,10 +14,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 May 2026 09:37 UTC
-; Version: 2026.0509.0937.33
+; Last modified: 10 May 2026 19:38 UTC
+; Version: 2026.0510.1938.02
 ; Syntax: RPZ
-; Number of latin TLDs: 291
+; Number of latin TLDs: 294
 ;
 *.actor CNAME .
 *.africa CNAME .
@@ -70,6 +70,7 @@ $TTL 3600
 *.clothing CNAME .
 *.club CNAME .
 *.cm CNAME .
+*.co.com CNAME .
 *.college CNAME .
 *.computer CNAME .
 *.consulting CNAME .
@@ -283,7 +284,9 @@ $TTL 3600
 *.trading CNAME .
 *.tube CNAME .
 *.uno CNAME .
+*.us.com CNAME .
 *.us.kg CNAME .
+*.us.org CNAME .
 *.vacations CNAME .
 *.vegas CNAME .
 *.ventures CNAME .

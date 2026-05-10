@@ -365,6 +365,13 @@
       }
     },
     {
+      "PK": "*.co.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.college",
       "action": {
         "do": 0,
@@ -1856,7 +1863,21 @@
       }
     },
     {
+      "PK": "*.us.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.us.kg",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.us.org",
       "action": {
         "do": 0,
         "status": 1

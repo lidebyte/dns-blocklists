@@ -10,10 +10,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 May 2026 09:37 UTC
-# Version: 2026.0509.0937.33
+# Last modified: 10 May 2026 19:38 UTC
+# Version: 2026.0510.1938.02
 # Syntax: Domains (without subdomains)
-# Number of latin TLDs: 291 - punycode TLDs: 151
+# Number of latin TLDs: 294 - punycode TLDs: 151
 #
 actor
 africa
@@ -66,6 +66,7 @@ click
 clothing
 club
 cm
+co.com
 college
 computer
 consulting
@@ -279,7 +280,9 @@ trade
 trading
 tube
 uno
+us.com
 us.kg
+us.org
 vacations
 vegas
 ventures

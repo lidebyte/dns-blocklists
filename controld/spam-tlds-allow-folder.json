@@ -3312,6 +3312,13 @@
       }
     },
     {
+      "PK": "magefan.top",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "mags.guru",
       "action": {
         "do": 1,

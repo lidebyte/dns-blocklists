@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 May 2026 09:44 UTC
-# Version: 2026.0510.0944.28
+# Last modified: 10 May 2026 19:58 UTC
+# Version: 2026.0510.1958.20
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1480
+# Number of entries: 1481
 #
 local=/0000000000000000000000.com/
 local=/0x.no/
@@ -382,6 +382,7 @@ local=/dynalias.org/
 local=/dynamai.com/
 local=/dynamic.domains/
 local=/dynamic-dns.net/
+local=/dynamic-dns.us/
 local=/dynamic-m.com/
 local=/dynamic-site.net/
 local=/dynamicdns.biz/

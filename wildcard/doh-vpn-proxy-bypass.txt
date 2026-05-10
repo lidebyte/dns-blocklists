@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 May 2026 09:45 UTC
-# Version: 2026.0510.0945.51
+# Last modified: 10 May 2026 19:59 UTC
+# Version: 2026.0510.1959.40
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 18301
+# Number of entries: 18306
 #
 *.000000555.xyz
 *.ss.0001.xyz
@@ -5596,6 +5596,7 @@
 *.adguard.ekhozie.dynu.net
 *.flyloadguard.dynu.net
 *.quangdo92.dynu.net
+*.saomai.dynu.com
 *.getjumpscared.dynv6.net
 *.ineedmymoney.dynv6.net
 *.treesareplanted.dynv6.net
@@ -6297,6 +6298,7 @@
 *.expressvpn.tools
 *.expressvpn.works
 *.expressvpn.xyz
+*.rh4.ext.rocks
 *.proxy.extension.vn
 *.extratv.org
 *.extravpn.top
@@ -6825,6 +6827,7 @@
 *.fiberproxy.net
 *.fiberproxy.us
 *.fidelius.top
+*.dns.fifux.be
 *.figcat.cc
 *.figdon.com
 *.figure.run
@@ -6976,6 +6979,7 @@
 *.foofriendsgw.com
 *.fooksun.xyz
 *.real.theory.footynews.info
+*.for-privacy.net
 *.for-veto.ru
 *.foreground.work
 *.garland.isd.foresightgroup.pl
@@ -7176,6 +7180,7 @@
 *.study.freude-macherei.ch
 *.vvv.freya.moe
 *.dns.freyja.pw
+*.dns.friezer.eu
 *.b0oqp4lcca12psyk18labup2rztiltdh.frii.site
 *.goonerbuttsex.frii.site
 *.school.frii.site

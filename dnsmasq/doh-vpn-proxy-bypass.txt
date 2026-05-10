@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 May 2026 09:45 UTC
-# Version: 2026.0510.0945.51
+# Last modified: 10 May 2026 19:59 UTC
+# Version: 2026.0510.1959.40
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 18301
+# Number of entries: 18306
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -5596,6 +5596,7 @@ local=/ccadguard.dynu.net/
 local=/adguard.ekhozie.dynu.net/
 local=/flyloadguard.dynu.net/
 local=/quangdo92.dynu.net/
+local=/saomai.dynu.com/
 local=/getjumpscared.dynv6.net/
 local=/ineedmymoney.dynv6.net/
 local=/treesareplanted.dynv6.net/
@@ -6297,6 +6298,7 @@ local=/expressvpn.org/
 local=/expressvpn.tools/
 local=/expressvpn.works/
 local=/expressvpn.xyz/
+local=/rh4.ext.rocks/
 local=/proxy.extension.vn/
 local=/extratv.org/
 local=/extravpn.top/
@@ -6825,6 +6827,7 @@ local=/fiberproxy.mobi/
 local=/fiberproxy.net/
 local=/fiberproxy.us/
 local=/fidelius.top/
+local=/dns.fifux.be/
 local=/figcat.cc/
 local=/figdon.com/
 local=/figure.run/
@@ -6976,6 +6979,7 @@ local=/fontsgoogleapis.net/
 local=/foofriendsgw.com/
 local=/fooksun.xyz/
 local=/real.theory.footynews.info/
+local=/for-privacy.net/
 local=/for-veto.ru/
 local=/foreground.work/
 local=/garland.isd.foresightgroup.pl/
@@ -7176,6 +7180,7 @@ local=/dns.freopc.fr/
 local=/study.freude-macherei.ch/
 local=/vvv.freya.moe/
 local=/dns.freyja.pw/
+local=/dns.friezer.eu/
 local=/b0oqp4lcca12psyk18labup2rztiltdh.frii.site/
 local=/goonerbuttsex.frii.site/
 local=/school.frii.site/

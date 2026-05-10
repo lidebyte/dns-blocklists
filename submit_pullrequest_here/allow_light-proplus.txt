@@ -1,5 +1,9 @@
 # Unblocking for relaxed, balanced and aggressive (pro++) lists only
 
+# https://github.com/hagezi/dns-blocklists/issues/10143
+gt.tc
+ct.ws
+
 # https://github.com/hagezi/dns-blocklists/issues/8430#issuecomment-4386468382
 mqtt-mini.facebook.com
 

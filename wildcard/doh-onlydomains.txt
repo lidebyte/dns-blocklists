@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 May 2026 09:45 UTC
-# Version: 2026.0510.0945.03
+# Last modified: 10 May 2026 19:58 UTC
+# Version: 2026.0510.1958.53
 # Syntax: Domains (without subdomains)
-# Number of entries: 3448
+# Number of entries: 3451
 #
 ss.0001.xyz
 003153.xyz
@@ -1229,6 +1229,7 @@ ccadguard.dynu.net
 adguard.ekhozie.dynu.net
 flyloadguard.dynu.net
 quangdo92.dynu.net
+saomai.dynu.com
 dns.dynx.pro
 adg.dz.ax
 az.dz4fun.top
@@ -1379,6 +1380,7 @@ doh.ffmuc.net
 dot.ffmuc.net
 dns.ffnw.de
 fidelius.top
+dns.fifux.be
 dns.filipccz.eu
 fimoshinckaya-federation.site
 home.firetiresinc.com
@@ -1437,6 +1439,7 @@ wg-aghome.freemyip.com
 zuk.freemyip.com
 dns.freopc.fr
 dns.freyja.pw
+dns.friezer.eu
 frkn.frkn.cloud
 ivica-vulas.from.hr
 dns.froth.zone

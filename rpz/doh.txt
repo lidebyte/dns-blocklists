@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778406300 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778443080 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 May 2026 09:45 UTC
-; Version: 2026.0510.0945.03
+; Last modified: 10 May 2026 19:58 UTC
+; Version: 2026.0510.1958.53
 ; Syntax: RPZ
-; Number of entries: 6896
+; Number of entries: 6902
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -135,6 +135,8 @@ adguard.veanswart.cloudns.be CNAME .
 *.adguard.veanswart.cloudns.be CNAME .
 digitallink.be CNAME .
 *.digitallink.be CNAME .
+dns.fifux.be CNAME .
+*.dns.fifux.be CNAME .
 dns.housedenolf.be CNAME .
 *.dns.housedenolf.be CNAME .
 dns.jimirobaer.be CNAME .
@@ -1037,6 +1039,8 @@ roucious.dyndns-remote.com CNAME .
 *.roucious.dyndns-remote.com CNAME .
 rafi.dynns.com CNAME .
 *.rafi.dynns.com CNAME .
+saomai.dynu.com CNAME .
+*.saomai.dynu.com CNAME .
 safe.eaccelera.com CNAME .
 *.safe.eaccelera.com CNAME .
 easyhandshake.com CNAME .
@@ -2469,6 +2473,8 @@ ag.felixf.eu CNAME .
 *.ag.felixf.eu CNAME .
 dns.filipccz.eu CNAME .
 *.dns.filipccz.eu CNAME .
+dns.friezer.eu CNAME .
+*.dns.friezer.eu CNAME .
 gammesfeld.eu CNAME .
 *.gammesfeld.eu CNAME .
 dns.grinevich.eu CNAME .

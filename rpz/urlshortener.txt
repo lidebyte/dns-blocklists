@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778399280 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778443200 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 May 2026 07:48 UTC
-; Version: 2026.0510.0748.28
+; Last modified: 10 May 2026 20:00 UTC
+; Version: 2026.0510.2000.25
 ; Syntax: RPZ
-; Number of entries: 19842
+; Number of entries: 19854
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -4295,6 +4295,8 @@ ezlinkcloaker.com CNAME .
 *.ezlinkcloaker.com CNAME .
 ezwashing.com CNAME .
 *.ezwashing.com CNAME .
+ezylnk.com CNAME .
+*.ezylnk.com CNAME .
 f1mate.com CNAME .
 *.f1mate.com CNAME .
 f5url.com CNAME .
@@ -11359,6 +11361,8 @@ deheh.ir CNAME .
 *.deheh.ir CNAME .
 drnx.ir CNAME .
 *.drnx.ir CNAME .
+e9e.ir CNAME .
+*.e9e.ir CNAME .
 ebbco.ir CNAME .
 *.ebbco.ir CNAME .
 ee9.ir CNAME .
@@ -12095,6 +12099,8 @@ dre.li CNAME .
 *.dre.li CNAME .
 dunia.li CNAME .
 *.dunia.li CNAME .
+emu.li CNAME .
+*.emu.li CNAME .
 eys.li CNAME .
 *.eys.li CNAME .
 g-o.li CNAME .
@@ -15055,6 +15061,8 @@ ftnt.net CNAME .
 *.ftnt.net CNAME .
 gafee.net CNAME .
 *.gafee.net CNAME .
+ganalytics.net CNAME .
+*.ganalytics.net CNAME .
 gatustox.net CNAME .
 *.gatustox.net CNAME .
 gbpg.net CNAME .
@@ -16013,6 +16021,8 @@ link.entrust4.org CNAME .
 *.link.entrust4.org CNAME .
 dwzz.eu.org CNAME .
 *.dwzz.eu.org CNAME .
+f5i.org CNAME .
+*.f5i.org CNAME .
 findmylink.org CNAME .
 *.findmylink.org CNAME .
 folm.org CNAME .
@@ -18493,6 +18503,8 @@ cutlnk.top CNAME .
 *.cutlnk.top CNAME .
 et2.top CNAME .
 *.et2.top CNAME .
+foee.top CNAME .
+*.foee.top CNAME .
 hnpa.top CNAME .
 *.hnpa.top CNAME .
 itdmusic.top CNAME .

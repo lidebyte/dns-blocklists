@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778405880 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778443260 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 May 2026 09:38 UTC
-; Version: 2026.0510.0938.36
+; Last modified: 10 May 2026 20:01 UTC
+; Version: 2026.0510.2001.02
 ; Syntax: RPZ
-; Number of entries: 25166
+; Number of entries: 25210
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -800,6 +800,8 @@ eurostreaming.best CNAME .
 *.eurostreaming.best CNAME .
 eurostreamings.best CNAME .
 *.eurostreamings.best CNAME .
+filmsenzalimiti.best CNAME .
+*.filmsenzalimiti.best CNAME .
 flyembed.best CNAME .
 *.flyembed.best CNAME .
 guardaserietv.best CNAME .
@@ -1660,6 +1662,8 @@ free2read.cc CNAME .
 *.free2read.cc CNAME .
 freemp3.cc CNAME .
 *.freemp3.cc CNAME .
+freemp3juices.cc CNAME .
+*.freemp3juices.cc CNAME .
 freshwap.cc CNAME .
 *.freshwap.cc CNAME .
 fubar-kinogo.cc CNAME .
@@ -2414,6 +2418,8 @@ ffilms.club CNAME .
 *.ffilms.club CNAME .
 filmoflix.club CNAME .
 *.filmoflix.club CNAME .
+filmsenzalimiti.club CNAME .
+*.filmsenzalimiti.club CNAME .
 filmstreaming.club CNAME .
 *.filmstreaming.club CNAME .
 filmstreamingita.club CNAME .
@@ -2626,6 +2632,8 @@ f2movie.co CNAME .
 *.f2movie.co CNAME .
 f5movies.co CNAME .
 *.f5movies.co CNAME .
+filmesonlinegratis.co CNAME .
+*.filmesonlinegratis.co CNAME .
 filmlicious.co CNAME .
 *.filmlicious.co CNAME .
 filmpertutti.co CNAME .
@@ -4808,6 +4816,8 @@ extto.com CNAME .
 *.extto.com CNAME .
 eztv-torrent.com CNAME .
 *.eztv-torrent.com CNAME .
+eztvmirror.com CNAME .
+*.eztvmirror.com CNAME .
 eztvproxy.com CNAME .
 *.eztvproxy.com CNAME .
 eztvstatus.com CNAME .
@@ -4988,6 +4998,8 @@ flextorrents.com CNAME .
 *.flextorrents.com CNAME .
 flibustier64.com CNAME .
 *.flibustier64.com CNAME .
+flickystream.com CNAME .
+*.flickystream.com CNAME .
 flimmerstube.com CNAME .
 *.flimmerstube.com CNAME .
 flixdump.com CNAME .
@@ -5026,6 +5038,8 @@ footazo.com CNAME .
 *.footazo.com CNAME .
 footy-bite.com CNAME .
 *.footy-bite.com CNAME .
+footybite.com CNAME .
+*.footybite.com CNAME .
 foreverdrowning.com CNAME .
 *.foreverdrowning.com CNAME .
 formalitystresser.com CNAME .
@@ -5096,6 +5110,8 @@ freeroms.com CNAME .
 *.freeroms.com CNAME .
 freeserials.com CNAME .
 *.freeserials.com CNAME .
+freesoftonic.com CNAME .
+*.freesoftonic.com CNAME .
 freesportstime.com CNAME .
 *.freesportstime.com CNAME .
 freestreams-live1.com CNAME .
@@ -6178,6 +6194,8 @@ megakino2.com CNAME .
 *.megakino2.com CNAME .
 megakino3.com CNAME .
 *.megakino3.com CNAME .
+megakino4.com CNAME .
+*.megakino4.com CNAME .
 megamanmaker.com CNAME .
 *.megamanmaker.com CNAME .
 megamodapk.com CNAME .
@@ -7800,6 +7818,8 @@ sultansportv0350.com CNAME .
 *.sultansportv0350.com CNAME .
 sultansportv0470.com CNAME .
 *.sultansportv0470.com CNAME .
+sultansportv0770.com CNAME .
+*.sultansportv0770.com CNAME .
 sultansportv0810.com CNAME .
 *.sultansportv0810.com CNAME .
 sumorb.com CNAME .
@@ -11238,6 +11258,8 @@ extreme-down.in CNAME .
 *.extreme-down.in CNAME .
 fano.in CNAME .
 *.fano.in CNAME .
+filerio.in CNAME .
+*.filerio.in CNAME .
 filmstreaming.in CNAME .
 *.filmstreaming.in CNAME .
 fitgirl-repacks.in CNAME .
@@ -11440,6 +11462,8 @@ filmapik.info CNAME .
 *.filmapik.info CNAME .
 filmeseseriesonline.info CNAME .
 *.filmeseseriesonline.info CNAME .
+filmpertutti.info CNAME .
+*.filmpertutti.info CNAME .
 filmsenzalimiti.info CNAME .
 *.filmsenzalimiti.info CNAME .
 filmstreaming.info CNAME .
@@ -11456,6 +11480,8 @@ fxp-terminal.info CNAME .
 *.fxp-terminal.info CNAME .
 gamato.info CNAME .
 *.gamato.info CNAME .
+gameloo.info CNAME .
+*.gameloo.info CNAME .
 tracker.gbitt.info CNAME .
 *.tracker.gbitt.info CNAME .
 tracker-udp.gbitt.info CNAME .
@@ -11716,6 +11742,8 @@ eurostreaming.ink CNAME .
 *.eurostreaming.ink CNAME .
 extraflix.ink CNAME .
 *.extraflix.ink CNAME .
+futemax.ink CNAME .
+*.futemax.ink CNAME .
 gogo-flix.ink CNAME .
 *.gogo-flix.ink CNAME .
 hypeflix.ink CNAME .
@@ -12974,10 +13002,14 @@ doodstream.lol CNAME .
 *.doodstream.lol CNAME .
 dpstream.lol CNAME .
 *.dpstream.lol CNAME .
+eurostreaming.lol CNAME .
+*.eurostreaming.lol CNAME .
 eurostreamings.lol CNAME .
 *.eurostreamings.lol CNAME .
 filmstreaming.lol CNAME .
 *.filmstreaming.lol CNAME .
+flixhq.lol CNAME .
+*.flixhq.lol CNAME .
 freebooks.lol CNAME .
 *.freebooks.lol CNAME .
 fs12.lol CNAME .
@@ -17234,6 +17266,8 @@ eurostreamings.org CNAME .
 *.eurostreamings.org CNAME .
 everythingmoe.org CNAME .
 *.everythingmoe.org CNAME .
+evil-zone.org CNAME .
+*.evil-zone.org CNAME .
 ex-torrenty.org CNAME .
 *.ex-torrenty.org CNAME .
 exitorrent.org CNAME .
@@ -19654,6 +19688,8 @@ tracker.elektronik.ro CNAME .
 *.tracker.elektronik.ro CNAME .
 filelist.ro CNAME .
 *.filelist.ro CNAME .
+fshd.ro CNAME .
+*.fshd.ro CNAME .
 hgzone.ro CNAME .
 *.hgzone.ro CNAME .
 hianimes.ro CNAME .
@@ -20802,6 +20838,8 @@ flixanity.site CNAME .
 *.flixanity.site CNAME .
 flixpay.site CNAME .
 *.flixpay.site CNAME .
+flixwatch.site CNAME .
+*.flixwatch.site CNAME .
 fmoviesto.site CNAME .
 *.fmoviesto.site CNAME .
 fmoviestv.site CNAME .
@@ -23976,6 +24014,8 @@ fshare.vn CNAME .
 *.fshare.vn CNAME .
 getlink.vn CNAME .
 *.getlink.vn CNAME .
+eurostreaming.vote CNAME .
+*.eurostreaming.vote CNAME .
 eurostreaming.voto CNAME .
 *.eurostreaming.voto CNAME .
 ilgeniodellostreaming.voto CNAME .
@@ -24764,6 +24804,8 @@ filmy4play.xyz CNAME .
 *.filmy4play.xyz CNAME .
 firstrow1.xyz CNAME .
 *.firstrow1.xyz CNAME .
+flixanity.xyz CNAME .
+*.flixanity.xyz CNAME .
 fluxyrepacks.xyz CNAME .
 *.fluxyrepacks.xyz CNAME .
 fmhy.xyz CNAME .
@@ -24782,6 +24824,8 @@ fsapi.xyz CNAME .
 *.fsapi.xyz CNAME .
 fuckbitcoin.xyz CNAME .
 *.fuckbitcoin.xyz CNAME .
+full-tv.xyz CNAME .
+*.full-tv.xyz CNAME .
 fullmoviestar.xyz CNAME .
 *.fullmoviestar.xyz CNAME .
 gdrivedl.xyz CNAME .

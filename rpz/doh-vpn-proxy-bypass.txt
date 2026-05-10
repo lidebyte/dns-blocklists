@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778406300 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778443140 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 May 2026 09:45 UTC
-; Version: 2026.0510.0945.51
+; Last modified: 10 May 2026 19:59 UTC
+; Version: 2026.0510.1959.40
 ; Syntax: RPZ
-; Number of entries: 36602
+; Number of entries: 36612
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -941,6 +941,8 @@ adguard.veanswart.cloudns.be CNAME .
 *.adguard.veanswart.cloudns.be CNAME .
 digitallink.be CNAME .
 *.digitallink.be CNAME .
+dns.fifux.be CNAME .
+*.dns.fifux.be CNAME .
 dns.housedenolf.be CNAME .
 *.dns.housedenolf.be CNAME .
 dns.jimirobaer.be CNAME .
@@ -7557,6 +7559,8 @@ roucious.dyndns-remote.com CNAME .
 *.roucious.dyndns-remote.com CNAME .
 rafi.dynns.com CNAME .
 *.rafi.dynns.com CNAME .
+saomai.dynu.com CNAME .
+*.saomai.dynu.com CNAME .
 dzeron.com CNAME .
 *.dzeron.com CNAME .
 e-ix.com CNAME .
@@ -18897,6 +18901,8 @@ dns.filipccz.eu CNAME .
 *.dns.filipccz.eu CNAME .
 freewebproxy.eu CNAME .
 *.freewebproxy.eu CNAME .
+dns.friezer.eu CNAME .
+*.dns.friezer.eu CNAME .
 furriesarecute.furryplace.eu CNAME .
 *.furriesarecute.furryplace.eu CNAME .
 gammesfeld.eu CNAME .
@@ -25827,6 +25833,8 @@ schoolnotes.followork.net CNAME .
 *.schoolnotes.followork.net CNAME .
 fontsgoogleapis.net CNAME .
 *.fontsgoogleapis.net CNAME .
+for-privacy.net CNAME .
+*.for-privacy.net CNAME .
 foreverlets.net CNAME .
 *.foreverlets.net CNAME .
 foreverlian.net CNAME .
@@ -31321,6 +31329,8 @@ croxy.rocks CNAME .
 *.croxy.rocks CNAME .
 croxyproxy.rocks CNAME .
 *.croxyproxy.rocks CNAME .
+rh4.ext.rocks CNAME .
+*.rh4.ext.rocks CNAME .
 glados.rocks CNAME .
 *.glados.rocks CNAME .
 ixl.rocks CNAME .

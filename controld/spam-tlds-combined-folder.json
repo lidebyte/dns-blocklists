@@ -1337,6 +1337,13 @@
       }
     },
     {
+      "PK": "*.co.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.college",
       "action": {
         "do": 0,
@@ -4418,6 +4425,13 @@
     },
     {
       "PK": "lzk.hl.cn",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "magefan.top",
       "action": {
         "do": 1,
         "status": 1
@@ -7868,6 +7882,13 @@
       }
     },
     {
+      "PK": "*.us.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "usenet.agency",
       "action": {
         "do": 1,
@@ -7890,6 +7911,13 @@
     },
     {
       "PK": "*.us.kg",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.us.org",
       "action": {
         "do": 0,
         "status": 1

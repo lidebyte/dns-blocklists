@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 May 2026 07:48 UTC
-# Version: 2026.0510.0748.28
+# Last modified: 10 May 2026 20:00 UTC
+# Version: 2026.0510.2000.25
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9921
+# Number of entries: 9927
 #
 local=/0.gp/
 local=/00m.in/
@@ -2463,6 +2463,7 @@ local=/e37.eu/
 local=/e49.us/
 local=/e7.al/
 local=/e78installers.com/
+local=/e9e.ir/
 local=/s.ea-bank.com/
 local=/eaash.co/
 local=/l.ead.me/
@@ -2581,6 +2582,7 @@ local=/emmelinebrickner.com/
 local=/emojied.net/
 local=/emp.onl/
 local=/empukjeru.site/
+local=/emu.li/
 local=/enbl.tech/
 local=/encurta.ae/
 local=/encurtador.net/
@@ -2685,6 +2687,7 @@ local=/ezstat.ru/
 local=/ezurl.cc/
 local=/ezurl.co/
 local=/ezwashing.com/
+local=/ezylnk.com/
 local=/ezymanage.net/
 local=/ezyurl.co/
 local=/ezyurl.net/
@@ -2699,6 +2702,7 @@ local=/f24.link/
 local=/f3.social/
 local=/f44.link/
 local=/f4d.uk/
+local=/f5i.org/
 local=/f5url.com/
 local=/f5yo.com/
 local=/f6x.cn/
@@ -2859,6 +2863,7 @@ local=/fnoogy.com/
 local=/fnord.eu/
 local=/fnote.it/
 local=/foe.hn/
+local=/foee.top/
 local=/foll.link/
 local=/folm.org/
 local=/folu.me/
@@ -2971,6 +2976,7 @@ local=/gafee.net/
 local=/gallerylink.info/
 local=/gamegta.com/
 local=/gamerzchoices.com/
+local=/ganalytics.net/
 local=/gandi.link/
 local=/gangnam.at/
 local=/gantic.io/
