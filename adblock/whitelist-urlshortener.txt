@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 11 May 2026 14:42 UTC
-! Version: 2026.0511.1442.36
+! Last modified: 11 May 2026 19:58 UTC
+! Version: 2026.0511.1958.02
 ! Syntax: AdBlock
 !
 @@||00oo.lol^
@@ -824,7 +824,6 @@
 @@||r.babscon.com^
 @@||bacn.me^
 @@||go.badarinathgella.com^
-@@||baggyrepackingrocky.com^
 @@||bagneed.com^
 @@||baid.us^
 @@||baidam.services^
@@ -3404,6 +3403,7 @@
 @@||joy8.bond^
 @@||joyoflanguages.online^
 @@||jp22.net^
+@@||jpjp.io^
 @@||jppt.cc^
 @@||jprod.dev^
 @@||jq.lv^
@@ -3413,6 +3413,7 @@
 @@||jtagent.com^
 @@||jttfan.net^
 @@||juan365sms.com^
+@@||judidadu88.live^
 @@||jujubots.io^
 @@||jul.is^
 @@||jumpshare.com^
@@ -3439,6 +3440,7 @@
 @@||kaas.gg^
 @@||kabuzzle.com^
 @@||kagca.link^
+@@||kaileevllocmki.space^
 @@||kaitect.com^
 @@||kamozshomecatalog.com^
 @@||io.kanopus.org^
@@ -3456,6 +3458,7 @@
 @@||kaz.sk^
 @@||kazma.bio^
 @@||kbank.co^
+@@||kccim.ir^
 @@||kck.st^
 @@||kdo.link^
 @@||slurl.keatsmedia.ca^
@@ -3597,6 +3600,7 @@
 @@||kutt.it^
 @@||kutt.to^
 @@||kuttify.com^
+@@||kuxey.com^
 @@||kuyla.me^
 @@||kv.ci^
 @@||kve.so^
@@ -5020,7 +5024,6 @@
 @@||ou.gd^
 @@||k20.ou.edu^
 @@||oui.li^
-@@||oundhertobeconsist.org^
 @@||ouo.io^
 @@||ouo.press^
 @@||ouoi.in^

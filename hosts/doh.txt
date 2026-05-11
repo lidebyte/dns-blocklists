@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 May 2026 11:46 UTC
-# Version: 2026.0511.1146.58
+# Last modified: 11 May 2026 19:56 UTC
+# Version: 2026.0511.1956.26
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3916
+# Number of entries: 3918
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -2205,6 +2205,7 @@
 0.0.0.0 kallemarc.de
 0.0.0.0 adguard.kalyanmudumby.com
 0.0.0.0 dns.kamilszczepanski.com
+0.0.0.0 jp.kano.sh
 0.0.0.0 adguard.kantinyoyok.xyz
 0.0.0.0 dns.kapite.in
 0.0.0.0 dns.kapoww.tk
@@ -2330,6 +2331,7 @@
 0.0.0.0 yarp.lefolgoc.net
 0.0.0.0 externalmobiel.lekdijk.online
 0.0.0.0 sndkcuf.lekun.me
+0.0.0.0 lelux.fi
 0.0.0.0 dns.lepilleur.com
 0.0.0.0 dns.lermer.nl
 0.0.0.0 lesuo.top

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 May 2026 16:16 UTC
-# Version: 2026.0511.1616.54
+# Last modified: 11 May 2026 19:58 UTC
+# Version: 2026.0511.1958.33
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 12625
+# Number of entries: 12639
 #
 *.003396815.xyz
 *.004430.xyz
@@ -5896,6 +5896,7 @@
 *.data.kenecolor.com
 *.keohosting.net
 *.kerry410bks.com
+*.kevinsport.top
 *.kevinsports.top
 *.kevinsporttv.top
 *.keygen.us
@@ -5942,6 +5943,7 @@
 *.kingdomxxx.com
 *.kingmodapk.net
 *.kingmovie.online
+*.kingsite24.com
 *.kinkeadtech.com
 *.kino.cx
 *.kino-hit.com
@@ -5957,6 +5959,7 @@
 *.kinogo.inc
 *.kinogo.no
 *.kinogo.online
+*.kinogo.pink
 *.kinogo.rest
 *.kinogo.uk
 *.kinogo-720.net
@@ -5971,6 +5974,7 @@
 *.kinokong.net
 *.kinokong.pro
 *.kinokrad.cc
+*.kinokrad.fan
 *.kinokrad.film
 *.kinol.pl
 *.kinomall.ru
@@ -6030,6 +6034,8 @@
 *.kinox.by
 *.kinox.cards
 *.kinox.casa
+*.kinox.ceo
+*.kinox.city
 *.kinox.cloud
 *.kinox.club
 *.kinox.codes
@@ -6046,6 +6052,7 @@
 *.kinox.gr
 *.kinox.group
 *.kinox.haus
+*.kinox.id
 *.kinox.ink
 *.kinox.io
 *.kinox.it
@@ -6177,6 +6184,7 @@
 *.komikcast03.com
 *.komiksin.net
 *.komikstation.org
+*.komodoisland.net
 *.koora-live.io
 *.koora365.io
 *.kooralivs.com
@@ -6210,7 +6218,9 @@
 *.l33t-raws.org
 *.la-cale.space
 *.la123movies.com
+*.labaia.ws
 *.labtor.tv
+*.lacasadeltikitaka.net
 *.lacraiatorrent.com
 *.laden.to
 *.ladresstina.com
@@ -6261,6 +6271,7 @@
 *.layarkaca21.com
 *.layarkita.xyz
 *.layarlebar24.site
+*.layer13.net
 *.laze.cc
 *.le-production.tv
 *.leaker.me
@@ -6295,6 +6306,7 @@
 *.leninist.online
 *.tracker.leniter.org
 *.tracker.lenition.de
+*.leopard-raws.org
 *.leporno.de
 *.leporno.org
 *.lermangasonline.info
@@ -10308,7 +10320,9 @@
 *.taraftarium24-hdizle19.vip
 *.taraftarium24-patron33.vip
 *.taraftarium24bjk.com
+*.taraftarium24mac5.pro
 *.taraftarium24pro10.site
+*.taraftarium24pro12.site
 *.taringa.net
 *.tarjetaroja.me
 *.tarjetarojaenvivo.me

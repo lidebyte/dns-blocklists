@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 11 May 2026 14:42 UTC
-! Version: 2026.0511.1442.36
+! Last modified: 11 May 2026 19:58 UTC
+! Version: 2026.0511.1958.02
 ! Syntax: AdBlock
-! Number of entries: 9879
+! Number of entries: 9884
 !
 ||0.gp^
 ||00m.in^
@@ -3926,6 +3926,7 @@
 ||joyoflanguages.online^
 ||jp22.net^
 ||jpeg.ly^
+||jpjp.io^
 ||jppt.cc^
 ||jprod.dev^
 ||jq.lv^
@@ -3937,6 +3938,7 @@
 ||jttfan.net^
 ||ju.mp^
 ||juan365sms.com^
+||judidadu88.live^
 ||jug.im^
 ||jujubots.io^
 ||jul.is^
@@ -3966,6 +3968,7 @@
 ||kabuzzle.com^
 ||kagca.link^
 ||kagk.top^
+||kaileevllocmki.space^
 ||kaitect.com^
 ||kamo.es^
 ||kamozshomecatalog.com^
@@ -3989,6 +3992,7 @@
 ||kbank.co^
 ||kbit.co^
 ||kbitly.com^
+||kccim.ir^
 ||kck.st^
 ||kdo.link^
 ||slurl.keatsmedia.ca^
@@ -4150,6 +4154,7 @@
 ||kutt.to^
 ||kuttify.com^
 ||kuty.us^
+||kuxey.com^
 ||kuyla.me^
 ||kv.ci^
 ||kve.so^

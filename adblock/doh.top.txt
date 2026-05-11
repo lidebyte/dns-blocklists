@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 11 May 2026 11:47 UTC
-! Version: 2026.0511.1147.32
+! Last modified: 11 May 2026 19:57 UTC
+! Version: 2026.0511.1957.00
 ! Syntax: AdBlock
-! Number of entries: 3399
+! Number of entries: 3400
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -1980,6 +1980,7 @@
 ||yarp.lefolgoc.net^
 ||externalmobiel.lekdijk.online^
 ||sndkcuf.lekun.me^
+||lelux.fi^
 ||dns.lepilleur.com^
 ||dns.lermer.nl^
 ||lesuo.top^

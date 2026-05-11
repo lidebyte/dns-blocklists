@@ -308,13 +308,6 @@
       }
     },
     {
-      "PK": "animevietsub.lol",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
       "PK": "aniya.moe",
       "action": {
         "do": 1,
@@ -1155,6 +1148,13 @@
       }
     },
     {
+      "PK": "cheatsheets.zip",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "chessvibes.shop",
       "action": {
         "do": 1,
@@ -1802,13 +1802,6 @@
       "PK": "*.dental",
       "action": {
         "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "deportelibres.shop",
-      "action": {
-        "do": 1,
         "status": 1
       }
     },

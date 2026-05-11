@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 May 2026 11:46 UTC
-# Version: 2026.0511.1146.58
+# Last modified: 11 May 2026 19:56 UTC
+# Version: 2026.0511.1956.26
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3454
+# Number of entries: 3456
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1896,6 +1896,7 @@ local=/kaiwu.xyz/
 local=/kallemarc.de/
 local=/adguard.kalyanmudumby.com/
 local=/dns.kamilszczepanski.com/
+local=/jp.kano.sh/
 local=/adguard.kantinyoyok.xyz/
 local=/dns.kapite.in/
 local=/dns.kapoww.tk/
@@ -2014,6 +2015,7 @@ local=/adblock.leenit.kr/
 local=/yarp.lefolgoc.net/
 local=/externalmobiel.lekdijk.online/
 local=/sndkcuf.lekun.me/
+local=/lelux.fi/
 local=/dns.lepilleur.com/
 local=/dns.lermer.nl/
 local=/lesuo.top/

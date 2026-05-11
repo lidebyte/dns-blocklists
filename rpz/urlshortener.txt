@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778510520 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778529480 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 May 2026 14:42 UTC
-; Version: 2026.0511.1442.36
+; Last modified: 11 May 2026 19:58 UTC
+; Version: 2026.0511.1958.02
 ; Syntax: RPZ
-; Number of entries: 19758
+; Number of entries: 19768
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -4939,6 +4939,8 @@ kumawink.com CNAME .
 *.kumawink.com CNAME .
 kuttify.com CNAME .
 *.kuttify.com CNAME .
+kuxey.com CNAME .
+*.kuxey.com CNAME .
 kwebby.com CNAME .
 *.kwebby.com CNAME .
 kwurl.com CNAME .
@@ -10781,6 +10783,8 @@ jmeet.io CNAME .
 *.jmeet.io CNAME .
 jmpz.io CNAME .
 *.jmpz.io CNAME .
+jpjp.io CNAME .
+*.jpjp.io CNAME .
 jujubots.io CNAME .
 *.jujubots.io CNAME .
 jurl.io CNAME .
@@ -11325,6 +11329,8 @@ ilk.ir CNAME .
 *.ilk.ir CNAME .
 irbaz.ir CNAME .
 *.irbaz.ir CNAME .
+kccim.ir CNAME .
+*.kccim.ir CNAME .
 khtm.ir CNAME .
 *.khtm.ir CNAME .
 kkon.ir CNAME .
@@ -13111,6 +13117,8 @@ jamesastaten.live CNAME .
 *.jamesastaten.live CNAME .
 jilitrick.live CNAME .
 *.jilitrick.live CNAME .
+judidadu88.live CNAME .
+*.judidadu88.live CNAME .
 jxxl.live CNAME .
 *.jxxl.live CNAME .
 kopo.live CNAME .
@@ -17655,6 +17663,8 @@ getlink.space CNAME .
 *.getlink.space CNAME .
 jacesantiago.space CNAME .
 *.jacesantiago.space CNAME .
+kaileevllocmki.space CNAME .
+*.kaileevllocmki.space CNAME .
 link.space CNAME .
 *.link.space CNAME .
 linkbio.space CNAME .

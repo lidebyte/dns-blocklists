@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778516640 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778529420 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 May 2026 16:24 UTC
-; Version: 2026.0511.1624.14
+; Last modified: 11 May 2026 19:57 UTC
+; Version: 2026.0511.1957.16
 ; Syntax: RPZ
-; Number of entries: 36640
+; Number of entries: 36646
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -11665,6 +11665,8 @@ kuailianvpn123.com CNAME .
 *.kuailianvpn123.com CNAME .
 kuailianvsvpn.com CNAME .
 *.kuailianvsvpn.com CNAME .
+kuailianvv.com CNAME .
+*.kuailianvv.com CNAME .
 kuailianx.com CNAME .
 *.kuailianx.com CNAME .
 kuailiian.com CNAME .
@@ -19079,6 +19081,8 @@ finney.juk.fi CNAME .
 *.finney.juk.fi CNAME .
 lastentarvike.fi CNAME .
 *.lastentarvike.fi CNAME .
+lelux.fi CNAME .
+*.lelux.fi CNAME .
 dns.musikantit.fi CNAME .
 *.dns.musikantit.fi CNAME .
 nordvpn.fi CNAME .
@@ -32689,6 +32693,8 @@ lebron.ftp.sh CNAME .
 *.lebron.ftp.sh CNAME .
 schoolmath.hop.sh CNAME .
 *.schoolmath.hop.sh CNAME .
+jp.kano.sh CNAME .
+*.jp.kano.sh CNAME .
 dns.moog.sh CNAME .
 *.dns.moog.sh CNAME .
 onion.sh CNAME .

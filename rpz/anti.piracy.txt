@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778516160 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778529480 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 May 2026 16:16 UTC
-; Version: 2026.0511.1616.54
+; Last modified: 11 May 2026 19:58 UTC
+; Version: 2026.0511.1958.33
 ; Syntax: RPZ
-; Number of entries: 25250
+; Number of entries: 25278
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -1996,6 +1996,8 @@ vegamovies.center CNAME .
 *.vegamovies.center CNAME .
 hdmovie2.ceo CNAME .
 *.hdmovie2.ceo CNAME .
+kinox.ceo CNAME .
+*.kinox.ceo CNAME .
 mkvcinemas.ceo CNAME .
 *.mkvcinemas.ceo CNAME .
 tr.kxmp.cf CNAME .
@@ -2168,6 +2170,8 @@ tracker.hdcity.city CNAME .
 *.tracker.hdcity.city CNAME .
 hdmovie2.city CNAME .
 *.hdmovie2.city CNAME .
+kinox.city CNAME .
+*.kinox.city CNAME .
 moviesmod.city CNAME .
 *.moviesmod.city CNAME .
 r365.city CNAME .
@@ -5872,6 +5876,8 @@ kingdom-leaks.com CNAME .
 *.kingdom-leaks.com CNAME .
 kingdomxxx.com CNAME .
 *.kingdomxxx.com CNAME .
+kingsite24.com CNAME .
+*.kingsite24.com CNAME .
 kinkeadtech.com CNAME .
 *.kinkeadtech.com CNAME .
 kino-hit.com CNAME .
@@ -10076,6 +10082,8 @@ guardaserie.fan CNAME .
 *.guardaserie.fan CNAME .
 hdmovi2.fan CNAME .
 *.hdmovi2.fan CNAME .
+kinokrad.fan CNAME .
+*.kinokrad.fan CNAME .
 mycima.fan CNAME .
 *.mycima.fan CNAME .
 dood.fans CNAME .
@@ -11144,6 +11152,8 @@ flixtor.id CNAME .
 *.flixtor.id CNAME .
 tracker.kawaii.id CNAME .
 *.tracker.kawaii.id CNAME .
+kinox.id CNAME .
+*.kinox.id CNAME .
 pirateproxy.id CNAME .
 *.pirateproxy.id CNAME .
 soap2day.id CNAME .
@@ -15000,14 +15010,20 @@ kms-auto.net CNAME .
 *.kms-auto.net CNAME .
 komiksin.net CNAME .
 *.komiksin.net CNAME .
+komodoisland.net CNAME .
+*.komodoisland.net CNAME .
 kora4live.net CNAME .
 *.kora4live.net CNAME .
 kuribo64.net CNAME .
 *.kuribo64.net CNAME .
+lacasadeltikitaka.net CNAME .
+*.lacasadeltikitaka.net CNAME .
 lalbatte.net CNAME .
 *.lalbatte.net CNAME .
 larozaa.net CNAME .
 *.larozaa.net CNAME .
+layer13.net CNAME .
+*.layer13.net CNAME .
 learningdl.net CNAME .
 *.learningdl.net CNAME .
 legendary-torrents.net CNAME .
@@ -17594,6 +17610,8 @@ tracker.leechersparadise.org CNAME .
 *.tracker.leechersparadise.org CNAME .
 tracker.leniter.org CNAME .
 *.tracker.leniter.org CNAME .
+leopard-raws.org CNAME .
+*.leopard-raws.org CNAME .
 leporno.org CNAME .
 *.leporno.org CNAME .
 lesbians4u.org CNAME .
@@ -18760,6 +18778,8 @@ dontorrent.pink CNAME .
 *.dontorrent.pink CNAME .
 guardaserie.pink CNAME .
 *.guardaserie.pink CNAME .
+kinogo.pink CNAME .
+*.kinogo.pink CNAME .
 moviesmod.pink CNAME .
 *.moviesmod.pink CNAME .
 streamingcommunityz.pink CNAME .
@@ -19272,6 +19292,8 @@ streamcloud.pro CNAME .
 *.streamcloud.pro CNAME .
 superflix.pro CNAME .
 *.superflix.pro CNAME .
+taraftarium24mac5.pro CNAME .
+*.taraftarium24mac5.pro CNAME .
 themfire.pro CNAME .
 *.themfire.pro CNAME .
 tjrksciow.pro CNAME .
@@ -20998,6 +21020,8 @@ sweetvideo.site CNAME .
 *.sweetvideo.site CNAME .
 taraftarium24pro10.site CNAME .
 *.taraftarium24pro10.site CNAME .
+taraftarium24pro12.site CNAME .
+*.taraftarium24pro12.site CNAME .
 thepibay.site CNAME .
 *.thepibay.site CNAME .
 thepinks.site CNAME .
@@ -22590,6 +22614,8 @@ jpxjpg2.top CNAME .
 *.jpxjpg2.top CNAME .
 kankan35.top CNAME .
 *.kankan35.top CNAME .
+kevinsport.top CNAME .
+*.kevinsport.top CNAME .
 kevinsports.top CNAME .
 *.kevinsports.top CNAME .
 kevinsporttv.top CNAME .
@@ -24472,6 +24498,8 @@ kiss-anime.ws CNAME .
 *.kiss-anime.ws CNAME .
 kmspico.ws CNAME .
 *.kmspico.ws CNAME .
+labaia.ws CNAME .
+*.labaia.ws CNAME .
 limetorrent.ws CNAME .
 *.limetorrent.ws CNAME .
 losmovies.ws CNAME .

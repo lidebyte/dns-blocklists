@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 11 May 2026 11:46 UTC
-! Version: 2026.0511.1146.58
+! Last modified: 11 May 2026 19:56 UTC
+! Version: 2026.0511.1956.26
 ! Syntax: AdBlock
-! Number of entries: 3454
+! Number of entries: 3456
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -1897,6 +1897,7 @@
 ||kallemarc.de^
 ||adguard.kalyanmudumby.com^
 ||dns.kamilszczepanski.com^
+||jp.kano.sh^
 ||adguard.kantinyoyok.xyz^
 ||dns.kapite.in^
 ||dns.kapoww.tk^
@@ -2015,6 +2016,7 @@
 ||yarp.lefolgoc.net^
 ||externalmobiel.lekdijk.online^
 ||sndkcuf.lekun.me^
+||lelux.fi^
 ||dns.lepilleur.com^
 ||dns.lermer.nl^
 ||lesuo.top^

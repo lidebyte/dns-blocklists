@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 May 2026 16:16 UTC
-# Version: 2026.0511.1616.01
+# Last modified: 11 May 2026 20:04 UTC
+# Version: 2026.0511.2004.14
 # Syntax: Domains (without subdomains)
-# Number of entries: 48145
+# Number of entries: 48201
 #
 0-bdmbet.com
 00.game
@@ -28359,6 +28359,7 @@ joycasino-ns1.top
 joycasino-nt2.top
 joycasino-nvn.top
 joycasino-nw1.top
+joycasino-nxe.top
 joycasino-nxn.top
 joycasino-ny1.top
 joycasino-nzmylsc.top
@@ -28376,6 +28377,7 @@ joycasino-pahf.top
 joycasino-php.top
 joycasino-pis.top
 joycasino-play25.top
+joycasino-prp.top
 joycasino-pxb.top
 joycasino-qb1.top
 joycasino-qc1.top
@@ -28445,6 +28447,7 @@ joycasinoseo.ru
 joyjili.com
 joypoker.fun
 jozz.com
+jozzcasino.xyz
 casino-zonder-cruks.jp.net
 casinononaams.jp.net
 nine-casino.jp.net
@@ -28461,6 +28464,7 @@ jpswisata.com
 jqka668.net
 jqkbet.bet
 jqkweb.bet
+js88333.com
 jt0c6h.com
 ju38ffj3.com
 ju88casinobet.com
@@ -28475,6 +28479,7 @@ jucatorul.ro
 judgecasino.com
 judi-sbobet.org
 judikaya.com
+judiresmi88.net
 judisgp.autos
 judol88daftar.com
 judol999.net
@@ -28506,7 +28511,9 @@ juicystakes.eu
 jujuslot.com
 jukkru888bets.com
 juleshudson.com
+juliancoleman.com
 julius-casino5.com
+juliusbergh.com
 juliuscasino-eu.com
 juliuscasino-france.com
 juliuscasino-france.online
@@ -28615,7 +28622,9 @@ k4v5r6m.com
 k52goodgame.xyz
 k55bet.com
 k6612.vip
+k66878.com
 k6688.vip
+k66pg.com
 k674.casino
 k69565.vip
 k6bet7.com
@@ -28635,12 +28644,14 @@ k88.win
 k88casinowin.com
 k88cccasinobet.com
 k899.net
+k8bet5.com
 k8betcasinovip.com
 k8betcasinowin.com
 k8betno1.com
 k8casino.io
 k8funbet.com
 k8vina1.net
+k8vip300.com
 k8vncasinobet.com
 k99betsl.com
 k9ccappcasino.com
@@ -28658,6 +28669,7 @@ k9k9casinovip.com
 k9win.com
 k9wincasinovip.com
 k9winind.com
+k9winpro.com
 kaalsarpyog.com
 kaasino.com
 kaasinoscasino.com
@@ -28671,6 +28683,8 @@ kachingocasino.net
 kachingocasino.org
 kadoma.store
 kaifalali.com
+kaimanga.com
+kaimonotatujin.com
 kairosbetcasino.pt
 kaisartoto4d.net
 kaiserslots.com
@@ -28690,6 +28704,7 @@ kakao-casino.site
 kakaocasinokorea.com
 kakatogel.net
 kakek123.xyz
+kakekcm88bet.com
 kakekjp.info
 kalebet-casinoadresi.vip
 kalebet-casinogiris.vip
@@ -28720,10 +28735,12 @@ kaniebetsu.net
 kannada247.co
 kannada247.in
 kansino.nl
+kanu-lilienthal.de
 kanuuna.com
 kanuunacasino.fun
 kanuunacasino.net
 kanuunacasino.xyz
+kaos88.com
 kapowcasino.dk
 kaptenkujitu.com
 kaptenslot.site
@@ -28777,6 +28794,7 @@ katakunci.com
 gwfd.katawee.net
 q7sm4r.katawee.net
 katherinemariephotography.com
+kathleenpagana.com
 katran.online
 katsubet.com
 katsubet1.com
@@ -28819,6 +28837,7 @@ kdslotshk.store
 kdslotsidny.online
 kdu7pokerdom.com
 kdv8.casino
+kebaya4djoin.com
 kebet.ai
 kebet.com
 kebetsx.com
@@ -28878,6 +28897,8 @@ kent-ru-casino.website
 kent-zerkalo-casinoo.ru
 kent0505.casino
 kent1298.casino
+kent159.casino
+kent160.casino
 kent2006.casino
 kent2092.casino
 kent24slots-catt21.top
@@ -28906,12 +28927,15 @@ kentcasino-rmr.top
 kentcasino-vzs.top
 kentcasino101.buzz
 kentcasino1344.top
+kentcasino559.buzz
+kentcasino741.buzz
 kentcasino94.buzz
 kentcasinoofficial4.top
 kentslots.com
 kentt1.casino
 kenttop-casino.top
 kenya1xbet.com
+kenzoventures.io
 keo88casino.com
 keo88casinovip.com
 keo88casinowin.com
@@ -28921,6 +28945,7 @@ kepo4ddaftar.com
 kerasalju.com
 kerbau28slots.com
 kerdos.gr
+keristoto.site
 kessbet.com
 ketua168.org
 ketuaslotsakti.com
@@ -28935,7 +28960,9 @@ kfbet.com
 kfkfpg.com
 kfkfspg.com
 kfkiki.com
+khabarone.com
 khacasinogames.com
+khandaitv.com
 khcasino.club
 khcasino.site
 khelo24.casino
@@ -28956,6 +28983,7 @@ kichlerlightinglights.com
 kickr.com
 kidoz.shop
 kidschancewa.com
+kidsnspace.org
 kiensuper.com
 kiki49-thaicasino.com
 kilat303.info
@@ -28984,11 +29012,13 @@ king-joy.online
 king2025.com
 king2026.com
 king288.com
+king403.xyz
 king52casino.com
 king52casinoslot.com
 king52casinovip.com
 king52casinowin.com
 king88.com
+king88.fan
 king88.mobi
 king88casinovip.com
 king88casinowin.com
@@ -29029,6 +29059,7 @@ kinghills.com
 kinghills-casino.lol
 kinghills-casino.onl
 kinghills-casino.us
+kingjackcasino.com
 kingjohnnie.info
 kingjohnnie-australia-casino.com
 kingjohnniecasino.top
@@ -29056,6 +29087,7 @@ kingsbet.cz
 kingscasino-rozvadov.cz
 kingscasinorozvadov.de
 kingsid.com
+kingslot888.live
 kingslotsgame.com
 kingslotsgo.com
 kingslotsvip.com
@@ -29066,6 +29098,7 @@ kingswin.com
 kingtogel.com
 kingvulkan.pro
 kingxxbets.com
+kingyumrestaurant.com
 kinh79casinobet.com
 kinkzwithstyle.com
 kinoxitt.net
@@ -29101,10 +29134,12 @@ kjccasinovip.com
 kjccasinowin.com
 kk-jili.com
 kk45a.com
+kk5366.com
 kk55casino.com
 kk55casinobet.com
 kk55casinovip.com
 kk70bets.com
+kk8155.com
 kk888pg.com
 kk88casino.com
 kk88casinovip.com
@@ -29178,12 +29213,14 @@ kofc12497.org
 kohocasinos.space
 koicasino.com
 koinaga88m.com
+koinhoki.poker
 kojimaboat.jp
 kokibets.com
 kokiprediksijitu.com
 koko.bet
 koko-bets-casino.com
 koko-casino.org
+koko138login.com
 koko188-ca.com
 koko5000.store
 koko69ok.com
@@ -29238,6 +29275,8 @@ kometa-casino0.team
 kometa-casino43.live
 kometa-casino7.com
 kometa-casino777.com
+kometa571.casino
+kometa572.casino
 kometacasino.team
 kometacasino-best1.top
 kometacasino-best2.top
@@ -29273,6 +29312,7 @@ kometacasino979.com
 kometacasino999.com
 kometalanding.com
 kometatop-casino.top
+komhedos.com
 komodo88.top
 komopoker.org
 konabetcasino.top
@@ -29291,6 +29331,7 @@ kongcasino-se.com
 kongcasinonos.com
 kongebonus.com
 konglo88.info
+kongsibet.online
 kongslotsuk.com
 konibet.com
 konicasino.com
@@ -29326,12 +29367,14 @@ krakencassino.com
 kralbet-casinogiris.vip
 kralbetsitemiz.vip
 krazylarrys.com
+krazymikez.com
 krikya.io
 krikya-casino.com
 krikya8.casino
 krikya8casino.com
 krikyabetonline.casino
 krikyacasino.click
+krikyacasino.online
 kristina-1xbet-team.com
 kroon-casino.org
 krooncasino.com
@@ -29346,6 +29389,7 @@ krooncasino-gr.com
 krooncasino-se.com
 krp3.casino
 krspostory.com
+kryptocasino.pl
 kryptocasino-de2026.org
 kryptocasinos.com
 kryptosino.com
@@ -29381,6 +29425,7 @@ ku711-casino.click
 ku88.fun
 ku88.pro
 ku998.net
+kuajaya.com
 kuas4d.com
 kub7pokerdom.com
 kubet.ac
@@ -29437,9 +29482,11 @@ kulebets264.com
 kulebets265.com
 kulebets266.com
 kulebets267.com
+kulinersehat.com
 kulitpisang.com
 kultaslots.net
 kultaslots.org
+kumantapputar.live
 kun-aguero.casino
 kun-aguero-casino.com
 kungaslottet.se
@@ -29536,6 +29583,7 @@ lac-leamycasino.com
 lacasinoonline.com
 lacky-slots.com
 lackyslots.com
+ladangjiwa.com
 ladangpoker.net
 ladangpoker.org
 ladangtoto.store
@@ -29544,6 +29592,7 @@ ladbrokes.com
 ladbrokes.de
 ladbrokesbelgium.be
 ladbrokescasino.ch
+ladiesnews.net
 ladycasino.ro
 ladyhammer.casino
 ladylindacasino.co
@@ -29552,6 +29601,7 @@ lafiesta-casino.org
 lafiestacasino.com
 lafiestacasino.se
 lagalaxy1.co
+lagigacor.xyz
 lagomcasino.net
 lagranjita.com
 lahoradelgambling.com
@@ -29867,7 +29917,9 @@ leon-casino-z0w1c.icu
 leon-casino1.team
 leon-casinoaus.com
 leon-casinos-au.com
+leon-zerkalo-bets2.top
 leon101.bet
+leon106.bet
 leon109.bet
 leon133.bet
 leon157.bet
@@ -29889,6 +29941,7 @@ leonbet4.in
 leonbets.com
 leonbets.net
 leonbets-14play.xyz
+leonbets-9p07.click
 leonbets-casino-4bbn9.info
 leonbets-casino-advrc.lol
 leonbets-casino-g0cac.sbs
@@ -29900,6 +29953,7 @@ leonbets-official26.xyz
 leonbets-zerkalo-jzumx.info
 leonbets-zerkalo-main6.top
 leonbetsbkr.xyz
+leonbetsmirror.ru
 leonbrmail.com
 leoncas.com
 leoncasino.club
@@ -29975,6 +30029,7 @@ lev-casino-tcn.top
 lev-casino-ti3.ru
 lev-casino-twi.top
 lev-casino-ugl.buzz
+lev-casino-utt.top
 lev-casino-vlz.top
 lev-casino-vn0.ru
 lev-casino-zrb.top
@@ -30012,6 +30067,7 @@ lex-casinovip30.com
 lex-casinovip31.com
 lexafy6.com
 lexcasino.boutique
+lexcasino.buzz
 lexcasino.lat
 lexcasino.mom
 lexcasino.pics

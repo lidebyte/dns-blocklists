@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 May 2026 16:24 UTC
-# Version: 2026.0511.1624.14
+# Last modified: 11 May 2026 19:57 UTC
+# Version: 2026.0511.1957.16
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 18320
+# Number of entries: 18323
 #
 *.000000555.xyz
 *.ss.0001.xyz
@@ -9653,6 +9653,7 @@
 *.adguard.kalyanmudumby.com
 *.kamberi.vip
 *.dns.kamilszczepanski.com
+*.jp.kano.sh
 *.adguard.kantinyoyok.xyz
 *.kanye-west.top
 *.kaomojiz.mom
@@ -10154,6 +10155,7 @@
 *.kuailianvpn1.one
 *.kuailianvpn123.com
 *.kuailianvsvpn.com
+*.kuailianvv.com
 *.kuailianx.com
 *.kuailianx.org
 *.kuailiian.com
@@ -10378,6 +10380,7 @@
 *.externalmobiel.lekdijk.online
 *.skill.vocab.lekovic.ca
 *.sndkcuf.lekun.me
+*.lelux.fi
 *.dns.lepilleur.com
 *.lerbix.xyz
 *.dns.lermer.nl

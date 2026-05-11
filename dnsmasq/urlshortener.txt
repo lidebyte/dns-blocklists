@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 May 2026 14:42 UTC
-# Version: 2026.0511.1442.36
+# Last modified: 11 May 2026 19:58 UTC
+# Version: 2026.0511.1958.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9879
+# Number of entries: 9884
 #
 local=/0.gp/
 local=/00m.in/
@@ -3925,6 +3925,7 @@ local=/joy8.bond/
 local=/joyoflanguages.online/
 local=/jp22.net/
 local=/jpeg.ly/
+local=/jpjp.io/
 local=/jppt.cc/
 local=/jprod.dev/
 local=/jq.lv/
@@ -3936,6 +3937,7 @@ local=/jtagent.com/
 local=/jttfan.net/
 local=/ju.mp/
 local=/juan365sms.com/
+local=/judidadu88.live/
 local=/jug.im/
 local=/jujubots.io/
 local=/jul.is/
@@ -3965,6 +3967,7 @@ local=/kaas.gg/
 local=/kabuzzle.com/
 local=/kagca.link/
 local=/kagk.top/
+local=/kaileevllocmki.space/
 local=/kaitect.com/
 local=/kamo.es/
 local=/kamozshomecatalog.com/
@@ -3988,6 +3991,7 @@ local=/kazma.bio/
 local=/kbank.co/
 local=/kbit.co/
 local=/kbitly.com/
+local=/kccim.ir/
 local=/kck.st/
 local=/kdo.link/
 local=/slurl.keatsmedia.ca/
@@ -4149,6 +4153,7 @@ local=/kutt.it/
 local=/kutt.to/
 local=/kuttify.com/
 local=/kuty.us/
+local=/kuxey.com/
 local=/kuyla.me/
 local=/kv.ci/
 local=/kve.so/
