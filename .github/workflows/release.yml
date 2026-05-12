@@ -85,23 +85,40 @@ jobs:
 
   purge:
     runs-on: ubuntu-latest
+    needs: [release, close-issues, relabel-issues]
     steps:
       - name: Checkout
         uses: actions/checkout@v6
-      - name: Determine URLs to purge
+        with:
+          fetch-depth: 2
+
+      - name: Determine changed URLs to purge
         id: purge_urls
+        shell: bash
         run: |
-          baseUrl="https://cdn.jsdelivr.net/gh/${{ github.repository }}@latest"
-          urls=""
-          for f in `find adblock adguard controld dnsmasq domains hosts ips pac rpz share wildcard -name "*.txt" -o -name "*.pac" -o -name "*.json" -type f`; do
-            urls+="${baseUrl}/${f},"
-          done
-          echo "urls=${urls%,*}" >> $GITHUB_OUTPUT
+          base="https://cdn.jsdelivr.net/gh/${{ github.repository }}@latest"
+
+          mapfile -t files < <(
+            git diff --name-only HEAD^ HEAD -- \
+              adblock adguard controld dnsmasq domains hosts ips pac rpz share wildcard \
+            | grep -E '\.(txt|pac|json)$' || true
+          )
+
+          if [ "${#files[@]}" -eq 0 ]; then
+            echo "urls=" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          printf 'urls=' >> "$GITHUB_OUTPUT"
+          printf '%s\n' "${files[@]}" | sed "s#^#${base}/#" | paste -sd, - >> "$GITHUB_OUTPUT"
+
       - name: Purge CDN cache
+        if: steps.purge_urls.outputs.urls != ''
         uses: kaycodes13/purge-jsdelivr-cache@v1.1.0
+        continue-on-error: true
         with:
           url: ${{ steps.purge_urls.outputs.urls }}
-    needs: [release, close-issues, relabel-issues]
+          attempts: 5
 
   stale:
     runs-on: ubuntu-latest
