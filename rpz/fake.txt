@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778601660 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778617620 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 May 2026 16:01 UTC
-; Version: 2026.0512.1601.58
+; Last modified: 12 May 2026 20:27 UTC
+; Version: 2026.0512.2027.13
 ; Syntax: RPZ
-; Number of entries: 29704
+; Number of entries: 29730
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -764,6 +764,8 @@ persol.at CNAME .
 *.persol.at CNAME .
 pinkowien.at CNAME .
 *.pinkowien.at CNAME .
+platin-teppichreinigung.at CNAME .
+*.platin-teppichreinigung.at CNAME .
 schluesseldienst.platz-1.at CNAME .
 *.schluesseldienst.platz-1.at CNAME .
 polene.at CNAME .
@@ -13430,6 +13432,8 @@ pitviperosterreich.com CNAME .
 *.pitviperosterreich.com CNAME .
 pitvipersunglassesnz.com CNAME .
 *.pitvipersunglassesnz.com CNAME .
+placement-action.com CNAME .
+*.placement-action.com CNAME .
 placidco.com CNAME .
 *.placidco.com CNAME .
 placidena.com CNAME .
@@ -13510,6 +13514,8 @@ pokemon-kuscheltier.com CNAME .
 *.pokemon-kuscheltier.com CNAME .
 pokemon-laden.com CNAME .
 *.pokemon-laden.com CNAME .
+pokestores.com CNAME .
+*.pokestores.com CNAME .
 polarbtc.com CNAME .
 *.polarbtc.com CNAME .
 polenboeller-deutschland.com CNAME .
@@ -13562,8 +13568,12 @@ portefeuillephoto.com CNAME .
 *.portefeuillephoto.com CNAME .
 portesdunet.com CNAME .
 *.portesdunet.com CNAME .
+portugalnewstoday.com CNAME .
+*.portugalnewstoday.com CNAME .
 potencia-shop.com CNAME .
 *.potencia-shop.com CNAME .
+potencianovelowebaruhaz.com CNAME .
+*.potencianovelowebaruhaz.com CNAME .
 potens-middel.com CNAME .
 *.potens-middel.com CNAME .
 potenz-pillen-mann.com CNAME .
@@ -13624,6 +13634,8 @@ premiumfeuer.com CNAME .
 *.premiumfeuer.com CNAME .
 premiumfunds.com CNAME .
 *.premiumfunds.com CNAME .
+premiumpricepills.com CNAME .
+*.premiumpricepills.com CNAME .
 premiumvip-spot.com CNAME .
 *.premiumvip-spot.com CNAME .
 trading.premiumyields.com CNAME .
@@ -21692,6 +21704,10 @@ holzfursfeuer.de CNAME .
 *.holzfursfeuer.de CNAME .
 holzgartenprofi.de CNAME .
 *.holzgartenprofi.de CNAME .
+holzhack-schnitzel.de CNAME .
+*.holzhack-schnitzel.de CNAME .
+holzhausenug.de CNAME .
+*.holzhausenug.de CNAME .
 holzkerssenbrock.de CNAME .
 *.holzkerssenbrock.de CNAME .
 holzlangbau.de CNAME .
@@ -23886,6 +23902,8 @@ poolsteine-online.de CNAME .
 *.poolsteine-online.de CNAME .
 popland-berlin.de CNAME .
 *.popland-berlin.de CNAME .
+porfave.de CNAME .
+*.porfave.de CNAME .
 porte-monnaie.de CNAME .
 *.porte-monnaie.de CNAME .
 poseidonstore.de CNAME .
@@ -23930,6 +23948,8 @@ primavo24.de CNAME .
 *.primavo24.de CNAME .
 prime-analytics.de CNAME .
 *.prime-analytics.de CNAME .
+primecapitals.de CNAME .
+*.primecapitals.de CNAME .
 primefunds.de CNAME .
 *.primefunds.de CNAME .
 primuselektro.de CNAME .
@@ -25166,6 +25186,8 @@ topoathleticschuhe.de CNAME .
 *.topoathleticschuhe.de CNAME .
 topoffice24.de CNAME .
 *.topoffice24.de CNAME .
+toponlinecasinodeutschland.de CNAME .
+*.toponlinecasinodeutschland.de CNAME .
 tovara.de CNAME .
 *.tovara.de CNAME .
 traummeister.de CNAME .
@@ -28540,6 +28562,8 @@ pharmacysavingshub.shop CNAME .
 *.pharmacysavingshub.shop CNAME .
 piscineria.shop CNAME .
 *.piscineria.shop CNAME .
+playstationstore.shop CNAME .
+*.playstationstore.shop CNAME .
 point-x.shop CNAME .
 *.point-x.shop CNAME .
 pooloase.shop CNAME .
@@ -29186,6 +29210,8 @@ petoutlet.store CNAME .
 *.petoutlet.store CNAME .
 power-laden.store CNAME .
 *.power-laden.store CNAME .
+primehouse.store CNAME .
+*.primehouse.store CNAME .
 promomarkt.store CNAME .
 *.promomarkt.store CNAME .
 puffercase.store CNAME .

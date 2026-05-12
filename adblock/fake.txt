@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 12 May 2026 16:01 UTC
-! Version: 2026.0512.1601.58
+! Last modified: 12 May 2026 20:27 UTC
+! Version: 2026.0512.2027.13
 ! Syntax: AdBlock
-! Number of entries: 14852
+! Number of entries: 14865
 !
 ||eoutlet.2023shoponline.com^
 ||trader.212group.de^
@@ -6691,8 +6691,10 @@
 ||holzexpress24.eu^
 ||holzfursfeuer.de^
 ||holzgartenprofi.de^
+||holzhack-schnitzel.de^
 ||holzhandelhensel.com^
 ||holzharry.shop^
+||holzhausenug.de^
 ||holzheiz.com^
 ||holzkerssenbrock.de^
 ||holzlangbau.de^
@@ -10752,6 +10754,7 @@
 ||pixulovesk.click^
 ||pizza-blitz-bestellen.de^
 ||pk.toys^
+||placement-action.com^
 ||placidco.com^
 ||placidena.com^
 ||planeoboden.com^
@@ -10765,6 +10768,7 @@
 ||plasmarkt.com^
 ||plasticsdaily.com^
 ||plasticshor.com^
+||platin-teppichreinigung.at^
 ||platincoin.com^
 ||platinwerk.de^
 ||platten-paradies.com^
@@ -10775,6 +10779,7 @@
 ||playful-design.com^
 ||playfulx.com^
 ||playrush.de^
+||playstationstore.shop^
 ||playtronia.com^
 ||playzoner.com^
 ||plazafashions.com^
@@ -10814,6 +10819,7 @@
 ||pokemon-kuscheltier.com^
 ||pokemon-laden.com^
 ||pokemonfiguren.de^
+||pokestores.com^
 ||polarbtc.com^
 ||polenboeller-deutschland.com^
 ||polene.at^
@@ -10851,16 +10857,19 @@
 ||popularhitech.com^
 ||populartoolstore.com^
 ||porcelai.com^
+||porfave.de^
 ||porlabs.com^
 ||portablecoolerpro.com^
 ||porte-monnaie.de^
 ||portefeuillephoto.com^
 ||portesdunet.com^
+||portugalnewstoday.com^
 ||poseidonstore.de^
 ||post-nachsenden.de^
 ||postcard.news^
 ||potberg-handel.de^
 ||potencia-shop.com^
+||potencianovelowebaruhaz.com^
 ||potens-middel.com^
 ||potenz-pillen-mann.com^
 ||potenzapo24.com^
@@ -10912,6 +10921,7 @@
 ||premiumee.com^
 ||premiumfeuer.com^
 ||premiumfunds.com^
+||premiumpricepills.com^
 ||premiumvip-spot.com^
 ||presalesxai.com^
 ||prescribet.com^
@@ -10942,11 +10952,13 @@
 ||prime-deutschland.com^
 ||prime-e-bike.eu^
 ||prime-smog.com^
+||primecapitals.de^
 ||primecargotransit.com^
 ||primecoffeezone.com^
 ||primefms.com^
 ||primefunds.de^
 ||primehealthplus.org^
+||primehouse.store^
 ||primekredit.com^
 ||primelogisticllc.com^
 ||primepharm24.com^
@@ -13364,6 +13376,7 @@
 ||topoathleticschuhe.de^
 ||topoffice24.com^
 ||topoffice24.de^
+||toponlinecasinodeutschland.de^
 ||toponlinepharmacies.com^
 ||toppdf.co^
 ||toppillsstore.com^

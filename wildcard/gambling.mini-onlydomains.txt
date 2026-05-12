@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 May 2026 17:11 UTC
-# Version: 2026.0512.1711.12
+# Last modified: 12 May 2026 20:14 UTC
+# Version: 2026.0512.2014.37
 # Syntax: Domains (without subdomains)
-# Number of entries: 47260
+# Number of entries: 47293
 #
 web-119bet-2025-google-vip-119bet.119-hello.com
 web-166betcom-vip-166betcc-166betvip-2025fa-east1.166tiger.com
@@ -35956,21 +35956,38 @@ pinco15ko6.casino
 pinco1819.casino
 pinco1casino.top
 pinco201.casino
+pinco210.casino
+pinco229.casino
+pinco233.casino
 pinco2casino.top
 pinco3casino.top
 pinco4.casino
+pinco490.casino
+pinco498.casino
 pinco4casino.top
 pinco5casino.top
 pinco644casinos.online
 pinco644casinos.ru
 pinco66casino.best
+pinco676.casino
+pinco677.casino
 pinco6casino.top
+pinco725.casino
 pinco76casino.best
 pinco7casino.top
+pinco817.casino
 pinco821.casino
+pinco824.casino
+pinco847.casino
+pinco848.casino
+pinco874.casino
 pinco8751.casino
 pinco8casino.top
 pinco9014.casino
+pinco923.casino
+pinco924.casino
+pinco941.casino
+pinco943.casino
 pinco9casino.top
 pincocasino.cfd
 pincocasino.mom
@@ -36012,6 +36029,8 @@ pinko309.casino
 pinko310.casino
 pinko575.casino
 pinko602.casino
+pinko669.casino
+pinko671.casino
 pinko728.casino
 pinko762.casino
 pinko763.casino
@@ -36024,6 +36043,7 @@ pinnacle.ca
 pinnacle.com
 pinnacle888.com
 pinnaclesports.com
+pinocasino.click
 pinocasino.cloud
 pinocasino.com
 pinoycasino.app
@@ -36104,6 +36124,7 @@ pinupcasino.lol
 pinupcasino.makeup
 pinupcasino.mom
 pinupcasino.monster
+pinupcasino.one
 pinupcasino.pics
 pinupcasino.rest
 pinupcasino.skin
@@ -36153,6 +36174,7 @@ piratepotscasino.com
 pirots5casino.uk
 pisang.shop
 pisang96.net
+pishaachini.net
 pistolo.com
 pistolo-casino-czechia.com
 pistolo-casinoe.com
@@ -36238,6 +36260,7 @@ plangamescasino.club
 planningpokerkg.space
 planpokera.com
 plastik88.com
+platin-casino.click
 platincasino.com
 platincasino.es
 platincasinos-de.com
@@ -36357,6 +36380,7 @@ playbingoplus.com
 playblackjack.nl
 playbok88.com
 playbonds.com
+playbook88login.com
 playboom.com
 playbracco.com
 playbunnycasino.club
@@ -36425,6 +36449,7 @@ playfortuna-casino-tn6.ru
 playfortuna-casino-ux2.ru
 playfortuna-cazino.link
 playfortunaslots55.casino
+playforwin.store
 playfrank.com
 playgame-slots-b.com
 playgame-slotsb.com
@@ -36512,6 +36537,7 @@ playuk.com
 playukcasinos.org
 playunited.com
 playusalotteries.com
+playusaonlinepoker.com
 playuzu.com
 playuzu.es
 playuzu.mx
@@ -36532,6 +36558,7 @@ playzone-casino.org
 plazabolaid.org
 plazahotelcasino.com
 plazaroyal.com
+plc5kg7bubuallbigcu2.com
 plcngame.com
 pledoo.com
 pledoocasino.de
@@ -36658,11 +36685,13 @@ poker88.lat
 poker88.mobile
 poker88.one
 poker88.page
+poker88.sbs
 poker88gacor2026.cfd
 poker88gacor2026.click
 poker88gacor2026.cyou
 poker88gacor2026.sbs
 poker88gacor2026.xyz
+poker88gas.net
 poker88official.com
 poker88search.com
 pokeractionbook.com
@@ -37058,6 +37087,7 @@ pokersindepositogratis.com
 pokersite.fr
 pokersiteleribiz.com
 pokersites.com
+pokersites.xyz
 pokerslogic.com
 pokerslot-jokeronline24hr.com
 pokerslot-machinesonlineeu.com
@@ -37299,6 +37329,7 @@ pp11dm.com
 pp23va1.com
 pp777.biz
 pp88.asia
+pp88casino.com
 pp88casinovip.com
 pp9vip.co
 ppbet.club
@@ -37320,6 +37351,7 @@ prada567.com
 pradabets508.com
 pradapg.com
 pragmatic77casino.com
+pragmaticplayers.org
 pragmatikslots.com
 praiapgslots.com
 prairie-rest.casino
@@ -37470,6 +37502,7 @@ protipster.com
 protipster.es
 prowin.ro
 prowin247.com
+prudencei.shop
 pruvabets.com
 ps.im
 ps1321.com

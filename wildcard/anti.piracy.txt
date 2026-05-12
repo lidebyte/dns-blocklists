@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 May 2026 17:12 UTC
-# Version: 2026.0512.1712.06
+# Last modified: 12 May 2026 20:08 UTC
+# Version: 2026.0512.2008.05
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 12670
+# Number of entries: 12677
 #
 *.hichemtigsetorgy.0fees.net
 *.tracker.0x7c0.com
@@ -8653,6 +8653,7 @@
 *.piratebay.cc
 *.piratebay.fm
 *.piratebay.icu
+*.piratebay.life
 *.piratebay.live
 *.piratebay.one
 *.piratebay.org
@@ -8660,6 +8661,7 @@
 *.piratebay.pro
 *.piratebay.red
 *.piratebay.surf
+*.piratebay.tech
 *.piratebay.to
 *.piratebay.website
 *.piratebay.zone
@@ -8743,6 +8745,7 @@
 *.pl1.com
 *.planete-bd.org
 *.planete-lolo.com
+*.planete-lolo.su
 *.planetgames.fr
 *.platinmods.com
 *.play5.ru
@@ -8816,6 +8819,7 @@
 *.portable4pc.com
 *.portalultautv.com
 *.porytka.com
+*.poshbd.net
 *.potlockermovies.com
 *.potuk.com
 *.pow7.com
@@ -8854,6 +8858,7 @@
 *.primewire.li
 *.primewire.mov
 *.primewire.nexus
+*.primewire.si
 *.primewire.tf
 *.primewire.vc
 *.primewire.zip
@@ -8885,6 +8890,7 @@
 *.proncams.tv
 *.propernoun.net
 *.prophecywatch.com
+*.proporno.org
 *.prosmart.by
 *.prostylex.org
 *.protonmovies.online
@@ -11165,6 +11171,7 @@
 *.torrentspain.com
 *.torrentspy.com
 *.torrenttip211.top
+*.torrenttip225.top
 *.torrentturk.com
 *.torrenttyphoon.com
 *.torrentube.net

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 May 2026 17:20 UTC
-# Version: 2026.0512.1720.27
+# Last modified: 12 May 2026 20:06 UTC
+# Version: 2026.0512.2006.54
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 18354
+# Number of entries: 18358
 #
 *.ss.0001.xyz
 *.ilovethiswebsite.001-lab.space
@@ -5868,6 +5868,7 @@
 *.family.pietre-la-rinichi.ro
 *.dns.pine-home.de
 *.happynewdestenation.pintravel.ro
+*.lousiana-history-careers-ixl-geoly-education.pittentrepreneur.com
 *.dns.pizzari.me
 *.67dircen67.pjabbari.com
 *.doh.plaawan.uk
@@ -14748,6 +14749,7 @@
 *.pipster.org
 *.pipster.ru
 *.pipstervpn.help
+*.piraproxy.org
 *.piratebayproxy.co
 *.piro.live
 *.pirzjdlz.com
@@ -14917,6 +14919,7 @@
 *.premzon.com
 *.prenzor.ru
 *.presidentalhistory.wiki
+*.prettycoolmath.com
 *.prevent.run
 *.prflux.xyz
 *.prgoorzz.cc
@@ -15057,6 +15060,7 @@
 *.proxybrowse.info
 *.proxybrowser.app
 *.proxybrowser.co
+*.proxybrowser.info
 *.proxybrowser.org
 *.proxybrowser.xyz
 *.proxybrowsing.com

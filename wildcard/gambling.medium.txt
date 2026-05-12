@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 May 2026 17:09 UTC
-# Version: 2026.0512.1709.26
+# Last modified: 12 May 2026 20:12 UTC
+# Version: 2026.0512.2012.16
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 105785
+# Number of entries: 105895
 #
 *.web-119bet-2025-google-vip-119bet.119-hello.com
 *.1paamr.12inr.com
@@ -79736,6 +79736,7 @@
 *.pika-kasinot.com
 *.pikakasino.com
 *.pikakasinot.fi
+*.pikbet88.net
 *.pikebit.com
 *.pikslots.com
 *.pilih138.com
@@ -79753,6 +79754,7 @@
 *.pin-up-0493.casino
 *.pin-up-056-casino.kz
 *.pin-up-056casino.kz
+*.pin-up-120.casino
 *.pin-up-360casino.com
 *.pin-up-375-casino.kz
 *.pin-up-634-casino.kz
@@ -79932,6 +79934,7 @@
 *.pin-up-casino-kamb7.top
 *.pin-up-casino-kamb8.top
 *.pin-up-casino-kazakhstan.homes
+*.pin-up-casino-kbh1.top
 *.pin-up-casino-kbs1.top
 *.pin-up-casino-kdo9.top
 *.pin-up-casino-kes9.top
@@ -80084,6 +80087,8 @@
 *.pin-up1.casino
 *.pin-up1.in
 *.pin-up2.casino
+*.pin-up20.casino
+*.pin-up201.casino
 *.pin-up2026casino.com
 *.pin-up24l.com
 *.pin-up323.casino
@@ -80091,6 +80096,7 @@
 *.pin-up3846.casino
 *.pin-up3847.casino
 *.pin-up4.casino
+*.pin-up40.casino
 *.pin-up444.casino
 *.pin-up458.casino
 *.pin-up464.casino
@@ -80106,6 +80112,7 @@
 *.pin-up7.casino
 *.pin-up723.casino
 *.pin-up76.casino
+*.pin-up829.casino
 *.pin-up83.casino
 *.pin-up84.casino
 *.pin-up85.casino
@@ -80293,10 +80300,12 @@
 *.pinco-casino220.buzz
 *.pinco-casino29.casino
 *.pinco-casino30.casino
+*.pinco-casino357.buzz
 *.pinco-casino361.team
 *.pinco-casino362.team
 *.pinco-casino363.team
 *.pinco-casino365.team
+*.pinco-casino383.buzz
 *.pinco-casino45.casino
 *.pinco-casino46.casino
 *.pinco-casino471.buzz
@@ -80359,21 +80368,35 @@
 *.pinco1218.casino
 *.pinco1304.casino
 *.pinco1314.casino
+*.pinco134.casino
 *.pinco150426.casino
 *.pinco153db.casino
 *.pinco154db.casino
 *.pinco155db.casino
 *.pinco156db.casino
 *.pinco157db.casino
+*.pinco158.casino
+*.pinco159.casino
 *.pinco15ko5.casino
 *.pinco15ko6.casino
 *.pinco168db.casino
 *.pinco169db.casino
 *.pinco170db.casino
 *.pinco1819.casino
+*.pinco185.casino
 *.pinco1casino.top
 *.pinco201.casino
+*.pinco206.casino
+*.pinco210.casino
+*.pinco212.casino
+*.pinco213.casino
+*.pinco215.casino
+*.pinco216.casino
+*.pinco217.casino
+*.pinco229.casino
+*.pinco233.casino
 *.pinco2387.casino
+*.pinco273.casino
 *.pinco2773.casino
 *.pinco2774.casino
 *.pinco289.casino
@@ -80382,25 +80405,60 @@
 *.pinco307.casino
 *.pinco3casino.top
 *.pinco4.casino
+*.pinco405.casino
+*.pinco489.casino
+*.pinco490.casino
+*.pinco498.casino
 *.pinco4casino.top
+*.pinco506.casino
+*.pinco521.casino
+*.pinco553.casino
+*.pinco569.casino
 *.pinco588.casino
 *.pinco595.casino
 *.pinco598.casino
 *.pinco5casino.top
+*.pinco603.casino
 *.pinco605.casino
 *.pinco644.win
 *.pinco644casinos.online
 *.pinco644casinos.ru
 *.pinco66casino.best
+*.pinco676.casino
+*.pinco677.casino
 *.pinco6casino.top
+*.pinco704.casino
+*.pinco725.casino
+*.pinco761.casino
+*.pinco766.casino
 *.pinco76casino.best
+*.pinco794.casino
 *.pinco7casino.top
+*.pinco802.casino
 *.pinco805.casino
+*.pinco817.casino
 *.pinco821.casino
+*.pinco824.casino
+*.pinco841.casino
+*.pinco847.casino
+*.pinco848.casino
+*.pinco852.casino
+*.pinco855.casino
+*.pinco874.casino
 *.pinco8751.casino
+*.pinco89.casino
+*.pinco891.casino
 *.pinco8casino.top
+*.pinco901.casino
 *.pinco9014.casino
 *.pinco913.casino
+*.pinco917.casino
+*.pinco919.casino
+*.pinco921k.casino
+*.pinco923.casino
+*.pinco924.casino
+*.pinco941.casino
+*.pinco943.casino
 *.pinco95.casino
 *.pinco969.casino
 *.pinco9casino.top
@@ -80489,6 +80547,9 @@
 *.pinko602.casino
 *.pinko629.casino
 *.pinko630.casino
+*.pinko668.casino
+*.pinko669.casino
+*.pinko671.casino
 *.pinko682.casino
 *.pinko726.casino
 *.pinko727.casino
@@ -80526,6 +80587,7 @@
 *.pino-casino-online-nl.com
 *.pino-casino-play.nl
 *.pino-casinonederland.com
+*.pinocasino.click
 *.pinocasino.cloud
 *.pinocasino.com
 *.pinocasino-go.com
@@ -80549,6 +80611,7 @@
 *.pinterbet.it
 *.pinterbetcasino.net
 *.pinterbetcasino-italy.com
+*.pintutotoslot.com
 *.pinup-056-casino.kz
 *.pinup-197casino.com
 *.pinup-2.casino
@@ -80583,6 +80646,7 @@
 *.pinup-bets.ec
 *.pinup-bets.ke
 *.pinup-casino.ca
+*.pinup-casino.club
 *.pinup-casino.ink
 *.pinup-casino.nl
 *.pinup-casino.se
@@ -80695,6 +80759,7 @@
 *.pinup-ruscasino.com
 *.pinup-slots-play.ru
 *.pinup-slots7.fun
+*.pinup-team.casino
 *.pinup-tgb15.casino
 *.pinup-tgb16.casino
 *.pinup-uz-casino.com
@@ -80738,6 +80803,8 @@
 *.pinup253.casino
 *.pinup254.casino
 *.pinup263.casino
+*.pinup292.casino
+*.pinup293.casino
 *.pinup2casino.top
 *.pinup312.casino
 *.pinup318.casino
@@ -80786,6 +80853,7 @@
 *.pinupcasino.makeup
 *.pinupcasino.mom
 *.pinupcasino.monster
+*.pinupcasino.one
 *.pinupcasino.pics
 *.pinupcasino.rest
 *.pinupcasino.se
@@ -80841,6 +80909,7 @@
 *.pinupcasinosite-top.win
 *.pinupcazino.com
 *.pinupmxcasino.com
+*.pinupoficialnicasino777.win
 *.pinuponlinecasino.cl
 *.pinuponlinecasino.pe
 *.pinupru-casino.com
@@ -80890,9 +80959,12 @@
 *.pirrcasino.nu
 *.pirrcasino.se
 *.pisang.shop
+*.pisang77bet.com
 *.pisang88slot.net
 *.pisang96.net
 *.pisangbetoke.xyz
+*.pisanggoreng.online
+*.pishaachini.net
 *.pisobets1.com
 *.pisoluck.ph
 *.pistolo.com
@@ -80913,6 +80985,7 @@
 *.pistolocasino-eu.com
 *.pistolocasino-hu.org
 *.pistolocasino-login-hu.com
+*.pistolocasino-official.fr
 *.pistolocasino-online.cz
 *.pistolocasino-online.pl
 *.pistolocasino-online-de.com
@@ -80936,6 +81009,8 @@
 *.pistoloscasino-es.com
 *.pistolslot.org
 *.pitbet.io
+*.piton99fun.com
+*.pittardclinic.com
 *.pix-casino.co
 *.pix-casinos.com
 *.pix88slots.com
@@ -80966,6 +81041,7 @@
 *.pj2v1f.com
 *.pjo88.com
 *.pjspins.casino
+*.pjx68.com
 *.pk.poker
 *.pk-1xbet.site
 *.pk1xbet.com
@@ -80989,6 +81065,7 @@
 *.pk7casino-ph.com
 *.pk888.com
 *.pk88bets.com
+*.pk88casino.com
 *.pk88casinobet.com
 *.pk88casinovip.com
 *.pk88vncasinobet.com
@@ -81107,6 +81184,8 @@
 *.planpokera.com
 *.plasa4d.org
 *.plastik88.com
+*.plata.casino
+*.platin-casino.click
 *.platin-casino-austria.com
 *.platin-casino7.com
 *.platina-casino-sverige.com
@@ -81333,6 +81412,7 @@
 *.playbok88.com
 *.playbonds.com
 *.playbonuscrab.com
+*.playbook88login.com
 *.playboom.com
 *.playboom24.com
 *.playboom24casino.online
@@ -81472,6 +81552,7 @@
 *.playfortunacasino.space
 *.playfortunaslots-rub.ru
 *.playfortunaslots55.casino
+*.playforwin.store
 *.playfrank.com
 *.playfrankcasino.ng
 *.playfreebetsnow.com
@@ -81484,6 +81565,7 @@
 *.playgate.casino
 *.playgcasino.club
 *.playgd.mobi
+*.playgg.bet
 *.playgg.ro
 *.playglobal3.com
 *.playgoogle33.com
@@ -81541,6 +81623,7 @@
 *.playlive.com
 *.playlive-casino-za.com
 *.playmacallan.casino
+*.playmanila.com
 *.playmatika.it
 *.playmaxcasino-au.com
 *.playmeslots.site
@@ -81681,6 +81764,7 @@
 *.playunited.com
 *.playunitedslots.com
 *.playusalotteries.com
+*.playusaonlinepoker.com
 *.playuzu.com
 *.playuzu.es
 *.playuzu.mx
@@ -81726,6 +81810,7 @@
 *.plazaroyal.com
 *.plazecasino.com
 *.plc.casino
+*.plc5kg7bubuallbigcu2.com
 *.plcasino.casino
 *.plcngame.com
 *.pleasingpics.com
@@ -81757,6 +81842,7 @@
 *.plinkocasinopolska.com
 *.plinkocasinosites.net
 *.plinkoplusslots.games
+*.plinkos.casino
 *.plinkoslots.games
 *.plinkoslotsgame.site
 *.plinkoxslots.games
@@ -81774,6 +81860,7 @@
 *.plushcasino.com
 *.plushcasino.info
 *.pluto.poker
+*.plutobets.com
 *.pluzslots.shop
 *.plverdecasinos.com
 *.pm.by
@@ -81942,6 +82029,7 @@
 *.poker1x1.de
 *.poker247vip.com
 *.poker253.buzz
+*.poker33.com
 *.poker389slot.com
 *.poker396.net
 *.poker396.org
@@ -81979,12 +82067,16 @@
 *.poker88.mobile
 *.poker88.one
 *.poker88.page
+*.poker88.sbs
+*.poker888a.com
 *.poker888jpx.live
+*.poker88asia.pro
 *.poker88gacor2026.cfd
 *.poker88gacor2026.click
 *.poker88gacor2026.cyou
 *.poker88gacor2026.sbs
 *.poker88gacor2026.xyz
+*.poker88gas.net
 *.poker88gg.us
 *.poker88hub.com
 *.poker88official.com
@@ -81999,6 +82091,7 @@
 *.pokeradminpanel.xyz
 *.pokeradv.com
 *.pokeragenda.com
+*.pokerah.com
 *.pokerai.casino
 *.pokerai.gg
 *.pokeraibots.com
@@ -82078,6 +82171,7 @@
 *.pokerbo.news
 *.pokerboard.info
 *.pokerbom.ru
+*.pokerbonis.com
 *.pokerbonus100.de
 *.pokerbonus123.de
 *.pokerbonus360.de
@@ -82712,6 +82806,7 @@
 *.pokerlistings.com
 *.pokerlistings.it
 *.pokerlivegames.digital
+*.pokerliving.net
 *.pokerlizard.com
 *.pokerloco.com
 *.pokerlogger.com
@@ -82905,6 +83000,7 @@
 *.pokersiteleriguncelliste.top
 *.pokersites.com
 *.pokersites.io
+*.pokersites.xyz
 *.pokerslogic.com
 *.pokerslot-jokeronline24hr.com
 *.pokerslot-machinesonlineeu.com
@@ -83110,6 +83206,7 @@
 *.pokiesman.com
 *.pokiesman.net
 *.pokiesnet84.com
+*.pokiesokay.com
 *.pokiesonlinecasinos.com
 *.pokiespins.com
 *.pokiespins-casino.net
@@ -83124,6 +83221,7 @@
 *.pokobetcasinoo.nl
 *.pokyspincasino.com
 *.pol88.us
+*.pola-maxwin.com
 *.poland-betandreas-casino.com
 *.poland-casino-betandreas.com
 *.poland-januszcasino.pl
@@ -83175,6 +83273,7 @@
 *.pommi.com
 *.pommicasino-finland.com
 *.pommicasino-login.com
+*.pompa138.org
 *.pompa77.casino
 *.pompsieslots.com
 *.ponceplazahotilandcasino.com
@@ -83262,6 +83361,7 @@
 *.porschepg.com
 *.port-chambers.com
 *.portacasinohub.com
+*.portaldescargas.com
 *.portalhercules138.shop
 *.portalionline.com
 *.portaljatim.id
@@ -83392,11 +83492,13 @@
 *.pp-casino.org
 *.pp-pokerth.com
 *.pp11dm.com
+*.pp12.lol
 *.pp23va1.com
 *.pp388bets.com
 *.pp388bets.net
 *.pp777.biz
 *.pp88.asia
+*.pp88casino.com
 *.pp88casinobet.com
 *.pp88casinovip.com
 *.pp9.bet
@@ -83435,6 +83537,7 @@
 *.prabusetia.xyz
 *.prabuslot777.com
 *.practicepoker.xyz
+*.prada4d1.com
 *.prada55login.com
 *.prada567.com
 *.prada77daftar.com
@@ -83454,6 +83557,7 @@
 *.pragmaticplaycasino.ca
 *.pragmaticplaycasino.uk
 *.pragmaticplaycasinos.org
+*.pragmaticplayers.org
 *.pragmaticslots1.com
 *.pragmatik555.com
 *.pragmatikslots.com
@@ -83497,6 +83601,7 @@
 *.premierlivecasino.com
 *.premierpavingseattle.com
 *.premioesportemega.net
+*.premiorossellini.com
 *.premium-online-casino-experience.digital
 *.premiumbetcasino.pro
 *.premiumbritcasino.com
@@ -83505,7 +83610,9 @@
 *.premiumtradings.com
 *.prernierlivecasino.com
 *.presidenslot.best
+*.presidenslot.bet
 *.presidenslot.cash
+*.presidenslot.dev
 *.presidenslot.life
 *.presidenslot.online
 *.presidenslot.store
@@ -83663,6 +83770,7 @@
 *.pro-casino.ru
 *.pro-casino-play.live
 *.pro-gambling.com
+*.pro-wink123plus.bet
 *.pro100money.com
 *.pro28.casino
 *.pro888.bet
@@ -83726,6 +83834,7 @@
 *.prontobets.se
 *.prontocasino.com
 *.propbetsus.com
+*.propersix.casino
 *.propertyadvices.net
 *.prophet.lat
 *.prophetx.co
@@ -83743,6 +83852,7 @@
 *.prowin247.com
 *.prowincasinos.com
 *.proximabets.com
+*.prudencei.shop
 *.pruvabets.com
 *.ps.im
 *.ps1321.com

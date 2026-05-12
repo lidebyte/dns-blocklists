@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 May 2026 15:59 UTC
-# Version: 2026.0512.1559.13
+# Last modified: 12 May 2026 19:57 UTC
+# Version: 2026.0512.1957.51
 # Syntax: Domains (without subdomains)
-# Number of entries: 52234
+# Number of entries: 52282
 #
 fd01ce9a02.0012e30263.com
 c2c4aecf0a.0073a85a5d.com
@@ -490,6 +490,9 @@ sc.banqueoutkill.com
 darian.bantengan.xyz
 uc.barbelfaldfee.com
 do.barmfellists.com
+chiyouranai.base.shop
+tokujiro.base.shop
+uranai1111.base.shop
 ah.basothomug.com
 bv.basquedbeloam.com
 ck.bastardzingaro.com
@@ -2192,6 +2195,29 @@ qiejushuo.hirz.cn
 ko.hissesgestapo.com
 sl.hitchdong.com
 jt.hitchelunspun.com
+app-google-zh.hl.cn
+apps-chrome-zh.hl.cn
+chrome-gooogle-zh.hl.cn
+chrome-hl.hl.cn
+cn-qishui-music-zh.hl.cn
+cnzh-google-apps.hl.cn
+dy-qishuimusic.hl.cn
+go-todesk.hl.cn
+googgle-chrrome.hl.cn
+google-chrrome-zh.hl.cn
+google-google-chrome-google-com.hl.cn
+line-go.hl.cn
+music-qishuiyinle.hl.cn
+office-wps-hl.hl.cn
+qh-qishuiyinyue.hl.cn
+qishuimusic-cn.hl.cn
+qishuiyinyue-music.hl.cn
+todesk-web.hl.cn
+todesk-zh.hl.cn
+yd-fanyi.hl.cn
+zh-googlle-chrome.hl.cn
+zh-todesk-cn.hl.cn
+zhcn-googele.hl.cn
 map.hnchj.com
 dciclc.hnwuamu.top
 m10.hoes.tube
@@ -2492,8 +2518,6 @@ hh.koloaller.com
 vg.konigakeyset.top
 mf.kotocolmar.com
 hl.koumyscampana.com
-lc.krgirls.beauty
-me.krgirls.beauty
 ym.kronionsuttas.com
 dciclc.kucnmtd.top
 dciclc.kucnwtd.top
@@ -3234,6 +3258,7 @@ bt.pilinshantih.com
 wb.pilusligalerie.com
 ei.pimplyhasten.com
 bn.pinnalpaiocke.shop
+hw.pinocledicers.shop
 ej.pintthed.com
 tr.pitapatcalloo.com
 rj.pitchifermium.com
@@ -4189,7 +4214,6 @@ vjvw.vvlqbmzlmmmol.top
 very.vvmkzawomebwm.top
 vzq.vyvjoevkyvoy.top
 abs.w-dating.site
-v6.w0of-woof.com
 uy.waffiemoted.com
 rc.waffiespintry.com
 mj.waggedprimely.digital
@@ -13754,6 +13778,7 @@ barganzwien.at
 bargraphbreezedwelling.com
 barian-therd.com
 bariesnaw.com
+barkequilibrium.com
 barkersceleb.com
 barlear.ru
 barleyconsequently.com
@@ -13782,7 +13807,6 @@ bartramagynous.com
 barxpf.icu
 barytemarkup.com
 barytethynnid.com
-base.shop
 baseballletters.com
 basejudgementquizmaster.com
 basementunfamiliar.com
@@ -27457,7 +27481,6 @@ hkpjnieraypcn.site
 hkwrwuqlcpelq.site
 hkygalzumaqv.com
 hkzhongzhuangzhan.cc
-hl.cn
 hl2u.com
 hlbmaat.com
 hldijphcjszui.store
@@ -31022,6 +31045,7 @@ krenkzfiuzryw.store
 kreomfoq.com
 kreps.xyz
 krfqlrxvmoyrj.online
+krgirls.beauty
 krhmtdzuxxmsc.space
 krigiamisdeal.click
 krisydark.com
@@ -38430,6 +38454,7 @@ piloussouffl.com
 pimajted.org
 pimplecarvetoe.com
 pimpleinflammable.com
+pimzqbkblhv.com
 pin2me.com
 pinayflix.vip
 pinceratoengineering.com
@@ -38437,10 +38462,12 @@ pinchingsacred.com
 pinchsquirrel.com
 pinehollow-glade.com
 pinemonumentssaxophone.com
+pinewoodriver.com
 pingguomi.com
 pingstuffingstrap.com
 pink-high.pro
 pinkedstowed.com
+pinkinsect.pro
 pinkkeelsynchronize.com
 pinklabel.com
 pinkleo.pro
@@ -38504,6 +38531,7 @@ piupiustarship.com
 piuyt.com
 pivotrunner.com
 piwhatechi.pro
+piwvbroxtol.com
 pix73.com
 pixazza.com
 pixbduooqbddq.website
@@ -38589,6 +38617,7 @@ plasmidjerky.com
 plastercreatedexpansion.com
 plasticapplication.com
 plasticerror.com
+plasticforever.pro
 plasticindicationcrusade.com
 plasticmysterioussequel.com
 plasticskilledlogs.com
@@ -38950,6 +38979,7 @@ popunderz.com
 popupaval.com
 popupblockergold.com
 popupblockermax.app
+popupchat-live.com
 popupdomination.com
 popupgoldblocker.net
 popupplus.org
@@ -38987,6 +39017,7 @@ portentjonasfewer.com
 portionmedieval.com
 portionsmeltdown.com
 portkingric.net
+portly-definition.pro
 portlycalendar.pro
 portlydrum.com
 portraitblock.com
@@ -39033,6 +39064,7 @@ postureracial.com
 postyourlife.com
 posvd.com
 potable-hearing.pro
+potassaseafolk.shop
 potatoesadept.com
 potatoeshandgrip.com
 potatoesown.com
@@ -39059,6 +39091,7 @@ pouncetusk.com
 poundrestaurant.com
 pourbaiser.com
 poureddecree.com
+pourpressedcling.com
 poursuspense.com
 pouvifehi.com
 povertyadultery.com
@@ -39071,6 +39104,7 @@ poweraffiliates.ai
 powerain.biz
 powerautoservice.com
 poweredbyliquidfire.mobi
+powerful-dot.com
 powerful-poem.com
 powerfulcap.com
 powerfulcopper.com
@@ -39082,6 +39116,7 @@ powerfultextmessagegeographical.com
 powergamer.info
 poweridc.com
 poweringimprovement.org
+powerlessspeed.pro
 powerlinks.com
 powers-electric.com
 powferads.com
@@ -39169,14 +39204,18 @@ precautionwailing.com
 precedenowadaysbarbecue.com
 precious-election.com
 precious-expert.pro
+precious-farmer.pro
 precious-primary.com
+precious-series.pro
 precious-state.pro
 preciousnormal.pro
 preciousplanes.com
 preciousprofile.pro
 preciousstrategy.com
+precioussuccess.com
 precipitationdisgracefulpeeks.com
 precipitationsphererobots.com
+precisejoker.com
 preciselytemp.com
 precisionclick.com
 precisionexhaustports.com
@@ -39238,8 +39277,11 @@ prescottdrugrehabcenters.com
 prescribescallion.com
 prescriptionadulatorylimelight.com
 presenceanti.com
+present-bother.com
+presentationbishop.com
 presentedsatisfactoryrefuel.com
 presentlylobes.com
+presentstore.pro
 preservehalt.com
 presidentialtranslatingrealize.com
 press-here-to-continue.com
@@ -39307,6 +39349,7 @@ primaryads.com
 primarypoot.com
 primaryquantity.com
 prime-ever.com
+prime-knife.pro
 prime-vpnet.com
 primeappointmentsforyou.com
 primedirect.net
@@ -39414,6 +39457,7 @@ producercoconutgroup.com
 productdownload.pro
 productionpulse.net
 productionscute.com
+productive-president.com
 productivewind.com
 proeroclips.pro
 proeslgaming.com
@@ -39429,6 +39473,7 @@ proficientcollarsensitiveness.com
 profileclub.info
 profileobstaclepicture.com
 profitable-grocery.com
+profitable-turn.com
 profitablecpmgate.com
 profitablecpmnetwork.com
 profitablecpmrate.com
@@ -39564,6 +39609,7 @@ protonge.com
 protrainershub.info
 protrckit.com
 protrudekeyboardexhibited.com
+proud-garbage.pro
 proudlyhint.com
 provisionskiss.com
 provocationreduction.com
@@ -39639,6 +39685,7 @@ psma02.com
 psmhpuuotdeby.store
 psnsbliinngie.space
 psoacickoots.net
+psoamaupsie.net
 psoampoa.net
 psoanegodage.com
 psobecize.pro
@@ -47760,6 +47807,7 @@ ultaxvuxpgryi.site
 ultimate-captcha.com
 ultimate-discounter.org
 ultimate-strength.pro
+ultimateaderaser.com
 ultimatejackpotplace.com
 ultimateloveline.com
 ultingecauyukse.com
@@ -48461,7 +48509,6 @@ valueclick.cc
 valueclick.com
 valueclick.net
 valueclickmedia.com
-valuecommerce.com
 valueinaudible.com
 valuerabjure.com
 valuesmaiden.com
@@ -49349,6 +49396,7 @@ vzwskvcarieny.website
 vzydopxwdqnqt.space
 w-chat25.com
 w00tmedia.net
+w0of-woof.com
 w0of-woof.net
 w0sqoketsl.sbs
 w0we.com

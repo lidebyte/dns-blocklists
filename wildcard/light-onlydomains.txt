@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 May 2026 16:48 UTC
-# Version: 2026.0512.1648.04
+# Last modified: 12 May 2026 21:10 UTC
+# Version: 2026.0512.2110.36
 # Syntax: Domains (without subdomains)
-# Number of entries: 74081
+# Number of entries: 74126
 #
 www.0.wedding
 f9e79f670c.000491b06a.com
@@ -912,6 +912,7 @@ ipgeolocation.abstractapi.com
 tk.abt.com
 ariane.abtasty.com
 dcinfos-cache.abtasty.com
+secureconnect.adnet.abudhabi.ae
 piwik.abus.com
 a.abv.bg
 www.abxdifcg.com
@@ -2298,6 +2299,7 @@ l4-logs-http-rum-pub-s0-7d264be627ade923.elb.us-east-1.amazonaws.com
 l4-logs-http-rum-pub-s1-6386d34262e59173.elb.us-east-1.amazonaws.com
 l4-metrics-agent-s0-7c551d28c9ca34fc.elb.us-east-1.amazonaws.com
 l4-metrics-agent-s1-56401ca284db905a.elb.us-east-1.amazonaws.com
+l4-metrics-agent-s2-6d5a12b23a2c8e62.elb.us-east-1.amazonaws.com
 posthog-proxy-service-prod-us-786081f7c4028325.elb.us-east-1.amazonaws.com
 prod-ingress-telemetry-4c22fc0d5ec1dd2e.elb.us-east-1.amazonaws.com
 tracking-production-3e47c89e5c807dd5.elb.us-east-1.amazonaws.com
@@ -4163,6 +4165,7 @@ bwyine-launches.appsflyersdk.com
 bxuiiw-cdn-settings.appsflyersdk.com
 bxuiiw-gcdsdk.appsflyersdk.com
 bxuiiw-launches.appsflyersdk.com
+byhwea-inapps.appsflyersdk.com
 bylkvh-cdn-settings.appsflyersdk.com
 bylkvh-launches.appsflyersdk.com
 byv8a7-cdn-settings.appsflyersdk.com
@@ -4721,6 +4724,7 @@ embuku-cdn-settings.appsflyersdk.com
 embuku-launches.appsflyersdk.com
 emvn8v-cdn-settings.appsflyersdk.com
 emvn8v-conversions.appsflyersdk.com
+emvn8v-inapps.appsflyersdk.com
 emvn8v-launches.appsflyersdk.com
 emxuyn-cdn-settings.appsflyersdk.com
 emxuyn-launches.appsflyersdk.com
@@ -6283,6 +6287,7 @@ l1aubp-cdn-settings.appsflyersdk.com
 l1aubp-inapps.appsflyersdk.com
 l1aubp-launches.appsflyersdk.com
 l1iq3e-cdn-settings.appsflyersdk.com
+l1iq3e-inapps.appsflyersdk.com
 l1iq3e-launches.appsflyersdk.com
 l1iq3e-skadsdk.appsflyersdk.com
 l1yo9l-cdn-settings.appsflyersdk.com
@@ -6880,6 +6885,7 @@ np4vas-inapps.appsflyersdk.com
 npkfc6-cdn-settings.appsflyersdk.com
 npkfc6-launches.appsflyersdk.com
 nqwfg9-cdn-settings.appsflyersdk.com
+nqwfg9-gcdsdk.appsflyersdk.com
 nqwfg9-inapps.appsflyersdk.com
 nqwfg9-launches.appsflyersdk.com
 nqyluk-launches.appsflyersdk.com
@@ -7008,6 +7014,8 @@ oftyyy-launches.appsflyersdk.com
 oftyyy-register.appsflyersdk.com
 ofy77s-cdn-settings.appsflyersdk.com
 ofy77s-conversions.appsflyersdk.com
+ofy77s-gcdsdk.appsflyersdk.com
+ofy77s-inapps.appsflyersdk.com
 ofy77s-launches.appsflyersdk.com
 ofy77s-register.appsflyersdk.com
 ogb3iu-cdn-settings.appsflyersdk.com
@@ -7293,6 +7301,7 @@ pjh6rp-cdn-settings.appsflyersdk.com
 pjh6rp-inapps.appsflyersdk.com
 pjh6rp-launches.appsflyersdk.com
 pkawnc-cdn-settings.appsflyersdk.com
+pkawnc-inapps.appsflyersdk.com
 pkawnc-launches.appsflyersdk.com
 pkmmda-cdn-settings.appsflyersdk.com
 pkmmda-inapps.appsflyersdk.com
@@ -7412,6 +7421,7 @@ q2btq2-cdn-settings.appsflyersdk.com
 q2btq2-launches.appsflyersdk.com
 q2de87-cdn-settings.appsflyersdk.com
 q2de87-launches.appsflyersdk.com
+q31j4m-attr.appsflyersdk.com
 q31j4m-cdn-settings.appsflyersdk.com
 q31j4m-conversions.appsflyersdk.com
 q31j4m-dlsdk.appsflyersdk.com
@@ -7521,6 +7531,7 @@ qkwnyg-cdn-settings.appsflyersdk.com
 qkwnyg-launches.appsflyersdk.com
 ql31xx-cdn-settings.appsflyersdk.com
 ql31xx-conversions.appsflyersdk.com
+ql31xx-inapps.appsflyersdk.com
 ql31xx-launches.appsflyersdk.com
 qlhcp1-cdn-settings.appsflyersdk.com
 qlhcp1-inapps.appsflyersdk.com
@@ -7753,6 +7764,7 @@ rojdkv-launches.appsflyersdk.com
 rolqxz-cdn-settings.appsflyersdk.com
 rolqxz-inapps.appsflyersdk.com
 rolqxz-launches.appsflyersdk.com
+roodho-inapps.appsflyersdk.com
 roodho-launches.appsflyersdk.com
 roovza-cdn-settings.appsflyersdk.com
 roovza-conversions.appsflyersdk.com
@@ -8003,6 +8015,7 @@ srhply-cdn-settings.appsflyersdk.com
 srhply-conversions.appsflyersdk.com
 srhply-launches.appsflyersdk.com
 srrspa-cdn-settings.appsflyersdk.com
+srrspa-gcdsdk.appsflyersdk.com
 srrspa-inapps.appsflyersdk.com
 srrspa-launches.appsflyersdk.com
 ss6gtv-cdn-settings.appsflyersdk.com
@@ -17515,6 +17528,7 @@ telemetry.elastic.co
 telemetry-staging.elastic.co
 mau-analytic.ap-southeast-1.elasticbeanstalk.com
 ebenv-074232031867-prod-matomo.eba-sjkgc7ae.eu-central-1.elasticbeanstalk.com
+analytics-ingestion-prod.x8um6iuan5.eu-central-1.elasticbeanstalk.com
 adp-live.eu-central-1.elasticbeanstalk.com
 newtail-adserver-api-v5-events-prod.us-east-1.elasticbeanstalk.com
 stats-iobit-com.us-east-1.elasticbeanstalk.com
@@ -19767,6 +19781,7 @@ plausible.enacom.gob.ar
 matomo.dpsit.gba.gob.ar
 analytics.sre.gob.mx
 products.gobankingrates.com
+resources-products.gobankingrates.com
 matomo.ingaia.com.br.cdn.gocache.net
 analytics.gocar.be
 analytics.gocar.gr
@@ -25045,6 +25060,8 @@ ads1.msn.com
 confiant.msn.com
 data.msn.com
 flex.msn.com
+h1.msn.com
+h2.msn.com
 mobileads.msn.com
 preview.msn.com
 srtb.msn.cn
@@ -28948,6 +28965,7 @@ edurino-analytics-api-3w3wy52dta-ey.a.run.app
 engagement-metrics-dpzmkkxlza-uc.a.run.app
 fodoole-web-analytics-qfan6cresq-ew.a.run.app
 ga-server-side-tagging-latam-k6sb2lwzta-ue.a.run.app
+geral-server-side-tagging-prod-4vywrtjr3a-uc.a.run.app
 getsmallbannerads-6egeg2u34q-du.a.run.app
 getsquarebannerads-6egeg2u34q-du.a.run.app
 google-server-side-tag-manager-5s5tlofmdq-ew.a.run.app
@@ -28967,6 +28985,7 @@ server-side-tagging-24ilqwk7ja-uc.a.run.app
 server-side-tagging-2ipshi7qma-ew.a.run.app
 server-side-tagging-37jjnw36na-uc.a.run.app
 server-side-tagging-3a24txdnnq-uc.a.run.app
+server-side-tagging-3b3npf7ata-uc.a.run.app
 server-side-tagging-3dz7fhh55q-uc.a.run.app
 server-side-tagging-3esuj7mgtq-uc.a.run.app
 server-side-tagging-3jkv2plg3q-uc.a.run.app
@@ -28995,6 +29014,7 @@ server-side-tagging-6zdrc56d2q-uc.a.run.app
 server-side-tagging-7csmrshmxq-uc.a.run.app
 server-side-tagging-7h5q7725ma-uc.a.run.app
 server-side-tagging-7xmmq75mcq-uc.a.run.app
+server-side-tagging-a7aqvs2z4q-uc.a.run.app
 server-side-tagging-abt4bql2xa-uc.a.run.app
 server-side-tagging-agl2jup2aa-uc.a.run.app
 server-side-tagging-aikuysmm4a-uc.a.run.app
@@ -29017,6 +29037,7 @@ server-side-tagging-cpx6utfzaq-od.a.run.app
 server-side-tagging-cscijzmvia-uc.a.run.app
 server-side-tagging-cxpi757hva-uc.a.run.app
 server-side-tagging-dji2sahn7q-uc.a.run.app
+server-side-tagging-dqjj3b63fq-uc.a.run.app
 server-side-tagging-drjozxiowa-uc.a.run.app
 server-side-tagging-e6lmc2b5aa-uc.a.run.app
 server-side-tagging-e6oskpry3a-uc.a.run.app
@@ -29129,6 +29150,7 @@ server-side-tagging-sw7v4q6aha-uc.a.run.app
 server-side-tagging-sznt3iolpq-uc.a.run.app
 server-side-tagging-t22nqfy7nq-uc.a.run.app
 server-side-tagging-t6gv525nca-uc.a.run.app
+server-side-tagging-tqdhypg5ua-uc.a.run.app
 server-side-tagging-tsdmqdnf3q-uc.a.run.app
 server-side-tagging-ttsouhquba-uc.a.run.app
 server-side-tagging-tx4ppqolsa-uc.a.run.app
@@ -29178,6 +29200,7 @@ server-side-tagging-zhywnqwwdq-uc.a.run.app
 server-side-tagging-zp7kqyta5a-uc.a.run.app
 server-side-tagging-zqai4hltia-uc.a.run.app
 server-side-tagging-zrac5cmcvq-uc.a.run.app
+server-side-tagging-zxiprkxmga-uc.a.run.app
 server-side-tagging-zy3gxtetba-uc.a.run.app
 ssgtm-sbyzlt5hyq-ey.a.run.app
 symplr-analytics-xddc4j3vva-ey.a.run.app
@@ -29200,6 +29223,7 @@ server-side-tagging-eu-production-925055733921.europe-west1.run.app
 server-side-tagging-jps-x-lttp-890745626621.europe-west1.run.app
 server-side-tagging-120973504724.europe-west2.run.app
 server-side-tagging-724771934193.europe-west2.run.app
+server-side-tagging-708064772359.europe-west3.run.app
 server-side-tagging-1064454456539.europe-west4.run.app
 server-side-tagging-181347701518.europe-west4.run.app
 server-side-tagging-555503985895.europe-west4.run.app
@@ -29220,6 +29244,7 @@ server-side-tagging-46784415888.us-central1.run.app
 server-side-tagging-467905025565.us-central1.run.app
 server-side-tagging-582660599531.us-central1.run.app
 server-side-tagging-633178361708.us-central1.run.app
+server-side-tagging-772335485284.us-central1.run.app
 server-side-tagging-833949469797.us-central1.run.app
 server-side-tagging-922531518864.us-central1.run.app
 server-side-tagging-nio-internet-282897195116.us-central1.run.app
@@ -30365,7 +30390,6 @@ csync-global.smartadserver.com
 csync-us.smartadserver.com
 diff.smartadserver.com
 diff3.smartadserver.com
-euw1.smartadserver.com
 euw2.smartadserver.com
 go.smartadserver.com
 help.smartadserver.com
@@ -31873,6 +31897,7 @@ stats.testbericht.de
 ads.testdomain.com
 data.testlibrary.com
 logs.testnav.com
+www.tetraexpobuild.com
 smetrics.tetrapak.com
 wbtrkk.teufel.ch
 wbtrkk.teufel.de
@@ -36263,7 +36288,6 @@ upc.zztfly.com
 0network.com
 0oorku4.top
 0themastercylinder0.com
-0tw5frw.top
 0wwdo226yexm.top
 0x10cforum.com
 0x80000.com
@@ -36411,7 +36435,6 @@ upc.zztfly.com
 12002c580245063f.xyz
 1200koine.com
 1203543ac5ec59c7.com
-1205tka.top
 12068651b1a1fcba.com
 1206d935cea350cd.com
 120869c1c133.top
@@ -36582,7 +36605,6 @@ upc.zztfly.com
 156688.cfd
 156743coinbase.com
 1575f81fa50bebdb.com
-1579mka.top
 15883311095a.top
 158e8fc3861383c3.com
 1598634-coinbase.com
@@ -36950,7 +36972,6 @@ upc.zztfly.com
 1pornhub.com
 1push.io
 1rajbet.in
-1rdd42e.top
 1rolls.com
 1rtb.com
 1rtb.net
@@ -36962,8 +36983,6 @@ upc.zztfly.com
 1stopwebsitesolution.com
 1sttheworld.com
 1sweethost.com
-1tf25t2.cfd
-1tf2fg2.top
 1traf.ru
 1trust.app
 1ts07.top
@@ -37036,7 +37055,6 @@ upc.zztfly.com
 2092176347684534.lat
 2092378549803725.shop
 20962672.cfd
-2097lka.top
 2098007a060fc04a940f4a0cce76ebee.top
 20aa74e40cb068ec.com
 20b2355777f0463f.com
@@ -37055,7 +37073,6 @@ upc.zztfly.com
 20f88ff7fed4c1a8.click
 20f88ff7fed4c1a8.com
 20f88ff7fed4c1a8.xyz
-20gtw5fw.top
 20mbweb.com
 20rm.com
 20seven.org
@@ -37216,7 +37233,6 @@ upc.zztfly.com
 247realmedia.com
 247tril.xyz
 2481april2024.com
-2483tka.top
 2485may2024.com
 2487may2024.com
 24886.cfd
@@ -37239,7 +37255,6 @@ upc.zztfly.com
 24fcd6f1b5ef404082df5ede010df8d0.tr
 24fd5472aa15.top
 24gadget.ru
-24gew3.top
 24hdeepnude.com
 24live.xyz
 24log.com
@@ -37255,7 +37270,6 @@ upc.zztfly.com
 24smi.net
 24smi.site
 24support.cc
-24wg63.top
 24x360.com
 24x7report.com
 2501may2024.com
@@ -37295,7 +37309,6 @@ upc.zztfly.com
 263626.cfd
 26397d169639fd67.com
 263fc883f27a98d2.com
-2648tpo.top
 264b0a99f6.com
 265692.cfd
 2661b2976b0c.xyz
@@ -37358,7 +37371,6 @@ upc.zztfly.com
 285644.cfd
 285f4f5ef99f8cf4.com
 285fc8ae1e82c380.com
-286tweg.top
 287aa45f0b75.top
 287e9be6738a.xyz
 288007bb22.shop
@@ -37754,7 +37766,6 @@ upc.zztfly.com
 345ddz.com
 3468735acf9ba8a3.com
 346e7fbc9d5701c1.com
-3472zke.top
 347367.cfd
 3475e9ccd4524ba7.com
 34810f0b81824c80.com
@@ -37868,7 +37879,6 @@ upc.zztfly.com
 3784fee6204b47ed.com
 378c278bfc264c11.com
 3793330f0d0d4ef211b649e6e867812c.cfd
-3795hxe.top
 379ef7a7b0f13794.top
 37a9094932fa2b7e.com
 37b95c067cc3c937.cc
@@ -38082,11 +38092,9 @@ upc.zztfly.com
 3fdaab2b74f0ad60.com
 3fdaab2b74f0ad60.xyz
 3ff85a0cfd7df3b9.com
-3fg25tw.top
 3gl.net
 3gmimo.com
 3gweek.net
-3hv33d.cfd
 3hx1ui2vt.com
 3ikcnjvsx.com
 3jev49bjrmnzrff55yyntr1j7lqfgy.cfd
@@ -44886,6 +44894,7 @@ bagfulchiefmeant.com
 baggersoutjet.shop
 baggy-yellow.com
 baggymaintenance.com
+baggyrepackingrocky.com
 baglan.top
 baglanbize.net
 bagleparnas.shop
@@ -44988,6 +44997,7 @@ bareplotsavaser.com
 bargingjabber.com
 barilliance.net
 barinvent.net
+barkequilibrium.com
 barkersceleb.com
 barmanonymity.shop
 barnaclecocoonjest.com
@@ -50202,6 +50212,7 @@ dhlykj.top
 dhlyons.us
 dhlyxz.com
 dhm8.com
+dhobeymanobo.com
 dhpaipamgf.com
 dhviddvclnjtg.com
 dhynxkwbsqrgp.website
@@ -51423,6 +51434,7 @@ easysexe.com
 easysyncnews.com
 easytomessage.com
 easywebsiteanalytics.com
+eatcells.com
 eatfield.top
 eavailandpro.com
 eavesdropthenashame.com
@@ -53496,7 +53508,6 @@ forseenpalsiespalmira.cyou
 forstx.org
 fort67.com
 fortbid.pro
-fortbox.fun
 fortcase.pro
 fortfun.pro
 fortgiv.com
@@ -53517,7 +53528,6 @@ fortune-koun.jp
 fortune-moon.net
 fortunejackpartners.com
 fortvision.com
-fortzz.com
 forumdread.com
 forumphotovoltaique.fr
 forums-megaeth.xyz
@@ -58125,6 +58135,7 @@ kraonwbi.com
 kratg.top
 krealxrwaoh.in
 kreomfoq.com
+krgirls.beauty
 krigiamisdeal.click
 krimhilde-1.cfd
 krimhilde-2.cfd
@@ -60608,6 +60619,7 @@ most-dnepr.info
 mostauthor.com
 mostbet.com
 mostbet-ua5.com
+mostbet-uz-kirish-mostbet.com
 mostourigoatik.com
 mostrsemid.cyou
 mosulgreyer.cyou
@@ -62755,6 +62767,7 @@ oucouksirt.com
 ouepihbzwdvrj.space
 oulsools.com
 ounc4vqhukctmb4brcp6b3yftwqf.cfd
+oundhertobeconsist.org
 oungimuk.net
 ouowhjhuekcnar.com
 ouoyui.win
@@ -63524,12 +63537,14 @@ pilutce.com
 pimajted.org
 pimensocio.cyou
 pimproll.com
+pimzqbkblhv.com
 pin-up.casino
 pinatasyuckel.cyou
 pincai.com
 pinchingsacred.com
 pinderecphory.com
 pinetech.vn
+pinewoodriver.com
 ping-fast.com
 pingclock.net
 pingmeter.com
@@ -63549,6 +63564,8 @@ pioneersxs.com
 pioppmarin.cyou
 piovokqpethen.website
 pipaffiliates.com
+pipesandstogies.com
+pipesandstogiesmobilecigarlounge.com
 pipidroods.com
 pippio.com
 pipspicousmatzas.cyou
@@ -63601,6 +63618,7 @@ pjtaxoejiicilsd.com
 pjvcbvjfrzniy.site
 pk910324e.com
 pkgoo.com
+pklnau.ru
 pkmexmrmihp.com
 pkoplink.com
 pkyfusgah.com
@@ -63692,8 +63710,10 @@ plavxml.com
 plawerty.xyz
 play-lg.com
 play-lustgoddess.com
+play-ouyitiyu.com
 playamopartners.com
 playanimenow.com
+playbones.xyz
 playdigo.com
 playdiversionroyalty.com
 playerhq.co
@@ -63844,8 +63864,10 @@ pmtinnova.com
 pmtveblemefkc.com
 pmudglgcnic.com
 pmur.org
+pmvlwjy.cn
 pnckswqpwks.com
 pncloudfl.com
+pndle.finance
 pneumahameil.com
 pneumhover.cyou
 pngme.ru
@@ -63875,6 +63897,7 @@ pocpoc.io
 podatkigov.com
 podatkina.com
 podbex.com
+podderofthemonth.com
 podefr2.net
 podfeoquhihrvnt.com
 podmoskovnaya-riviera.ru
@@ -63906,6 +63929,7 @@ pokermira.com
 pokersites.com
 pokersource.com
 pokervip.com
+pokestores.com
 pokkt.com
 pokoran.com
 pokrutim.ru
@@ -63929,6 +63953,7 @@ pollpublicly.com
 pollssheeny.shop
 pollster.pl
 polluxnetwork.com
+pollymraket.com
 polnpeople.com
 poloniex.club
 polopoker.xyz
@@ -63988,8 +64013,10 @@ populartooth.com
 populr.me
 popunder.ru
 popup.su
+popupad.net
 popupblocker.com
 popupblockergold.com
+popupchat-live.com
 popupdl.ir
 popupdomination.com
 popupearn.com
@@ -64010,6 +64037,7 @@ pornoforlife.com
 pornogrund.com
 portablern.com
 portableroms.com
+portail-vitale.com
 portails-prime.com
 portal-aave.co
 portal-aerodrome.xyz
@@ -64022,6 +64050,7 @@ portalaurielo.live
 portaldeservicosc.com
 portaldossie.com
 portale-ledger.com
+portalfinancas-gov.com
 portalhc.com
 portalpj-bradesco.digital
 portals-chainlink.com
@@ -64049,9 +64078,12 @@ postback.monster
 postback.report
 postcard.news
 postmedia.app
+postquare.com
 postrelease.com
+postswissapp.com
 potable-original.com
 potabrifru.cyou
+potassaseafolk.shop
 potato-mvm.com
 potawe.com
 potboydoddardnocked.cfd
@@ -64063,6 +64095,7 @@ potvaporizer.com
 poudrinnamaste.com
 poulgilan.com
 pouredtoughen.cfd
+pourpressedcling.com
 poussiepienaarskither.qpon
 povr.nl
 powderencouraged.com
@@ -64072,6 +64105,7 @@ powerbiz.co
 poweredbyliquidfire.mobi
 powerful-poem.com
 powerfulcopper.com
+powerlessspeed.pro
 powerlinks.com
 powerrobotflower.com
 powerspace.com
@@ -64191,6 +64225,7 @@ pridevallte.my
 priestsuede.click
 prigsazerac.com
 primarilyresources.com
+primarkfrance.fr
 primaryrespond.pro
 primavo24.de
 prime-ever.com
@@ -64202,6 +64237,7 @@ primecaster.net
 primecliente.xyz
 primecups.com
 primehealthplus.org
+primehouse.store
 primeix.net
 primerollmedia.com
 primesung.top
@@ -64312,6 +64348,7 @@ programmaticnexus.com
 programmation-relance.com
 programme-mondial.com
 programmesheadstoneconsult.com
+prointteractiveltd.com
 project-spacex.com
 project-work-zone.com
 projectagora.net
@@ -64357,11 +64394,13 @@ propellerclick.com
 propellets.pro
 propenechemins.shop
 proper.io
+propertyagent.xyz
 propertyofnews.com
 proposal-flare.app
 proposal-flare.foundation
 proposal-hachiko.com
 proposal-kit.com
+proposal-pendle.app
 proposal-pepe.com
 proposal-unipegsv4.com
 proposalforge.in
@@ -64406,6 +64445,7 @@ proton.cm
 proton.lat
 proton.management
 proton-aoke.com
+proton-chemicals.com
 proton-engineering.com
 proton-rp.ru
 proton-ru.lol
@@ -64427,6 +64467,7 @@ protondon.bond
 protondon.cyou
 protondon.xyz
 protoneast.com
+protonemasjohor.com
 protoner.pro
 protonet.xyz
 protoneutron.garden
@@ -64462,6 +64503,7 @@ protonstreamnexus.com
 protonsurge.top
 protontech.online
 protontoothbrush.com
+protonvipn.com
 protonvpn.us
 protonvpn76.com
 protonvpnd.com
@@ -64474,6 +64516,7 @@ protonythe.com
 protonyxdata.com
 protraffic.com
 protrafficinspector.com
+proud-garbage.pro
 proveguard.com
 proveuncul.cyou
 provewaky.cyou
@@ -64518,6 +64561,7 @@ psidwlsscbfpqci.com
 psinetutor.com
 psirsoor.com
 psishops.com
+psoamaupsie.net
 psodugliwe.com
 psothoms.com
 psotiwhotho.com
@@ -71816,6 +71860,7 @@ vzwdtzssxikhp.site
 w-chat25.com
 w-tools.com
 w0kaf7jjg.com
+w0of-woof.com
 w0we.com
 w13mk6.ru
 w1thy0u.com

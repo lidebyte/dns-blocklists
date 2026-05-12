@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 May 2026 17:20 UTC
-# Version: 2026.0512.1720.27
+# Last modified: 12 May 2026 20:06 UTC
+# Version: 2026.0512.2006.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 18354
+# Number of entries: 18358
 #
 local=/ss.0001.xyz/
 local=/ilovethiswebsite.001-lab.space/
@@ -5868,6 +5868,7 @@ local=/dns1.pietjacobs.be/
 local=/family.pietre-la-rinichi.ro/
 local=/dns.pine-home.de/
 local=/happynewdestenation.pintravel.ro/
+local=/lousiana-history-careers-ixl-geoly-education.pittentrepreneur.com/
 local=/dns.pizzari.me/
 local=/67dircen67.pjabbari.com/
 local=/doh.plaawan.uk/
@@ -14748,6 +14749,7 @@ local=/piplvpn.com/
 local=/pipster.org/
 local=/pipster.ru/
 local=/pipstervpn.help/
+local=/piraproxy.org/
 local=/piratebayproxy.co/
 local=/piro.live/
 local=/pirzjdlz.com/
@@ -14917,6 +14919,7 @@ local=/premsocks.com/
 local=/premzon.com/
 local=/prenzor.ru/
 local=/presidentalhistory.wiki/
+local=/prettycoolmath.com/
 local=/prevent.run/
 local=/prflux.xyz/
 local=/prgoorzz.cc/
@@ -15057,6 +15060,7 @@ local=/proxybros.com/
 local=/proxybrowse.info/
 local=/proxybrowser.app/
 local=/proxybrowser.co/
+local=/proxybrowser.info/
 local=/proxybrowser.org/
 local=/proxybrowser.xyz/
 local=/proxybrowsing.com/

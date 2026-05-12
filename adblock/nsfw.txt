@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 12 May 2026 17:14 UTC
-! Version: 2026.0512.1714.08
+! Last modified: 12 May 2026 21:31 UTC
+! Version: 2026.0512.2131.40
 ! Syntax: AdBlock
-! Number of entries: 96128
+! Number of entries: 96218
 !
 ||explorer.01coin.io^
 ||en.1001cocktails.com^
@@ -1717,6 +1717,7 @@
 ||alvesluthieria.com.br^
 ||ameneadultinc.com.de^
 ||amoreselivros.com.br^
+||analisamelhor.com.br^
 ||andersonmedeirosluthier.com.br^
 ||animevideos.com.es^
 ||animexxx.com.es^
@@ -37463,6 +37464,7 @@
 ||hentaiomg.com^
 ||hentaipassport.com^
 ||hentaipaw.com^
+||hentaipic.com^
 ||hentaipig.com^
 ||hentaiplanet.info^
 ||hentaiplay.net^
@@ -58756,6 +58758,7 @@
 ||pinklips.org^
 ||pinkmumbai.com^
 ||pinkoclub.com^
+||pinkofrance.fr^
 ||pinkotgirls.com^
 ||pinkpages.in^
 ||pinkpalace.tv^
@@ -58965,6 +58968,8 @@
 ||planculsanslendemain.com^
 ||planculx.be^
 ||plandirty.com^
+||planesex.com^
+||planet-escort.com^
 ||planet-randy.com^
 ||planet777xxx.space^
 ||planetanime.ru^
@@ -59022,6 +59027,8 @@
 ||playbazaar.xyz^
 ||playblog.ws^
 ||playblue.ie^
+||playbokep.cam^
+||playbokep.cloud^
 ||playbokep.icu^
 ||playbokep.ltd^
 ||playbokep.monster^
@@ -59107,6 +59114,7 @@
 ||playx.tv^
 ||playxxx.store^
 ||playxxxvideos.com^
+||ple-usps.shop^
 ||pleasantgirls.com^
 ||pleasantvalleyminiamericanshepherds.com^
 ||pleasedsexstories.com^
@@ -59250,11 +59258,13 @@
 ||polarpornhd.com^
 ||poldertube.nl^
 ||policerecordsexposed.com^
+||polisdisarmsgays.com^
 ||polishedcousins.com^
 ||polishednailmilford.com^
 ||polishhearts.de^
 ||polishlanguageforadults.com^
 ||polishscatporn.com^
+||political-resources.com^
 ||politicalporn.com^
 ||politicalpornshow.com^
 ||politicsexplained.com^
@@ -59582,6 +59592,7 @@
 ||porn-videoxxx.org^
 ||porn-vodka.de^
 ||porn-w.org^
+||porn-x-porn.com^
 ||porn-x-videos.com^
 ||porn-xhub.com^
 ||porn-xnxx.com^
@@ -59642,6 +59653,7 @@
 ||porn18.xxx^
 ||porn188.click^
 ||porn18videos.com^
+||porn18x.info^
 ||porn194.click^
 ||porn1up.com^
 ||porn2.net^
@@ -59667,6 +59679,7 @@
 ||porn24k.com^
 ||porn24tv.xyz^
 ||porn2all.com^
+||porn2best.com^
 ||porn2hub.com^
 ||porn2need.com^
 ||porn2pics.com^
@@ -59943,6 +59956,7 @@
 ||pornbab.com^
 ||pornbab.name^
 ||pornbaba.watch^
+||pornbackup.com^
 ||pornbado.com^
 ||pornbae.cc^
 ||pornbag.net^
@@ -60030,6 +60044,7 @@
 ||pornborne.com^
 ||pornbos.com^
 ||pornboss.me^
+||pornboss.org^
 ||pornbotnex.info^
 ||pornboulevard.com^
 ||pornbourn.com^
@@ -60177,6 +60192,7 @@
 ||porncomicsworld.com^
 ||porncomix.online^
 ||porncomixone.net^
+||porncomixonline.com^
 ||porncomixonline.net^
 ||porncompanions.com^
 ||porncompetition.com^
@@ -60250,10 +60266,12 @@
 ||porndeephd.com^
 ||porndefai.xyz^
 ||porndefloration.tv^
+||porndekho.com^
 ||porndepfile.com^
 ||porndepths.com^
 ||pornder.xyz^
 ||pornderful.ai^
+||pornderful.com^
 ||pornderful.run^
 ||pornderful-ai.com^
 ||pornderfule.net^
@@ -60327,9 +60345,11 @@
 ||porndude.link^
 ||porndude.live^
 ||porndude.me^
+||porndude.one^
 ||porndude.onl^
 ||porndude.tv^
 ||porndude.vip^
+||porndude.wtf^
 ||porndude-tube.monster^
 ||porndude2.com^
 ||porndudecams.com^
@@ -60415,6 +60435,7 @@
 ||pornetronlive.com^
 ||pornetube.com^
 ||pornetv.com^
+||porneva.com^
 ||porneve.com^
 ||porneveline.com^
 ||porneverseen.com^
@@ -60512,6 +60533,7 @@
 ||pornflicksandchill.xyz^
 ||pornflip.com^
 ||pornflix.online^
+||pornflix.top^
 ||pornflix.video^
 ||pornflixvids.com^
 ||pornflowaro.com^
@@ -60536,6 +60558,7 @@
 ||pornfororgasm.com^
 ||pornforrelax.com^
 ||pornforteen.com^
+||pornforum.org^
 ||pornfoto.xyz^
 ||pornfoto3.site^
 ||pornfox.info^
@@ -60568,6 +60591,7 @@
 ||pornfunyhd.info^
 ||pornfuqx.com^
 ||pornfur18.com^
+||pornfuror.com^
 ||pornfuse18.com^
 ||pornfuses.com^
 ||pornfuses.info^
@@ -60582,6 +60606,7 @@
 ||porngals4.com^
 ||porngame.cc^
 ||porngame.club^
+||porngame.net^
 ||porngamenetwork.com^
 ||porngames.biz^
 ||porngames.com^
@@ -60630,6 +60655,7 @@
 ||porngay.monster^
 ||porngay.motorcycles^
 ||porngay.online^
+||porngay.party^
 ||porngay.pics^
 ||porngay.pro^
 ||porngay.quest^
@@ -60675,6 +60701,7 @@
 ||porngif.club^
 ||porngif.co^
 ||porngif.es^
+||porngif.fun^
 ||porngif.it^
 ||porngif.org^
 ||porngif.top^
@@ -60811,8 +60838,10 @@
 ||pornhd8k.me^
 ||pornhd8k.net^
 ||pornhd8k.online^
+||pornhd8k.org^
 ||pornhd99.com^
 ||pornhdclips.com^
+||pornhdes.com^
 ||pornhdhub.top^
 ||pornhdmate.com^
 ||pornhdmovies.org^
@@ -60904,6 +60933,7 @@
 ||pornhouseq.com^
 ||pornhpb.life^
 ||pornhq.art^
+||pornhq.info^
 ||pornhq.me^
 ||pornhq.xyz^
 ||pornhqsex.com^
@@ -60917,6 +60947,7 @@
 ||pornhub.es^
 ||pornhub.forum^
 ||pornhub.fr^
+||pornhub.fyi^
 ||pornhub.garden^
 ||pornhub.net^
 ||pornhub.org^
@@ -60926,6 +60957,7 @@
 ||pornhub.run^
 ||pornhub.tattoo^
 ||pornhub.to^
+||pornhub.watch^
 ||pornhub.xxx^
 ||pornhub-ai.help^
 ||pornhub-deutsch.info^
@@ -61014,6 +61046,7 @@
 ||pornhubhd.vip^
 ||pornhubhorroorr.xyz^
 ||pornhubhub.cc^
+||pornhubjopa.com^
 ||pornhublink.com^
 ||pornhublive.com^
 ||pornhubmm.xyz^
@@ -61027,6 +61060,8 @@
 ||pornhubrecords.com^
 ||pornhubrough.com^
 ||pornhubru.co^
+||pornhubs.casa^
+||pornhubs.kim^
 ||pornhubs.pro^
 ||pornhubs.video^
 ||pornhubs.vip^
@@ -61108,6 +61143,7 @@
 ||pornidols.com^
 ||pornify.cc^
 ||pornify.ru^
+||pornifyx.com^
 ||pornigh.com^
 ||pornik.vip^
 ||pornike.com^
@@ -61146,6 +61182,8 @@
 ||porninterest.life^
 ||pornintervo.com^
 ||pornintop.com^
+||pornios.com^
+||porniptv.fr^
 ||pornirani.com^
 ||pornisalive.com^
 ||pornisexs.com^
@@ -61336,6 +61374,7 @@
 ||pornlive.com^
 ||pornlive.eu^
 ||pornlive.live^
+||pornlivenews.com^
 ||pornlivenude.com^
 ||pornliverhd.info^
 ||pornlives.com^
@@ -61528,6 +61567,7 @@
 ||pornnhub.pl^
 ||pornnice.lol^
 ||pornnip.com^
+||pornnit.com^
 ||pornnonstop.com^
 ||pornnopung.com^
 ||pornnoriax.com^
@@ -61578,6 +61618,7 @@
 ||porno-365.biz^
 ||porno-365.club^
 ||porno-365.fit^
+||porno-365.online^
 ||porno-365.pro^
 ||porno-365.site^
 ||porno-5.store^
@@ -61621,6 +61662,7 @@
 ||porno-eblja.com^
 ||porno-erotic.name^
 ||porno-erotica.com^
+||porno-et-sexe.fr^
 ||porno-fak-sex.online^
 ||porno-film.net^
 ||porno-filmchen.com^
@@ -61632,6 +61674,8 @@
 ||porno-foto.link^
 ||porno-foto.site^
 ||porno-foto-v-chulkah.com^
+||porno-fotok.club^
+||porno-fotok.net^
 ||porno-gallery.ru^
 ||porno-games.eu^
 ||porno-gay.blog^
@@ -61880,6 +61924,7 @@
 ||porno365x.biz^
 ||porno365x.blue^
 ||porno365x.cam^
+||porno365x.club^
 ||porno365x.co^
 ||porno365x.info^
 ||porno365x.link^
@@ -61897,6 +61942,7 @@
 ||porno365xo.ru^
 ||porno365xp.ru^
 ||porno365xv.ru^
+||porno365xxx.club^
 ||porno365xxx.co^
 ||porno365xxx.com^
 ||porno365xxx.info^
@@ -62227,6 +62273,7 @@
 ||pornobum.top^
 ||pornoburger.org^
 ||pornobus.ru^
+||pornobuzz.net^
 ||pornobym.com^
 ||pornocad.com^
 ||pornocadr.com^
@@ -62245,6 +62292,7 @@
 ||pornocarta.com^
 ||pornocase.net^
 ||pornocaseiros.com^
+||pornocasero.online^
 ||pornocasero.tube^
 ||pornocasero.xyz^
 ||pornocaseroreal.com^
@@ -62372,6 +62420,7 @@
 ||pornodoido.com^
 ||pornodojki.cc^
 ||pornodojki.fans^
+||pornodojki.link^
 ||pornodojki.one^
 ||pornodojki.top^
 ||pornodojkii.click^
@@ -62568,6 +62617,7 @@
 ||pornogratis.vip^
 ||pornogratis.xxx^
 ||pornogratis19.xxx^
+||pornogratis24.com^
 ||pornogratisaqu.com^
 ||pornogratisbrasil.com^
 ||pornogratisdiario.com^
@@ -62656,6 +62706,7 @@
 ||pornohymn.site^
 ||pornohype.info^
 ||pornohype.me^
+||pornohype.mobi^
 ||pornoi.com^
 ||pornoidol.com^
 ||pornoids.com^
@@ -62669,6 +62720,7 @@
 ||pornoingyen.hu^
 ||pornoingyen.net^
 ||pornoinhq.com^
+||pornoinside.com^
 ||pornoism.net^
 ||pornoitaliano.com^
 ||pornoizi.net^
@@ -62761,11 +62813,13 @@
 ||pornokota.com^
 ||pornokran.cc^
 ||pornokrol.com^
+||pornokrol.pl^
 ||pornokuni.ru^
 ||pornolaan.com^
 ||pornolaanappnl.com^
 ||pornolab.biz^
 ||pornolab.cc^
+||pornolab.click^
 ||pornolab.net^
 ||pornolaba.cc^
 ||pornolaba.mobi^
@@ -62803,6 +62857,7 @@
 ||pornoleon.com^
 ||pornolevel.art^
 ||pornolevel.one^
+||pornolevel.pro^
 ||pornolh.com^
 ||pornoli.net^
 ||pornolia.net^
@@ -62955,6 +63010,7 @@
 ||pornopedia.com^
 ||pornopedo.com^
 ||pornopen.com^
+||pornoperator.com^
 ||pornoperfume.com^
 ||pornoperso.com^
 ||pornoperson.com^
@@ -62972,6 +63028,7 @@
 ||pornoplanetxxx.com^
 ||pornoplay.icu^
 ||pornoplay.online^
+||pornoplen.com^
 ||pornoplus.fr^
 ||pornopne.com^
 ||pornopoetry.com^
@@ -63030,6 +63087,7 @@
 ||pornoroliki24.fans^
 ||pornoroliki24.space^
 ||pornoromanesc.com^
+||pornoromania.com^
 ||pornoromania.live^
 ||pornoroo.com^
 ||pornoroom.xyz^
@@ -63042,6 +63100,7 @@
 ||pornoruhe.net^
 ||pornorus.cc^
 ||pornorus.name^
+||pornorus.net^
 ||pornorus.pro^
 ||pornoruss.info^
 ||pornorussia.mobi^
@@ -63095,6 +63154,7 @@
 ||pornos-gratis.com^
 ||pornos-xxxx.xyz^
 ||pornos1.xyz^
+||pornos18.com^
 ||pornos245.com^
 ||pornosache.com^
 ||pornosaid.site^
@@ -63305,6 +63365,7 @@
 ||pornoturkuaz.com^
 ||pornotusa.com^
 ||pornotuubi.com^
+||pornotv.info^
 ||pornotv.mobi^
 ||pornotweet.com^
 ||pornotyb.com^
@@ -63420,6 +63481,7 @@
 ||pornovidea.site^
 ||pornovidejka.sk^
 ||pornovideo.eu^
+||pornovideo.pl^
 ||pornovideo.xyz^
 ||pornovideo24.cc^
 ||pornovideo24.click^
@@ -63454,6 +63516,7 @@
 ||pornovisto.top^
 ||pornovita.com^
 ||pornovizion.xyz^
+||pornovlad.com^
 ||pornovo.net^
 ||pornovoisines.com^
 ||pornovolk.fun^
@@ -63621,6 +63684,7 @@
 ||pornpass.site^
 ||pornpasswords.info^
 ||pornpaw.com^
+||pornpax.com^
 ||pornpaysites.net^
 ||pornpeach.com^
 ||pornpebbles.com^
@@ -63822,6 +63886,7 @@
 ||pornsauce.com^
 ||pornsavant.com^
 ||pornscalivo.com^
+||pornscan.net^
 ||pornscat.org^
 ||pornscatanal.com^
 ||pornscatcouple.com^
@@ -63977,6 +64042,7 @@
 ||pornsitezone.com^
 ||pornsiz.com^
 ||pornsiz.online^
+||pornskill.com^
 ||pornskills.com^
 ||pornskillxxx.com^
 ||pornslash.com^
@@ -64093,6 +64159,7 @@
 ||pornstartnexy.com^
 ||pornstartoday.com^
 ||pornstartubehq.com^
+||pornstartup.com^
 ||pornstartweet.com^
 ||pornstarvideo.top^
 ||pornstarvideo4k.com^
@@ -64290,6 +64357,7 @@
 ||porntube.asia^
 ||porntube.bet^
 ||porntube.ca^
+||porntube.cam^
 ||porntube.cloud^
 ||porntube.com^
 ||porntube.cool^
@@ -64300,6 +64368,7 @@
 ||porntube.rocks^
 ||porntube.today^
 ||porntube.work^
+||porntube.world^
 ||porntube-de.com^
 ||porntube1.xyz^
 ||porntube18.cc^
@@ -64347,6 +64416,7 @@
 ||pornturkish-41.site^
 ||pornturkish-41.store^
 ||pornturktr.online^
+||pornturn.pro^
 ||porntv.cam^
 ||porntv.com^
 ||porntv.info^
@@ -64508,6 +64578,7 @@
 ||pornvideos.com^
 ||pornvideos.fyi^
 ||pornvideos.gg^
+||pornvideos.lat^
 ||pornvideos.name^
 ||pornvideos.one^
 ||pornvideos.pl^
@@ -64516,6 +64587,7 @@
 ||pornvideos.sbs^
 ||pornvideos.site^
 ||pornvideos.tv^
+||pornvideos.wtf^
 ||pornvideos.xxx^
 ||pornvideos-scape.com^
 ||pornvideos1.com^
@@ -64643,6 +64715,7 @@
 ||pornwize.com^
 ||pornwizzard.com^
 ||pornwl.com^
+||pornwo.com^
 ||pornworkaipro.com^
 ||pornworks.ai^
 ||pornworks.app^
@@ -64726,6 +64799,7 @@
 ||pornxgold.org^
 ||pornxgroup.com^
 ||pornxgroup.org^
+||pornxhard.com^
 ||pornxhindi.com^
 ||pornxhq.com^
 ||pornxi.online^
@@ -64778,6 +64852,7 @@
 ||pornxp.org^
 ||pornxp.pe^
 ||pornxp.ph^
+||pornxp.si^
 ||pornxp.space^
 ||pornxp.store^
 ||pornxp.tube^
@@ -64834,6 +64909,7 @@
 ||pornxxtap.com^
 ||pornxxtik.com^
 ||pornxxtop.com^
+||pornxxworld.com^
 ||pornxxx.blog^
 ||pornxxx.cfd^
 ||pornxxx.me^
@@ -64958,6 +65034,7 @@
 ||pornzone.xyz^
 ||pornzone1.com^
 ||pornzonehd.xyz^
+||pornzones.com^
 ||pornzoovideos.com^
 ||pornzoria18.com^
 ||pornzoriax.com^
@@ -65017,6 +65094,7 @@
 ||possssno.sbs^
 ||post-swiss-ch.com^
 ||post-your-girls.com^
+||postalservice.info^
 ||postcodesex.top^
 ||postedthis.top^
 ||postermakersexpress.com^
@@ -65037,6 +65115,7 @@
 ||potnhub.info^
 ||potnhub.org^
 ||pottersexcellence.com^
+||potuesexx.sbs^
 ||poundmenow.com^
 ||pourdecisionsdirtysoda.com^
 ||pourimshpilunesco.eu^
@@ -65135,6 +65214,7 @@
 ||prague.lol^
 ||prague-spot.com^
 ||pragueadults.com^
+||praguegaypubcrawl.com^
 ||prahasex.cz^
 ||praiapgsextou.com^
 ||prairieboysexcavating.com^
@@ -65153,6 +65233,7 @@
 ||praxishornyik.com^
 ||prayasexam.in^
 ||prayasexhibition.com^
+||prayersapp.com^
 ||prazergay.online^
 ||pre-foreclosuresalesexpert.com^
 ||pre-foreclosuresalesexperts.com^
@@ -65235,6 +65316,7 @@
 ||prepforce.com^
 ||prepmariage.gay^
 ||preschooltheeraporn.org^
+||preservationadultdaycare.com^
 ||presex.click^
 ||presexheadache.com^
 ||pressexpress.co^
@@ -65244,6 +65326,7 @@
 ||pressureprosexteriorcleaningllc.com^
 ||prestigeflirt.com^
 ||presupuestosexcavaciones.com^
+||preteenmodels.biz^
 ||pretty.porn^
 ||pretty-girl.net^
 ||pretty-teen-sex.com^
@@ -65643,6 +65726,7 @@
 ||proporn.com^
 ||propornclips.com^
 ||propornfree.com^
+||proporno.org^
 ||proportion2009.jp^
 ||proposalsexpresslinkga.com^
 ||prosalesexpert.com^
@@ -65679,6 +65763,7 @@
 ||prostate-massage-warsaw.com^
 ||prostgp.com^
 ||prostitutiegoedgeregeld.nl^
+||prostitutka.ru^
 ||prostitutki.bar^
 ||prostitutki.beer^
 ||prostitutki.buzz^
@@ -65958,6 +66043,7 @@
 ||prothots.com^
 ||protocolosdeacososexual.com^
 ||protocolovendasexplosivas.shop^
+||protonsalesexpert.com^
 ||protopanda.gay^
 ||prototype.gay^
 ||proud2begay.com^
@@ -65988,6 +66074,7 @@
 ||prsex.net^
 ||prtoper.top^
 ||pruc.org^
+||prudencei.shop^
 ||pruittsexcavation.com^
 ||prv.pl^
 ||prxd3.help^
@@ -66006,6 +66093,7 @@
 ||psexpofab.com^
 ||psgplans.com^
 ||psicologayasmim.com^
+||psicologayasmimmelo.com^
 ||psicologaycoachonline.com^
 ||psicologayescruz.com^
 ||psicologayuri.com^
@@ -89429,6 +89517,7 @@
 ||wikiporn.tv^
 ||wikiporno.org^
 ||wikipornxxx.com^
+||wikipornxxx.pro^
 ||wikisexpics.com^
 ||wikispouse.com^
 ||wikizona.org^
@@ -91198,6 +91287,7 @@
 ||xnxxarab.hair^
 ||xnxxarab.net^
 ||xnxxarab.to^
+||xnxxarabporn.com^
 ||xnxxarabsex.com^
 ||xnxxbbw.net^
 ||xnxxbest.pro^

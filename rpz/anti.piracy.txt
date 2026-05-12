@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778605920 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778616480 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 May 2026 17:12 UTC
-; Version: 2026.0512.1712.06
+; Last modified: 12 May 2026 20:08 UTC
+; Version: 2026.0512.2008.05
 ; Syntax: RPZ
-; Number of entries: 25340
+; Number of entries: 25354
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -12690,6 +12690,8 @@ mlwbd.life CNAME .
 *.mlwbd.life CNAME .
 moviesjoy.life CNAME .
 *.moviesjoy.life CNAME .
+piratebay.life CNAME .
+*.piratebay.life CNAME .
 serien.life CNAME .
 *.serien.life CNAME .
 sportsurge-v2.life CNAME .
@@ -15440,6 +15442,8 @@ pornorip.net CNAME .
 *.pornorip.net CNAME .
 pornotrack.net CNAME .
 *.pornotrack.net CNAME .
+poshbd.net CNAME .
+*.poshbd.net CNAME .
 t.ppnow.net CNAME .
 *.t.ppnow.net CNAME .
 pretome.net CNAME .
@@ -18062,6 +18066,8 @@ proaudiotorrents.org CNAME .
 *.proaudiotorrents.org CNAME .
 udp.tracker.projectk.org CNAME .
 *.udp.tracker.projectk.org CNAME .
+proporno.org CNAME .
+*.proporno.org CNAME .
 prostylex.org CNAME .
 *.prostylex.org CNAME .
 proxifiedpiratebay.org CNAME .
@@ -20850,6 +20856,8 @@ orion.si CNAME .
 *.orion.si CNAME .
 partis.si CNAME .
 *.partis.si CNAME .
+primewire.si CNAME .
+*.primewire.si CNAME .
 stealth.si CNAME .
 *.stealth.si CNAME .
 streamingcommunityz.si CNAME .
@@ -21556,6 +21564,8 @@ retracker.nts.su CNAME .
 *.retracker.nts.su CNAME .
 nzb.su CNAME .
 *.nzb.su CNAME .
+planete-lolo.su CNAME .
+*.planete-lolo.su CNAME .
 seez.su CNAME .
 *.seez.su CNAME .
 streami.su CNAME .
@@ -21754,6 +21764,8 @@ mp3juices.tech CNAME .
 *.mp3juices.tech CNAME .
 tracker.mrhei.tech CNAME .
 *.tracker.mrhei.tech CNAME .
+piratebay.tech CNAME .
+*.piratebay.tech CNAME .
 tracker.pmman.tech CNAME .
 *.tracker.pmman.tech CNAME .
 sportsurge.tech CNAME .
@@ -22824,6 +22836,8 @@ torrent-soft.top CNAME .
 *.torrent-soft.top CNAME .
 torrenttip211.top CNAME .
 *.torrenttip211.top CNAME .
+torrenttip225.top CNAME .
+*.torrenttip225.top CNAME .
 tvshow15.top CNAME .
 *.tvshow15.top CNAME .
 uakinogo.top CNAME .

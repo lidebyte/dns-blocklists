@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 May 2026 17:12 UTC
-# Version: 2026.0512.1712.06
+# Last modified: 12 May 2026 20:08 UTC
+# Version: 2026.0512.2008.05
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12670
+# Number of entries: 12677
 #
 local=/hichemtigsetorgy.0fees.net/
 local=/tracker.0x7c0.com/
@@ -8653,6 +8653,7 @@ local=/pirateaccess.xyz/
 local=/piratebay.cc/
 local=/piratebay.fm/
 local=/piratebay.icu/
+local=/piratebay.life/
 local=/piratebay.live/
 local=/piratebay.one/
 local=/piratebay.org/
@@ -8660,6 +8661,7 @@ local=/piratebay.party/
 local=/piratebay.pro/
 local=/piratebay.red/
 local=/piratebay.surf/
+local=/piratebay.tech/
 local=/piratebay.to/
 local=/piratebay.website/
 local=/piratebay.zone/
@@ -8743,6 +8745,7 @@ local=/pkuedu.ru/
 local=/pl1.com/
 local=/planete-bd.org/
 local=/planete-lolo.com/
+local=/planete-lolo.su/
 local=/planetgames.fr/
 local=/platinmods.com/
 local=/play5.ru/
@@ -8816,6 +8819,7 @@ local=/pornux.de/
 local=/portable4pc.com/
 local=/portalultautv.com/
 local=/porytka.com/
+local=/poshbd.net/
 local=/potlockermovies.com/
 local=/potuk.com/
 local=/pow7.com/
@@ -8854,6 +8858,7 @@ local=/primewire.ag/
 local=/primewire.li/
 local=/primewire.mov/
 local=/primewire.nexus/
+local=/primewire.si/
 local=/primewire.tf/
 local=/primewire.vc/
 local=/primewire.zip/
@@ -8885,6 +8890,7 @@ local=/pron4.me/
 local=/proncams.tv/
 local=/propernoun.net/
 local=/prophecywatch.com/
+local=/proporno.org/
 local=/prosmart.by/
 local=/prostylex.org/
 local=/protonmovies.online/
@@ -11165,6 +11171,7 @@ local=/torrentsome230.com/
 local=/torrentspain.com/
 local=/torrentspy.com/
 local=/torrenttip211.top/
+local=/torrenttip225.top/
 local=/torrentturk.com/
 local=/torrenttyphoon.com/
 local=/torrentube.net/

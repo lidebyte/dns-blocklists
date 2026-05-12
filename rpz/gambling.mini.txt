@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778605860 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778616840 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 May 2026 17:11 UTC
-; Version: 2026.0512.1711.12
+; Last modified: 12 May 2026 20:14 UTC
+; Version: 2026.0512.2014.37
 ; Syntax: RPZ
-; Number of entries: 94520
+; Number of entries: 94586
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -11960,14 +11960,48 @@ pinco1819.casino CNAME .
 *.pinco1819.casino CNAME .
 pinco201.casino CNAME .
 *.pinco201.casino CNAME .
+pinco210.casino CNAME .
+*.pinco210.casino CNAME .
+pinco229.casino CNAME .
+*.pinco229.casino CNAME .
+pinco233.casino CNAME .
+*.pinco233.casino CNAME .
 pinco4.casino CNAME .
 *.pinco4.casino CNAME .
+pinco490.casino CNAME .
+*.pinco490.casino CNAME .
+pinco498.casino CNAME .
+*.pinco498.casino CNAME .
+pinco676.casino CNAME .
+*.pinco676.casino CNAME .
+pinco677.casino CNAME .
+*.pinco677.casino CNAME .
+pinco725.casino CNAME .
+*.pinco725.casino CNAME .
+pinco817.casino CNAME .
+*.pinco817.casino CNAME .
 pinco821.casino CNAME .
 *.pinco821.casino CNAME .
+pinco824.casino CNAME .
+*.pinco824.casino CNAME .
+pinco847.casino CNAME .
+*.pinco847.casino CNAME .
+pinco848.casino CNAME .
+*.pinco848.casino CNAME .
+pinco874.casino CNAME .
+*.pinco874.casino CNAME .
 pinco8751.casino CNAME .
 *.pinco8751.casino CNAME .
 pinco9014.casino CNAME .
 *.pinco9014.casino CNAME .
+pinco923.casino CNAME .
+*.pinco923.casino CNAME .
+pinco924.casino CNAME .
+*.pinco924.casino CNAME .
+pinco941.casino CNAME .
+*.pinco941.casino CNAME .
+pinco943.casino CNAME .
+*.pinco943.casino CNAME .
 pincooo.casino CNAME .
 *.pincooo.casino CNAME .
 pincow912.casino CNAME .
@@ -11986,6 +12020,10 @@ pinko575.casino CNAME .
 *.pinko575.casino CNAME .
 pinko602.casino CNAME .
 *.pinko602.casino CNAME .
+pinko669.casino CNAME .
+*.pinko669.casino CNAME .
+pinko671.casino CNAME .
+*.pinko671.casino CNAME .
 pinko728.casino CNAME .
 *.pinko728.casino CNAME .
 pinko762.casino CNAME .
@@ -14786,10 +14824,14 @@ pinco-casino-p65xm.click CNAME .
 *.pinco-casino-p65xm.click CNAME .
 pincocasinobet.click CNAME .
 *.pincocasinobet.click CNAME .
+pinocasino.click CNAME .
+*.pinocasino.click CNAME .
 pl-casinovox.click CNAME .
 *.pl-casinovox.click CNAME .
 pl-voxcasino.click CNAME .
 *.pl-voxcasino.click CNAME .
+platin-casino.click CNAME .
+*.platin-casino.click CNAME .
 platinum-slots.click CNAME .
 *.platinum-slots.click CNAME .
 play-casino-nz.click CNAME .
@@ -48122,6 +48164,8 @@ playbok88.com CNAME .
 *.playbok88.com CNAME .
 playbonds.com CNAME .
 *.playbonds.com CNAME .
+playbook88login.com CNAME .
+*.playbook88login.com CNAME .
 playboom.com CNAME .
 *.playboom.com CNAME .
 playbracco.com CNAME .
@@ -48292,6 +48336,8 @@ playunited.com CNAME .
 *.playunited.com CNAME .
 playusalotteries.com CNAME .
 *.playusalotteries.com CNAME .
+playusaonlinepoker.com CNAME .
+*.playusaonlinepoker.com CNAME .
 playuzu.com CNAME .
 *.playuzu.com CNAME .
 playuzu-casino-peru.com CNAME .
@@ -48310,6 +48356,8 @@ plazahotelcasino.com CNAME .
 *.plazahotelcasino.com CNAME .
 plazaroyal.com CNAME .
 *.plazaroyal.com CNAME .
+plc5kg7bubuallbigcu2.com CNAME .
+*.plc5kg7bubuallbigcu2.com CNAME .
 plcngame.com CNAME .
 *.plcngame.com CNAME .
 pledoo.com CNAME .
@@ -48956,6 +49004,8 @@ pp11dm.com CNAME .
 *.pp11dm.com CNAME .
 pp23va1.com CNAME .
 *.pp23va1.com CNAME .
+pp88casino.com CNAME .
+*.pp88casino.com CNAME .
 pp88casinovip.com CNAME .
 *.pp88casinovip.com CNAME .
 ppcasinos.com CNAME .
@@ -69846,6 +69896,8 @@ pinupcasinobd.net CNAME .
 *.pinupcasinobd.net CNAME .
 pisang96.net CNAME .
 *.pisang96.net CNAME .
+pishaachini.net CNAME .
+*.pishaachini.net CNAME .
 placetobet.net CNAME .
 *.placetobet.net CNAME .
 play-boom-casino.net CNAME .
@@ -69868,6 +69920,8 @@ poker-dom-casino.net CNAME .
 *.poker-dom-casino.net CNAME .
 poker396.net CNAME .
 *.poker396.net CNAME .
+poker88gas.net CNAME .
+*.poker88gas.net CNAME .
 pokerbet88.net CNAME .
 *.pokerbet88.net CNAME .
 pokerbros.net CNAME .
@@ -72498,6 +72552,8 @@ phcasino.one CNAME .
 *.phcasino.one CNAME .
 phlago.one CNAME .
 *.phlago.one CNAME .
+pinupcasino.one CNAME .
+*.pinupcasino.one CNAME .
 pkr8.one CNAME .
 *.pkr8.one CNAME .
 poker88.one CNAME .
@@ -76134,6 +76190,8 @@ powbetcasino-it.org CNAME .
 *.powbetcasino-it.org CNAME .
 pp-casino.org CNAME .
 *.pp-casino.org CNAME .
+pragmaticplayers.org CNAME .
+*.pragmaticplayers.org CNAME .
 prontobet-casino.org CNAME .
 *.prontobet-casino.org CNAME .
 pupuslotsatujiwa.org CNAME .
@@ -80416,6 +80474,8 @@ pinco-casino-rmtn2.sbs CNAME .
 *.pinco-casino-rmtn2.sbs CNAME .
 playtimecasinokelowna.sbs CNAME .
 *.playtimecasinokelowna.sbs CNAME .
+poker88.sbs CNAME .
+*.poker88.sbs CNAME .
 poker88gacor2026.sbs CNAME .
 *.poker88gacor2026.sbs CNAME .
 pokerok.sbs CNAME .
@@ -81384,6 +81444,8 @@ pokersgpxoa.shop CNAME .
 *.pokersgpxoa.shop CNAME .
 portalhercules138.shop CNAME .
 *.portalhercules138.shop CNAME .
+prudencei.shop CNAME .
+*.prudencei.shop CNAME .
 qqpokerhoki.shop CNAME .
 *.qqpokerhoki.shop CNAME .
 raja-slot.shop CNAME .
@@ -82988,6 +83050,8 @@ pewaris78.store CNAME .
 *.pewaris78.store CNAME .
 playbunnycasino.store CNAME .
 *.playbunnycasino.store CNAME .
+playforwin.store CNAME .
+*.playforwin.store CNAME .
 pokerbarhorses.store CNAME .
 *.pokerbarhorses.store CNAME .
 pokerpulseapp.store CNAME .
@@ -94014,6 +94078,8 @@ pokerpulseapp.xyz CNAME .
 *.pokerpulseapp.xyz CNAME .
 pokerschool.xyz CNAME .
 *.pokerschool.xyz CNAME .
+pokersites.xyz CNAME .
+*.pokersites.xyz CNAME .
 pokertestingfilms.xyz CNAME .
 *.pokertestingfilms.xyz CNAME .
 polestarcasino.xyz CNAME .

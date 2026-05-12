@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 May 2026 16:01 UTC
-# Version: 2026.0512.1601.58
+# Last modified: 12 May 2026 20:27 UTC
+# Version: 2026.0512.2027.13
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14852
+# Number of entries: 14865
 #
 local=/eoutlet.2023shoponline.com/
 local=/trader.212group.de/
@@ -6690,8 +6690,10 @@ local=/holzerneblocke.com/
 local=/holzexpress24.eu/
 local=/holzfursfeuer.de/
 local=/holzgartenprofi.de/
+local=/holzhack-schnitzel.de/
 local=/holzhandelhensel.com/
 local=/holzharry.shop/
+local=/holzhausenug.de/
 local=/holzheiz.com/
 local=/holzkerssenbrock.de/
 local=/holzlangbau.de/
@@ -10751,6 +10753,7 @@ local=/pixelkatze.de/
 local=/pixulovesk.click/
 local=/pizza-blitz-bestellen.de/
 local=/pk.toys/
+local=/placement-action.com/
 local=/placidco.com/
 local=/placidena.com/
 local=/planeoboden.com/
@@ -10764,6 +10767,7 @@ local=/plasice.xyz/
 local=/plasmarkt.com/
 local=/plasticsdaily.com/
 local=/plasticshor.com/
+local=/platin-teppichreinigung.at/
 local=/platincoin.com/
 local=/platinwerk.de/
 local=/platten-paradies.com/
@@ -10774,6 +10778,7 @@ local=/play-stores.de/
 local=/playful-design.com/
 local=/playfulx.com/
 local=/playrush.de/
+local=/playstationstore.shop/
 local=/playtronia.com/
 local=/playzoner.com/
 local=/plazafashions.com/
@@ -10813,6 +10818,7 @@ local=/point-x.shop/
 local=/pokemon-kuscheltier.com/
 local=/pokemon-laden.com/
 local=/pokemonfiguren.de/
+local=/pokestores.com/
 local=/polarbtc.com/
 local=/polenboeller-deutschland.com/
 local=/polene.at/
@@ -10850,16 +10856,19 @@ local=/popular-camping.com/
 local=/popularhitech.com/
 local=/populartoolstore.com/
 local=/porcelai.com/
+local=/porfave.de/
 local=/porlabs.com/
 local=/portablecoolerpro.com/
 local=/porte-monnaie.de/
 local=/portefeuillephoto.com/
 local=/portesdunet.com/
+local=/portugalnewstoday.com/
 local=/poseidonstore.de/
 local=/post-nachsenden.de/
 local=/postcard.news/
 local=/potberg-handel.de/
 local=/potencia-shop.com/
+local=/potencianovelowebaruhaz.com/
 local=/potens-middel.com/
 local=/potenz-pillen-mann.com/
 local=/potenzapo24.com/
@@ -10911,6 +10920,7 @@ local=/premium-toolsverkaufen.com/
 local=/premiumee.com/
 local=/premiumfeuer.com/
 local=/premiumfunds.com/
+local=/premiumpricepills.com/
 local=/premiumvip-spot.com/
 local=/presalesxai.com/
 local=/prescribet.com/
@@ -10941,11 +10951,13 @@ local=/prime-analytics.de/
 local=/prime-deutschland.com/
 local=/prime-e-bike.eu/
 local=/prime-smog.com/
+local=/primecapitals.de/
 local=/primecargotransit.com/
 local=/primecoffeezone.com/
 local=/primefms.com/
 local=/primefunds.de/
 local=/primehealthplus.org/
+local=/primehouse.store/
 local=/primekredit.com/
 local=/primelogisticllc.com/
 local=/primepharm24.com/
@@ -13363,6 +13375,7 @@ local=/topoathleticschuhe.at/
 local=/topoathleticschuhe.de/
 local=/topoffice24.com/
 local=/topoffice24.de/
+local=/toponlinecasinodeutschland.de/
 local=/toponlinepharmacies.com/
 local=/toppdf.co/
 local=/toppillsstore.com/

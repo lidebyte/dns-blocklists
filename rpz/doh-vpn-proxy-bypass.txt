@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778606400 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778616360 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 May 2026 17:20 UTC
-; Version: 2026.0512.1720.27
+; Last modified: 12 May 2026 20:06 UTC
+; Version: 2026.0512.2006.54
 ; Syntax: RPZ
-; Number of entries: 36708
+; Number of entries: 36716
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -13765,6 +13765,8 @@ piplvpn.com CNAME .
 *.piplvpn.com CNAME .
 pirzjdlz.com CNAME .
 *.pirzjdlz.com CNAME .
+lousiana-history-careers-ixl-geoly-education.pittentrepreneur.com CNAME .
+*.lousiana-history-careers-ixl-geoly-education.pittentrepreneur.com CNAME .
 pixelgorithm.com CNAME .
 *.pixelgorithm.com CNAME .
 pixelprivacy.com CNAME .
@@ -13911,6 +13913,8 @@ premzon.com CNAME .
 *.premzon.com CNAME .
 class.bio.prettybirdserver.com CNAME .
 *.class.bio.prettybirdserver.com CNAME .
+prettycoolmath.com CNAME .
+*.prettycoolmath.com CNAME .
 dns2.prima-solusindo.com CNAME .
 *.dns2.prima-solusindo.com CNAME .
 privadagv.com CNAME .
@@ -20809,6 +20813,8 @@ proxite.info CNAME .
 *.proxite.info CNAME .
 proxybrowse.info CNAME .
 *.proxybrowse.info CNAME .
+proxybrowser.info CNAME .
+*.proxybrowser.info CNAME .
 proxyelite.info CNAME .
 *.proxyelite.info CNAME .
 proxygogo.info CNAME .
@@ -29929,6 +29935,8 @@ pineappled.org CNAME .
 *.pineappled.org CNAME .
 pipster.org CNAME .
 *.pipster.org CNAME .
+piraproxy.org CNAME .
+*.piraproxy.org CNAME .
 platobox.org CNAME .
 *.platobox.org CNAME .
 platonet.org CNAME .
