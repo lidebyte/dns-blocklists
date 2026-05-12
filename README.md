@@ -355,7 +355,7 @@ A size-optimised version of the Threat Intelligence Feeds Medium list. Designed 
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 168397 compressed domains
+**Entries:** 168436 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|

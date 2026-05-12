@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 6 hours
-# Last modified: 12 May 2026 16:30 UTC
-# Version: 2026.0512.1630.40
+# Last modified: 12 May 2026 17:58 UTC
+# Version: 2026.0512.1758.05
 # Syntax: Domains (without subdomains)
-# Number of entries: 168397
+# Number of entries: 168436
 #
 allegrolokalnie.0-230-23.rest
 kleinanzeigen.0002010.com
@@ -654,8 +654,6 @@ jup.ag-register.app
 jupiter.ag-usa.blog
 linkedin.agatameble.com
 b1.agblgi4.vu
-member11.agency-ad-meta.com
-member17.agency-connect-profile.com
 centrerlive.agency-partner-manage.com
 contacteu.agency-partner-manage.com
 contactfb.agency-partner-manage.com
@@ -7575,6 +7573,7 @@ conferencia.misau.gov.mz
 previcampos.campos.rj.gov.br
 diplomatie.gov.mr
 laamumaamendhoo.gov.mv
+mosw.gov.sl
 florida.gov-aexr.help
 florida.gov-cdew.help
 florida.gov-ctvh.help
@@ -8871,6 +8870,7 @@ haembaking.incentei.com
 ledger.ind.in
 termosinter.ind.br
 0839cx.indevs.in
+3qf2g2ht46.indevs.in
 billldjx.indevs.in
 bzg.indevs.in
 chinam.indevs.in
@@ -8878,10 +8878,13 @@ cld.indevs.in
 dalan01.indevs.in
 daod.indevs.in
 drtyujyt.indevs.in
+dzvon2026.indevs.in
 esoohc.indevs.in
+jawa.indevs.in
 jiediana.indevs.in
 kkkxmh.indevs.in
 myfirsttest.indevs.in
+priok.indevs.in
 sc0839.indevs.in
 shihaixin.indevs.in
 szbilllee.indevs.in
@@ -9292,7 +9295,6 @@ tokenimport.klatren.lat
 zen-venor.klatren.lat
 dev.klinikmatanusantara.com
 officeltd.km.ua
-webmail465163.kmdastur.co
 aydkh.kmsc8w.cn
 www3-vpass.knfcx.cn
 sevendragons.knightfury.io
@@ -13472,10 +13474,10 @@ myswisscom.telecoms.my
 tenoexena-app.telegapp.shop
 web.telegram.im
 programandojuntos.us.tempcloudsite.com
+512a81761710723322.temporary.link
 687f7cce0d3669684.temporary.link
 716bf44d1c2834289.temporary.link
 partridge0538599a.temporary-demo.site
-00d94bf3262617342.tempsite.link
 landingpagedesign.tempurl.host
 rtdb.tenfold.com
 ok-dom.teqoffee.com
@@ -14583,6 +14585,7 @@ m.web3-chain.trade
 link.web3-ledgerconnect.com
 startup.web3coin.win
 startup.web3go.online
+auth.web3ledgerhub.com
 web3nexuscontract.com.web3securesystem.com
 ledger-app.web3tools.info
 subb.web3xledger.com
@@ -15387,11 +15390,6 @@ t-mobile.ztrjh.cc
 ndrenefs.zwanyu.cn
 t-mobile.zwpvj.cc
 t-mobile.zxskl.cc
-ben-jemaa.zy3852.pro
-benjamin-mais.zy3852.pro
-ken-shun.zy3852.pro
-lea-amel.zy3852.pro
-ww.zy3852.pro
 airscredloginoport2026.zya.me
 bhdconfirmarenlinea0.zya.me
 chase-uxprivacyautindex.zya.me
@@ -17337,6 +17335,7 @@ webview.zzquanchang.com
 1a1a6ffccc244ebe.com
 1a1ad17aa06825b3.com
 1a1b909d3b72485e.com
+1a2326b8e8c8.com
 1a23ed1e78f7ec6d292169fccb9ffec468fa6eee570d4fd56edc14fa1208b32.link
 1a464ddf824e7aae.com
 1a47d0c4d6b762fa.com
@@ -18511,6 +18510,7 @@ webview.zzquanchang.com
 2d1c125cde1c48ae.com
 2d23dc920f7fbb51.com
 2d2b7435caa9f9ba.com
+2d3a0e3x8e2.shop
 2d3dmm.com
 2d407b394616.top
 2d44ca486468b337.com
@@ -18542,6 +18542,7 @@ webview.zzquanchang.com
 2dfcff7f2dae1b50.com
 2dgal.com
 2e-global.com
+2e0l4o4r8h7.shop
 2e1881a8667a.top
 2e1881a8667a.xyz
 2e226f5b384cd382.com
@@ -18568,6 +18569,7 @@ webview.zzquanchang.com
 2f0ea15e974374ba.com
 2f123f4585f05a1f.com
 2f3c42081e41.info
+2f4g0m6b5c0.shop
 2f5a18935d92.top
 2f64e6dda911.xyz
 2f6p5l3q9e9.shop
@@ -18609,6 +18611,7 @@ webview.zzquanchang.com
 2h.ae
 2h01a.click
 2h4e1r4z5f2.shop
+2h8q6a2i2a0.shop
 2havz.com
 2hgmn.top
 2hh.pw
@@ -18707,6 +18710,7 @@ webview.zzquanchang.com
 2velvetsteak.shop
 2w1u6n1i5r9.shop
 2w4i8u6f1c2.shop
+2w6c0o4z4u3.shop
 2wins.agency
 2ww.me
 2wxhh5fc1.com
@@ -19629,6 +19633,7 @@ webview.zzquanchang.com
 3ed8dbc611103650.cc
 3ee1c05a7476173e3841cb9255f8d6db6810b863bfa5bc70ede050ae023b647.link
 3ee68ce0f06ba6f8.com
+3eiu06evhiu3wdz23d09jdjckcxq.top
 3esneaker.com
 3ewardshighlightforevery.top
 3f05faf01fa635a4.com
@@ -22580,6 +22585,7 @@ webview.zzquanchang.com
 73a3bc4c2c45caee.com
 73b8528408ccabb427d79fc82947e758d6b195943e01ed5d0716e26e28d1875.link
 73c69299ee27e481.com
+73d342ecxc.sbs
 73f5eb79b5b57eee.com
 73f63791ba0a5bff.com
 73fad324e9fae8a5.com
@@ -27199,6 +27205,7 @@ acrogamycloud.digital
 acronicworksco.digital
 acronspace.click
 acrosomestackco.click
+acrosspoland.com
 acrosstobrldge.org
 acrosstozora.com
 acroyoga.studio
@@ -27752,6 +27759,7 @@ adsclick.me
 adscribeindia.com
 adse.pro
 adsedc.shop
+adser.top
 adsez.cam
 adsfast.site
 adsfbasdipfuansdpivunxcpibvneerfwefqepkfqwfkqwqwkpfqwof.store
@@ -28264,6 +28272,7 @@ agenbola108.cc
 agenbolatermurah.com
 agence-agency.net
 agence-google.com
+agence-immobiliere-lyon.com
 agence-immobiliere-stcyr.com
 agence-insina.com
 agence-voyage-france.com
@@ -28285,11 +28294,13 @@ agency-ad-control.com
 agency-ad-dashboard.com
 agency-ad-global.com
 agency-ad-hub.com
+agency-ad-meta.com
 agency-ad-network.com
 agency-ad-partner.com
 agency-collab-invite.com
 agency-connect-center.com
 agency-connect-invite.com
+agency-connect-profile.com
 agency-connection-hub.com
 agency-cooperation-portal.com
 agency-digital-platform.com
@@ -40090,6 +40101,7 @@ bhhqocm.info
 bhilbase.click
 bhjoxik.com
 bhm0e4s8s8y8.shop
+bhm0w6y4e1a7.shop
 bhmbp.com
 bhmc.xyz
 bhngytn.cyou
@@ -45575,7 +45587,9 @@ c22cea9925cb87ab.com
 c24.cn
 c247c4431e0c6d84.com
 c24f13cdf97bfd74.com
+c25j071648.top
 c25j0742df.top
+c25j074f2d.top
 c25j0760e6.top
 c25j0780d2.top
 c25j07816c.top
@@ -47256,6 +47270,7 @@ caselhub.digital
 casemustgrateful.icu
 caseo-chatellerault.com
 casepolicies-x.com
+casepractice.com
 caserest.com
 casereviewoffice.info
 cases-live.com
@@ -52694,6 +52709,7 @@ colabs.icu
 colacasino.fr
 colafindtalent.com
 colagehub.digital
+colatv88xb.cc
 colbeytech.com
 colcentralsantander.com
 colcex.com
@@ -56764,6 +56780,7 @@ d6b4391615c4.xyz
 d6bc87a7b6402315.click
 d6bc87a7b6402315.com
 d6bc87a7b6402315.xyz
+d6c4b45a8a67.com
 d6e6e89592ea2593.com
 d6f.top
 d6fbde42c15fffe0.com
@@ -62745,6 +62762,7 @@ dragoncore.life
 dragonfly-design.org
 dragonflyrenovation.com
 dragonglocks.us
+dragonheir-tools.com
 dragonia-australian.com
 dragonip.lat
 dragonmoney.bond
@@ -73801,6 +73819,7 @@ flidgeflow.click
 fliesenmeister.berlin
 fliesthubio.digital
 flightkickz.store
+flights-finder.cc
 flimflamtech.digital
 flimmerworks.digital
 flimsystackco.digital
@@ -75220,6 +75239,7 @@ fre.to
 freakierstack.digital
 freakingamazing.club
 freashiotre.solutions
+frebors.com
 fredandgingerbride.com
 freddieseeovak.de
 freddrop-netlify.xyz
@@ -97024,6 +97044,7 @@ kmbtt.com
 kmc.wtf
 kmctayurvedacollege.org
 kmd.fm
+kmdastur.co
 kmdetaylar.com
 kmdk.net
 kmdsfjthnc.net
@@ -98932,6 +98953,7 @@ lakierlabs.click
 laklakchat.com
 lakmotpro.net
 lakotaroom.com
+lakropack.com
 lakseideroofing.com
 lakshmicerrajeria.com
 lakshovryn.com
@@ -124949,6 +124971,7 @@ pnjtaichinh.com
 pnjtaichinh.top
 pnlxiqmb.com
 pnmbzrjctbft.cc
+pnmls.cd
 pnnzcl.com
 pnnzpv.com
 pnqbh.com
@@ -129416,6 +129439,7 @@ quoterspace.click
 quotspace.click
 quout.club
 qur.info
+quran-o-sunnat.com
 quranium.org
 qurcee.com
 qurex.top
@@ -130753,6 +130777,7 @@ recordstrace.info
 recordworks.digital
 recoreix-f-loatlason-sosolarix.net
 recoreum-s-ficoreix-fiomegai.com
+recosmo.xyz
 recourtech.click
 recovadescrow.com
 recover.social
@@ -135299,6 +135324,7 @@ sbninspections.com
 sbnr-adguard.pro
 sbobet365.org
 sbolbmuiarn9z.com
+sbotop6789.com
 sbrandsbd.com
 sbrj.one
 sbrk.xyz
@@ -135819,6 +135845,7 @@ sea-wheel.icu
 seabeardcloud.digital
 seabell-i.com
 seaberrycloud.digital
+seabird-marine.com
 seabirdcloudio.click
 seaboardcloud.click
 seacademy.cat
@@ -137862,6 +137889,7 @@ shortnr.xyz
 shortpro.app
 shortprofile.me
 shortshift.agency
+shortslinks.site
 shortsurl.site
 shortu.be
 shorturl.fm
@@ -140533,6 +140561,7 @@ solmultiplier.com
 solmultiplier.io
 solnana.info
 solnest.cc
+soloamazon.info
 solodizeworks.click
 sologenic.site
 sologenic.trade
@@ -144768,6 +144797,7 @@ szdwt.com
 szdzx188.com
 szentkutikissgabor.hu
 szeski.com
+szexkep.xyz
 szfwwbj.com
 szfzqgsceoo35.com
 szgeegoo.com
@@ -145093,6 +145123,7 @@ talalgiastudio.digital
 talcherstudioco.click
 talclikegridio.click
 tale-neurosurgery.digital
+talebco.ir
 talecanvas.com
 talecoco.com
 talelayer.click
@@ -145916,6 +145947,7 @@ teddergridio.click
 teddybarza.com
 tedfullwood.com
 tedgestudioco.digital
+tedsysolutions.com
 teebaker.com
 teecard.club
 teedesignlab.com
@@ -146423,6 +146455,7 @@ tempohub.info
 tempohubs.info
 temporalspace.click
 temporary.site
+tempsite.link
 temptercore.com
 temrix.pro
 temuapkofficial.com
@@ -151861,6 +151894,8 @@ tusudhfh.com
 tutacagiz81ileverdigimizsozleri.sbs
 tutenagstack.click
 tuteuwewhy01xj3idcebka9ipkfdzd.top
+tuteuwewhy02xj3idcebka9ipkfdzd.top
+tuteuwewhy03xj3idcebka9ipkfdzd.top
 tuthstudio.digital
 tutoriasytareas.com
 tutsterlabs.digital
@@ -157881,6 +157916,7 @@ vskuoc.top
 vslilzqorfruthj.my
 vslwticp.icu
 vsndhxs.info
+vsoskin.com
 vspmkxhi.click
 vss-whatsapp.com
 vsslezq.top
@@ -164031,6 +164067,7 @@ xoilacxyr.tv
 xoilacxyu.tv
 xoilacxyy.tv
 xoilacxz.ai
+xoilaczsptz.tv
 xoilacztf.tv
 xoilacztl.tv
 xoilaczzazz.tv
@@ -164042,6 +164079,7 @@ xoilaczzspz.tv
 xoilaczzzkz.tv
 xoilaczzzlz.tv
 xoilaczzzw.tv
+xoilaczzzxh.tv
 xoilaczzzxz.tv
 xoilaczzzzb.tv
 xokgdt.cyou
@@ -168297,6 +168335,7 @@ zxzcvzcvxczvxzsax9.cfd
 zxzcvzcvxczvxzsax9.cyou
 zxzxxdd2.top
 zy-msswjp.net
+zy3852.pro
 zyberbridge.app
 zyberra.cyou
 zyblx.com
