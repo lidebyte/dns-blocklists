@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778529420 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778580300 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 May 2026 19:57 UTC
-; Version: 2026.0511.1957.16
+; Last modified: 12 May 2026 10:05 UTC
+; Version: 2026.0512.1005.47
 ; Syntax: RPZ
-; Number of entries: 36646
+; Number of entries: 36700
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -947,6 +947,8 @@ dns.housedenolf.be CNAME .
 *.dns.housedenolf.be CNAME .
 dns.jimirobaer.be CNAME .
 *.dns.jimirobaer.be CNAME .
+use.manutec.be CNAME .
+*.use.manutec.be CNAME .
 dns1.nielsdb.be CNAME .
 *.dns1.nielsdb.be CNAME .
 dns1.pietjacobs.be CNAME .
@@ -3663,6 +3665,12 @@ lmspeed.co CNAME .
 *.lmspeed.co CNAME .
 mailkyb.co CNAME .
 *.mailkyb.co CNAME .
+easycoding.manutec.co CNAME .
+*.easycoding.manutec.co CNAME .
+keenliterature.manutec.co CNAME .
+*.keenliterature.manutec.co CNAME .
+proalgebra.manutec.co CNAME .
+*.proalgebra.manutec.co CNAME .
 adguard.mapor.co CNAME .
 *.adguard.mapor.co CNAME .
 weather.meteorological.co CNAME .
@@ -12411,6 +12419,8 @@ dnstls.mobik.com CNAME .
 *.dnstls.mobik.com CNAME .
 query.mobyds.com CNAME .
 *.query.mobyds.com CNAME .
+mochiser1.com CNAME .
+*.mochiser1.com CNAME .
 mockblock.com CNAME .
 *.mockblock.com CNAME .
 moeu01.com CNAME .
@@ -12689,6 +12699,8 @@ bashathegenius.mooo.com CNAME .
 *.bashathegenius.mooo.com CNAME .
 coconutlizzy.mooo.com CNAME .
 *.coconutlizzy.mooo.com CNAME .
+clever.com.mooo.com CNAME .
+*.clever.com.mooo.com CNAME .
 asdfghqwertyzxcvb.mooo.com.mooo.com CNAME .
 *.asdfghqwertyzxcvb.mooo.com.mooo.com CNAME .
 disinformer.mooo.com CNAME .
@@ -12857,8 +12869,30 @@ mychinafqvpnlist.com CNAME .
 *.mychinafqvpnlist.com CNAME .
 1234567890qwertyuiopasdfghjklzxcvbnm.myclarevision.com CNAME .
 *.1234567890qwertyuiopasdfghjklzxcvbnm.myclarevision.com CNAME .
+abcdefghijklmnopqrstuvwxynowikmyabcs.myclarevision.com CNAME .
+*.abcdefghijklmnopqrstuvwxynowikmyabcs.myclarevision.com CNAME .
+example.myclarevision.com CNAME .
+*.example.myclarevision.com CNAME .
+freelearn.myclarevision.com CNAME .
+*.freelearn.myclarevision.com CNAME .
+gogardiansucks.myclarevision.com CNAME .
+*.gogardiansucks.myclarevision.com CNAME .
+i.myclarevision.com CNAME .
+*.i.myclarevision.com CNAME .
+learn.myclarevision.com CNAME .
+*.learn.myclarevision.com CNAME .
+linewizesucks.myclarevision.com CNAME .
+*.linewizesucks.myclarevision.com CNAME .
+mramato2.myclarevision.com CNAME .
+*.mramato2.myclarevision.com CNAME .
 qoqo-oqoq.myclarevision.com CNAME .
 *.qoqo-oqoq.myclarevision.com CNAME .
+rameo.myclarevision.com CNAME .
+*.rameo.myclarevision.com CNAME .
+rc-1207.myclarevision.com CNAME .
+*.rc-1207.myclarevision.com CNAME .
+sewage.myclarevision.com CNAME .
+*.sewage.myclarevision.com CNAME .
 thisismathteach.myclarevision.com CNAME .
 *.thisismathteach.myclarevision.com CNAME .
 mycovervpn.com CNAME .
@@ -20393,6 +20427,8 @@ letsvpn.in CNAME .
 *.letsvpn.in CNAME .
 dns.mailcastle.in CNAME .
 *.dns.mailcastle.in CNAME .
+doh.micronets.in CNAME .
+*.doh.micronets.in CNAME .
 mywebproxy.in CNAME .
 *.mywebproxy.in CNAME .
 peer2profit.in CNAME .
@@ -20687,8 +20723,12 @@ legalweb.info CNAME .
 *.legalweb.info CNAME .
 letsvpn.info CNAME .
 *.letsvpn.info CNAME .
+literally.info CNAME .
+*.literally.info CNAME .
 dns.lmir.info CNAME .
 *.dns.lmir.info CNAME .
+lurk.info CNAME .
+*.lurk.info CNAME .
 mailproxy.info CNAME .
 *.mailproxy.info CNAME .
 testaghome.meshkov.info CNAME .
@@ -28281,6 +28321,8 @@ m3mhtvbfy.online CNAME .
 *.m3mhtvbfy.online CNAME .
 dns.mahiro.online CNAME .
 *.dns.mahiro.online CNAME .
+marko1oko.online CNAME .
+*.marko1oko.online CNAME .
 ddns.martinmore.online CNAME .
 *.ddns.martinmore.online CNAME .
 matheen.online CNAME .
@@ -33167,6 +33209,8 @@ ilovethiswebsite.001-lab.space CNAME .
 *.1.0rz.space CNAME .
 2.0rz.space CNAME .
 *.2.0rz.space CNAME .
+15151istrash.space CNAME .
+*.15151istrash.space CNAME .
 1f76a2ba920d.space CNAME .
 *.1f76a2ba920d.space CNAME .
 activitysforscience.space CNAME .
@@ -33383,6 +33427,8 @@ kuailianvpn.store CNAME .
 *.kuailianvpn.store CNAME .
 masgl.store CNAME .
 *.masgl.store CNAME .
+migz.store CNAME .
+*.migz.store CNAME .
 minilla.store CNAME .
 *.minilla.store CNAME .
 miscrosoft.store CNAME .
@@ -35721,6 +35767,8 @@ do-39574-tr.xyz CNAME .
 *.do-39574-tr.xyz CNAME .
 doggygo.xyz CNAME .
 *.doggygo.xyz CNAME .
+dogpog.xyz CNAME .
+*.dogpog.xyz CNAME .
 doh.xyz CNAME .
 *.doh.xyz CNAME .
 dorhex.xyz CNAME .
@@ -36057,6 +36105,12 @@ miaona.xyz CNAME .
 *.miaona.xyz CNAME .
 mikezhang.xyz CNAME .
 *.mikezhang.xyz CNAME .
+mochiss.xyz CNAME .
+*.mochiss.xyz CNAME .
+mochiss2.xyz CNAME .
+*.mochiss2.xyz CNAME .
+mochiss3.xyz CNAME .
+*.mochiss3.xyz CNAME .
 mtpro.xyz CNAME .
 *.mtpro.xyz CNAME .
 mvipcloud.xyz CNAME .

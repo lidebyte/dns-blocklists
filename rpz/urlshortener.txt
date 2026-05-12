@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778529480 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778574360 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 May 2026 19:58 UTC
-; Version: 2026.0511.1958.02
+; Last modified: 12 May 2026 08:26 UTC
+; Version: 2026.0512.0826.42
 ; Syntax: RPZ
-; Number of entries: 19768
+; Number of entries: 19802
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1869,6 +1869,8 @@ blogshare.cfd CNAME .
 *.blogshare.cfd CNAME .
 masuk.cfd CNAME .
 *.masuk.cfd CNAME .
+minggu.cfd CNAME .
+*.minggu.cfd CNAME .
 tapthelink.cfd CNAME .
 *.tapthelink.cfd CNAME .
 nlab.cg CNAME .
@@ -2627,8 +2629,12 @@ linkbio.co CNAME .
 *.linkbio.co CNAME .
 linkc.co CNAME .
 *.linkc.co CNAME .
+linkia.co CNAME .
+*.linkia.co CNAME .
 linkiq.co CNAME .
 *.linkiq.co CNAME .
+linkis.co CNAME .
+*.linkis.co CNAME .
 linkly.co CNAME .
 *.linkly.co CNAME .
 linkmix.co CNAME .
@@ -2695,6 +2701,8 @@ mney.co CNAME .
 *.mney.co CNAME .
 u1.mnge.co CNAME .
 *.u1.mnge.co CNAME .
+monetiza.co CNAME .
+*.monetiza.co CNAME .
 moomusic.co CNAME .
 *.moomusic.co CNAME .
 mvmtwatch.co CNAME .
@@ -5151,6 +5159,8 @@ linkr.com CNAME .
 *.linkr.com CNAME .
 linkraya.com CNAME .
 *.linkraya.com CNAME .
+linkrbio.com CNAME .
+*.linkrbio.com CNAME .
 links-bio.com CNAME .
 *.links-bio.com CNAME .
 links4money.com CNAME .
@@ -5167,6 +5177,8 @@ linkshorteners.com CNAME .
 *.linkshorteners.com CNAME .
 linkshortify.com CNAME .
 *.linkshortify.com CNAME .
+linksimplify.com CNAME .
+*.linksimplify.com CNAME .
 linkslave.com CNAME .
 *.linkslave.com CNAME .
 linksminify.com CNAME .
@@ -5301,6 +5313,8 @@ lshrt.com CNAME .
 *.lshrt.com CNAME .
 ltdhunt.com CNAME .
 *.ltdhunt.com CNAME .
+ltnurl.com CNAME .
+*.ltnurl.com CNAME .
 lvclinks.com CNAME .
 *.lvclinks.com CNAME .
 lvfst.com CNAME .
@@ -5571,6 +5585,8 @@ n66d.com CNAME .
 *.n66d.com CNAME .
 na2.com CNAME .
 *.na2.com CNAME .
+nagakuat.com CNAME .
+*.nagakuat.com CNAME .
 naik-terus.com CNAME .
 *.naik-terus.com CNAME .
 nakdetail.com CNAME .
@@ -9491,6 +9507,8 @@ unp.my.id CNAME .
 *.unp.my.id CNAME .
 yusite.my.id CNAME .
 *.yusite.my.id CNAME .
+myurl.id CNAME .
+*.myurl.id CNAME .
 nglink.id CNAME .
 *.nglink.id CNAME .
 onbpk.id CNAME .
@@ -10001,6 +10019,8 @@ nexturl.in CNAME .
 *.nexturl.in CNAME .
 npliv.in CNAME .
 *.npliv.in CNAME .
+nsfw.in CNAME .
+*.nsfw.in CNAME .
 nxy.in CNAME .
 *.nxy.in CNAME .
 og1.in CNAME .
@@ -11349,6 +11369,8 @@ ln24.ir CNAME .
 *.ln24.ir CNAME .
 m7p.ir CNAME .
 *.m7p.ir CNAME .
+mc1.ir CNAME .
+*.mc1.ir CNAME .
 modk.ir CNAME .
 *.modk.ir CNAME .
 mskb.ir CNAME .
@@ -12111,6 +12133,8 @@ linka.li CNAME .
 *.linka.li CNAME .
 logy.li CNAME .
 *.logy.li CNAME .
+lrl.li CNAME .
+*.lrl.li CNAME .
 lvr.li CNAME .
 *.lvr.li CNAME .
 m-i.li CNAME .
@@ -12263,6 +12287,8 @@ kerang.life CNAME .
 *.kerang.life CNAME .
 linelive.life CNAME .
 *.linelive.life CNAME .
+livesport88.life CNAME .
+*.livesport88.life CNAME .
 mainaku.life CNAME .
 *.mainaku.life CNAME .
 mytbg.life CNAME .
@@ -14895,6 +14921,8 @@ canyonstudent.net CNAME .
 *.canyonstudent.net CNAME .
 ccx1.net CNAME .
 *.ccx1.net CNAME .
+cdclub.net CNAME .
+*.cdclub.net CNAME .
 ce0.net CNAME .
 *.ce0.net CNAME .
 chkurl.net CNAME .
@@ -16295,6 +16323,8 @@ music.yosa.org CNAME .
 *.music.yosa.org CNAME .
 yourls.org CNAME .
 *.yourls.org CNAME .
+youweepingt.org CNAME .
+*.youweepingt.org CNAME .
 zpurl.org CNAME .
 *.zpurl.org CNAME .
 zyva.org CNAME .
@@ -16961,6 +16991,8 @@ li-nk.ro CNAME .
 *.li-nk.ro CNAME .
 lnk2.ro CNAME .
 *.lnk2.ro CNAME .
+loy.ro CNAME .
+*.loy.ro CNAME .
 url.lumeapresei.ro CNAME .
 *.url.lumeapresei.ro CNAME .
 microlink.ro CNAME .
@@ -19669,6 +19701,8 @@ murls.xyz CNAME .
 *.murls.xyz CNAME .
 mylnks.xyz CNAME .
 *.mylnks.xyz CNAME .
+n7s.xyz CNAME .
+*.n7s.xyz CNAME .
 nakama420.xyz CNAME .
 *.nakama420.xyz CNAME .
 opli.xyz CNAME .

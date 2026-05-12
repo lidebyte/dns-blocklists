@@ -1358,13 +1358,6 @@
       }
     },
     {
-      "PK": "*.com.cn",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "comick.pictures",
       "action": {
         "do": 1,
@@ -5467,13 +5460,6 @@
       }
     },
     {
-      "PK": "*.org.cn",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "os.fan",
       "action": {
         "do": 1,
@@ -6702,6 +6688,13 @@
       "PK": "*.sexy",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "seyffer.shop",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },

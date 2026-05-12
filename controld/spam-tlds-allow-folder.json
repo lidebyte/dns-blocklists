@@ -5076,6 +5076,13 @@
       }
     },
     {
+      "PK": "seyffer.shop",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "sheet.new",
       "action": {
         "do": 1,

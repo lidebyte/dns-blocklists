@@ -197,13 +197,6 @@
       }
     },
     {
-      "PK": "com.cn",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "consulting",
       "action": {
         "do": 0,
@@ -583,13 +576,6 @@
     },
     {
       "PK": "ong",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "org.cn",
       "action": {
         "do": 0,
         "status": 1

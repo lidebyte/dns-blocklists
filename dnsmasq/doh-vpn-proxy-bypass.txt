@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 May 2026 19:57 UTC
-# Version: 2026.0511.1957.16
+# Last modified: 12 May 2026 10:05 UTC
+# Version: 2026.0512.1005.47
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 18323
+# Number of entries: 18350
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -114,6 +114,7 @@ local=/14921004.xyz/
 local=/14cde95fc53beee0cb9b4275410fe14b.top/
 local=/14y.top/
 local=/hk-nnss.150076.xyz/
+local=/15151istrash.space/
 local=/httpdns.c.163.com/
 local=/httpdns.music.163.com/
 local=/23.106.141.137.16clouds.com/
@@ -5235,6 +5236,7 @@ local=/doggetech.com/
 local=/doggygo.xyz/
 local=/dogitapp.net/
 local=/dogouji.com/
+local=/dogpog.xyz/
 local=/dogreenapp.com/
 local=/dogta5.com/
 local=/dogvpn.me/
@@ -10584,6 +10586,7 @@ local=/listvpn.net/
 local=/lite-vpn.help/
 local=/litebrowser.net/
 local=/literacyadventures.com/
+local=/literally.info/
 local=/litevpn.app/
 local=/litevpn.top/
 local=/dns.lithvik.com/
@@ -10732,6 +10735,7 @@ local=/bt.luoo.cc/
 local=/dns.lupine.solutions/
 local=/luppa.loan/
 local=/luqkhccn.com/
+local=/lurk.info/
 local=/home.luther.io/
 local=/d.luwei.date/
 local=/luxerno.xyz/
@@ -10793,6 +10797,10 @@ local=/maning.pro/
 local=/doh.manish.ltd/
 local=/adguard.manmademagic.com/
 local=/mansujichang.com/
+local=/easycoding.manutec.co/
+local=/keenliterature.manutec.co/
+local=/proalgebra.manutec.co/
+local=/use.manutec.be/
 local=/dns.maolaohei.xyz/
 local=/dns.maomaovpn.com/
 local=/maoxiongclash.com/
@@ -10819,6 +10827,7 @@ local=/marjifx.club/
 local=/music.recap.markisfullofshit.com/
 local=/welweklrj.opwerop.markjlyon.com/
 local=/youcantblockme.markjlyon.com/
+local=/marko1oko.online/
 local=/marnovx.xyz/
 local=/imagine-learning.marqenhotels.com/
 local=/lumi.marqenhotels.com/
@@ -11017,6 +11026,7 @@ local=/miaoyungw.com/
 local=/world.prep.micatonetwork.net/
 local=/dns.michelo.cl/
 local=/ss.microbaidu.com/
+local=/doh.micronets.in/
 local=/microvpn.com/
 local=/proxysmart.microyiappstudio.com/
 local=/www-proxy.midoghanam.site/
@@ -11027,6 +11037,7 @@ local=/mifengjsd.com/
 local=/mifengxz.com/
 local=/www-proxy.migastep.com/
 local=/spoap.miguelcarrasco.net/
+local=/migz.store/
 local=/dns.mihalcea.eu/
 local=/agh.mihanentalpo.me/
 local=/dns.mihanentalpo.me/
@@ -11105,6 +11116,10 @@ local=/mobilejump.mobi/
 local=/mobilevpn.net/
 local=/mobtrix.lol/
 local=/query.mobyds.com/
+local=/mochiser1.com/
+local=/mochiss.xyz/
+local=/mochiss2.xyz/
+local=/mochiss3.xyz/
 local=/doh.mochou.site/
 local=/mockblock.com/
 local=/moct.cloud/
@@ -11285,6 +11300,7 @@ local=/alexj123.mooo.com/
 local=/allcowswilldefinitelygo.mooo.com/
 local=/bashathegenius.mooo.com/
 local=/coconutlizzy.mooo.com/
+local=/clever.com.mooo.com/
 local=/asdfghqwertyzxcvb.mooo.com.mooo.com/
 local=/disinformer.mooo.com/
 local=/e23a.mooo.com/
@@ -11466,7 +11482,18 @@ local=/mychinafqapplist.com/
 local=/mychinafqjsqlist.com/
 local=/mychinafqvpnlist.com/
 local=/1234567890qwertyuiopasdfghjklzxcvbnm.myclarevision.com/
+local=/abcdefghijklmnopqrstuvwxynowikmyabcs.myclarevision.com/
+local=/example.myclarevision.com/
+local=/freelearn.myclarevision.com/
+local=/gogardiansucks.myclarevision.com/
+local=/i.myclarevision.com/
+local=/learn.myclarevision.com/
+local=/linewizesucks.myclarevision.com/
+local=/mramato2.myclarevision.com/
 local=/qoqo-oqoq.myclarevision.com/
+local=/rameo.myclarevision.com/
+local=/rc-1207.myclarevision.com/
+local=/sewage.myclarevision.com/
 local=/thisismathteach.myclarevision.com/
 local=/mycovervpn.com/
 local=/adguard.myddns.org/

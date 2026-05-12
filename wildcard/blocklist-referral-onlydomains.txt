@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 May 2026 08:16 UTC
-# Version: 2026.0511.0816.18
+# Last modified: 12 May 2026 08:09 UTC
+# Version: 2026.0512.0809.16
 # Syntax: Domains (without subdomains)
-# Number of entries: 1549
+# Number of entries: 1551
 #
 1-aclk.net
 1aurl.io
@@ -548,6 +548,7 @@ amway-cdn.exponea.com
 cdn.exponea.com
 csb-cdn.exponea.com
 dgl-cdn.exponea.com
+els-cdn.exponea.com
 cdn.eu1.exponea.com
 fis-royalcopenhagen-cdn.exponea.com
 cdn.ftspecialist.exponea.com
@@ -994,6 +995,7 @@ mkto-sj070259.com
 mkto-sj080048.com
 mkto-sj090132.com
 mkto-sj100138.com
+mkto-sj110048.com
 mkto-sj130243.com
 mkto-sj140007.com
 mkto-sj140163.com

@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 11 May 2026 19:58 UTC
-! Version: 2026.0511.1958.02
+! Last modified: 12 May 2026 08:26 UTC
+! Version: 2026.0512.0826.42
 ! Syntax: AdBlock
-! Number of entries: 9884
+! Number of entries: 9901
 !
 ||0.gp^
 ||00m.in^
@@ -1542,6 +1542,7 @@
 ||ccx1.net^
 ||cczxdc.com^
 ||cdat.ca^
+||cdclub.net^
 ||cdcp.io^
 ||cden.co^
 ||s.cdw.ro^
@@ -4439,6 +4440,7 @@
 ||linkhubdirect.com^
 ||linkhuddle.com^
 ||linki.run^
+||linkia.co^
 ||linkify.page^
 ||linkifyer.com^
 ||linkila.com^
@@ -4450,6 +4452,7 @@
 ||linkinto.net^
 ||linkio.it^
 ||linkiq.co^
+||linkis.co^
 ||linkis.xyz^
 ||linkit.net^
 ||linkit4.me^
@@ -4536,6 +4539,7 @@
 ||linkr.uk^
 ||linkr.vc^
 ||linkraya.com^
+||linkrbio.com^
 ||linkrefferal.vip^
 ||linkrex.net^
 ||linkrif.co^
@@ -4571,6 +4575,7 @@
 ||linkshrink.org^
 ||linksi.me^
 ||linksimple.io^
+||linksimplify.com^
 ||linksite.bio^
 ||linkslave.com^
 ||linkslice.io^
@@ -4667,6 +4672,7 @@
 ||liurl.cn^
 ||livemu.sc^
 ||livemybio.com^
+||livesport88.life^
 ||livestre.am^
 ||s.livstick.io^
 ||lixy.me^
@@ -4795,6 +4801,7 @@
 ||low-5.com^
 ||lowrihouston.pro^
 ||lowx.de^
+||loy.ro^
 ||r.lp2.me^
 ||lpc.ca^
 ||lph.la^
@@ -4804,6 +4811,7 @@
 ||lr3.link^
 ||lr53r.com^
 ||lrl.kr^
+||lrl.li^
 ||lrrrl.com^
 ||lru.jp^
 ||ls.st^
@@ -4826,6 +4834,7 @@
 ||news.ltdo.org^
 ||vote.ltdo.org^
 ||ltkiss.cc^
+||ltnurl.com^
 ||lttr.ai^
 ||go.lu-h.de^
 ||lua.sh^
@@ -4984,6 +4993,7 @@
 ||link.mbhumans.com^
 ||mbx.events^
 ||mby.me^
+||mc1.ir^
 ||mcaf.ee^
 ||mcafee.ly^
 ||mcd.to^
@@ -5106,6 +5116,7 @@
 ||min.bz^
 ||minecraftparodileri.com^
 ||mineurl.top^
+||minggu.cfd^
 ||mini-url.in^
 ||mini-url.net^
 ||minifi.ca^
@@ -5197,6 +5208,7 @@
 ||static.monactive.net^
 ||trackingservice.monday.com^
 ||mondoagram.com^
+||monetiza.co^
 ||monly.id^
 ||monster.cat^
 ||info.montbell.com^
@@ -5393,6 +5405,7 @@
 ||myumi.ch^
 ||myup.work^
 ||myurl.cy^
+||myurl.id^
 ||myurl.in^
 ||myurl.ly^
 ||myurl.ng^
@@ -5409,11 +5422,13 @@
 ||n3y.ir^
 ||n66d.com^
 ||n7i.cn^
+||n7s.xyz^
 ||n9.cl^
 ||n9x.co^
 ||na2.com^
 ||na5.nl^
 ||naa.gg^
+||nagakuat.com^
 ||nah.uy^
 ||naik-terus.com^
 ||nakama420.xyz^
@@ -5589,6 +5604,7 @@
 ||nrsry.co^
 ||ns.hn^
 ||go.nsd.org^
+||nsfw.in^
 ||nst.cx^
 ||nswroads.work^
 ||ntalij.com^
@@ -9718,6 +9734,7 @@
 ||yourwish.es^
 ||yous.ee^
 ||url.yousufraissi.xyz^
+||youweepingt.org^
 ||youz.one^
 ||yrkus.com^
 ||yrl.li^

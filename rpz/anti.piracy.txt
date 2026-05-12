@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778529480 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778579880 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 May 2026 19:58 UTC
-; Version: 2026.0511.1958.33
+; Last modified: 12 May 2026 09:58 UTC
+; Version: 2026.0512.0958.18
 ; Syntax: RPZ
-; Number of entries: 25278
+; Number of entries: 25316
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -266,6 +266,8 @@ macked.app CNAME .
 *.macked.app CNAME .
 mkvcinemas.app CNAME .
 *.mkvcinemas.app CNAME .
+movie-web.app CNAME .
+*.movie-web.app CNAME .
 moviesleech.app CNAME .
 *.moviesleech.app CNAME .
 mrgamingstreams.app CNAME .
@@ -1196,6 +1198,8 @@ guardaserie.bond CNAME .
 *.guardaserie.bond CNAME .
 hypeflix.bond CNAME .
 *.hypeflix.bond CNAME .
+il-geniodellostreaming.bond CNAME .
+*.il-geniodellostreaming.bond CNAME .
 laroza.bond CNAME .
 *.laroza.bond CNAME .
 movie2ktv.bond CNAME .
@@ -6098,6 +6102,8 @@ macbed.com CNAME .
 *.macbed.com CNAME .
 macbff.com CNAME .
 *.macbff.com CNAME .
+macgamesland.com CNAME .
+*.macgamesland.com CNAME .
 macgamesworld.com CNAME .
 *.macgamesworld.com CNAME .
 macgamez-download.com CNAME .
@@ -6458,12 +6464,16 @@ mp4ba.com CNAME .
 *.mp4ba.com CNAME .
 mp4mobimovies.com CNAME .
 *.mp4mobimovies.com CNAME .
+mrdeni.com CNAME .
+*.mrdeni.com CNAME .
 mrkmspico.com CNAME .
 *.mrkmspico.com CNAME .
 mscracks.com CNAME .
 *.mscracks.com CNAME .
 tracker.msm8916.com CNAME .
 *.tracker.msm8916.com CNAME .
+mtbsl.com CNAME .
+*.mtbsl.com CNAME .
 multiapkclub.com CNAME .
 *.multiapkclub.com CNAME .
 multicanais.com CNAME .
@@ -6536,6 +6546,8 @@ myunblock.com CNAME .
 *.myunblock.com CNAME .
 myvidplay.com CNAME .
 *.myvidplay.com CNAME .
+mywarez.com CNAME .
+*.mywarez.com CNAME .
 nabtor.com CNAME .
 *.nabtor.com CNAME .
 naijavault.com CNAME .
@@ -9798,6 +9810,8 @@ hdmovie2.email CNAME .
 *.hdmovie2.email CNAME .
 movies123.email CNAME .
 *.movies123.email CNAME .
+moviesmod.email CNAME .
+*.moviesmod.email CNAME .
 streamingcommunityz.email CNAME .
 *.streamingcommunityz.email CNAME .
 vegamovies.energy CNAME .
@@ -10412,6 +10426,10 @@ megadl.fr CNAME .
 *.megadl.fr CNAME .
 mes-meilleurs-films.fr CNAME .
 *.mes-meilleurs-films.fr CNAME .
+dark-warez.new.fr CNAME .
+*.dark-warez.new.fr CNAME .
+warezland.new.fr CNAME .
+*.warezland.new.fr CNAME .
 pirlotv.fr CNAME .
 *.pirlotv.fr CNAME .
 planetgames.fr CNAME .
@@ -10536,6 +10554,8 @@ losmovies.fun CNAME .
 *.losmovies.fun CNAME .
 m4ufree.fun CNAME .
 *.m4ufree.fun CNAME .
+moviesmod.fun CNAME .
+*.moviesmod.fun CNAME .
 namako.fun CNAME .
 *.namako.fun CNAME .
 natsumi.fun CNAME .
@@ -12846,8 +12866,12 @@ losmovies.live CNAME .
 *.losmovies.live CNAME .
 megaup.live CNAME .
 *.megaup.live CNAME .
+movie4u.live CNAME .
+*.movie4u.live CNAME .
 moviedom.live CNAME .
 *.moviedom.live CNAME .
+moviemela.live CNAME .
+*.moviemela.live CNAME .
 movies123.live CNAME .
 *.movies123.live CNAME .
 multicanais.live CNAME .
@@ -16648,6 +16672,8 @@ movierr.online CNAME .
 *.movierr.online CNAME .
 moviesmax.online CNAME .
 *.moviesmax.online CNAME .
+multicanaishd.online CNAME .
+*.multicanaishd.online CNAME .
 multimovies.online CNAME .
 *.multimovies.online CNAME .
 myfreesky.online CNAME .
@@ -17630,6 +17656,8 @@ libtorrent.org CNAME .
 *.libtorrent.org CNAME .
 licensekeys.org CNAME .
 *.licensekeys.org CNAME .
+lifemovie.org CNAME .
+*.lifemovie.org CNAME .
 ligg.org CNAME .
 *.ligg.org CNAME .
 tracker.lilithraws.org CNAME .
@@ -20508,6 +20536,8 @@ guardaserietv.sbs CNAME .
 *.guardaserietv.sbs CNAME .
 ilgeniodellostreaming.sbs CNAME .
 *.ilgeniodellostreaming.sbs CNAME .
+mkvcinemas.sbs CNAME .
+*.mkvcinemas.sbs CNAME .
 moviedokan.sbs CNAME .
 *.moviedokan.sbs CNAME .
 movies123.sbs CNAME .
@@ -21678,6 +21708,8 @@ hdmovie2.team CNAME .
 *.hdmovie2.team CNAME .
 kinox.team CNAME .
 *.kinox.team CNAME .
+megakino.team CNAME .
+*.megakino.team CNAME .
 moviesmod.team CNAME .
 *.moviesmod.team CNAME .
 serienjunkies.team CNAME .
@@ -24168,6 +24200,8 @@ kinox.website CNAME .
 *.kinox.website CNAME .
 larozaa.website CNAME .
 *.larozaa.website CNAME .
+movies123.website CNAME .
+*.movies123.website CNAME .
 multimovies.website CNAME .
 *.multimovies.website CNAME .
 piratebay.website CNAME .
@@ -24308,6 +24342,8 @@ vegamovies.work CNAME .
 *.vegamovies.work CNAME .
 filmapik.works CNAME .
 *.filmapik.works CNAME .
+megakino.works CNAME .
+*.megakino.works CNAME .
 vegamovies.works CNAME .
 *.vegamovies.works CNAME .
 ettv.123unblock.world CNAME .
@@ -25002,6 +25038,8 @@ mahsunsports16.xyz CNAME .
 *.mahsunsports16.xyz CNAME .
 maxseries.xyz CNAME .
 *.maxseries.xyz CNAME .
+megacam.xyz CNAME .
+*.megacam.xyz CNAME .
 tracker.memelords.xyz CNAME .
 *.tracker.memelords.xyz CNAME .
 mistcloud98.xyz CNAME .

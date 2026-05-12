@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 May 2026 19:56 UTC
-# Version: 2026.0511.1956.26
+# Last modified: 12 May 2026 10:04 UTC
+# Version: 2026.0512.1004.59
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 3456
+# Number of entries: 3457
 #
 *.ss.0001.xyz
 *.003153.xyz
@@ -2160,6 +2160,7 @@
 *.next.miao.ninja
 *.dns.michelo.cl
 *.ss.microbaidu.com
+*.doh.micronets.in
 *.dns.midping.ir
 *.dns.mihalcea.eu
 *.agh.mihanentalpo.me

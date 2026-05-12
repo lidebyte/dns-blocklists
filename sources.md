@@ -54,6 +54,7 @@ https://hinweishelden.com/hinweise/
 https://hole.cert.pl/domains/domains.txt
 https://hole.cert.pl/domains/v2/domains.txt
 https://hosts.tweedge.net/malicious.txt
+https://lists.cyberhost.uk/malware.txt
 https://mf.gov.cz/assets/attachments/Zverejnovane-udaje-ze-Seznamu-nepovolenych-internetovych-her_vNNN.csv
 https://opendata.sukl.cz/soubory/NELEGALNI_STRANKY/Nelegalni_stranky_LP.csv
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -290,6 +291,8 @@ https://www.data.gouv.fr/fr/datasets/r/d2d9df6d-1cd2-41a8-96f5-684cb3057ecb
 https://www.globalantiscam.org/scam-websites
 https://www.kushari.org/downloads/mal.txt
 https://www.spamhaus.org/reputation-statistics/gtlds/domains/
+https://www.stopforumspam.com/downloads/toxic_domains_whole_filtered_50000.txt
+https://www.stopforumspam.com/downloads/toxic_domains_whole_filtered.txt
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
 https://www.szpi.gov.cz/ViewFile.aspx?docid=3000211
 https://www.trustedshops.de/fake-shops/
