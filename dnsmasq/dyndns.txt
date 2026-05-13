@@ -5,11 +5,27 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 May 2026 16:23 UTC
-# Version: 2026.0511.1623.00
+# Last modified: 13 May 2026 16:59 UTC
+# Version: 2026.0513.1659.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1477
+# Number of entries: 1478
 #
+local=/dyn.addr.tools/
+local=/changeip.co.uk/
+local=/dynamicdns.co.uk/
+local=/no-ip.co.uk/
+local=/dyn.columbia.edu/
+local=/ddns.com.br/
+local=/ddns.com.co/
+local=/dynamicdns.com.co/
+local=/winco.com.br/
+local=/dyn.dns.he.net/
+local=/4040.idv.tw/
+local=/dynamicdns.me.uk/
+local=/d-n-s.org.uk/
+local=/dynamicdns.org.uk/
+local=/limit.org.uk/
+local=/h4g3z1-dyndns.web.app/
 local=/0000000000000000000000.com/
 local=/0x.no/
 local=/100mountain.com/
@@ -58,7 +74,6 @@ local=/accesscam.org/
 local=/acmetoy.com/
 local=/ad.jp/
 local=/adagio.tw/
-local=/dyn.addr.tools/
 local=/afraid.org/
 local=/agropeople.ru/
 local=/aintno.info/
@@ -203,18 +218,10 @@ local=/cloudns.pro/
 local=/cloudwatch.net/
 local=/cloudxns.net/
 local=/cnstefancelmare.ro/
-local=/changeip.co.uk/
-local=/dynamicdns.co.uk/
-local=/no-ip.co.uk/
 local=/coalnet.ru/
 local=/codns.com/
 local=/colegiotorrevilano.es/
 local=/collegefan.org/
-local=/dyn.columbia.edu/
-local=/ddns.com.br/
-local=/ddns.com.co/
-local=/dynamicdns.com.co/
-local=/winco.com.br/
 local=/compress.to/
 local=/compuinter.com/
 local=/computersforpeace.net/
@@ -647,7 +654,6 @@ local=/hamshack.info/
 local=/happyforever.com/
 local=/hatenboer.org/
 local=/hbmc.net/
-local=/dyn.dns.he.net/
 local=/health-carereform.com/
 local=/her.name/
 local=/here-for-more.info/
@@ -703,7 +709,6 @@ local=/ics.tw/
 local=/ideasciviles.com/
 local=/idigo.org/
 local=/idleplay.net/
-local=/4040.idv.tw/
 local=/ieserver.net/
 local=/ignorelist.com/
 local=/iiiii.info/
@@ -915,7 +920,6 @@ local=/marieblazek.com/
 local=/maurinfor.com/
 local=/mcsoft.org/
 local=/mcwrite.net/
-local=/dynamicdns.me.uk/
 local=/medbury.com/
 local=/medittech.com/
 local=/mefound.com/
@@ -1104,9 +1108,6 @@ local=/onthewifi.com/
 local=/ooguy.com/
 local=/opior.com/
 local=/oray.com/
-local=/d-n-s.org.uk/
-local=/dynamicdns.org.uk/
-local=/limit.org.uk/
 local=/organiccrap.com/
 local=/orskkino.ru/
 local=/otzo.com/
@@ -1330,6 +1331,7 @@ local=/synology-diskstation.de/
 local=/synology-ds.de/
 local=/synoserver.com/
 local=/sysadminetworks.com/
+local=/system-ns.com/
 local=/systes.net/
 local=/sytes.net/
 local=/tallison.com/
@@ -1425,7 +1427,6 @@ local=/vxe6.net/
 local=/wakingmoon.com/
 local=/wan64.de/
 local=/wanip.ch/
-local=/h4g3z1-dyndns.web.app/
 local=/webhop.biz/
 local=/webhop.info/
 local=/webhop.me/

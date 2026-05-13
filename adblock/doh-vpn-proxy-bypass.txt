@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 13 May 2026 09:37 UTC
-! Version: 2026.0513.0937.18
+! Last modified: 13 May 2026 17:01 UTC
+! Version: 2026.0513.1701.31
 ! Syntax: AdBlock
-! Number of entries: 18387
+! Number of entries: 18400
 !
 ||ss.0001.xyz^
 ||ilovethiswebsite.001-lab.space^
@@ -6748,6 +6748,7 @@
 ||dns.stud.cloud^
 ||educationalmath.studyingsciencethemes.one^
 ||la-doh.stuptech.com^
+||doh.sublime9.xyz^
 ||epsteinfuckhermalinda.subsoniclabs.com^
 ||epsteinkilltwinksefn.subsoniclabs.com^
 ||hermalindalopezisstinkyandblack.subsoniclabs.com^
@@ -6941,6 +6942,7 @@
 ||math.thanatos.com^
 ||voidnettty.thanatos.com^
 ||typingpractice.theantzfarm.space^
+||unplatonicallydiybt.theantzfarm.space^
 ||www.3.theartieschaffer.com^
 ||www.94.theartieschaffer.com^
 ||www.p.theartieschaffer.com^
@@ -6978,6 +6980,8 @@
 ||kylespringiseeyou.thehomeserver.net^
 ||adguard.theil.dev^
 ||ela.smart.thelecks.com^
+||important.thelmadejager.info^
+||m.thelmadejager.click^
 ||yh.themcgoughs.org^
 ||class.skill.theo.mx^
 ||explore.theoceanforest.com^
@@ -7056,6 +7060,7 @@
 ||how.prep.topmoto.pl^
 ||chart.train.topone.cl^
 ||nsc.torgues.net^
+||center.k12.mo.us.tornotluk.in^
 ||arnoldmiddleyk.totalcare.pk^
 ||rn.totalcare.pk^
 ||doh.totoro.pub^
@@ -16006,6 +16011,7 @@
 ||speedinpc.com^
 ||speedlynk.com^
 ||speedprintvisit.com^
+||speedproxy.online^
 ||speedshare.app^
 ||speedssh.com^
 ||speedstream.click^
@@ -16276,6 +16282,7 @@
 ||svtfwqhb.com^
 ||swapip.com^
 ||swcloud.io^
+||sweetline.info^
 ||swiftcdn.org^
 ||swiftclouds.xyz^
 ||swissvpn.net^
@@ -16391,13 +16398,17 @@
 ||thenotionplus.top^
 ||thenuke.org^
 ||theproxies.net^
+||theproxy.cc^
+||theproxy.club^
 ||theproxy.dev^
 ||theproxy.ink^
+||theproxy.io^
 ||theproxy.lol^
 ||theproxy.red^
 ||theproxy.vip^
 ||theproxy.work^
 ||theproxy2.biz^
+||theproxy2.com^
 ||theproxya.org^
 ||theproxyer.com^
 ||theproxyguide.com^
@@ -16453,6 +16464,8 @@
 ||timevpns.com^
 ||timmes.nl^
 ||timurpoyraz.com^
+||tinf0il.tech^
+||tinfoil-is-ass.xyz^
 ||tipext.com^
 ||tiptop-vpn.com^
 ||tiptopvpn.biz^

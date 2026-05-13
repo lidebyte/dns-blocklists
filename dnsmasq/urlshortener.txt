@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 May 2026 08:26 UTC
-# Version: 2026.0513.0826.41
+# Last modified: 13 May 2026 17:02 UTC
+# Version: 2026.0513.1702.39
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9919
+# Number of entries: 9924
 #
 local=/a.189.cn/
 local=/t.2merkato.com/
@@ -2699,7 +2699,6 @@ local=/cut.ovh/
 local=/cut.pe/
 local=/cut.sk/
 local=/cut.vin/
-local=/cut-ly.com/
 local=/cut2.eu/
 local=/cutdown.link/
 local=/cute.link/
@@ -3685,6 +3684,7 @@ local=/gma.abc/
 local=/gmh.bz/
 local=/gmj.to/
 local=/gmj.tw/
+local=/gmlft.co/
 local=/gmqr.ch/
 local=/gmwd.us/
 local=/gmy.su/
@@ -8146,6 +8146,7 @@ local=/tagbuilder.io/
 local=/taggpro.me/
 local=/tagli.net/
 local=/tagly.us/
+local=/tahmil.net/
 local=/tailurl.com/
 local=/taiwangov.com/
 local=/tak.to/
@@ -8185,6 +8186,7 @@ local=/tbsi.app/
 local=/tcc.io/
 local=/tcc.plus/
 local=/tcch.ch/
+local=/tckl.me/
 local=/tconnx.link/
 local=/tcp.pw/
 local=/tcr.link/
@@ -8213,6 +8215,7 @@ local=/tek.io/
 local=/teknut.com/
 local=/telega.io/
 local=/telegramviral.com/
+local=/telegramviral.online/
 local=/teleko.me/
 local=/tellurl.com/
 local=/tempfind.app/
@@ -8226,6 +8229,7 @@ local=/terashort.com/
 local=/teratai888.ink/
 local=/terbar.ink/
 local=/terbukti.info/
+local=/terijoss.com/
 local=/terp.icu/
 local=/tetherlink.us/
 local=/texas-lands.org/
@@ -8341,6 +8345,7 @@ local=/timewatch.info/
 local=/timnao.link/
 local=/timxxx.ink/
 local=/tin.li/
+local=/tinesy.com/
 local=/tini.cc/
 local=/tini.cx/
 local=/tinky.cc/
@@ -8432,6 +8437,7 @@ local=/titan.is/
 local=/titaniumlinks.com/
 local=/titleagentmarketing.com/
 local=/titly.pro/
+local=/titok.website/
 local=/tiurl.link/
 local=/tiy.be/
 local=/tj.wtf/
@@ -8928,7 +8934,6 @@ local=/urlbae.com/
 local=/urlbee.site/
 local=/urlbit.co/
 local=/urlbit.io/
-local=/urlbit.online/
 local=/urlbit.pro/
 local=/urlbity.com/
 local=/urlbox.cc/

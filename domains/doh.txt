@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 May 2026 17:19 UTC
-# Version: 2026.0512.1719.15
+# Last modified: 13 May 2026 17:00 UTC
+# Version: 2026.0513.1700.36
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3922
+# Number of entries: 3923
 #
 ss.0001.xyz
 003153.xyz
@@ -3412,6 +3412,7 @@ structoriumwings.ru
 dns.stud.cloud
 www.dns.stud.cloud
 la-doh.stuptech.com
+doh.sublime9.xyz
 doh.suche.org
 dns.suhaila.dev
 resolver.sunet.se

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 May 2026 17:05 UTC
-# Version: 2026.0507.1705.45
+# Last modified: 13 May 2026 16:00 UTC
+# Version: 2026.0513.1600.43
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 700
+# Number of entries: 713
 #
 3px.axp.amazon-adsystem.com
 aan.amazon.co.jp
@@ -540,8 +540,20 @@ session.mshopbugsnag.irm.amazon.dev
 sessions.bugsnag.appstore.a2z.com
 sessions.prod.bugs.firebat.prime-video.amazon.dev
 sonar.prime-video.amazon.dev
+sponsored-ads-eu-south-2.amazon-adsystem.com
+sponsored-ads-eu.amazon.com.tr
 sponsored-ads-fe.amazon-adsystem.com
 sponsored-ads-na.amazon-adsystem.com
+sponsored-ads.amazon.ca
+sponsored-ads.amazon.co.jp
+sponsored-ads.amazon.co.uk
+sponsored-ads.amazon.com
+sponsored-ads.amazon.com.au
+sponsored-ads.amazon.com.br
+sponsored-ads.amazon.com.mx
+sponsored-ads.amazon.es
+sponsored-ads.amazon.in
+sponsored-ads.amazon.it
 spp.bid-na.ads-beta.aps.amazon-adsystem.com
 spp.bid-na.ads-gamma.aps.amazon-adsystem.com
 spp.bid-na.ads.aps.amazon-adsystem.com
@@ -673,6 +685,7 @@ web-cf-event-cell8006.ads.aps.amazon-adsystem.com
 web-cf-event-cell8011.ads.aps.amazon-adsystem.com
 web-cf-event-cell8013.ads.aps.amazon-adsystem.com
 web-cf-event-cell8021.ads.aps.amazon-adsystem.com
+web-cf-event-cell8022.ads.aps.amazon-adsystem.com
 web-video.ads.aps.amazon-adsystem.com
 web.ads.aps.amazon-adsystem.com
 web.ap-southeast.aps.axp.amazon-adsystem.com

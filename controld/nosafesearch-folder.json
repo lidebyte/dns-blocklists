@@ -1072,6 +1072,13 @@
       }
     },
     {
+      "PK": "searxng.biz",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "searxng.canine.tools",
       "action": {
         "do": 0,

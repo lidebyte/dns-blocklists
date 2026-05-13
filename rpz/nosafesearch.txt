@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778616300 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778691540 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's safesearch not supported DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 May 2026 20:05 UTC
-; Version: 2026.0512.2005.18
+; Last modified: 13 May 2026 16:59 UTC
+; Version: 2026.0513.1659.19
 ; Syntax: RPZ
-; Number of entries: 412
+; Number of entries: 414
 ;
 search.femboy.ad CNAME .
 *.search.femboy.ad CNAME .
@@ -28,6 +28,8 @@ searx.bar CNAME .
 *.searx.bar CNAME .
 search.ipsys.bf CNAME .
 *.search.ipsys.bf CNAME .
+searxng.biz CNAME .
+*.searxng.biz CNAME .
 search.aol.ca CNAME .
 *.search.aol.ca CNAME .
 dynabyte.ca CNAME .

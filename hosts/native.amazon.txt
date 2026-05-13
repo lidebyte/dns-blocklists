@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 May 2026 17:05 UTC
-# Version: 2026.0507.1705.45
+# Last modified: 13 May 2026 16:00 UTC
+# Version: 2026.0513.1600.43
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 700
+# Number of entries: 713
 #
 0.0.0.0 3px.axp.amazon-adsystem.com
 0.0.0.0 aan.amazon.co.jp
@@ -540,8 +540,20 @@
 0.0.0.0 sessions.bugsnag.appstore.a2z.com
 0.0.0.0 sessions.prod.bugs.firebat.prime-video.amazon.dev
 0.0.0.0 sonar.prime-video.amazon.dev
+0.0.0.0 sponsored-ads-eu-south-2.amazon-adsystem.com
+0.0.0.0 sponsored-ads-eu.amazon.com.tr
 0.0.0.0 sponsored-ads-fe.amazon-adsystem.com
 0.0.0.0 sponsored-ads-na.amazon-adsystem.com
+0.0.0.0 sponsored-ads.amazon.ca
+0.0.0.0 sponsored-ads.amazon.co.jp
+0.0.0.0 sponsored-ads.amazon.co.uk
+0.0.0.0 sponsored-ads.amazon.com
+0.0.0.0 sponsored-ads.amazon.com.au
+0.0.0.0 sponsored-ads.amazon.com.br
+0.0.0.0 sponsored-ads.amazon.com.mx
+0.0.0.0 sponsored-ads.amazon.es
+0.0.0.0 sponsored-ads.amazon.in
+0.0.0.0 sponsored-ads.amazon.it
 0.0.0.0 spp.bid-na.ads-beta.aps.amazon-adsystem.com
 0.0.0.0 spp.bid-na.ads-gamma.aps.amazon-adsystem.com
 0.0.0.0 spp.bid-na.ads.aps.amazon-adsystem.com
@@ -673,6 +685,7 @@
 0.0.0.0 web-cf-event-cell8011.ads.aps.amazon-adsystem.com
 0.0.0.0 web-cf-event-cell8013.ads.aps.amazon-adsystem.com
 0.0.0.0 web-cf-event-cell8021.ads.aps.amazon-adsystem.com
+0.0.0.0 web-cf-event-cell8022.ads.aps.amazon-adsystem.com
 0.0.0.0 web-video.ads.aps.amazon-adsystem.com
 0.0.0.0 web.ads.aps.amazon-adsystem.com
 0.0.0.0 web.ap-southeast.aps.axp.amazon-adsystem.com

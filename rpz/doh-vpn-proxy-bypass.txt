@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778665020 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778691660 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 13 May 2026 09:37 UTC
-; Version: 2026.0513.0937.18
+; Last modified: 13 May 2026 17:01 UTC
+; Version: 2026.0513.1701.31
 ; Syntax: RPZ
-; Number of entries: 36774
+; Number of entries: 36800
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -2201,6 +2201,8 @@ tannel.cc CNAME .
 *.tannel.cc CNAME .
 tdgkjbyj.cc CNAME .
 *.tdgkjbyj.cc CNAME .
+theproxy.cc CNAME .
+*.theproxy.cc CNAME .
 tiecxghg.cc CNAME .
 *.tiecxghg.cc CNAME .
 tifa.cc CNAME .
@@ -2941,6 +2943,8 @@ stc-clubs.click CNAME .
 *.stc-clubs.click CNAME .
 strivaro.click CNAME .
 *.strivaro.click CNAME .
+m.thelmadejager.click CNAME .
+*.m.thelmadejager.click CNAME .
 uaconnecter.click CNAME .
 *.uaconnecter.click CNAME .
 ubstv.click CNAME .
@@ -3227,6 +3231,8 @@ apne1.dns.terumi.club CNAME .
 *.apne1.dns.terumi.club CNAME .
 dns.soldier.terumi.club CNAME .
 *.dns.soldier.terumi.club CNAME .
+theproxy.club CNAME .
+*.theproxy.club CNAME .
 unblockedsite.club CNAME .
 *.unblockedsite.club CNAME .
 unblockit.club CNAME .
@@ -15647,6 +15653,8 @@ gogurdianw9e7disjw3iehei.thepresenttraveller.com CNAME .
 *.gogurdianw9e7disjw3iehei.thepresenttraveller.com CNAME .
 learnvcsa.thepresenttraveller.com CNAME .
 *.learnvcsa.thepresenttraveller.com CNAME .
+theproxy2.com CNAME .
+*.theproxy2.com CNAME .
 theproxyer.com CNAME .
 *.theproxyer.com CNAME .
 theproxyguide.com CNAME .
@@ -20523,6 +20531,8 @@ doh.technochat.in CNAME .
 *.doh.technochat.in CNAME .
 tikvpn.in CNAME .
 *.tikvpn.in CNAME .
+center.k12.mo.us.tornotluk.in CNAME .
+*.center.k12.mo.us.tornotluk.in CNAME .
 vanyavpn.in CNAME .
 *.vanyavpn.in CNAME .
 dns.webfork.in CNAME .
@@ -20921,6 +20931,8 @@ surfbytes.info CNAME .
 *.surfbytes.info CNAME .
 suyunti.info CNAME .
 *.suyunti.info CNAME .
+sweetline.info CNAME .
+*.sweetline.info CNAME .
 discussion.tawktawk.info CNAME .
 *.discussion.tawktawk.info CNAME .
 vpn.technicule.info CNAME .
@@ -20929,6 +20941,8 @@ testvpn.info CNAME .
 *.testvpn.info CNAME .
 thebestproxy.info CNAME .
 *.thebestproxy.info CNAME .
+important.thelmadejager.info CNAME .
+*.important.thelmadejager.info CNAME .
 tiptopvpn.info CNAME .
 *.tiptopvpn.info CNAME .
 titandev.info CNAME .
@@ -21671,6 +21685,8 @@ adguard.tcpu.io CNAME .
 *.adguard.tcpu.io CNAME .
 tenta.io CNAME .
 *.tenta.io CNAME .
+theproxy.io CNAME .
+*.theproxy.io CNAME .
 titannet.io CNAME .
 *.titannet.io CNAME .
 tor2web.io CNAME .
@@ -28511,6 +28527,8 @@ smeqczpl.online CNAME .
 *.smeqczpl.online CNAME .
 sms8b04szwtm.online CNAME .
 *.sms8b04szwtm.online CNAME .
+speedproxy.online CNAME .
+*.speedproxy.online CNAME .
 surfsharkvpn.online CNAME .
 *.surfsharkvpn.online CNAME .
 szmbkf5rsqiidboo6.online CNAME .
@@ -33409,6 +33427,8 @@ suyinx.space CNAME .
 *.suyinx.space CNAME .
 typingpractice.theantzfarm.space CNAME .
 *.typingpractice.theantzfarm.space CNAME .
+unplatonicallydiybt.theantzfarm.space CNAME .
+*.unplatonicallydiybt.theantzfarm.space CNAME .
 thriftychoice.space CNAME .
 *.thriftychoice.space CNAME .
 tqwrf6t2g.space CNAME .
@@ -33633,6 +33653,8 @@ sia.tech CNAME .
 *.sia.tech CNAME .
 dns.startupstack.tech CNAME .
 *.dns.startupstack.tech CNAME .
+tinf0il.tech CNAME .
+*.tinf0il.tech CNAME .
 tois.tech CNAME .
 *.tois.tech CNAME .
 toppal.tech CNAME .
@@ -36415,6 +36437,8 @@ steamstatic.xyz CNAME .
 *.steamstatic.xyz CNAME .
 stupidstow.xyz CNAME .
 *.stupidstow.xyz CNAME .
+doh.sublime9.xyz CNAME .
+*.doh.sublime9.xyz CNAME .
 ehs.suondaxi.xyz CNAME .
 *.ehs.suondaxi.xyz CNAME .
 suyinx.xyz CNAME .
@@ -36441,6 +36465,8 @@ thesleepineed.xyz CNAME .
 *.thesleepineed.xyz CNAME .
 dns.thezudrive.xyz CNAME .
 *.dns.thezudrive.xyz CNAME .
+tinfoil-is-ass.xyz CNAME .
+*.tinfoil-is-ass.xyz CNAME .
 tiptopvpn.xyz CNAME .
 *.tiptopvpn.xyz CNAME .
 torvexiano.xyz CNAME .

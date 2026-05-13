@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 May 2026 17:19 UTC
-# Version: 2026.0512.1719.15
+# Last modified: 13 May 2026 17:00 UTC
+# Version: 2026.0513.1700.36
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3922
+# Number of entries: 3923
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -3412,6 +3412,7 @@
 0.0.0.0 dns.stud.cloud
 0.0.0.0 www.dns.stud.cloud
 0.0.0.0 la-doh.stuptech.com
+0.0.0.0 doh.sublime9.xyz
 0.0.0.0 doh.suche.org
 0.0.0.0 dns.suhaila.dev
 0.0.0.0 resolver.sunet.se

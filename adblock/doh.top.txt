@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 12 May 2026 17:20 UTC
-! Version: 2026.0512.1720.11
+! Last modified: 13 May 2026 17:01 UTC
+! Version: 2026.0513.1701.15
 ! Syntax: AdBlock
-! Number of entries: 3402
+! Number of entries: 3403
 !
 ||ss.0001.xyz^
 ||ns.00dani.me^
@@ -2534,6 +2534,7 @@
 ||dns.struchkov.dev^
 ||dns.stud.cloud^
 ||la-doh.stuptech.com^
+||doh.sublime9.xyz^
 ||doh.suche.org^
 ||dns.suhaila.dev^
 ||resolver.sunet.se^

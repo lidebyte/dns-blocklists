@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 May 2026 09:30 UTC
-# Version: 2026.0513.0930.29
+# Last modified: 13 May 2026 17:03 UTC
+# Version: 2026.0513.1703.13
 # Syntax: Domains (without subdomains)
-# Number of entries: 12695
+# Number of entries: 12741
 #
 hichemtigsetorgy.0fees.net
 tracker.0x7c0.com
@@ -1095,12 +1095,14 @@ savaria.szerverem.hu
 tracker.t-1.org
 tracker1.t-1.org
 tracker3.t-1.org
+warezfr.t2u.com
 rt.tace.ru
 tracker.tallpenguin.org
 tracker.tamersunion.org
 tracker.tasvideos.org
 tracker.tcp.exchange
 torrent.tdjs.tech
+wz-team.team.st
 tracker.teambelgium.net
 milanesitracker.tekcities.com
 retracker.telecom.by
@@ -1113,6 +1115,8 @@ tracker.theoks.net
 wiki.theppn.org
 cricfree.theproxy.vip
 fitgirl-repacks.theproxy.vip
+horriblesubs.theproxy.app
+viprow.theproxy.app
 tracker.therarbg.to
 yaps.therarbg.to
 tracker.theshow.click
@@ -9945,6 +9949,7 @@ sportagoals.fit
 sportbit.org
 sportcastt.ru
 sportend.com
+sporthd.me
 sportlemo.net
 sportlemon.be
 sportlemon.com
@@ -9974,8 +9979,10 @@ sportsonline.to
 sportspass.zip
 sportstream.tv
 sportsurge.beer
+sportsurge.bid
 sportsurge.bz
 sportsurge.click
+sportsurge.club
 sportsurge.gay
 sportsurge.id
 sportsurge.info
@@ -10087,6 +10094,7 @@ str3ssed.co
 str3ssed.me
 stream.to
 stream-24.net
+stream-blog.tv
 stream-complet.fr
 stream-oase.tv
 stream-planet.com
@@ -10102,6 +10110,7 @@ streamcenter.cc
 streamcloud.audio
 streamcloud.be
 streamcloud.cx
+streamcloud.eu
 streamcloud.it
 streamcloud.my
 streamcloud.org
@@ -10134,6 +10143,7 @@ streameast.sk
 streameast.xyz
 streamed.pk
 streamed.st
+streamed.su
 streamees.com
 streamerflix.xyz
 streamex.sh
@@ -10162,6 +10172,7 @@ streaming-french.com
 streaming-series.org
 streamingaddons.xyz
 streamingcommunity.actor
+streamingcommunity.africa
 streamingcommunity.ag
 streamingcommunity.app
 streamingcommunity.army
@@ -10182,9 +10193,11 @@ streamingcommunity.broker
 streamingcommunity.buzz
 streamingcommunity.cam
 streamingcommunity.capital
+streamingcommunity.care
 streamingcommunity.cash
 streamingcommunity.cat
 streamingcommunity.center
+streamingcommunity.chat
 streamingcommunity.cheap
 streamingcommunity.click
 streamingcommunity.cloud
@@ -10213,6 +10226,7 @@ streamingcommunity.football
 streamingcommunity.free
 streamingcommunity.garden
 streamingcommunity.help
+streamingcommunity.hiphop
 streamingcommunity.info
 streamingcommunity.ist
 streamingcommunity.it
@@ -10221,14 +10235,18 @@ streamingcommunity.li
 streamingcommunity.life
 streamingcommunity.lol
 streamingcommunity.lu
+streamingcommunity.marketing
 streamingcommunity.me
 streamingcommunity.mobi
+streamingcommunity.name
 streamingcommunity.net
 streamingcommunity.nl
 streamingcommunity.one
+streamingcommunity.ooo
 streamingcommunity.org
 streamingcommunity.ovh
 streamingcommunity.paris
+streamingcommunity.pet
 streamingcommunity.ph
 streamingcommunity.photos
 streamingcommunity.pizza
@@ -10243,6 +10261,7 @@ streamingcommunity.rest
 streamingcommunity.restaurant
 streamingcommunity.sale
 streamingcommunity.sbs
+streamingcommunity.shop
 streamingcommunity.spa
 streamingcommunity.stream
 streamingcommunity.tax
@@ -10250,6 +10269,7 @@ streamingcommunity.tel
 streamingcommunity.tv
 streamingcommunity.us
 streamingcommunity.vg
+streamingcommunity.vip
 streamingcommunity.ws
 streamingcommunity.xyz
 streamingcommunityz.agency
@@ -10297,6 +10317,7 @@ streamingcommunityz.coffee
 streamingcommunityz.com
 streamingcommunityz.computer
 streamingcommunityz.contact
+streamingcommunityz.cool
 streamingcommunityz.coupons
 streamingcommunityz.credit
 streamingcommunityz.cyou
@@ -10330,6 +10351,7 @@ streamingcommunityz.hair
 streamingcommunityz.haus
 streamingcommunityz.help
 streamingcommunityz.horse
+streamingcommunityz.house
 streamingcommunityz.icu
 streamingcommunityz.info
 streamingcommunityz.institute
@@ -10380,6 +10402,7 @@ streamingcommunityz.parts
 streamingcommunityz.party
 streamingcommunityz.pet
 streamingcommunityz.pink
+streamingcommunityz.pro
 streamingcommunityz.qpon
 streamingcommunityz.sbs
 streamingcommunityz.shop
@@ -10400,6 +10423,7 @@ streaminggratuit.rip
 streamingon.org
 streamingperlen.de
 streamingsenzalimiti.net
+streamingseries.rip
 streamingunity.biz
 streamingunity.dog
 streamit.ws
@@ -10407,11 +10431,14 @@ streamix.so
 streamiz-filmze.com
 streamizfilm.fr
 streamking.eu
+streamkiste.club
 streamkiste.net
+streamkiste.pro
 streamkiste.taxi
 streamlairtv.com
 streamlive.to
 streamlock.net
+streamlord.com
 streamm4u.com
 streamm4u.net
 streamm4u.to
@@ -10423,6 +10450,7 @@ streamobs.click
 streamonhd.me
 streamonsport.net
 streamonsport28.xyz
+streamoz.me
 streampass.cc
 streamruby.com
 streams.center
@@ -10463,11 +10491,13 @@ strem.io
 stremflix.stream
 stremiomovies.com
 stressboss.net
+stressed.pw
 stresser.cc
 stresser.in
 stresser.net
 stresser.org
 stresser.world
+stressy.org
 strikeout.im
 strimsy.top
 strmd.link
@@ -10491,6 +10521,7 @@ strumykl.help
 strumykl.icu
 strumyknet.pl
 strumyktv.live
+strumyktv.online
 strumyktv.watch
 stuckgamer.com
 su-data.com
@@ -10531,8 +10562,10 @@ superfutebol.tv
 supernetbd.com
 supernova.to
 superpsx.com
+superserials.com
 superseries.live
 superstresser.com
+supertela.live
 supertorrents.org
 supertvaovivo.live
 supertvaovivo.tv
@@ -10618,6 +10651,7 @@ tantifilm.qpon
 tantifilm.reisen
 tantifilm.run
 tantifilm.sbs
+tantifilm.store
 tantifilm.uno
 tantifilm.vg
 tantifilm.vip
@@ -10642,6 +10676,7 @@ tarjetaroja.me
 tarjetarojaenvivo.me
 tarjetarojaonline.org
 tarjetarojatv.run
+tarjetarojatvhd.com
 tata.to
 tazz.tv
 tb-cdn.cx
@@ -10689,10 +10724,12 @@ tenvoi.com
 tenyardtorrents.com
 teraboxairfun.com
 terbit21.asia
+terbit21.click
 terbit21.club
 terbit21.co
 terbit21.online
 tetrasoftbd.com
+tfile.me
 tfp.is
 tfpdl.se
 tfpdl.to
@@ -10702,6 +10739,7 @@ thagoat.rocks
 the-eye.eu
 the-piratebay.com
 the-piratebay.org
+the-pop-corn-time.net
 the-potato.net
 the-underdogs.org
 the-zomb.com
@@ -10766,6 +10804,7 @@ theoccult.bz
 theodoric.fr
 theoldcomputer.com
 theoldschool.cc
+thepb.cyou
 thepeerhub.com
 thepibay.site
 thepinks.site
@@ -10821,6 +10860,7 @@ thepiratebayproxylist.se
 thepiratebays.com
 thepiratebays.info
 thepiratebays.live
+thepiratebaytorrent.online
 thepiratecity.net
 thepiratefilmestorrent.biz
 thepiratefilmestorrent.me
@@ -10859,6 +10899,7 @@ thinkkers.com
 thiweb.com
 thjpg1.top
 thjpg10.top
+thjpg2.top
 thjpg5.top
 thjpg6.top
 thjpg7.top
@@ -11114,6 +11155,7 @@ torrentleech.org
 torrentleech.pl
 torrentleex.com
 torrentlike.com
+torrentline.net
 torrentlocomotive.com
 torrentmac.name
 torrentmac.net
@@ -11219,6 +11261,7 @@ torrentz2is.me
 torrentz2k.xyz
 torrentzeta.com
 torrentzeu.org
+torrentzilla.org
 torrentzoa.com
 torrentzone.net
 torrindex.net
@@ -11229,6 +11272,7 @@ torula.tv
 tosarang.net
 totaldownloader.it
 totalmoviez.com
+totalsportek.ac
 totalsportek.at
 totalsportek.me
 totalsportek.one
@@ -11251,6 +11295,8 @@ tpbay.win
 tpbaysproxy.com
 tpbmirror.us
 tpbpiratebayproxy.com
+tpbproxy.click
+tpbproxy.online
 tpbproxy.xyz
 tpbproxypirate.com
 tracker.army

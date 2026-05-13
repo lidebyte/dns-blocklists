@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778660760 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778691720 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 13 May 2026 08:26 UTC
-; Version: 2026.0513.0826.41
+; Last modified: 13 May 2026 17:02 UTC
+; Version: 2026.0513.1702.39
 ; Syntax: RPZ
-; Number of entries: 19838
+; Number of entries: 19848
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2527,6 +2527,8 @@ glmr.co CNAME .
 *.glmr.co CNAME .
 glss.co CNAME .
 *.glss.co CNAME .
+gmlft.co CNAME .
+*.gmlft.co CNAME .
 gomomento.co CNAME .
 *.gomomento.co CNAME .
 gopvote.co CNAME .
@@ -3963,8 +3965,6 @@ curryfielddistribution.com CNAME .
 *.curryfielddistribution.com CNAME .
 customurlshortener.com CNAME .
 *.customurlshortener.com CNAME .
-cut-ly.com CNAME .
-*.cut-ly.com CNAME .
 cutearns.com CNAME .
 *.cutearns.com CNAME .
 cravin.biz.cutestat.com CNAME .
@@ -6901,6 +6901,8 @@ www.temporary-url.com CNAME .
 *.www.temporary-url.com CNAME .
 terashort.com CNAME .
 *.terashort.com CNAME .
+terijoss.com CNAME .
+*.terijoss.com CNAME .
 texas88register.com CNAME .
 *.texas88register.com CNAME .
 texmlink.com CNAME .
@@ -6983,6 +6985,8 @@ timessquarefacts.com CNAME .
 *.timessquarefacts.com CNAME .
 go.tinder.com CNAME .
 *.go.tinder.com CNAME .
+tinesy.com CNAME .
+*.tinesy.com CNAME .
 tinlie.com CNAME .
 *.tinlie.com CNAME .
 tinlr.com CNAME .
@@ -14405,6 +14409,8 @@ taggpro.me CNAME .
 *.taggpro.me CNAME .
 taklo.me CNAME .
 *.taklo.me CNAME .
+tckl.me CNAME .
+*.tckl.me CNAME .
 tecn.me CNAME .
 *.tecn.me CNAME .
 teleko.me CNAME .
@@ -15381,6 +15387,8 @@ sycelu.net CNAME .
 *.sycelu.net CNAME .
 tagli.net CNAME .
 *.tagli.net CNAME .
+tahmil.net CNAME .
+*.tahmil.net CNAME .
 tapurl.net CNAME .
 *.tapurl.net CNAME .
 taxace.net CNAME .
@@ -15887,6 +15895,8 @@ skippy.online CNAME .
 *.skippy.online CNAME .
 sulejalan.online CNAME .
 *.sulejalan.online CNAME .
+telegramviral.online CNAME .
+*.telegramviral.online CNAME .
 tokogenie.online CNAME .
 *.tokogenie.online CNAME .
 tulinks.online CNAME .
@@ -15895,8 +15905,6 @@ upyun.online CNAME .
 *.upyun.online CNAME .
 url88.online CNAME .
 *.url88.online CNAME .
-urlbit.online CNAME .
-*.urlbit.online CNAME .
 witly.online CNAME .
 *.witly.online CNAME .
 wplinks.online CNAME .
@@ -19455,6 +19463,8 @@ loginsaja.website CNAME .
 *.loginsaja.website CNAME .
 shortened.website CNAME .
 *.shortened.website CNAME .
+titok.website CNAME .
+*.titok.website CNAME .
 yourls.website CNAME .
 *.yourls.website CNAME .
 03.wf CNAME .

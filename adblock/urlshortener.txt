@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 13 May 2026 08:26 UTC
-! Version: 2026.0513.0826.41
+! Last modified: 13 May 2026 17:02 UTC
+! Version: 2026.0513.1702.39
 ! Syntax: AdBlock
-! Number of entries: 9919
+! Number of entries: 9924
 !
 ||a.189.cn^
 ||t.2merkato.com^
@@ -2700,7 +2700,6 @@
 ||cut.pe^
 ||cut.sk^
 ||cut.vin^
-||cut-ly.com^
 ||cut2.eu^
 ||cutdown.link^
 ||cute.link^
@@ -3686,6 +3685,7 @@
 ||gmh.bz^
 ||gmj.to^
 ||gmj.tw^
+||gmlft.co^
 ||gmqr.ch^
 ||gmwd.us^
 ||gmy.su^
@@ -8147,6 +8147,7 @@
 ||taggpro.me^
 ||tagli.net^
 ||tagly.us^
+||tahmil.net^
 ||tailurl.com^
 ||taiwangov.com^
 ||tak.to^
@@ -8186,6 +8187,7 @@
 ||tcc.io^
 ||tcc.plus^
 ||tcch.ch^
+||tckl.me^
 ||tconnx.link^
 ||tcp.pw^
 ||tcr.link^
@@ -8214,6 +8216,7 @@
 ||teknut.com^
 ||telega.io^
 ||telegramviral.com^
+||telegramviral.online^
 ||teleko.me^
 ||tellurl.com^
 ||tempfind.app^
@@ -8227,6 +8230,7 @@
 ||teratai888.ink^
 ||terbar.ink^
 ||terbukti.info^
+||terijoss.com^
 ||terp.icu^
 ||tetherlink.us^
 ||texas-lands.org^
@@ -8342,6 +8346,7 @@
 ||timnao.link^
 ||timxxx.ink^
 ||tin.li^
+||tinesy.com^
 ||tini.cc^
 ||tini.cx^
 ||tinky.cc^
@@ -8433,6 +8438,7 @@
 ||titaniumlinks.com^
 ||titleagentmarketing.com^
 ||titly.pro^
+||titok.website^
 ||tiurl.link^
 ||tiy.be^
 ||tj.wtf^
@@ -8929,7 +8935,6 @@
 ||urlbee.site^
 ||urlbit.co^
 ||urlbit.io^
-||urlbit.online^
 ||urlbit.pro^
 ||urlbity.com^
 ||urlbox.cc^

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 May 2026 17:19 UTC
-# Version: 2026.0512.1719.15
+# Last modified: 13 May 2026 17:00 UTC
+# Version: 2026.0513.1700.36
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3460
+# Number of entries: 3461
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -2583,6 +2583,7 @@ local=/www.vpn.stroialliance.com/
 local=/dns.struchkov.dev/
 local=/dns.stud.cloud/
 local=/la-doh.stuptech.com/
+local=/doh.sublime9.xyz/
 local=/doh.suche.org/
 local=/dns.suhaila.dev/
 local=/resolver.sunet.se/
