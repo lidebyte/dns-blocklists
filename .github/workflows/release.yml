@@ -114,7 +114,7 @@ jobs:
 
       - name: Purge CDN cache
         if: steps.purge_urls.outputs.urls != ''
-        uses: kaycodes13/purge-jsdelivr-cache@v1.1.0
+        uses: hagezi/purge-jsdelivr-cache@v1.1.1
         continue-on-error: true
         with:
           url: ${{ steps.purge_urls.outputs.urls }}
