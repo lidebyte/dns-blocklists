@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 May 2026 09:41 UTC
-# Version: 2026.0514.0941.00
+# Last modified: 14 May 2026 16:59 UTC
+# Version: 2026.0514.1659.28
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 18414
+# Number of entries: 18419
 #
 local=/ss.0001.xyz/
 local=/ilovethiswebsite.001-lab.space/
@@ -7743,6 +7743,10 @@ local=/dns.zky666.fun/
 local=/xyz2.zmjflow.com/
 local=/xyz3.zmjflow.com/
 local=/dns.zmobiletech.com/
+local=/mathstudyhub.o.zoho.to/
+local=/lone.zoho.to/
+local=/meadow.zoho.to/
+local=/securly.zoho.to/
 local=/01100010011011000110111101100011011010110110110101100101.zone.id/
 local=/cooluniverse-galaxy.zone.id/
 local=/doxy.zone.id/
@@ -18394,6 +18398,7 @@ local=/zorrovpn.io/
 local=/zorvian.com/
 local=/zougloub.eu/
 local=/zpath.net/
+local=/zproxy.de/
 local=/zproxy.org/
 local=/zqazgydo.cc/
 local=/zqntvkud.cc/

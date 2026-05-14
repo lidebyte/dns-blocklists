@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 14 May 2026 09:35 UTC
-! Version: 2026.0514.0935.56
+! Last modified: 14 May 2026 18:32 UTC
+! Version: 2026.0514.1832.50
 ! Syntax: AdBlock
-! Number of entries: 96021
+! Number of entries: 96019
 !
 ||explorer.01coin.io^
 ||en.1001cocktails.com^
@@ -9301,6 +9301,7 @@
 ||analhq.com^
 ||analisex.com^
 ||analiud.xyz^
+||analiza.academy^
 ||analized.com^
 ||analizportal.com^
 ||analladies.com^
@@ -23020,7 +23021,6 @@
 ||dirtysouthpressurewashing.com^
 ||dirtysouthshemales.com^
 ||dirtysouthsoftwash.com^
-||dirtysouthwear.com^
 ||dirtysox.store^
 ||dirtysoxstore.com^
 ||dirtysprite.win^
@@ -24349,7 +24349,6 @@
 ||eastwestmodels.de^
 ||easy-free.com^
 ||easy-rencontre.com^
-||easy-rencontres.com^
 ||easycamsex.com^
 ||easyehome.com^
 ||easyerp.ai^
@@ -27445,7 +27444,6 @@
 ||fafa456thai.com^
 ||faffi.gay^
 ||fagalicious.com^
-||fagaye.com^
 ||fagfumes.gay^
 ||fagspose.com^
 ||fagtubes.com^
@@ -45049,7 +45047,6 @@
 ||kvadroostrov.ru^
 ||kvartakz.com^
 ||kwesexpresslogistics.com^
-||kwestiasporna.pl^
 ||kwiky.com^
 ||kwikyfans.com^
 ||kwikylive.com^
@@ -50293,7 +50290,6 @@
 ||milfparty.be^
 ||milfpassionmeet.com^
 ||milfpearl.com^
-||milfpedia.xyz^
 ||milfperversions.com^
 ||milfpicshere.com^
 ||milfplace.com^
@@ -57042,7 +57038,6 @@
 ||payalroy.com^
 ||payalsingh.com^
 ||payclassexperts.com^
-||payforsex.com^
 ||payforyourporn.org^
 ||payidar.net^
 ||paylesspermitclosingsolutions.com^
@@ -58551,7 +58546,6 @@
 ||pixiv.pictures^
 ||pixmafia.com^
 ||pixporn.com^
-||pixrat.com^
 ||pixtograph.com^
 ||pixx.net^
 ||pixxx666.com^
@@ -64599,7 +64593,6 @@
 ||pornxxx.tube^
 ||pornxxx.wiki^
 ||pornxxx.work^
-||pornxxx2.com^
 ||pornxxx24.com^
 ||pornxxx69.vip^
 ||pornxxx77.com^
@@ -70086,6 +70079,7 @@
 ||seviyor.sex^
 ||sevn-adult.com^
 ||sewerhosex.com^
+||sewersneaky.com^
 ||sex.army^
 ||sex.audio^
 ||sex.berlin^
@@ -72388,7 +72382,6 @@
 ||sexlaguna.cc^
 ||sexlaguna.eu^
 ||sexlaguna.ru^
-||sexlagunamsk.ru^
 ||sexlake.com^
 ||sexlan.ru^
 ||sexland.co^
@@ -74436,7 +74429,6 @@
 ||sexualtherapie.hamburg^
 ||sexualtips.net^
 ||sexualtoyshop.com^
-||sexualtoyskk.com^
 ||sexualtraining.com^
 ||sexualtrieb.de^
 ||sexualtrivia.com^
@@ -77210,7 +77202,6 @@
 ||sinfullysexyphonesex.com^
 ||singactspeak.com^
 ||singaporesextoy.com^
-||singel.se^
 ||singeporno.com^
 ||singh-gay.info^
 ||singingissexy.com^
@@ -95292,6 +95283,7 @@
 ||yourwebsitelooksexpensive.com^
 ||yourwhisperingoaksexperience.com^
 ||yourxxxporn.com^
+||yourxxxporn.pro^
 ||yourxxxvideos.pro^
 ||youse.cfd^
 ||yousex.me^
@@ -95619,6 +95611,7 @@
 ||zeytingayrimenkul.com^
 ||zfbxxx.com^
 ||zfffsextou.com^
+||zflas.com^
 ||zgay0-ofhon-mubjxm.xyz^
 ||zgay3.com^
 ||zgayj.com^
@@ -95629,6 +95622,7 @@
 ||zgpz8.ink^
 ||zgvixsex.sbs^
 ||zhabuki.net^
+||zhadmin.top^
 ||zhagaya.com^
 ||zhahach.life^
 ||zhainantu.com^
@@ -95734,6 +95728,7 @@
 ||zolotoybuben.ru^
 ||zomerterras.nl^
 ||zomondo.com^
+||zona-adultilor.net^
 ||zona-xxx.ru^
 ||zonaadulta.com^
 ||zonaerotik.com^
@@ -95862,6 +95857,7 @@
 ||zootube1.com^
 ||zootubered.com^
 ||zoovideo.gold^
+||zoovideox.com^
 ||zoovilleforum.net^
 ||zoox18.com^
 ||zooxnxx.pro^
@@ -95887,6 +95883,7 @@
 ||zoushigaya.com^
 ||zoya.club^
 ||zoyaclub.com^
+||zoyaporn.com^
 ||zoznamka-na-sex.sk^
 ||zozoporn.com^
 ||zozoporn18.com^
@@ -95954,6 +95951,7 @@
 ||ztpmag.com^
 ||ztxxxm.com^
 ||ztztsextou.com^
+||zua9.top^
 ||zuccheroporno.com^
 ||zucchiniporn.com^
 ||zuccu906.vip^

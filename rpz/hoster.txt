@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778749080 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778781720 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 14 May 2026 08:58 UTC
-; Version: 2026.0514.0858.59
+; Last modified: 14 May 2026 18:02 UTC
+; Version: 2026.0514.1802.27
 ; Syntax: RPZ
-; Number of entries: 2522
+; Number of entries: 2604
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -42,6 +42,8 @@ qu.am CNAME .
 *.4everland.app CNAME .
 created.app CNAME .
 *.created.app CNAME .
+edgeone.app CNAME .
+*.edgeone.app CNAME .
 ic0.app CNAME .
 *.ic0.app CNAME .
 teleporthq.app CNAME .
@@ -134,6 +136,8 @@ noads.biz CNAME .
 *.noads.biz CNAME .
 xp3.biz CNAME .
 *.xp3.biz CNAME .
+fashion.blog CNAME .
+*.fashion.blog CNAME .
 blogspot.com.br CNAME .
 *.blogspot.com.br CNAME .
 lojaintegrada.com.br CNAME .
@@ -148,6 +152,8 @@ x10.bz CNAME .
 *.x10.bz CNAME .
 blogspot.ca CNAME .
 *.blogspot.ca CNAME .
+flyjasper.ca CNAME .
+*.flyjasper.ca CNAME .
 flu.cc CNAME .
 *.flu.cc CNAME .
 freehosting.cc CNAME .
@@ -218,6 +224,8 @@ wapka.co CNAME .
 *.000nethost.com CNAME .
 000space.com CNAME .
 *.000space.com CNAME .
+000webapp.com CNAME .
+*.000webapp.com CNAME .
 000webhost.com CNAME .
 *.000webhost.com CNAME .
 000webhostapp.com CNAME .
@@ -250,6 +258,8 @@ wapka.co CNAME .
 *.100freemb.com CNAME .
 100webspace.com CNAME .
 *.100webspace.com CNAME .
+10gbfreehost.com CNAME .
+*.10gbfreehost.com CNAME .
 110mb.com CNAME .
 *.110mb.com CNAME .
 125mb.com CNAME .
@@ -282,6 +292,8 @@ wapka.co CNAME .
 *.2itb.com CNAME .
 350.com CNAME .
 *.350.com CNAME .
+3blogger.com CNAME .
+*.3blogger.com CNAME .
 3eeweb.com CNAME .
 *.3eeweb.com CNAME .
 42t.com CNAME .
@@ -306,6 +318,8 @@ ag0rcgwjv5.com CNAME .
 *.ag0rcgwjv5.com CNAME .
 ahlamountada.com CNAME .
 *.ahlamountada.com CNAME .
+alavps.com CNAME .
+*.alavps.com CNAME .
 alboompro.com CNAME .
 *.alboompro.com CNAME .
 allmyblog.com CNAME .
@@ -340,6 +354,8 @@ bizhat.com CNAME .
 *.bizhat.com CNAME .
 blackapplehost.com CNAME .
 *.blackapplehost.com CNAME .
+blatnet.com CNAME .
+*.blatnet.com CNAME .
 blinkweb.com CNAME .
 *.blinkweb.com CNAME .
 blog.com CNAME .
@@ -458,6 +474,8 @@ conohawing.com CNAME .
 *.conohawing.com CNAME .
 convertri.com CNAME .
 *.convertri.com CNAME .
+coolfreepages.com CNAME .
+*.coolfreepages.com CNAME .
 cprapid.com CNAME .
 *.cprapid.com CNAME .
 sitebeat.crazydomains.com CNAME .
@@ -568,8 +586,12 @@ forumattivo.com CNAME .
 *.forumattivo.com CNAME .
 forumieren.com CNAME .
 *.forumieren.com CNAME .
+forumil.com CNAME .
+*.forumil.com CNAME .
 forumotion.com CNAME .
 *.forumotion.com CNAME .
+fourthwall.com CNAME .
+*.fourthwall.com CNAME .
 freecities.com CNAME .
 *.freecities.com CNAME .
 freehomepage.com CNAME .
@@ -684,6 +706,8 @@ it-security-group.com CNAME .
 *.it-security-group.com CNAME .
 it-support-group.com CNAME .
 *.it-support-group.com CNAME .
+itheidiot.com CNAME .
+*.itheidiot.com CNAME .
 itpatches.com CNAME .
 *.itpatches.com CNAME .
 itsafetyteam.com CNAME .
@@ -716,6 +740,8 @@ launchaco.com CNAME .
 *.launchaco.com CNAME .
 leaguelineup.com CNAME .
 *.leaguelineup.com CNAME .
+liftmyresume.com CNAME .
+*.liftmyresume.com CNAME .
 like-blogs.com CNAME .
 *.like-blogs.com CNAME .
 list-mgmt.com CNAME .
@@ -730,6 +756,8 @@ loxblog.com CNAME .
 *.loxblog.com CNAME .
 luzzati.com CNAME .
 *.luzzati.com CNAME .
+m-pages.com CNAME .
+*.m-pages.com CNAME .
 maddsites.com CNAME .
 *.maddsites.com CNAME .
 mashstaffing.com CNAME .
@@ -752,8 +780,14 @@ myartsonline.com CNAME .
 *.myartsonline.com CNAME .
 myblogvoice.com CNAME .
 *.myblogvoice.com CNAME .
+myclickfunnels.com CNAME .
+*.myclickfunnels.com CNAME .
 myfoolmoon.com CNAME .
 *.myfoolmoon.com CNAME .
+myftpupload.com CNAME .
+*.myftpupload.com CNAME .
+myfunnelish.com CNAME .
+*.myfunnelish.com CNAME .
 myportfolio.com CNAME .
 *.myportfolio.com CNAME .
 mypressonline.com CNAME .
@@ -842,6 +876,8 @@ sosblog.com CNAME .
 *.sosblog.com CNAME .
 spruz.com CNAME .
 *.spruz.com CNAME .
+squarespace.com CNAME .
+*.squarespace.com CNAME .
 stormloader.com CNAME .
 *.stormloader.com CNAME .
 stormpages.com CNAME .
@@ -852,6 +888,8 @@ t35.com CNAME .
 *.t35.com CNAME .
 teamzonesports.com CNAME .
 *.teamzonesports.com CNAME .
+tek-blogs.com CNAME .
+*.tek-blogs.com CNAME .
 tempisite.com CNAME .
 *.tempisite.com CNAME .
 thisistap.com CNAME .
@@ -888,8 +926,12 @@ usafreespace.com CNAME .
 *.usafreespace.com CNAME .
 usclargo.com CNAME .
 *.usclargo.com CNAME .
+usrfiles.com CNAME .
+*.usrfiles.com CNAME .
 vastserve.com CNAME .
 *.vastserve.com CNAME .
+vdxh.com CNAME .
+*.vdxh.com CNAME .
 veritafinancebank.com CNAME .
 *.veritafinancebank.com CNAME .
 w3spaces.com CNAME .
@@ -1274,6 +1316,8 @@ zustimmen.de CNAME .
 *.zustimmen.de CNAME .
 zx9.de CNAME .
 *.zx9.de CNAME .
+edgeone.dev CNAME .
+*.edgeone.dev CNAME .
 hashnode.dev CNAME .
 *.hashnode.dev CNAME .
 r2.dev CNAME .
@@ -1580,6 +1624,8 @@ de.ht CNAME .
 *.de.ht CNAME .
 mail.ht CNAME .
 *.mail.ht CNAME .
+atw.hu CNAME .
+*.atw.hu CNAME .
 blogger.hu CNAME .
 *.blogger.hu CNAME .
 blogspot.hu CNAME .
@@ -1652,10 +1698,18 @@ seite.info CNAME .
 *.8b.io CNAME .
 boxmode.io CNAME .
 *.boxmode.io CNAME .
+craftum.io CNAME .
+*.craftum.io CNAME .
+mdbgo.io CNAME .
+*.mdbgo.io CNAME .
+nip.io CNAME .
+*.nip.io CNAME .
 dcr.sehlat.io CNAME .
 *.dcr.sehlat.io CNAME .
 soup.io CNAME .
 *.soup.io CNAME .
+wstd.io CNAME .
+*.wstd.io CNAME .
 blogspot.is CNAME .
 *.blogspot.is CNAME .
 fwh.is CNAME .
@@ -1726,6 +1780,14 @@ blogspot.kr CNAME .
 *.blogspot.kr CNAME .
 dothome.co.kr CNAME .
 *.dothome.co.kr CNAME .
+n-e.kr CNAME .
+*.n-e.kr CNAME .
+o-r.kr CNAME .
+*.o-r.kr CNAME .
+p-e.kr CNAME .
+*.p-e.kr CNAME .
+r-e.kr CNAME .
+*.r-e.kr CNAME .
 c.la CNAME .
 *.c.la CNAME .
 1a.lc CNAME .
@@ -1952,6 +2014,8 @@ creatorlink.net CNAME .
 *.creatorlink.net CNAME .
 cryptonight.net CNAME .
 *.cryptonight.net CNAME .
+cwqso.net CNAME .
+*.cwqso.net CNAME .
 dnip.net CNAME .
 *.dnip.net CNAME .
 efacturas.net CNAME .
@@ -1986,6 +2050,8 @@ kulichki.net CNAME .
 *.kulichki.net CNAME .
 l8n5kafm6l.net CNAME .
 *.l8n5kafm6l.net CNAME .
+macao.net CNAME .
+*.macao.net CNAME .
 megabyet.net CNAME .
 *.megabyet.net CNAME .
 mydiscussion.net CNAME .
@@ -2102,6 +2168,8 @@ betrunken.org CNAME .
 *.betrunken.org CNAME .
 blackblogs.org CNAME .
 *.blackblogs.org CNAME .
+blogspot.org CNAME .
+*.blogspot.org CNAME .
 booru.org CNAME .
 *.booru.org CNAME .
 builtfree.org CNAME .
@@ -2142,6 +2210,8 @@ iblogger.org CNAME .
 *.iblogger.org CNAME .
 inbox24.org CNAME .
 *.inbox24.org CNAME .
+iptime.org CNAME .
+*.iptime.org CNAME .
 is-great.org CNAME .
 *.is-great.org CNAME .
 kilu.org CNAME .
@@ -2188,6 +2258,8 @@ yi.org CNAME .
 *.yi.org CNAME .
 yooco.org CNAME .
 *.yooco.org CNAME .
+glide.page CNAME .
+*.glide.page CNAME .
 mmm.page CNAME .
 *.mmm.page CNAME .
 start.page CNAME .
@@ -2220,6 +2292,8 @@ de.pl CNAME .
 *.de.pl CNAME .
 e-kei.pl CNAME .
 *.e-kei.pl CNAME .
+nazwa.pl CNAME .
+*.nazwa.pl CNAME .
 prv.pl CNAME .
 *.prv.pl CNAME .
 ucoz.pl CNAME .
@@ -2244,6 +2318,8 @@ mobi.ps CNAME .
 *.mobi.ps CNAME .
 blogspot.pt CNAME .
 *.blogspot.pt CNAME .
+webnode.com.pt CNAME .
+*.webnode.com.pt CNAME .
 webnode.pt CNAME .
 *.webnode.pt CNAME .
 hostfree.pw CNAME .
@@ -2262,6 +2338,8 @@ webnode.ro CNAME .
 *.webnode.ro CNAME .
 fanclub.rocks CNAME .
 *.fanclub.rocks CNAME .
+mybb.rocks CNAME .
+*.mybb.rocks CNAME .
 blogspot.rs CNAME .
 *.blogspot.rs CNAME .
 mycpanel.rs CNAME .
@@ -2286,6 +2364,8 @@ justns.ru CNAME .
 *.justns.ru CNAME .
 kulichki.ru CNAME .
 *.kulichki.ru CNAME .
+logomebel.ru CNAME .
+*.logomebel.ru CNAME .
 my1.ru CNAME .
 *.my1.ru CNAME .
 mybb.ru CNAME .
@@ -2364,6 +2444,8 @@ temporary.site CNAME .
 *.temporary.site CNAME .
 temporary-demo.site CNAME .
 *.temporary-demo.site CNAME .
+tiiny.site CNAME .
+*.tiiny.site CNAME .
 turbo.site CNAME .
 *.turbo.site CNAME .
 wapka.site CNAME .

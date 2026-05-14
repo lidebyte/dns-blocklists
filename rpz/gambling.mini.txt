@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778751120 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778778360 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 14 May 2026 09:32 UTC
-; Version: 2026.0514.0932.59
+; Last modified: 14 May 2026 17:06 UTC
+; Version: 2026.0514.1706.55
 ; Syntax: RPZ
-; Number of entries: 88016
+; Number of entries: 88012
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -15946,8 +15946,6 @@ k6b7.1stlvyou.com CNAME .
 *.1xbets-japan.com CNAME .
 1xbets-mobi.com CNAME .
 *.1xbets-mobi.com CNAME .
-1xbetscasino.com CNAME .
-*.1xbetscasino.com CNAME .
 1xbetservice.com CNAME .
 *.1xbetservice.com CNAME .
 1xbetsjapan.com CNAME .
@@ -41078,8 +41076,6 @@ ms3388.com CNAME .
 *.ms3388.com CNAME .
 msluap.com CNAME .
 *.msluap.com CNAME .
-msoworkspace.com CNAME .
-*.msoworkspace.com CNAME .
 msport.com CNAME .
 *.msport.com CNAME .
 mt68casino.com CNAME .
@@ -55322,6 +55318,8 @@ zhcn-ballbetsports.com CNAME .
 *.zhcn-ballbetsports.com CNAME .
 zhun-1xbet.com CNAME .
 *.zhun-1xbet.com CNAME .
+zhutu888.com CNAME .
+*.zhutu888.com CNAME .
 ziatogel124.com CNAME .
 *.ziatogel124.com CNAME .
 zibbet.com CNAME .
@@ -55382,6 +55380,8 @@ zonadejogo.com CNAME .
 *.zonadejogo.com CNAME .
 zondercruksonlinecasino.com CNAME .
 *.zondercruksonlinecasino.com CNAME .
+zonguldakescortbayanlar.com CNAME .
+*.zonguldakescortbayanlar.com CNAME .
 zonko.com CNAME .
 *.zonko.com CNAME .
 zoologicoactivo.com CNAME .
@@ -61820,8 +61820,6 @@ barzcasino.link CNAME .
 *.barzcasino.link CNAME .
 betsala.link CNAME .
 *.betsala.link CNAME .
-bolagila.link CNAME .
-*.bolagila.link CNAME .
 casino-blog.link CNAME .
 *.casino-blog.link CNAME .
 casinobrand6.link CNAME .
@@ -61834,8 +61832,6 @@ casinosite.link CNAME .
 *.casinosite.link CNAME .
 freebetsosyal.link CNAME .
 *.freebetsosyal.link CNAME .
-megalive99.link CNAME .
-*.megalive99.link CNAME .
 mers-casino.link CNAME .
 *.mers-casino.link CNAME .
 noguessbets.link CNAME .
@@ -62558,8 +62554,6 @@ prestige-casino.lol CNAME .
 *.prestige-casino.lol CNAME .
 probet88.lol CNAME .
 *.probet88.lol CNAME .
-pt3.lol CNAME .
-*.pt3.lol CNAME .
 rahatcasino.lol CNAME .
 *.rahatcasino.lol CNAME .
 rajabola.lol CNAME .
@@ -62644,6 +62638,8 @@ zarinacasino.lol CNAME .
 *.zarinacasino.lol CNAME .
 zerkalo-leonbets-2yl6w.lol CNAME .
 *.zerkalo-leonbets-2yl6w.lol CNAME .
+zerkalo-leonbets-8jbp.lol CNAME .
+*.zerkalo-leonbets-8jbp.lol CNAME .
 zerkalo-leonbets-a2lbt.lol CNAME .
 *.zerkalo-leonbets-a2lbt.lol CNAME .
 78wind.love CNAME .
@@ -66668,8 +66664,6 @@ zazacasino.net CNAME .
 *.zazacasino.net CNAME .
 zet4d.net CNAME .
 *.zet4d.net CNAME .
-zeus288.net CNAME .
-*.zeus288.net CNAME .
 zeuscasino-argentina.net CNAME .
 *.zeuscasino-argentina.net CNAME .
 zhici.net CNAME .
@@ -83536,6 +83530,8 @@ zoomacasinoamp15.top CNAME .
 *.zoomacasinoamp15.top CNAME .
 zoomacasinoamp16.top CNAME .
 *.zoomacasinoamp16.top CNAME .
+zsygb.top CNAME .
+*.zsygb.top CNAME .
 betsaya.tours CNAME .
 *.betsaya.tours CNAME .
 shbet.tours CNAME .
@@ -86286,6 +86282,8 @@ win-slots.website CNAME .
 *.win-slots.website CNAME .
 winrate777.website CNAME .
 *.winrate777.website CNAME .
+zerkalo-1xbet.website CNAME .
+*.zerkalo-1xbet.website CNAME .
 zonawargapoker.website CNAME .
 *.zonawargapoker.website CNAME .
 forex.wf CNAME .
@@ -86834,8 +86832,6 @@ xn----7sbkofbbj4akz.xn--90ae CNAME .
 *.1xbetcasino-zerkalo.xyz CNAME .
 1xbetgiris-tr.xyz CNAME .
 *.1xbetgiris-tr.xyz CNAME .
-1xbetmobil.xyz CNAME .
-*.1xbetmobil.xyz CNAME .
 1xslotmobi6.xyz CNAME .
 *.1xslotmobi6.xyz CNAME .
 1xslots-casino-ru.xyz CNAME .

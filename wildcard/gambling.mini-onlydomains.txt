@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 May 2026 09:32 UTC
-# Version: 2026.0514.0932.59
+# Last modified: 14 May 2026 17:06 UTC
+# Version: 2026.0514.1706.55
 # Syntax: Domains (without subdomains)
-# Number of entries: 44008
+# Number of entries: 44006
 #
 web-119bet-2025-google-vip-119bet.119-hello.com
 web-166betcom-vip-166betcc-166betvip-2025fa-east1.166tiger.com
@@ -4428,7 +4428,6 @@ turkcasinoqxsscm.za.com
 1xbetmlbb.click
 1xbetmn.com
 1xbetmobcash.app
-1xbetmobil.xyz
 1xbetmovies.media
 1xbetn3.com
 1xbetnepallogin.com
@@ -4461,7 +4460,6 @@ turkcasinoqxsscm.za.com
 1xbets-japan.com
 1xbets-mobi.com
 1xbetsandroid.ru
-1xbetscasino.com
 1xbetsdownload.ru
 1xbetservice.com
 1xbetsjapan.com
@@ -13506,7 +13504,6 @@ bola88.com
 bola88.cyou
 bolabulat.org
 bolagacor.site
-bolagila.link
 bolajasabet.xyz
 bolang303.org
 bolaomnbets.top
@@ -29038,7 +29035,6 @@ megafrenzy.com
 megafunalo.com
 megainplay.in
 megalive.vip
-megalive99.link
 megalotto.pl
 megamedusa.com
 megamedusa-casino-nz.com
@@ -30010,7 +30006,6 @@ ms3388.com
 msg777.vip
 msl.ua
 msluap.com
-msoworkspace.com
 msport.com
 mssidc.org
 msw.casino
@@ -34799,7 +34794,6 @@ psk.hr
 psthai888.live
 psymb.io
 pt-bizzocasino.com
-pt3.lol
 ptc-casino.xyz
 ptcasinorapida.com
 ptgaming.ph
@@ -43702,9 +43696,11 @@ zentrozo2.com
 zeoncasino.com
 zeonslotstudio.com
 zerk1.casino
+zerkalo-1xbet.website
 zerkalo-leonbets-2xnfk.xyz
 zerkalo-leonbets-2yl6w.lol
 zerkalo-leonbets-3g0o5.buzz
+zerkalo-leonbets-8jbp.lol
 zerkalo-leonbets-a2lbt.lol
 zerkalo-leonbets-grnve.life
 zerkalo-leonbets-igahk.club
@@ -43744,7 +43740,6 @@ zetspins.com
 zeturf.com
 zeturf.fr
 zeus222.org
-zeus288.net
 zeusbingo.com
 zeuscasino.app
 zeuscasino-argentina.app
@@ -43761,6 +43756,7 @@ zhanghonghong.com
 zhcn-ballbetsports.com
 zhici.net
 zhun-1xbet.com
+zhutu888.com
 ziatogel124.com
 zibbet.com
 zielonebiuro.com
@@ -43819,6 +43815,7 @@ zondercrukscasinos.bet
 zondercrukscasinos.net
 zondercruksonlinecasino.com
 zonebets.co
+zonguldakescortbayanlar.com
 zonko.com
 zoologicoactivo.com
 zooma-196.casino
@@ -43968,6 +43965,7 @@ zowin.ws
 zqvnn.com
 zs6.casino
 zsd7pokerdom.com
+zsygb.top
 zubetsr.online
 zubetsr.ru
 zula-bet.casino

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778751660 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778777940 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 14 May 2026 09:41 UTC
-; Version: 2026.0514.0941.00
+; Last modified: 14 May 2026 16:59 UTC
+; Version: 2026.0514.1659.28
 ; Syntax: RPZ
-; Number of entries: 36828
+; Number of entries: 36838
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -18319,6 +18319,8 @@ adguard-kartoffel.zernico.de CNAME .
 *.adguard-kartoffel.zernico.de CNAME .
 adguard01.zitronen-server.de CNAME .
 *.adguard01.zitronen-server.de CNAME .
+zproxy.de CNAME .
+*.zproxy.de CNAME .
 surfshark.deals CNAME .
 *.surfshark.deals CNAME .
 streamlined.delivery CNAME .
@@ -33805,6 +33807,14 @@ webproxy.to CNAME .
 *.webproxy.to CNAME .
 wssht.to CNAME .
 *.wssht.to CNAME .
+lone.zoho.to CNAME .
+*.lone.zoho.to CNAME .
+meadow.zoho.to CNAME .
+*.meadow.zoho.to CNAME .
+mathstudyhub.o.zoho.to CNAME .
+*.mathstudyhub.o.zoho.to CNAME .
+securly.zoho.to CNAME .
+*.securly.zoho.to CNAME .
 bailey.today CNAME .
 *.bailey.today CNAME .
 batch.today CNAME .

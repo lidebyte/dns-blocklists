@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778751180 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778778000 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 14 May 2026 09:33 UTC
-; Version: 2026.0514.0933.35
+; Last modified: 14 May 2026 17:00 UTC
+; Version: 2026.0514.1700.55
 ; Syntax: RPZ
-; Number of entries: 25538
+; Number of entries: 25540
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -19974,6 +19974,8 @@ xlist.ro CNAME .
 *.xlist.ro CNAME .
 xtremezone.ro CNAME .
 *.xtremezone.ro CNAME .
+dontorrent.rocks CNAME .
+*.dontorrent.rocks CNAME .
 tv.fanclub.rocks CNAME .
 *.tv.fanclub.rocks CNAME .
 hdmovie2.rocks CNAME .

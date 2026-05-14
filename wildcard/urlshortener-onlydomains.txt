@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 May 2026 08:27 UTC
-# Version: 2026.0514.0827.39
+# Last modified: 14 May 2026 17:00 UTC
+# Version: 2026.0514.1700.23
 # Syntax: Domains (without subdomains)
-# Number of entries: 9954
+# Number of entries: 9956
 #
 a.189.cn
 t.2merkato.com
@@ -3508,7 +3508,6 @@ fwb4me.us
 fwd-2.com
 fwd4.me
 fwdme.info
-fwds.to
 fwk.ai
 fwme.eu
 fwr.to
@@ -6627,6 +6626,7 @@ qrcode.ai
 qrcode.im
 qrcode.pl
 qrcodedynamic.com
+qrcodes.io
 qrcodeveloper.com
 qrcood.com
 qrcreator.link
@@ -7034,7 +7034,6 @@ saerly.com
 saf.li
 safe.mn
 safeelink.com
-safelink.vn
 safelinking.net
 safelinku.com
 safely.to
@@ -7602,7 +7601,6 @@ shrtli.com
 shrtlink.ai
 shrtlist.com
 shrtlk.click
-shrtlnk.com
 shrtly.net
 shrtm.nu
 shrtme.link
@@ -9857,6 +9855,7 @@ zensus.io
 zenurl.in
 zephb.com
 zetir.com
+zeurl.net
 zeus4d.mom
 zeusurl.com
 zeusurl.net
@@ -9895,6 +9894,7 @@ ziturl.com
 zixso.com
 ziypto.com
 zizi.ly
+zkr.cz
 zkrat.me
 zkrt.cz
 zlink.fun
@@ -9912,6 +9912,7 @@ znym.co
 znz.kr
 zo.cm
 zobzob.com
+zoho.to
 zom.ink
 zom.io
 zonearcad.xyz
@@ -9940,6 +9941,7 @@ zsms.net
 zsr.link
 zt.ms
 zti.me
+zubbit.io
 zuitte.com
 zuitte.io
 zuki.ie

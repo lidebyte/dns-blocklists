@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 May 2026 09:39 UTC
-# Version: 2026.0514.0939.42
+# Last modified: 14 May 2026 16:50 UTC
+# Version: 2026.0514.1650.56
 # Syntax: Domains (without subdomains)
 # Number of entries: 1479
 #
@@ -69,10 +69,10 @@ h4g3z1-dyndns.web.app
 99tac.com
 abatek.com
 abmetalmecanica.com
+abrdns.com
 access.ly
 accesscam.org
 acmetoy.com
-ad.jp
 adagio.tw
 afraid.org
 agropeople.ru

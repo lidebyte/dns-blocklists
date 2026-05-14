@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778747220 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778778000 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 14 May 2026 08:27 UTC
-; Version: 2026.0514.0827.39
+; Last modified: 14 May 2026 17:00 UTC
+; Version: 2026.0514.1700.23
 ; Syntax: RPZ
-; Number of entries: 19908
+; Number of entries: 19912
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -6559,8 +6559,6 @@ shrtli.com CNAME .
 *.shrtli.com CNAME .
 shrtlist.com CNAME .
 *.shrtlist.com CNAME .
-shrtlnk.com CNAME .
-*.shrtlnk.com CNAME .
 shrtna.com CNAME .
 *.shrtna.com CNAME .
 shrtso.com CNAME .
@@ -8015,6 +8013,8 @@ xoe.cz CNAME .
 *.xoe.cz CNAME .
 xrl.cz CNAME .
 *.xrl.cz CNAME .
+zkr.cz CNAME .
+*.zkr.cz CNAME .
 zkrt.cz CNAME .
 *.zkrt.cz CNAME .
 contra.dance CNAME .
@@ -11033,6 +11033,8 @@ qr.io CNAME .
 *.qr.io CNAME .
 qr-codes.io CNAME .
 *.qr-codes.io CNAME .
+qrcodes.io CNAME .
+*.qrcodes.io CNAME .
 qrcs.io CNAME .
 *.qrcs.io CNAME .
 qrfy.io CNAME .
@@ -11341,6 +11343,8 @@ zpr.io CNAME .
 *.zpr.io CNAME .
 zshort.io CNAME .
 *.zshort.io CNAME .
+zubbit.io CNAME .
+*.zubbit.io CNAME .
 zuitte.io CNAME .
 *.zuitte.io CNAME .
 1fy.ir CNAME .
@@ -15565,6 +15569,8 @@ zapurl.net CNAME .
 *.zapurl.net CNAME .
 zd.net CNAME .
 *.zd.net CNAME .
+zeurl.net CNAME .
+*.zeurl.net CNAME .
 zeusurl.net CNAME .
 *.zeusurl.net CNAME .
 zip.net CNAME .
@@ -18225,8 +18231,6 @@ fre.to CNAME .
 *.fre.to CNAME .
 fstgo.to CNAME .
 *.fstgo.to CNAME .
-fwds.to CNAME .
-*.fwds.to CNAME .
 fwr.to CNAME .
 *.fwr.to CNAME .
 u.g0.to CNAME .
@@ -18497,6 +18501,8 @@ yorl.to CNAME .
 *.yorl.to CNAME .
 youlink.to CNAME .
 *.youlink.to CNAME .
+zoho.to CNAME .
+*.zoho.to CNAME .
 zopen.to CNAME .
 *.zopen.to CNAME .
 zyp.to CNAME .
@@ -19491,8 +19497,6 @@ mlnk.vn CNAME .
 *.mlnk.vn CNAME .
 qlink.vn CNAME .
 *.qlink.vn CNAME .
-safelink.vn CNAME .
-*.safelink.vn CNAME .
 tapetco.vn CNAME .
 *.tapetco.vn CNAME .
 hub.theciu.vn CNAME .

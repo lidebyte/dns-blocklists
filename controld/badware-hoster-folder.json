@@ -43,6 +43,13 @@
       }
     },
     {
+      "PK": "000webapp.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "000webhost.com",
       "action": {
         "do": 0,
@@ -198,6 +205,13 @@
     },
     {
       "PK": "100webspace.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "10gbfreehost.com",
       "action": {
         "do": 0,
         "status": 1
@@ -604,6 +618,13 @@
     },
     {
       "PK": "36f.de",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "3blogger.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1079,6 +1100,13 @@
       }
     },
     {
+      "PK": "alavps.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "alboompro.com",
       "action": {
         "do": 0,
@@ -1269,6 +1297,13 @@
     },
     {
       "PK": "atspace.org",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "atw.hu",
       "action": {
         "do": 0,
         "status": 1
@@ -1521,6 +1556,13 @@
     },
     {
       "PK": "blackblogs.org",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "blatnet.com",
       "action": {
         "do": 0,
         "status": 1
@@ -2109,6 +2151,13 @@
     },
     {
       "PK": "blogspot.no",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "blogspot.org",
       "action": {
         "do": 0,
         "status": 1
@@ -2920,6 +2969,13 @@
       }
     },
     {
+      "PK": "coolfreepages.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "coolpage.biz",
       "action": {
         "do": 0,
@@ -2935,6 +2991,13 @@
     },
     {
       "PK": "cprapid.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "craftum.io",
       "action": {
         "do": 0,
         "status": 1
@@ -2984,6 +3047,13 @@
     },
     {
       "PK": "ctempurl.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "cwqso.net",
       "action": {
         "do": 0,
         "status": 1
@@ -3375,6 +3445,20 @@
       }
     },
     {
+      "PK": "edgeone.app",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "edgeone.dev",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "edoctransfer.com",
       "action": {
         "do": 0,
@@ -3725,6 +3809,13 @@
       }
     },
     {
+      "PK": "fashion.blog",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "fast-page.org",
       "action": {
         "do": 0,
@@ -3858,6 +3949,13 @@
       }
     },
     {
+      "PK": "flyjasper.ca",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "for-ladys.de",
       "action": {
         "do": 0,
@@ -3935,6 +4033,13 @@
       }
     },
     {
+      "PK": "forumil.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "forumotion.com",
       "action": {
         "do": 0,
@@ -3943,6 +4048,13 @@
     },
     {
       "PK": "fotos.lc",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "fourthwall.com",
       "action": {
         "do": 0,
         "status": 1
@@ -4356,6 +4468,13 @@
     },
     {
       "PK": "gildenseite.de",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "glide.page",
       "action": {
         "do": 0,
         "status": 1
@@ -5006,6 +5125,13 @@
       }
     },
     {
+      "PK": "iptime.org",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ir.gp",
       "action": {
         "do": 0,
@@ -5084,6 +5210,13 @@
     },
     {
       "PK": "it.gp",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "itheidiot.com",
       "action": {
         "do": 0,
         "status": 1
@@ -5454,6 +5587,13 @@
       }
     },
     {
+      "PK": "liftmyresume.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "like-blogs.com",
       "action": {
         "do": 0,
@@ -5517,6 +5657,13 @@
       }
     },
     {
+      "PK": "logomebel.ru",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "lojaintegrada.com.br",
       "action": {
         "do": 0,
@@ -5573,6 +5720,13 @@
       }
     },
     {
+      "PK": "m-pages.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "m.vu",
       "action": {
         "do": 0,
@@ -5581,6 +5735,13 @@
     },
     {
       "PK": "ma.gp",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "macao.net",
       "action": {
         "do": 0,
         "status": 1
@@ -5616,6 +5777,13 @@
     },
     {
       "PK": "mashstaffing.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mdbgo.io",
       "action": {
         "do": 0,
         "status": 1
@@ -5853,6 +6021,13 @@
       }
     },
     {
+      "PK": "mybb.rocks",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "mybb.ru",
       "action": {
         "do": 0,
@@ -5875,6 +6050,13 @@
     },
     {
       "PK": "mybluehostin.me",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "myclickfunnels.com",
       "action": {
         "do": 0,
         "status": 1
@@ -5910,6 +6092,20 @@
     },
     {
       "PK": "myfreesites.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "myftpupload.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "myfunnelish.com",
       "action": {
         "do": 0,
         "status": 1
@@ -5958,6 +6154,13 @@
       }
     },
     {
+      "PK": "n-e.kr",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "n.gp",
       "action": {
         "do": 0,
@@ -5994,6 +6197,13 @@
     },
     {
       "PK": "nazuka.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "nazwa.pl",
       "action": {
         "do": 0,
         "status": 1
@@ -6070,6 +6280,13 @@
       }
     },
     {
+      "PK": "nip.io",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "nl.gp",
       "action": {
         "do": 0,
@@ -6127,6 +6344,13 @@
     },
     {
       "PK": "o-f.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "o-r.kr",
       "action": {
         "do": 0,
         "status": 1
@@ -6295,6 +6519,13 @@
     },
     {
       "PK": "ozq.de",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "p-e.kr",
       "action": {
         "do": 0,
         "status": 1
@@ -6659,6 +6890,13 @@
     },
     {
       "PK": "quiztionnaire.uk",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "r-e.kr",
       "action": {
         "do": 0,
         "status": 1
@@ -7169,6 +7407,13 @@
       }
     },
     {
+      "PK": "squarespace.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "srv1.org",
       "action": {
         "do": 0,
@@ -7344,6 +7589,13 @@
       }
     },
     {
+      "PK": "tek-blogs.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "teleporthq.app",
       "action": {
         "do": 0,
@@ -7429,6 +7681,13 @@
     },
     {
       "PK": "tiiny.host",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "tiiny.site",
       "action": {
         "do": 0,
         "status": 1
@@ -7820,6 +8079,13 @@
       }
     },
     {
+      "PK": "usrfiles.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "uz.gp",
       "action": {
         "do": 0,
@@ -7849,6 +8115,13 @@
     },
     {
       "PK": "vastserve.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "vdxh.com",
       "action": {
         "do": 0,
         "status": 1
@@ -8164,6 +8437,13 @@
     },
     {
       "PK": "webnode.com.co",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "webnode.com.pt",
       "action": {
         "do": 0,
         "status": 1
@@ -8486,6 +8766,13 @@
     },
     {
       "PK": "writes.de",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "wstd.io",
       "action": {
         "do": 0,
         "status": 1

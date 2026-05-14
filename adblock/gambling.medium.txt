@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 14 May 2026 09:31 UTC
-! Version: 2026.0514.0931.31
+! Last modified: 14 May 2026 17:04 UTC
+! Version: 2026.0514.1704.54
 ! Syntax: AdBlock
-! Number of entries: 102598
+! Number of entries: 102604
 !
 ||web-119bet-2025-google-vip-119bet.119-hello.com^
 ||1paamr.12inr.com^
@@ -11121,7 +11121,6 @@
 ||1xbetmn.com^
 ||1xbetmobcash.app^
 ||1xbetmobiaz.com^
-||1xbetmobil.xyz^
 ||1xbetmobileapp.net^
 ||1xbetmobilesn.com^
 ||1xbetmobilgiris.xyz^
@@ -11194,7 +11193,6 @@
 ||1xbets2026.space^
 ||1xbetsandroid.ru^
 ||1xbetsbd.com^
-||1xbetscasino.com^
 ||1xbetsdownload.ru^
 ||1xbetservice.com^
 ||1xbetshope.com^
@@ -31133,7 +31131,6 @@
 ||bolabulat.org^
 ||bolacasino88.site^
 ||bolagacor.site^
-||bolagila.link^
 ||bolago88casino.com^
 ||bolajasabet.xyz^
 ||bolakbalik.shop^
@@ -67576,7 +67573,6 @@
 ||megainplay.in^
 ||megakingscasino.com^
 ||megalive.vip^
-||megalive99.link^
 ||megalotto.pl^
 ||megaluckslots.com^
 ||megamcwcasino.net^
@@ -69792,7 +69788,6 @@
 ||msj.casino^
 ||msl.ua^
 ||msluap.com^
-||msoworkspace.com^
 ||msport.com^
 ||msportcasino.org^
 ||mssidc.org^
@@ -80832,7 +80827,6 @@
 ||pt-casino.com^
 ||pt-jogoslots.com^
 ||pt-monrocasino.com^
-||pt3.lol^
 ||pt9.casino^
 ||ptc-casino.xyz^
 ||ptcasino10melhores.com^
@@ -102015,6 +102009,8 @@
 ||zerkalo-09.casino^
 ||zerkalo-0904.casino^
 ||zerkalo-14.casino^
+||zerkalo-1xbet.website^
+||zerkalo-1xbet1.top^
 ||zerkalo-atom.casino^
 ||zerkalo-fugu.casino^
 ||zerkalo-jet.casino^
@@ -102023,6 +102019,7 @@
 ||zerkalo-leonbets-2yl6w.lol^
 ||zerkalo-leonbets-3g0o5.buzz^
 ||zerkalo-leonbets-8bxg2.info^
+||zerkalo-leonbets-8jbp.lol^
 ||zerkalo-leonbets-9fqqq.sbs^
 ||zerkalo-leonbets-9jje.xyz^
 ||zerkalo-leonbets-a2lbt.lol^
@@ -102051,7 +102048,9 @@
 ||zerkalo-leonbets-vpgxt.life^
 ||zerkalo-leonbets-vseia.icu^
 ||zerkalo-leonbets-wle6e.pro^
+||zerkalo-leonbets-xafp.top^
 ||zerkalo-leonbets2304.site^
+||zerkalo-leonbets30.top^
 ||zerkalo-leonbets3402.site^
 ||zerkalo-stake.casino^
 ||zerkalo07-04.casino^
@@ -102115,8 +102114,8 @@
 ||zeturf.fr^
 ||zeus-138.com^
 ||zeus-casino-argentina.com^
+||zeus168.live^
 ||zeus222.org^
-||zeus288.net^
 ||zeus89slot.com^
 ||zeusbingo.com^
 ||zeuscasino.app^
@@ -102156,6 +102155,7 @@
 ||zhiyua.com^
 ||zhongbo-casino.org^
 ||zhun-1xbet.com^
+||zhutu888.com^
 ||ziatogel124.com^
 ||zibbet.com^
 ||zielonebiuro.com^
@@ -102277,6 +102277,7 @@
 ||zodiaccasinologin.org^
 ||zodiaccasinopromocode.ca^
 ||zodiaccasinos.app^
+||zodk69alt.com^
 ||zolobet.pro^
 ||zolotoloto.com^
 ||zom4d.com^
@@ -102316,10 +102317,12 @@
 ||zonebets.co^
 ||zonecasino.top^
 ||zoneonline-casino.net^
+||zonguldakescortbayanlar.com^
 ||zonko.com^
 ||zonkocasino.ch^
 ||zoo010.casino^
 ||zoologicoactivo.com^
+||zoom789.com^
 ||zooma-0028.casino^
 ||zooma-0029.casino^
 ||zooma-0030.casino^
@@ -102516,6 +102519,7 @@
 ||zp4.casino^
 ||zpb.casino^
 ||zqvnn.com^
+||zrbet48.vip^
 ||zs6.casino^
 ||zsd7pokerdom.com^
 ||zspoker.co^
@@ -102523,6 +102527,7 @@
 ||zspoker.pro^
 ||zspokerapp.com^
 ||zss.casino^
+||zsygb.top^
 ||zt9398casinobet.com^
 ||ztztbets.com^
 ||zubetslot.com^
@@ -102554,6 +102559,7 @@
 ||zumospincasinos.com^
 ||zunabet.com^
 ||zupee.com^
+||zuschnellkommende.eu^
 ||zuzubet-casino.cz^
 ||zuzubetcasino.cz^
 ||zuzubets.com^

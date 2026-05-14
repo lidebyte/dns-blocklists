@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778747100 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778779200 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 14 May 2026 08:25 UTC
-; Version: 2026.0514.0825.51
+; Last modified: 14 May 2026 17:20 UTC
+; Version: 2026.0514.1720.08
 ; Syntax: RPZ
-; Number of entries: 30738
+; Number of entries: 30742
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -18946,6 +18946,8 @@ zeppelindao.com CNAME .
 *.zeppelindao.com CNAME .
 zeradaoautopecas.com CNAME .
 *.zeradaoautopecas.com CNAME .
+zergia.com CNAME .
+*.zergia.com CNAME .
 zeroceann.com CNAME .
 *.zeroceann.com CNAME .
 zesbit.com CNAME .
@@ -26704,6 +26706,8 @@ zeitgeschenen.de CNAME .
 *.zeitgeschenen.de CNAME .
 zeitlosliebe.de CNAME .
 *.zeitlosliebe.de CNAME .
+zelara.de CNAME .
+*.zelara.de CNAME .
 zelono.de CNAME .
 *.zelono.de CNAME .
 zendoo.de CNAME .

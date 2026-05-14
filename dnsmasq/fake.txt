@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 May 2026 08:25 UTC
-# Version: 2026.0514.0825.51
+# Last modified: 14 May 2026 17:20 UTC
+# Version: 2026.0514.1720.08
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 15369
+# Number of entries: 15371
 #
 local=/eoutlet.2023shoponline.com/
 local=/trader.212group.de/
@@ -15283,6 +15283,7 @@ local=/zeigstil.com/
 local=/zeit-modehaus.com/
 local=/zeitgeschenen.de/
 local=/zeitlosliebe.de/
+local=/zelara.de/
 local=/zelono.de/
 local=/zelterabatt.com/
 local=/zeltkinggear.com/
@@ -15308,6 +15309,7 @@ local=/zeoption.com/
 local=/zeppeespadrillas.com/
 local=/zeppelindao.com/
 local=/zeradaoautopecas.com/
+local=/zergia.com/
 local=/zeroceann.com/
 local=/zeroplay.de/
 local=/zerova.de/

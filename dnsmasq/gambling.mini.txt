@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 May 2026 09:32 UTC
-# Version: 2026.0514.0932.59
+# Last modified: 14 May 2026 17:06 UTC
+# Version: 2026.0514.1706.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 44008
+# Number of entries: 44006
 #
 local=/web-119bet-2025-google-vip-119bet.119-hello.com/
 local=/web-166betcom-vip-166betcc-166betvip-2025fa-east1.166tiger.com/
@@ -4428,7 +4428,6 @@ local=/1xbetmirror.ru/
 local=/1xbetmlbb.click/
 local=/1xbetmn.com/
 local=/1xbetmobcash.app/
-local=/1xbetmobil.xyz/
 local=/1xbetmovies.media/
 local=/1xbetn3.com/
 local=/1xbetnepallogin.com/
@@ -4461,7 +4460,6 @@ local=/1xbets-india.com/
 local=/1xbets-japan.com/
 local=/1xbets-mobi.com/
 local=/1xbetsandroid.ru/
-local=/1xbetscasino.com/
 local=/1xbetsdownload.ru/
 local=/1xbetservice.com/
 local=/1xbetsjapan.com/
@@ -13506,7 +13504,6 @@ local=/bola88.com/
 local=/bola88.cyou/
 local=/bolabulat.org/
 local=/bolagacor.site/
-local=/bolagila.link/
 local=/bolajasabet.xyz/
 local=/bolang303.org/
 local=/bolaomnbets.top/
@@ -29038,7 +29035,6 @@ local=/megafrenzy.com/
 local=/megafunalo.com/
 local=/megainplay.in/
 local=/megalive.vip/
-local=/megalive99.link/
 local=/megalotto.pl/
 local=/megamedusa.com/
 local=/megamedusa-casino-nz.com/
@@ -30010,7 +30006,6 @@ local=/ms3388.com/
 local=/msg777.vip/
 local=/msl.ua/
 local=/msluap.com/
-local=/msoworkspace.com/
 local=/msport.com/
 local=/mssidc.org/
 local=/msw.casino/
@@ -34799,7 +34794,6 @@ local=/psk.hr/
 local=/psthai888.live/
 local=/psymb.io/
 local=/pt-bizzocasino.com/
-local=/pt3.lol/
 local=/ptc-casino.xyz/
 local=/ptcasinorapida.com/
 local=/ptgaming.ph/
@@ -43702,9 +43696,11 @@ local=/zentrozo2.com/
 local=/zeoncasino.com/
 local=/zeonslotstudio.com/
 local=/zerk1.casino/
+local=/zerkalo-1xbet.website/
 local=/zerkalo-leonbets-2xnfk.xyz/
 local=/zerkalo-leonbets-2yl6w.lol/
 local=/zerkalo-leonbets-3g0o5.buzz/
+local=/zerkalo-leonbets-8jbp.lol/
 local=/zerkalo-leonbets-a2lbt.lol/
 local=/zerkalo-leonbets-grnve.life/
 local=/zerkalo-leonbets-igahk.club/
@@ -43744,7 +43740,6 @@ local=/zetspins.com/
 local=/zeturf.com/
 local=/zeturf.fr/
 local=/zeus222.org/
-local=/zeus288.net/
 local=/zeusbingo.com/
 local=/zeuscasino.app/
 local=/zeuscasino-argentina.app/
@@ -43761,6 +43756,7 @@ local=/zhanghonghong.com/
 local=/zhcn-ballbetsports.com/
 local=/zhici.net/
 local=/zhun-1xbet.com/
+local=/zhutu888.com/
 local=/ziatogel124.com/
 local=/zibbet.com/
 local=/zielonebiuro.com/
@@ -43819,6 +43815,7 @@ local=/zondercrukscasinos.bet/
 local=/zondercrukscasinos.net/
 local=/zondercruksonlinecasino.com/
 local=/zonebets.co/
+local=/zonguldakescortbayanlar.com/
 local=/zonko.com/
 local=/zoologicoactivo.com/
 local=/zooma-196.casino/
@@ -43968,6 +43965,7 @@ local=/zowin.ws/
 local=/zqvnn.com/
 local=/zs6.casino/
 local=/zsd7pokerdom.com/
+local=/zsygb.top/
 local=/zubetsr.online/
 local=/zubetsr.ru/
 local=/zula-bet.casino/

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 May 2026 09:33 UTC
-# Version: 2026.0514.0933.35
+# Last modified: 14 May 2026 17:00 UTC
+# Version: 2026.0514.1700.55
 # Syntax: Domains (without subdomains)
-# Number of entries: 12769
+# Number of entries: 12770
 #
 hichemtigsetorgy.0fees.net
 tracker.0x7c0.com
@@ -3998,6 +3998,7 @@ dontorrent.pink
 dontorrent.promo
 dontorrent.racing
 dontorrent.reisen
+dontorrent.rocks
 dontorrents.com
 dontorrents.org
 dood.ac

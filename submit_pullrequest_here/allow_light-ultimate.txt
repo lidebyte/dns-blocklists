@@ -1,6 +1,9 @@
 # Unblocking for all lists (relaxed, balanced, aggressive and strict)
 # Domains to be removed from the light, normal, pro, pro++ and ultimate list. Also from the fake, popupads and tif.
 
+# https://github.com/hagezi/dns-blocklists/issues/10190
+csst.at
+
 # https://github.com/hagezi/dns-blocklists/issues/10127
 wup-content23.bmo.com
 wup-9045bc50.us.v2.we-stats.com

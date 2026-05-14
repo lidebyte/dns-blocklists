@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 May 2026 09:39 UTC
-# Version: 2026.0514.0939.42
+# Last modified: 14 May 2026 16:50 UTC
+# Version: 2026.0514.1650.56
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 1479
 #
@@ -69,10 +69,10 @@ local=/88zkt.com/
 local=/99tac.com/
 local=/abatek.com/
 local=/abmetalmecanica.com/
+local=/abrdns.com/
 local=/access.ly/
 local=/accesscam.org/
 local=/acmetoy.com/
-local=/ad.jp/
 local=/adagio.tw/
 local=/afraid.org/
 local=/agropeople.ru/

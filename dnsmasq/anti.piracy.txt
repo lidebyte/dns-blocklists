@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 May 2026 09:33 UTC
-# Version: 2026.0514.0933.35
+# Last modified: 14 May 2026 17:00 UTC
+# Version: 2026.0514.1700.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12769
+# Number of entries: 12770
 #
 local=/hichemtigsetorgy.0fees.net/
 local=/tracker.0x7c0.com/
@@ -3998,6 +3998,7 @@ local=/dontorrent.pink/
 local=/dontorrent.promo/
 local=/dontorrent.racing/
 local=/dontorrent.reisen/
+local=/dontorrent.rocks/
 local=/dontorrents.com/
 local=/dontorrents.org/
 local=/dood.ac/

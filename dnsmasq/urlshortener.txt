@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 May 2026 08:27 UTC
-# Version: 2026.0514.0827.39
+# Last modified: 14 May 2026 17:00 UTC
+# Version: 2026.0514.1700.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9954
+# Number of entries: 9956
 #
 local=/a.189.cn/
 local=/t.2merkato.com/
@@ -3508,7 +3508,6 @@ local=/fwb4me.us/
 local=/fwd-2.com/
 local=/fwd4.me/
 local=/fwdme.info/
-local=/fwds.to/
 local=/fwk.ai/
 local=/fwme.eu/
 local=/fwr.to/
@@ -6627,6 +6626,7 @@ local=/qrcode.ai/
 local=/qrcode.im/
 local=/qrcode.pl/
 local=/qrcodedynamic.com/
+local=/qrcodes.io/
 local=/qrcodeveloper.com/
 local=/qrcood.com/
 local=/qrcreator.link/
@@ -7034,7 +7034,6 @@ local=/saerly.com/
 local=/saf.li/
 local=/safe.mn/
 local=/safeelink.com/
-local=/safelink.vn/
 local=/safelinking.net/
 local=/safelinku.com/
 local=/safely.to/
@@ -7602,7 +7601,6 @@ local=/shrtli.com/
 local=/shrtlink.ai/
 local=/shrtlist.com/
 local=/shrtlk.click/
-local=/shrtlnk.com/
 local=/shrtly.net/
 local=/shrtm.nu/
 local=/shrtme.link/
@@ -9857,6 +9855,7 @@ local=/zensus.io/
 local=/zenurl.in/
 local=/zephb.com/
 local=/zetir.com/
+local=/zeurl.net/
 local=/zeus4d.mom/
 local=/zeusurl.com/
 local=/zeusurl.net/
@@ -9895,6 +9894,7 @@ local=/ziturl.com/
 local=/zixso.com/
 local=/ziypto.com/
 local=/zizi.ly/
+local=/zkr.cz/
 local=/zkrat.me/
 local=/zkrt.cz/
 local=/zlink.fun/
@@ -9912,6 +9912,7 @@ local=/znym.co/
 local=/znz.kr/
 local=/zo.cm/
 local=/zobzob.com/
+local=/zoho.to/
 local=/zom.ink/
 local=/zom.io/
 local=/zonearcad.xyz/
@@ -9940,6 +9941,7 @@ local=/zsms.net/
 local=/zsr.link/
 local=/zt.ms/
 local=/zti.me/
+local=/zubbit.io/
 local=/zuitte.com/
 local=/zuitte.io/
 local=/zuki.ie/
