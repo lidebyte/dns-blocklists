@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778778000 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778811000 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 14 May 2026 17:00 UTC
-; Version: 2026.0514.1700.55
+; Last modified: 15 May 2026 02:10 UTC
+; Version: 2026.0515.0210.31
 ; Syntax: RPZ
-; Number of entries: 25540
+; Number of entries: 25546
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -3990,6 +3990,8 @@ btnext.com CNAME .
 *.btnext.com CNAME .
 btscene.com CNAME .
 *.btscene.com CNAME .
+tr.btube3.com CNAME .
+*.tr.btube3.com CNAME .
 bubarindpr.com CNAME .
 *.bubarindpr.com CNAME .
 buffmovie.com CNAME .
@@ -13112,6 +13114,8 @@ yifymoviesmx.live CNAME .
 *.yifymoviesmx.live CNAME .
 z-library.live CNAME .
 *.z-library.live CNAME .
+altadefinizionegratis.living CNAME .
+*.altadefinizionegratis.living CNAME .
 fmovies.llc CNAME .
 *.fmovies.llc CNAME .
 gidonline.llc CNAME .
@@ -21670,6 +21674,8 @@ vegamovies.studio CNAME .
 *.vegamovies.studio CNAME .
 9kmovies.study CNAME .
 *.9kmovies.study CNAME .
+altadefinizionegratis.study CNAME .
+*.altadefinizionegratis.study CNAME .
 filmapik.study CNAME .
 *.filmapik.study CNAME .
 mycima.study CNAME .

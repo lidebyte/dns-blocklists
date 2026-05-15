@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 May 2026 17:00 UTC
-# Version: 2026.0514.1700.55
+# Last modified: 15 May 2026 02:10 UTC
+# Version: 2026.0515.0210.31
 # Syntax: Domains (without subdomains)
-# Number of entries: 12770
+# Number of entries: 12773
 #
 hichemtigsetorgy.0fees.net
 tracker.0x7c0.com
@@ -193,6 +193,7 @@ tracker.btcake.com
 tainanleba.btchichi.hair
 t.btcland.xyz
 tracker.btschool.club
+tr.btube3.com
 tracker.btzoo.eu
 tracker.bug38.com
 csite.bugs3.com
@@ -2081,6 +2082,7 @@ altadefinizionegratis.homes
 altadefinizionegratis.host
 altadefinizionegratis.ink
 altadefinizionegratis.life
+altadefinizionegratis.living
 altadefinizionegratis.mom
 altadefinizionegratis.monster
 altadefinizionegratis.news
@@ -2094,6 +2096,7 @@ altadefinizionegratis.shop
 altadefinizionegratis.skin
 altadefinizionegratis.space
 altadefinizionegratis.store
+altadefinizionegratis.study
 altadefinizionegratis.surf
 altadefinizionegratis.today
 altadefinizionegratis.vip

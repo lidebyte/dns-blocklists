@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 May 2026 17:00 UTC
-# Version: 2026.0514.1700.55
+# Last modified: 15 May 2026 02:10 UTC
+# Version: 2026.0515.0210.31
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12770
+# Number of entries: 12773
 #
 local=/hichemtigsetorgy.0fees.net/
 local=/tracker.0x7c0.com/
@@ -193,6 +193,7 @@ local=/tracker.btcake.com/
 local=/tainanleba.btchichi.hair/
 local=/t.btcland.xyz/
 local=/tracker.btschool.club/
+local=/tr.btube3.com/
 local=/tracker.btzoo.eu/
 local=/tracker.bug38.com/
 local=/csite.bugs3.com/
@@ -2081,6 +2082,7 @@ local=/altadefinizionegratis.homes/
 local=/altadefinizionegratis.host/
 local=/altadefinizionegratis.ink/
 local=/altadefinizionegratis.life/
+local=/altadefinizionegratis.living/
 local=/altadefinizionegratis.mom/
 local=/altadefinizionegratis.monster/
 local=/altadefinizionegratis.news/
@@ -2094,6 +2096,7 @@ local=/altadefinizionegratis.shop/
 local=/altadefinizionegratis.skin/
 local=/altadefinizionegratis.space/
 local=/altadefinizionegratis.store/
+local=/altadefinizionegratis.study/
 local=/altadefinizionegratis.surf/
 local=/altadefinizionegratis.today/
 local=/altadefinizionegratis.vip/
