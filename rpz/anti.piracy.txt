@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778837400 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778864160 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 May 2026 09:30 UTC
-; Version: 2026.0515.0930.58
+; Last modified: 15 May 2026 16:56 UTC
+; Version: 2026.0515.1656.45
 ; Syntax: RPZ
-; Number of entries: 25548
+; Number of entries: 25550
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -10758,6 +10758,8 @@ torrentred.games CNAME .
 *.9kmovies.garden CNAME .
 hdfilme.garden CNAME .
 *.hdfilme.garden CNAME .
+streaming-community.garden CNAME .
+*.streaming-community.garden CNAME .
 streamingcommunity.garden CNAME .
 *.streamingcommunity.garden CNAME .
 xalaflix.garden CNAME .
@@ -10966,6 +10968,8 @@ mycima.guru CNAME .
 *.mycima.guru CNAME .
 skymovieshd.guru CNAME .
 *.skymovieshd.guru CNAME .
+streaming-community.guru CNAME .
+*.streaming-community.guru CNAME .
 streamingcommunityz.guru CNAME .
 *.streamingcommunityz.guru CNAME .
 hdmovie2.gy CNAME .
@@ -14266,8 +14270,6 @@ tracker.manager.v6.navy CNAME .
 *.tracker.manager.v6.navy CNAME .
 vegamovies.navy CNAME .
 *.vegamovies.navy CNAME .
-0123movie.net CNAME .
-*.0123movie.net CNAME .
 0daycn.net CNAME .
 *.0daycn.net CNAME .
 hichemtigsetorgy.0fees.net CNAME .

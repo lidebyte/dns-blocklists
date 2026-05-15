@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778833560 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778865240 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 May 2026 08:26 UTC
-; Version: 2026.0515.0826.10
+; Last modified: 15 May 2026 17:14 UTC
+; Version: 2026.0515.1714.18
 ; Syntax: RPZ
-; Number of entries: 31076
+; Number of entries: 31070
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -1696,8 +1696,6 @@ yourzencoach.co CNAME .
 *.01crypto.com CNAME .
 1-rx-shop.com CNAME .
 *.1-rx-shop.com CNAME .
-101apotheek.com CNAME .
-*.101apotheek.com CNAME .
 11trikots.com CNAME .
 *.11trikots.com CNAME .
 1800rxonline.com CNAME .
@@ -13626,8 +13624,6 @@ oyemas.com CNAME .
 *.oyemas.com CNAME .
 oyo-store.com CNAME .
 *.oyo-store.com CNAME .
-ozempic-koupit247.com CNAME .
-*.ozempic-koupit247.com CNAME .
 ozempic-shop.com CNAME .
 *.ozempic-shop.com CNAME .
 ozempicbezreceptu.com CNAME .
@@ -29044,8 +29040,6 @@ gabor.com.se CNAME .
 *.gabor.com.se CNAME .
 sovkonc.ept.se CNAME .
 *.sovkonc.ept.se CNAME .
-2026discounttoolstore.shop CNAME .
-*.2026discounttoolstore.shop CNAME .
 aacloth.shop CNAME .
 *.aacloth.shop CNAME .
 aedes.shop CNAME .

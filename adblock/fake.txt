@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 15 May 2026 08:26 UTC
-! Version: 2026.0515.0826.10
+! Last modified: 15 May 2026 17:14 UTC
+! Version: 2026.0515.1714.18
 ! Syntax: AdBlock
-! Number of entries: 15538
+! Number of entries: 15535
 !
 ||eoutlet.2023shoponline.com^
 ||trader.212group.de^
@@ -646,7 +646,6 @@
 ||01crypto.com^
 ||0el-preiswert-kaufen.de^
 ||1-rx-shop.com^
-||101apotheek.com^
 ||11trikots.com^
 ||123kamagra.cz^
 ||123kamagra.net^
@@ -666,7 +665,6 @@
 ||1ticketmarket.com^
 ||1wins-app-india-online.com^
 ||200pills.com^
-||2026discounttoolstore.shop^
 ||222-t.com^
 ||24-modellstore.com^
 ||24-pharm.com^
@@ -10827,7 +10825,6 @@
 ||oyemas.com^
 ||oylerhof.de^
 ||oyo-store.com^
-||ozempic-koupit247.com^
 ||ozempic-shop.com^
 ||ozempicbezreceptu.com^
 ||ozempickaufenn.com^

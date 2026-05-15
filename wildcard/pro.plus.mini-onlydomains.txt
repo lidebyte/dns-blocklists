@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 May 2026 09:17 UTC
-# Version: 2026.0515.0917.53
+# Last modified: 15 May 2026 18:08 UTC
+# Version: 2026.0515.1808.41
 # Syntax: Domains (without subdomains)
-# Number of entries: 104724
+# Number of entries: 104722
 #
 www.0.wedding
 f9e79f670c.000491b06a.com
@@ -78,6 +78,7 @@ rybbit.102417.xyz
 sofire.1024tera.com
 www.1040taxbiz.com
 tagging.10dayslifestyle.de
+www.10e20.com
 mobile-ads.10sq.net
 web-ads.10sq.net
 www.10thkitchen.com
@@ -136,7 +137,6 @@ plausible.135792.xyz
 ad.mcloud.139.com
 www.139bpm.com
 f229857733.13fbbc0ff4.com
-www.14-18enlorraine.com
 mat.143flix.com
 ef88191eb1.14d6b84a5f.com
 6cb28ed99a.14f768ef60.com
@@ -2894,6 +2894,7 @@ www.alpenlinie.at
 www.alpersaldiran.com
 www.alphabird.com
 analytics.alphadevops.org
+mlnk-pixel.alpharank.io
 pixel.alpharank.io
 seal.alphassl.com
 gtm.alphatechnik.de
@@ -2944,6 +2945,7 @@ revive.altreconomia.it
 tag.altroconsumo.it
 widget.altrulabs.com
 ban.alukah.net
+partners.aluna.co
 analytics.alusteck.de
 analytics-gtm.alutech.ru
 matomo.alvolante.it
@@ -3065,6 +3067,7 @@ sentry.amazon.com
 sponsored-ads.amazon.ca
 sponsored-ads.amazon.es
 sponsored-ads.amazon.it
+sponsored-ads-eu.amazon.pl
 unagi.amazon.ae
 unagi.amazon.ca
 unagi.amazon.com
@@ -3326,6 +3329,7 @@ kcp-analytics-api-alb-291674519.us-west-2.elb.amazonaws.com
 logagent-rum-1666438889.us-west-2.elb.amazonaws.com
 logagent-wf-1069852758.us-west-2.elb.amazonaws.com
 mcafeeinc-mkt-prod2-t-ad-1937-213007025.us-west-2.elb.amazonaws.com
+naviga-bi-v2-collector-lb-v2-1653659587.us-west-2.elb.amazonaws.com
 p-dany-analytics-1643478883.us-west-2.elb.amazonaws.com
 prod-pod5-dvc-telemetry-podlbalb-1565820981.us-west-2.elb.amazonaws.com
 prod-pod7-dvc-telemetry-podlbalb-926562891.us-west-2.elb.amazonaws.com
@@ -4637,7 +4641,6 @@ stats.asus-linux.org
 matomo.asw-automobile.de
 www.asxtutrchzxpw.com
 sgtm.atag.nl
-www.atass.com
 bm-rx.atatus.com
 sgtm.atea.fi
 sgtm.atea.no
@@ -4765,6 +4768,7 @@ logger.august.com
 tracker.augustinus.digital
 matomo.aukfood.net
 sentry.aukro.cloud
+sv19.aunwfkenee.shop
 piwik.aurich.de
 data.product.auror.co
 analytics.aurorareach.com
@@ -5124,13 +5128,10 @@ analytics.dev.azure.com
 dce-client-solution-log-analytics-hm5h.westeurope-1.ingest.monitor.azure.com
 uem-analytics-dce-24nb.westeurope-1.ingest.monitor.azure.com
 metrics.ingest.monitor.azure.com
-bastion.azure.com
 collector.azure.cn
-cosmos.azure.com
 vega-telemetry-apim-dev.azure-api.net
 geoip.bluebeach-9a0f96b5.northeurope.azurecontainerapps.io
 conqrbi-prod-matomo.mangosmoke-d6fda26f.northeurope.azurecontainerapps.io
-westus2.azurecontainerapps.io
 fronius-se-iot-telemetry-ne.azuredevices.net
 adsdkprod.afd.azureedge.net
 thetradedesk-ads.afd.azureedge.net
@@ -5583,6 +5584,7 @@ rail.bankofamerica.com
 smetrics.bankofamerica.com
 tilt.bankofamerica.com
 beam.bankrate.com
+www.bannedretro.com
 caterpillarsigns.bannerbuzz.com
 collect.bannercrowd.net
 www.bannerimage.com
@@ -7766,6 +7768,7 @@ sgtm.castelli-cycling.com
 ads1.castify.media
 otel-collector.castify.com
 t.castle.io
+sabc.ads.castoola.tv
 analytics.castrol.com
 analytics.catalyst-au.net
 analytics.euoffice.catalyst-eu.net
@@ -8460,7 +8463,6 @@ server.clarvance.com
 log.clash-of-clans-mod.com
 adserver.clasificadosonline.com
 analytics.clasohlson.com
-config.claspws.tv
 events.claspws.tv
 adserver.class.it
 logs.classdojo.com
@@ -11141,7 +11143,6 @@ cralodas.com.ua
 crash-jogos.com.br
 credisisbank.com.br
 criptoeconomia.com.br
-cse360.com.br
 ctonline.com.cn
 cust-line.com.cn
 datalp.com.br
@@ -11479,6 +11480,7 @@ samuraistudio.com.mx
 sentry.com.br
 shareinstall.com.cn
 shdingchi.com.cn
+sherwoodhotels.com.tr
 si-sogou.com.cn
 sicomoffice.com.cn
 sifajianding.com.cn
@@ -11550,6 +11552,7 @@ trezor-wallet.com.de
 trezosuite.com.co
 tribanco.com.br
 trkkn.com.au
+tronlineakademisi.com.tr
 truantinmobiliaria.com.ar
 tt-kuailianf.com.cn
 tt-youdaoa.com.cn
@@ -11566,6 +11569,7 @@ uniprime.com.br
 update-wending-pg.com.cn
 upeex.com.br
 uploaddeimagens.com.br
+utua.com.br
 vet-binance.com.cn
 vider.com.pl
 vidmate1.com.in
@@ -11583,7 +11587,6 @@ web-live-worldcup2026.com.cn
 webnode.com.pt
 weiqishidagongrenzuiqiangqishou.com.cn
 wen-todesk.com.cn
-wikipedia.com.my
 wikipedia.com.vn
 wps-ii.com.cn
 wps-wpspcpc.com.cn
@@ -12846,6 +12849,7 @@ dnkeeper.platform.dbankcloud.com
 dnkeeper-drru.platform.dbankcloud.ru
 dtm-dre.platform.dbankcloud.cn
 grs.platform.dbankcloud.ru
+grs-iot.platform.dbankcloud.cn
 grs-iot.platform.dbankcloud.com
 grs-pub.platform.dbankcloud.cn
 grs-pub.platform.dbankcloud.com
@@ -15952,7 +15956,6 @@ www.ezakus.com
 stream.ezanvaktipro.com
 qbrth.ezcontacts.com
 stat.ezekielflores.com
-vps.ezhostingserver.com
 go.ezoic.net
 sf.ezoiccdn.com
 www.ezpassny.com
@@ -18481,6 +18484,7 @@ metrics.getrmads.com
 app.getsentry.com
 seed1.getsession.org
 seed2.getsession.org
+seed3.getsession.org
 tagging.services.getshirts.de
 analytics.getshogun.com
 dash.getsitecontrol.com
@@ -18826,7 +18830,6 @@ log.mofa.go.kr
 webstats.nbtc.go.th
 analytics.nsdcc.go.ke
 school.obec.go.th
-beltim.babel.polri.go.id
 s.pu.go.id
 portal-analytics.tmd.go.th
 isiolo.go.ke
@@ -21044,6 +21047,7 @@ analytics.dev.htmedia.in
 analytics.htmedia.in
 master.tracking.html5games.com
 cdn.html5maker.com
+weather.httptheinformer.cc
 events.httptoolkit.tech
 ob.sd559908.js.htttrack.com
 stat.rz.htw-berlin.de
@@ -21056,7 +21060,6 @@ ads.cloud.huawei.com
 hwa.his.huawei.com
 ads.huawei.com
 httpdns.huaweicloud.com
-repo.huaweicloud.com
 uba.huaweicloud.com
 sentry.hub-b2spin.com
 analytics.hub-box.com
@@ -21081,6 +21084,7 @@ metrics-fe-na3.hubspot.com
 track.hubspot.com
 track-eu1.hubspot.com
 track-na1.hubspot.com
+app-na1.hubspotdocuments.com
 analytics-proxy.hubspoteventtracking-na2.net
 sentry.hubxco.dev
 smazn.huckberry.com
@@ -21211,7 +21215,6 @@ analytics.hybrid-cms.de
 www.hydramedia.com
 rybbit.hydrology.cc
 umami.hydrology.cc
-wiki.hydrology.cc
 www.hyfyuan.com
 campaigns.hygiena.com
 cdn-track.hygraph.com
@@ -23549,6 +23552,7 @@ piwik.kirche-zh.ch
 metrics.kirklands.com
 analytics.kirlovon.dev
 telemetry.desktop.kiro.dev
+pay.kirvano.com
 www.kisskissbankbank.fr
 www.kissmyads.com
 webmetrics.kisterscloud.de
@@ -25260,6 +25264,7 @@ ressources.lsa.fr
 ads.fs.lsapp.tech
 matomo.lscms.fr
 umami.lsd.sk
+api.analytics.lseg.com
 analytics.risk.lseg.com
 solutions.lseg.com
 www2.lseg.com
@@ -25705,6 +25710,7 @@ analytics.manualdaweb.com
 umami.manualdousuario.net
 www.manuelperujo.com
 metrics.manus.im
+us2.manus.computer
 load.gtm.manutea.cz
 load.gtm.manutea.ro
 widget.manychat.com
@@ -34203,6 +34209,7 @@ collector-pxfezbrgkr.px-cloud.net
 collector-pxfofgwnle.px-cloud.net
 collector-pxfrhhzvid.px-cloud.net
 collector-pxftlwz7qi.px-cloud.net
+collector-pxg2jgnyto.px-cloud.net
 collector-pxgeyljesk.px-cloud.net
 collector-pxgfmzn4eg.px-cloud.net
 collector-pxghzdhy7f.px-cloud.net
@@ -34245,6 +34252,7 @@ collector-pxkxodf6rk.px-cloud.net
 collector-pxkz8zzqmw.px-cloud.net
 collector-pxldm3ddsw.px-cloud.net
 collector-pxliujcowl.px-cloud.net
+collector-pxljsypz3t.px-cloud.net
 collector-pxljub4etb.px-cloud.net
 collector-pxlkxie7oj.px-cloud.net
 collector-pxlo2z493j.px-cloud.net
@@ -34328,6 +34336,7 @@ collector-pxxgcxm9by.px-cloud.net
 collector-pxxgwm9nuh.px-cloud.net
 collector-pxxljwhhue.px-cloud.net
 collector-pxxmpxrqpa.px-cloud.net
+collector-pxxnqyudif.px-cloud.net
 collector-pxxor1k5b6.px-cloud.net
 collector-pxxt4gy2ig.px-cloud.net
 collector-pxxyzdn30m.px-cloud.net
@@ -36313,6 +36322,7 @@ server-side-tagging-uhdgomz7ma-lm.a.run.app
 server-side-tagging-uk-cli-prod-yytnoqkd2a-nw.a.run.app
 server-side-tagging-uly3a6r7wq-uc.a.run.app
 server-side-tagging-umqcuasmua-uc.a.run.app
+server-side-tagging-unocylsnwa-uc.a.run.app
 server-side-tagging-urbm46rhrq-uc.a.run.app
 server-side-tagging-usfui77adq-uc.a.run.app
 server-side-tagging-utcyatujiq-uc.a.run.app
@@ -36443,6 +36453,7 @@ webanalytics-listener-685646918301.us-east1.run.app
 analytics-service-production-304321094875.us-east4.run.app
 server-side-tagging-795003655167.us-east5.run.app
 support-128448844521.us-south1.run.app
+server-side-tagging-941346829819.us-west1.run.app
 server-side-tagging-1061937729407.us-west2.run.app
 server-side-tagging-151725659305.us-west2.run.app
 server-side-tagging-879569142456.us-west2.run.app
@@ -36805,7 +36816,6 @@ wk.sanpoiljejuna.cfd
 www.sanstidy.com
 filter.santaads.com
 rtb-eu-v4.santaads.com
-www.santanderalternatives.com
 tags.santanderbank.com
 tk.santevet.com
 tags.santinicycling.com
@@ -37232,7 +37242,6 @@ analytics1.seiermonitoring.at
 www.seifenbrause.de
 gtm.seikoboutique.hu
 statistik.seipp.com
-wiki.seitan-ayoub.lol
 matomo.seitenmacher.media
 matomo.seitenwind.com
 www.seitzeichen.de
@@ -38846,7 +38855,6 @@ gj.spencertorreya.com
 error-tracking.spenderservice.net
 webanalytics.spenderservice.net
 bre.spessartbrett.de
-www.spexi.com
 analytics-2.spgi.spglobal.com
 analytics-2-cdn.spgi.spglobal.com
 more.spglobal.com
@@ -39558,6 +39566,7 @@ ed.sugarshape.de
 uxdse.sugarshape.de
 www.sugoicounter.com
 m.sugumail.com
+plus.sugumail.com
 analytics.suh.ovh
 gtm.suhl-shop.de
 ct2.suichu-ka.com
@@ -39754,6 +39763,7 @@ stl.swingtradinglab.com
 analytics.swipein.restaurant
 integrator.swipetospin.com
 rtrk.swipey.club
+prelander.swipeyai.online
 rtrk.swipeyai.com
 correlation-service.swirlb.com
 events.swishapps.ai
@@ -42647,6 +42657,7 @@ c00117-dl.urbanairship.com
 c00119-dl.urbanairship.com
 c00150-dl.urbanairship.com
 c00157-dl.urbanairship.com
+c00158-dl.urbanairship.com
 c00162-dl.urbanairship.com
 c00166-dl.urbanairship.com
 c00178-dl.urbanairship.com
@@ -42662,12 +42673,14 @@ c00334-dl.urbanairship.com
 c00338-dl.urbanairship.com
 c00354-dl.urbanairship.com
 c00355-dl.urbanairship.com
+c00358-dl.urbanairship.com
 c00359-dl.urbanairship.com
 c00366-dl.urbanairship.com
 c00375-dl.urbanairship.com
 c00381-dl.urbanairship.com
 c00383-dl.urbanairship.com
 c00391-dl.urbanairship.com
+c00402-dl.urbanairship.com
 combine.urbanairship.com
 go.urbanairship.com
 remote-data.urbanairship.com
@@ -42741,6 +42754,7 @@ api.userleap.com
 cdn.userleap.com
 support-beacon.userlocal.jp
 support-widget.userlocal.jp
+app.usermetric.io
 analytex.userpilot.io
 analytex-eu.userpilot.io
 analytex-us.userpilot.io
@@ -44100,6 +44114,7 @@ sentry.wb.ru
 data-5a078ffbef.wb-trauer.de
 y884.wbaltv.com
 www.wbbqxxxelvpy.com
+fhyds.wbhnmqrgpf.cyou
 matomo-elkwue.wbk-dev.de
 matomo.wbm.de
 sentry.wbs-web.de
@@ -45603,6 +45618,7 @@ stats.xinmeitulu.com
 sd-gl.xinqiucc.com
 s.xinshuru.com
 dd.xinxinmingml.com
+www.xion-net.com
 ad1.xiqpanelz.com
 sentry.xitee.com
 info.xits.com
@@ -46749,13 +46765,11 @@ upc.zztfly.com
 001seo.com
 001wen.com
 00224488.xyz
-00294873-apple.com
 00299.vip
 0034expat.com
 003store.com
 0044ffcaa1d6e6a8.com
 0066-google.com
-0070366563f291499d77eab998f010f07cfcefe6a8b1f479c51e8ce933da81c.link
 00718.cfd
 0073d9df3637d3be.top
 00798.cfd
@@ -46763,8 +46777,6 @@ upc.zztfly.com
 007txt.info
 00857cca77b615c369f48ead5f8eb7f3.com
 0086ok.com
-00926744b1bb309c.com
-00952178-apple.com
 00a1dcf072cd.top
 00e17c7a56d6.top
 00e17c7a56d6.xyz
@@ -46774,13 +46786,11 @@ upc.zztfly.com
 00px.net
 00web.net
 01040afc72a5.top
-010969233.cfd
 010aa.cn
 0112947ec3b104f6.com
 0121.click
 0123movie.pro
 0123moviesfree.org
-0128990fb.lol
 012webpages.com
 013578.xyz
 013d2db672d565cf.com
@@ -46795,16 +46805,11 @@ upc.zztfly.com
 0165f15878ce9e0c.xyz
 0178e8aa1256c982.com
 0187009.com
-019233.cfd
 01a1ac792c0bf7f3.com
 01a962904d5c6778.com
 01counter.com
-01f19eddbaf0c86f.com
 01gmail.com
 01ivf.com
-01menshealthblog.com
-02039f2b844a.online
-0213233.cfd
 02138mag.com
 02159acd03766e1c.com
 02187ea05d2c.top
@@ -46815,11 +46820,9 @@ upc.zztfly.com
 025gbw.cn
 0268855460c79efe00b9dc3fd694976f6f02f8ce5a2c7f1ba96b95954f433f5.link
 026c91f6cd645bed.com
-026egtrw.top
 0271a3a84b02.xyz
 027c6761eadb8cd6.world
 028426.com
-0293410.lat
 0294ef566112a1ce.com
 0298e910c87bafd8.com
 02weqj32.com
@@ -46847,7 +46850,6 @@ upc.zztfly.com
 04182028.com
 042e830be90d0fea.top
 0432c85b68557fa.homes
-0433fac0a99cc425e61db7182328786e78b91565bd50f369526a73a0976fcc9.link
 0455658.cfd
 046d2f4c0a58.top
 0471fcw.com
@@ -46863,7 +46865,6 @@ upc.zztfly.com
 04xmhp.ru
 050f634043855a15c23531bc97c9b3bd.top
 0512s.com
-05204dd809c29801cf448e630c3e848a.cfd
 052e64c7453f058f.com
 054ii.com
 0553b45094987332.com
@@ -46887,8 +46888,6 @@ upc.zztfly.com
 06aeb1a5554c594b.com
 06aeb1a5554c594b.xyz
 06aed947d6d2b7cd.com
-06b23e0e016a0c9b10e09d4189769cb3187f6fa867ec68fa42985d818b1a8d6.link
-06d19daf5240a59051072c484e8b09b1a906e0aa08b3bf5a9d8e10fda75840d.link
 0713c7bbe133b079.com
 071kk.com
 0721078f59451234.com
@@ -46902,11 +46901,7 @@ upc.zztfly.com
 075c8cca23ebf556.cc
 0793aca04f37.com
 0793aca04f37.xyz
-07a419bbb9c22d33cd0682fdd1da64d21c46b5a35f26cc440ebf87d40df72dd.link
 07c159707760.top
-07storage.com
-0808008a10.buzz
-0808008a11.buzz
 08082026da.ru
 08082c0ad5.com
 08168d87c4f28abc.com
@@ -46945,14 +46940,10 @@ upc.zztfly.com
 0926608009f3d0a0.com
 0926608009f3d0a0.xyz
 092d627d92eeff11.com
-0932823-g4.lat
-09348970146707413.xyz
 093e1f15278dc444.com
 0941.org
 094603ea93018248c08c57aba2ecc11c.cfd
 094kk.com
-098217coinbase.com
-098767aa1102bb0876b971e0b8403b9b81a38cd972be6b3d498a753eb9e9fa4.link
 09c9d5e7b813.online
 09dfdc0e287d.xyz
 09e07385f6.com
@@ -46961,7 +46952,6 @@ upc.zztfly.com
 0a0b8cdcb8363cbe.com
 0a0e7275224ea7fc.com
 0a1d4ef2ac5c193a.com
-0a281802025150aa8743eb3ec8a9b29aca70057397ea8ba9e811de4e346af10.link
 0a526ca4e7b8e8c0.com
 0a57f6bbfd.com
 0a66fb8d4357f62f.com
@@ -46993,13 +46983,10 @@ upc.zztfly.com
 0bf61afeb787.xyz
 0bfb2261a3749b59.com
 0c39e4a106.com
-0c67ff41f2153aa8d4e7c9a283bcb51c6d2f7dff07e5f50deea8d79051938bf.link
 0c7c09d8a605.xyz
 0ca3783ba7a651f9.com
 0catch.com
 0cf.io
-0chnik-pl.shop
-0d26d39523c7461f7bceec30d2b48e7562b30dcc97d8a8176e837595ff6d9c6.link
 0dayreleases.com
 0db14a074c87.top
 0db2d76418498403.com
@@ -47010,11 +46997,8 @@ upc.zztfly.com
 0dee724991ddef2cb61d3cbc98952dbd9d54c8b34c403cf3fc75f0fb.com
 0dy3evz6x.com
 0e0c5950c9b9.top
-0e29b7a9f39bb5e31626e5ec737b931f430071b0fdad1e97d839c248fa5e24c.link
 0e4228106d70977d.com
 0e5d59369e6c8f86.com
-0e7h4hr.top
-0e87he.top
 0ebb21829816.xyz
 0ed35fac92.com
 0emm.com
@@ -47046,7 +47030,6 @@ upc.zztfly.com
 0l34c7sqy.com
 0mmo.net
 0network.com
-0oorku4.top
 0pengl.com
 0themastercylinder0.com
 0wwdo226yexm.top
@@ -47070,7 +47053,6 @@ upc.zztfly.com
 10000xing.cn
 10001mb.com
 10001pisowifipausetime.com
-100051coinbase.com
 1000bulbs.com
 1000dean.com
 1000giri.net
@@ -47100,13 +47082,9 @@ upc.zztfly.com
 1010data.com
 1017.cn
 10196bc10a45e2f4.top
-101apotheek.com
 101com.com
 101freehost.com
-101independencecenter.com
 101m3.com
-10230374783013.lat
-10384977980745.shop
 103bees.com
 10404b9015a8a586.com
 10449.cfd
@@ -47122,14 +47100,10 @@ upc.zztfly.com
 1090ffffff.com
 10923-google.com
 10answers.net
-10b371be9c5c9c53a118780803dcef1d19ffc5beb08424067748ab9a7c9ebbf.link
-10bc2a5b9cdbae2c899c8818612ee255761e48e5831c766ab4d4a9daf0073f7.link
-10bd3299ccce2c77033a43be443736d0608c727f1975be79b715dfbd7061008.link
 10bet.com
 10black-live.top
 10d1466907e5.com
 10d1466907e5.xyz
-10d7462f17a9e877.com
 10dc04504e.com
 10decaa25048.top
 10e24a78a2.com
@@ -47177,7 +47151,6 @@ upc.zztfly.com
 1111770ab7.shop
 1111770ab8.shop
 1111770ab9.shop
-1111foxar.com
 1114448abcd.top
 111555622ac.top
 111605coinbase.com
@@ -47223,10 +47196,10 @@ upc.zztfly.com
 12002c580245063f.xyz
 1200koine.com
 1203543ac5ec59c7.com
+12048763.xyz
 12069972.cfd
 1206d935cea350cd.com
 120869c1c133.top
-12097623.cfd
 120linux.com
 120office.cn
 120sekunden.com
@@ -47239,7 +47212,6 @@ upc.zztfly.com
 123456789abc.com
 123456abcd.com
 12346-coinbase.com
-123789123812paso.cfd
 123801abb0.shop
 123801abb1.shop
 123801abb10.shop
@@ -47289,7 +47261,6 @@ upc.zztfly.com
 124d012ca21ff05839bd38139936a7f06cad8a0937ac4ced283d203df2e2566.link
 125700.shop
 125mb.com
-126325g2.sbs
 1280s8.com
 128533coinbase.com
 128f6ed03abd3cd7.com
@@ -47314,9 +47285,6 @@ upc.zztfly.com
 1301238abb4.shop
 1301238abb8.shop
 13079.com
-1308plplplplplplplplplpl3.site
-1308plplplplplplplplplpl4.site
-130cca877612eb81.com
 13128b5b83248afb.com
 13149.cfd
 1324ee54a057f1d2.click
@@ -47368,12 +47336,9 @@ upc.zztfly.com
 13kub.com
 13o.net
 140proof.com
-14100.xyz
-14131.xyz
 14149.xyz
 141592653589793238462643383279502884197169399375105820974944592.com
 14162e9b23a2d34b.com
-14213.xyz
 1436loftofficesllc.shop
 14489a8b2a20accb.com
 144f9204eec6f161.com
@@ -47393,11 +47358,8 @@ upc.zztfly.com
 14afacc6e77d.top
 14b7e07773b93513.com
 14c3f7a2a9.com
-14c87c2b07886158a4c4faf18043f7fc2dda161cd3f5a838bbad2a80200eb13.link
-14d6687fa8e330c36c686f76ff0e0608998cc3bfbf7b648a5657dc55a3c7451.link
 14d72bfb807d.top
 14e211b0a0fb.top
-14edqrd42.top
 14i8trbbx4.com
 14iacc.org
 14k4.com
@@ -47408,15 +47370,12 @@ upc.zztfly.com
 151783.cfd
 151811.cfd
 15260501.top
-1528lka.top
 152media.cloud
 152media.com
 152media.info
-15334265x2.sbs
 15564c0f16a3e1e7.com
 15588f0bc265.top
 156688.cfd
-156743coinbase.com
 157aa5418ad7.xyz
 15883311095a.top
 1598634-coinbase.com
@@ -47434,7 +47393,6 @@ upc.zztfly.com
 161-google.com
 161610cad4f8.info
 161651.cfd
-1633824a6dd1c84377a0c11494fa5fe9359d6252f011c12265a0c1fe2c5f627.link
 163787e0965b.xyz
 164653.cfd
 16525ce35a95.top
@@ -47445,7 +47403,6 @@ upc.zztfly.com
 165tchuang.com
 166-google.com
 166688849.cfd
-1675zke.top
 167ddd21be16.top
 1680660.com
 168853210.cfd
@@ -47457,6 +47414,7 @@ upc.zztfly.com
 1694a0bc9fbb2566.com
 1694a0bc9fbb2566.xyz
 169502bfcadfd7a7.com
+169v9l59i.com
 16a9bb5904bdcc32.com
 16aq.cn
 16bed3607e08e12c.com
@@ -47479,15 +47437,12 @@ upc.zztfly.com
 17324783.cfd
 17324784.cfd
 17324799.cfd
-1733276d45.sbs
 173462coinbase.com
 1736b422ddea.top
 17382-coinbase.com
 173946.com
 173a6f21a2f8d12e.com
-174257d5.sbs
 1746ff58463.top
-1747964x7.sbs
 175060c2ebf30342.com
 175e407eeed075.top
 177c0a5a87cbbe98.com
@@ -47497,8 +47452,6 @@ upc.zztfly.com
 17819f0690ee3a70.click
 17819f0690ee3a70.com
 17819f0690ee3a70.xyz
-178281coinbase.com
-178352476v6.sbs
 17890714.ru
 17975a626b8b2462aed79b7bf03a3dcc.xyz
 179b812ced6d7ec508088c0aa1770b9fa79715613e9bff2000be6139ae1c71d.link
@@ -47514,18 +47467,9 @@ upc.zztfly.com
 180bytwo.com
 18229f900e503654.com
 18247e762ac8c6a4.top
-1826346f7.sbs
-182652h2.sbs
 1827b2192343c257.com
-182aa201c773f6b442aedae186dda4b52821b6668bf7c163a60c34dff033355.link
 182e54f9524f411687deabbf8d868df8.com
-183528c74c8.sbs
-183528x56.sbs
-1837c133fdaae2266b51442e2142417a61cc81b40ce9f9468f388de5c836f1d.link
 183ee466852d3e0d.com
-1841481-coinbase.com
-1841484-coinbase.com
-18456789-coinbase.com
 184b74665934.top
 1869708ab9380ec9.com
 186c1e9c04646f79.com
@@ -47549,7 +47493,6 @@ upc.zztfly.com
 18d48435e312.com
 18f30e72bde64249.com
 18f650136736.top
-18jelas777.com
 18pussysex.com
 18ramp.com
 18tlm4jee.de
@@ -47564,14 +47507,12 @@ upc.zztfly.com
 192482-ledger.com
 192819-coinbase.com
 192892.cfd
-1935486f5.sbs
 1935503250.cfd
 194964.com
 194f6f73a42b75ef.com
 1955onlineofficial.com
 19706903.xyz
 197425e957358f95.com
-1974275r5.sbs
 198297.cfd
 198424.com
 1984922.cfd
@@ -47590,10 +47531,10 @@ upc.zztfly.com
 19a0e0733a.team
 19hmm4naa.de
 19j090.com
+19vnyxxp611kxbhqm.cfd
 19yxw.com
 1a1a6ffccc244ebe.com
 1a1ad17aa06825b3.com
-1a23ed1e78f7ec6d292169fccb9ffec468fa6eee570d4fd56edc14fa1208b32.link
 1a5af1be4be88d1e.com
 1a7ac756f450cdc5.com
 1a82113e02e4bef6.com
@@ -47603,7 +47544,6 @@ upc.zztfly.com
 1aa0f1b6f996.top
 1abzar.ir
 1ac28ac46306b1a7.com
-1ac30978c56ca07f93c6e5eb7fe16469213a0a13b3e70a9c1016404b6055127.link
 1ac57a39f7b0.xyz
 1ad33630c088.top
 1ada81f1d9ba46b9.com
@@ -47623,15 +47563,12 @@ upc.zztfly.com
 1b0f1a0941dc.xyz
 1b1372a1d8b3e437.com
 1b17ec94f2a53b68.top
-1b42ff0feda02c869806b7401e1b67e70a36cb3a52570fb6cb47d768d432561.link
 1b5446e1fdcc.top
 1b6090173bce.top
 1b817463acf7.xyz
-1b931a42292551c0c6390af085f892a7ee50b1dde2d3e10fff79556d4a9e456.link
 1be953d1cc.com
 1bet.com
 1bf93c7f86ba705b.com
-1bgt.com
 1billionbooks.com
 1bit.space
 1bliq.io
@@ -47639,7 +47576,6 @@ upc.zztfly.com
 1c575a5f21aa2b2f.com
 1c6c0bceeccbc4b8.com
 1c89c9a9061e6e.com
-1c8ac6a4e55498f41ea9d9fa7481a5171a69cebeed597b2122d9c24983b0188.link
 1c9cae0fbb25c741.com
 1cb5b3611323dabe.com
 1cca9d611dc728cf.cc
@@ -47674,7 +47610,6 @@ upc.zztfly.com
 1e07729fc3553567.com
 1e2a8101a7fc4d64.com
 1e41b68c6805.top
-1e4751f7d79b7684be56f5bb3ea957def7af40f80fbe4ec9558456773806e63.link
 1e480a8ad233.top
 1e73e2f640b4.top
 1e82d50460cf78d6.click
@@ -47699,9 +47634,9 @@ upc.zztfly.com
 1fuel.io
 1gbits.com
 1gc2r.top
+1gvzhr49e.com
 1hwy.com
 1ink.cc
-1kea-eur.shop
 1kxun.mobi
 1lan.tv
 1line.bet
@@ -47750,7 +47685,7 @@ upc.zztfly.com
 1ts19.top
 1ts21.top
 1ude.com
-1vzt2qp.top
+1vkr8na.top
 1waid.top
 1wallpaper.net
 1wihrq.life
@@ -47783,13 +47718,11 @@ upc.zztfly.com
 1xbetonline.com
 1xbett.mobi
 1xbetthailand.com
-1xk7mqa.top
 1xlite-447029.top
 1xsinga.com
 1xslot.com
 1xslot-ua.com
-1yg2g2.top
-1ymphstoy.digital
+1y55vfy87.com
 1zdorov.ru
 2-05.com
 2-lib.org
@@ -47811,25 +47744,18 @@ upc.zztfly.com
 2022welcome.com
 2024668bb4.shop
 2026.mn
-2026-lidl.shop
 2026-live-shijiebei.com
 202688.cfd
 2026aldi.com
 2026cname.com
-2026discounttoolstore.shop
-2026douglasvip.shop
 2026fifa-live.com
-2026li-pl.shop
 2026pl-eobuwie.sbs
-2026pl-eobuwie.xyz
 2049bbs.xyz
 204a1159d0d72c3c.top
 2069e6ae2981a911.com
 206ads.com
 2083236893b.com
 20903466c5.com
-2092176347684534.lat
-2092378549803725.shop
 20962672.cfd
 2098007a060fc04a940f4a0cce76ebee.top
 20b33b49d3e73136.com
@@ -47838,7 +47764,6 @@ upc.zztfly.com
 20c2b23ff33140a2.com
 20db598ef725bf46.com
 20dollars2surf.com
-20e48f9031a38168d01c341e44c07b16b7cf17397db7bad68bb7de7dbf42e9f.link
 20euro-ohne-einzahlung.de
 20eurobonusohneeinzahlung.org
 20f518475a65cb5190afd411684e6003.com
@@ -47856,8 +47781,6 @@ upc.zztfly.com
 21316942e91a.top
 213b655647f2.info
 2144.cn
-2165teg3.top
-2184zke.top
 21bbd770a4f2.top
 21bitcasino.icu
 21e77640186b8b91.com
@@ -47935,7 +47858,6 @@ upc.zztfly.com
 230e0d468f1cb100.click
 230e0d468f1cb100.com
 230e0d468f1cb100.xyz
-23167-google.com
 2318f424e2a1.top
 232380f2b2bf1296.com
 23434-google.com
@@ -47948,7 +47870,6 @@ upc.zztfly.com
 235bb6c9cb5b51e7.click
 235bb6c9cb5b51e7.com
 235bb6c9cb5b51e7.xyz
-23671-google.com
 237523527.cfd
 2377d57cf965110b.click
 2377d57cf965110b.com
@@ -47956,7 +47877,6 @@ upc.zztfly.com
 23784a47df.com
 2381280.xyz
 2383f4d043c86e9e.com
-2385923.cfd
 2387428g923g2-f32.lat
 238747-recovery.com
 23aa64d943ad.online
@@ -47966,8 +47886,8 @@ upc.zztfly.com
 24.eu
 24-sportnews.com
 24-visionaryenterprise.com
+24081937.xyz
 241dda1b31420d93.com
-241efced2198.online
 24239e58375fd084.com
 243666.cfd
 2445march2024.com
@@ -47975,7 +47895,6 @@ upc.zztfly.com
 244kecmb3.de
 2463april2024.com
 2465april2024.com
-2465tpo.top
 2467april2024.com
 2469april2024.com
 246d9f6f248262eeca640e9f461d1b14.top
@@ -47999,7 +47918,6 @@ upc.zztfly.com
 2495may2024.com
 2497may2024.com
 24autopartsmaster.com
-24c6715b17c1480699b20df81912771f2c36b1e3520f9c8c9525ae395042856.link
 24click.top
 24counter.com
 24d.ir
@@ -48051,16 +47969,13 @@ upc.zztfly.com
 2562a3debe5b218d0569fac8805b3c27890d12d2890a4dc9680c4edd.com
 25710b5d95.com
 258463.cfd
-258967b2d9adbfb3fd0f2819486aeb3a846756b33da6f0b82f8a7e275e24db2.link
 258c1ade109313fc.com
 25b2a5144d4f.xyz
 25c70cd31b6d26da953782b18055e945cb38c310f674ee57f146496966f0c5e.link
 25u.com
 260mb.net
-261512553.xyz
 261d9e423b11ee65.com
 2626d9bb2edb1f62.com
-2635hxe.top
 263626.cfd
 26397d169639fd67.com
 264b0a99f6.com
@@ -48092,41 +48007,36 @@ upc.zztfly.com
 26d4b1878c28eb1c.xyz
 26f2e93824efa49b.com
 26f9af41918787b4.com
-26lidl.shop
-26whte.top
 27-theproject.com
 27034bc21199483f.com
 2715f1c0479b.top
 271b0c2b40b818dd.com
 272571f44900e29d.com
 27430a6507ee1e38.top
+27468105.xyz
 2746dd57463.top
 2754f82760cc.top
 275875.cfd
 276032eba1c675f6.com
-2765tka.top
 276ed7d0a3af.xyz
 277418f38d0c.top
 278c872bb748eae8.com
-2790639719b0a28400b5dfab0349a29768a22ba09e3493888979e978eb634b6.link
 27e215baf25bc499.com
 27eb82693d7.beer
 27pgck2eqzc7it.cfd
 27qhxh4wmcrhcf.cfd
 281376a93d0c48b5.com
+28193745.xyz
 2834c752b358521b.click
 2834c752b358521b.com
 2834c752b358521b.xyz
-2834g340-g34.shop
 283e2b0c6e2ee43a1c6db7121b08468fd9af6432.com
 2847bb87493.top
 284824-ledger.com
 285644.cfd
-28623.cfd
 287aa45f0b75.top
 287e9be6738a.xyz
 288007bb22.shop
-2880102fccab8cdef04e309e05ffd51433556d2f083fa668b7667e81d3919d5.link
 2882d0388c6b.online
 2883331cc1.buzz
 2883331cc1.pro
@@ -48147,10 +48057,8 @@ upc.zztfly.com
 28ec4e25a78a.xyz
 28oojtf2zwlt4qqec7ifwx5i.cfd
 28yw0a.ru
-29034239igssp.lat
 2904b304a609946a.com
 290e6630acba.xyz
-2914tka.top
 293829coinbase.com
 2941878bd1ff20ff.click
 2941878bd1ff20ff.com
@@ -48160,7 +48068,6 @@ upc.zztfly.com
 296b57e9e641e06e.click
 296b57e9e641e06e.com
 296b57e9e641e06e.xyz
-2974tka.top
 298211.cfd
 299706.cfd
 299bb272e7ee2209.click
@@ -48174,7 +48081,6 @@ upc.zztfly.com
 2a0e6a722f8a.top
 2a1gmu.com
 2a233e4cac39ac8e.com
-2a2d035dbdb26d9b6bb99ed170bbca6ede8da1624f37d76d51b97c98638b756.link
 2a38a4a9316c.com
 2a3ec3f471fa9eb0.com
 2a4cd067fe06.top
@@ -48198,19 +48104,15 @@ upc.zztfly.com
 2bd3cace991144b5.com
 2be4dd644c0a92d2.com
 2bee.jp
-2bf58591bf8b8a1a.com
 2bfcd395410e1d97.com
 2blo.net
 2c002b0d50c8.xyz
-2c00c537523509a5f8c5b6541c380c87f5d729874b6248f99717a1480750b92.link
 2c15c618900997a6b8fa1092a38674cc63324950.xyz
 2c1bcdab283476ac.com
 2c287c52306c8fc8.com
-2c63d31c1bb9ede89d6dc16c721df9aafb60af2074e42df80ef4efb3b5d340c.link
 2c79068559b274b5.com
 2c872cdaa7fb.top
 2c8de1af55fdf9dc.com
-2c8f1a9d7b.com
 2c9d6f28ae8a9f23.com
 2cd5774a0aaf3560.com
 2cd7e79b302070ef.com
@@ -48234,14 +48136,12 @@ upc.zztfly.com
 2de5cad84c6c55fc.com
 2de7e593e5f1e12a.com
 2delivery.best
-2dfcff7f2dae1b50.com
 2dfdea8c5a.com
 2e35da84f858247f.com
 2e47a71b7fc7.top
 2e4fbb4c24c766e0.com
 2e769a4c68f1.space
 2e781b168b339917.com
-2ebf78c8589c77941d66139f11e3c20696309065e64303414cf231e2abba021.link
 2ee9804d02.com
 2ef9a3bbf717f5286d28da6e8614d28e.icu
 2eq7joxwcg258l.cfd
@@ -48270,6 +48170,7 @@ upc.zztfly.com
 2jod3cl3j.de
 2k19.nl
 2kelinci.xyz
+2kn9mva.top
 2kool4u.net
 2leep.com
 2linkes.com
@@ -48288,13 +48189,16 @@ upc.zztfly.com
 2performant.com
 2plyr.com
 2rich4bitches.com
+2rk9qxa.top
 2rmifan7n.de
 2sexy.ro
 2target.net
 2track.info
 2trk.info
+2tw8qpm.cfd
 2ue8ut.top
 2us-webex.com
+2vpx8wm.top
 2vs2.ru
 2waky.com
 2wu0m0ms098w7148.xyz
@@ -48462,6 +48366,7 @@ upc.zztfly.com
 345f9447a3ed.xyz
 346e7fbc9d5701c1.com
 347367.cfd
+34782901.xyz
 348145753ff64104.com
 348672-shakepay.com
 3489893g45o.lat
@@ -48595,7 +48500,6 @@ upc.zztfly.com
 3857aa84943.top
 385823-ledger.com
 386133b5b907a635.com
-38716dc244.com
 3874dd45973.top
 388127871cc.cc
 388131871cc.cc
@@ -48709,6 +48613,7 @@ upc.zztfly.com
 3ec9b600789b3bacf2c72ebae142a9c3.net
 3ed8dbc611103650.cc
 3edc.cn
+3edxfxomz.com
 3ee1c05a7476173e3841cb9255f8d6db6810b863bfa5bc70ede050ae023b647.link
 3ej.top
 3erk410.space
@@ -48745,13 +48650,17 @@ upc.zztfly.com
 3pcell.com
 3pkf5m0gd.com
 3qtdjf4830.com
+3qv7xkn.top
+3qwr8xn.top
 3r1kwxcd.top
 3rdintifada.com
 3sd6w6oga9.com
 3sky.dev
+3tx8qvn.top
 3txxx.com
 3utilities.com
 3vetz.com
+3wr9qkt.top
 3xp3cts1aim.sbs
 3zetr6eb20x.com
 4.fo
@@ -49093,6 +49002,7 @@ upc.zztfly.com
 4jg4j34.cfd
 4jnzhl0d0.com
 4kdispluswest.cfd
+4kn9wva.top
 4leb0e.ru
 4life.com
 4myplanet.org
@@ -49110,6 +49020,7 @@ upc.zztfly.com
 4stats.de
 4t-niagara.com
 4tdmwljd.xyz
+4themoviesflix.com
 4tiva.net
 4tr3sopq592o7svp1q6mn3.xyz
 4tytrffrftpaxczka2ewi.shop
@@ -49118,6 +49029,7 @@ upc.zztfly.com
 4utomobiles.ru
 4vfrjbghb85rv8q7wqwyumckgu478u3p1.cfd
 4vgblq.ru
+4vp1xqn.cfd
 4vps.su
 4vtnynyhmjlf5r5u7.cfd
 4w54d7rjg.com
@@ -49243,6 +49155,7 @@ upc.zztfly.com
 53910c9f6b10f1c9.com
 53910c9f6b10f1c9.xyz
 539284.biz
+53981726.xyz
 53aef353d7a3b00f.com
 53b71c373e7d8e0e.com
 53c2dtzsj7t1.top
@@ -49352,6 +49265,7 @@ upc.zztfly.com
 56wam.com
 570dad652f.com
 5716131c7495382ad8f0de5f2e64023b25963aa0c69e15dee06b31324b20c14.link
+57286139.xyz
 572aa74cfb7238d1.com
 5731461423.cfd
 5745129.cfd
@@ -49391,6 +49305,7 @@ upc.zztfly.com
 58win.com
 59008de74206eea7.com
 590ea594ffa4.top
+59137482.xyz
 591613ad14226b9d.com
 592105-ledger.com
 592105-trezor.com
@@ -50145,7 +50060,6 @@ upc.zztfly.com
 7a8fb920fc.com
 7a9906c448d6.info
 7aadf3454308607b.com
-7abb9702c4.com
 7ad5aaa98a6f1964.click
 7ad5aaa98a6f1964.com
 7ad5aaa98a6f1964.xyz
@@ -50268,6 +50182,7 @@ upc.zztfly.com
 800820.net
 8015d07530c7a952.com
 8021b47717af7924.com
+80247139.xyz
 802694af5f6ea35c.com
 8027348623547638.shop
 802d9cb7cceb876a.com
@@ -50290,7 +50205,6 @@ upc.zztfly.com
 816e1c7ae3d2a67f.click
 816e1c7ae3d2a67f.com
 816e1c7ae3d2a67f.xyz
-817261coinbase.com
 817b1c279a769e647ac1ddeb0f243538.space
 818169.cfd
 819131-google.com
@@ -50593,7 +50507,6 @@ upc.zztfly.com
 8b21a945159f23b740c836eb50953818.com
 8b32fef93861.top
 8b545de5d5a1e124.top
-8b81ffcb90.com
 8b90ccb0e42174b7.click
 8b90ccb0e42174b7.com
 8b90ccb0e42174b7.xyz
@@ -50808,6 +50721,7 @@ upc.zztfly.com
 94e74a281839d970a85b009c8656b3c6cb1e3b2e16864a8679824900d276bab.link
 950a9caa79a0db35.com
 95238782390g304h34.lat
+95371428.xyz
 95528a953a2a9676d2341b62f9cd07247635518b.com
 95575cdc4fed2c2b.com
 955b3ef86b6db353.com
@@ -50819,7 +50733,6 @@ upc.zztfly.com
 95bf78d0e5a67cea.top
 95c9cde9017a67f2.com
 95ce94d2eae3.top
-95cefe8fef.com
 95d1496267.com
 95d8c8a8bffc.top
 95e4cc9e62e4144e.com
@@ -50952,7 +50865,6 @@ upc.zztfly.com
 961365.cfd
 961370.cfd
 961372.cfd
-961373.cfd
 961375.cfd
 961377.cfd
 961378.cfd
@@ -50971,7 +50883,6 @@ upc.zztfly.com
 961505.cfd
 961506.cfd
 961508.cfd
-961510.cfd
 9617ee28aa79dde5.com
 96316af2494990e9.com
 963296b0d58fb01a.com
@@ -51244,7 +51155,6 @@ a0011c841b62.top
 a003821000.top
 a0090e6934a6437d.com
 a00s.net
-a0239420402.link
 a028d1c9db8e.top
 a02c858b9fd2ae88.com
 a0507ce0a0ac1ac2.com
@@ -51513,6 +51423,7 @@ aarcsd.com
 aarki.com
 aarki.net
 aarnaai.xyz
+aaronjaykernis.com
 aarzgcsyztgrs.site
 aasaam.com
 aatcwo.biz
@@ -51827,7 +51738,6 @@ account-consultoria.com
 account-controller.com
 account-digital.com
 account-edf.com
-account-factory.su
 account-gitlab.com
 account-help-desk.sbs
 account-immobilienabrechnung.de
@@ -52026,35 +51936,13 @@ account-validation-service-j10.lat
 account-validation-service-j11.lat
 account-validation-service-j12.lat
 account-validation-service-j13.lat
-account-validation-service-j14.lat
-account-validation-service-j15.lat
-account-validation-service-j16.lat
 account-validation-service-j17.lat
 account-validation-service-j18.lat
-account-validation-service-j19.lat
-account-validation-service-j2.lat
 account-validation-service-j20.lat
-account-validation-service-j3.lat
-account-validation-service-j4.lat
-account-validation-service-j5.lat
-account-validation-service-j6.lat
-account-validation-service-j7.lat
 account-validation-service-j8.lat
 account-validation-service-j9.lat
-account-validation-service-k1.lat
 account-validation-service-k10.lat
-account-validation-service-k11.lat
-account-validation-service-k12.lat
-account-validation-service-k13.lat
-account-validation-service-k14.lat
-account-validation-service-k15.lat
-account-validation-service-k16.lat
-account-validation-service-k17.lat
-account-validation-service-k18.lat
-account-validation-service-k19.lat
 account-validation-service-k2.lat
-account-validation-service-k20.lat
-account-validation-service-k3.lat
 account-validation-service-m1.click
 account-validation-service-m10.click
 account-validation-service-m11.click
@@ -52138,6 +52026,7 @@ acemsb3.com
 acense.shop
 acento.com
 acertb.com
+acessogerenciapj.digital
 acessonetbia.com
 acessopjbradesco.digital
 acessoscenturion.com
@@ -52196,6 +52085,7 @@ acrkanmof.com
 acrobatic-chest.pro
 acronym.com
 across.health
+acrossclarity.info
 acrosspf.com
 acs1.tc
 acs3.tc
@@ -53912,6 +53802,7 @@ agnitas.de
 agnomentopslwomby.cyou
 agnruzedegphs.site
 agnxomu.com
+agoboost.com
 agodaslot.xyz
 agogeofficeofnavalintelligence.xyz
 agoniaopaquerhing.cfd
@@ -54002,7 +53893,6 @@ aiactiv.io
 aiadev.fun
 aiagqtjxmktssq.com
 aiailive.info
-aiavengers.io
 aibeautia1.jp
 aibsgc.com
 aicandy.link
@@ -54034,6 +53924,7 @@ ailjuswpsfenclo.com
 aimatch.com
 aimediagroup.com
 aimerce.ai
+aimflowbase.site
 aimtell.com
 aimukreegee.net
 aimzxmj.com
@@ -54671,12 +54562,8 @@ amazon-playgame-web.com
 amazon-primium.com
 amazon-retreats.com
 amazon-slotspremium.com
-amazon-storage-department.com
-amazon-storage-department.net
-amazon-storagedepartment.com
 amazon-store.cc
 amazon-template.com
-amazonaws.eu
 amazonia-tech.world
 amazonleonano.fr
 amazonleoultra.fr
@@ -54797,6 +54684,7 @@ amuletsourcemadden.com
 amunfezanttor.com
 amung.us
 amurugesandocumentwritingoffice.shop
+amusableligamentoverplant.com
 amused-condition.com
 amuseliebe.at
 amusing-injury.com
@@ -55023,7 +54911,6 @@ anthe-znn.com
 anthill.vn
 anti-ad.org
 antiadblocksystems.com
-antibioticsotc.com
 antibot.me
 antibotcloud.com
 antijamdielike.com
@@ -55621,6 +55508,7 @@ apsoopseevou.net
 apt-sandwich.com
 aptabase.com
 apteco.com
+apteka-sadivnyka.ua
 aptina.com
 aptivada.com
 aptmntclrmtody.com
@@ -55737,7 +55625,6 @@ areantaid.site
 areareweld.com
 areataruhan.com
 areekwiney.com
-arenaflowers.net
 arenaplus-live.com
 arendarules-yandex.online
 arendarules-yandex.ru
@@ -55988,7 +55875,6 @@ asqoxdxmawar.in
 asriportal.com
 assautlazars.shop
 assemblyexchange.com
-asset-cdn.dev
 assets-delivery.net
 assets-delivery-node.xyz
 assetsconfigcdn.org
@@ -56114,6 +56000,7 @@ aticalmaster.com
 atighgasht.com
 atillapro.com
 atinternet.com
+ativacaonetempresas.digital
 ativarchatbia.digital
 atlanticadvisers.com
 atlantiscex.com
@@ -56198,6 +56085,7 @@ attuneuvito.com
 attvip.mx
 atualiza-netempresa.digital
 atualizarnetempresas.app
+atualize-netempresa.info
 aturoaphkaun.com
 atuxrmazzebah.site
 atv-adsrv.com
@@ -56308,6 +56196,7 @@ auroradx.com
 auroraluzcasa.com
 aurorastore.org
 aurumsspaced.com
+auryo.shop
 aus55.com
 auschwitzmemento.pl
 aussie-gamer.com
@@ -56496,6 +56385,7 @@ aws-itcloud.net
 awsstatreporter.com
 awsurveys.com
 awthhiwucafl.com
+awvgkz.shop
 awwqatjip.com
 awykk.com
 awzbijw.com
@@ -56578,9 +56468,9 @@ axiomlaw.com
 axioswatches.com
 axirwallet.com
 axis456.com
+axisbank.co
 axisdoctrine.com
 axium.icu
-axiumai.com
 axjndvucr.com
 axkabmod.in
 axmoznqudx.com
@@ -57261,7 +57151,6 @@ bcnproduction.com
 bcns-shop.com
 bcolyyp.in
 bcovery.com
-bcpatvjpumfyh.online
 bcprm.com
 bcrzp.com
 bcsgsrv.com
@@ -57390,6 +57279,7 @@ becomemummy.com
 becomezingaro.cfd
 becoquin.com
 becorsolaom.com
+becourir.shop
 becovi.com
 becutdubbed.shop
 bed5099657a5e8c2.com
@@ -57576,7 +57466,6 @@ best10.cc
 best2serve.com
 best7kpromo.com
 bestaccou.top
-bestadduult.com
 bestadload.com
 bestadperf.com
 bestanimegame.com
@@ -58086,7 +57975,6 @@ bimbim.com
 bimco.org
 bimongtrowman.com
 bimtrackapp.co
-bina.pw
 binagriyalink.com
 binance.th
 binance-aml.xyz
@@ -58164,6 +58052,7 @@ bio.now
 bio-ledger.org
 bio-me.bio
 biocdn.net
+biolink.website
 biologylog.com
 bionic-ads.com
 biopage.ru
@@ -58250,6 +58139,7 @@ bitcoinvn.io
 bitcomet.com
 bitconnect.co
 bitcore-momentum-app.com
+bitcoreunit.site
 bitdexor.com
 bitdocu.live
 bitdrift.io
@@ -58476,7 +58366,6 @@ blocksfeathers.com
 blocksly.org
 blockthrough.com
 bloemker-holz.de
-blog-roblox.com
 blog-rss.com
 blogads.com
 blogads.de
@@ -58505,7 +58394,6 @@ blogranking.net
 blogrush.com
 blogsopt.com
 blogspot.org
-blogspt.com
 blogsuperapp.com
 blogtimes.jp
 blogua.org
@@ -58529,7 +58417,6 @@ blousekudo.com
 blowgunbumpoff.cyou
 blowingwind.xyz
 blowsgollsaline.cfd
-blox-link.com
 bloxavatar.com
 bloxbalance.com
 bloxecutor.com
@@ -58581,7 +58468,6 @@ bluetrafficstream.com
 bluetreedream.com
 bluevinebooks.com
 bluexuawwxzow2028.live
-blueyonderllc.top
 blumen-fusshoeller.de
 blurbpoint.com
 blurbreimbursetrombone.com
@@ -58622,6 +58508,7 @@ bmst.pw
 bmtekvannmeho.website
 bmtmicro.com
 bmwebm.org
+bmwmtvip2026.shop
 bmwweb.biz
 bmyogxbku.com
 bnbforgetch.cfd
@@ -58674,6 +58561,7 @@ bobcatdealernet.com
 bobgames-prolister.com
 bobik.cfd
 bobo-phone-delivery.com
+boboochcscs.shop
 boboslot-2.cfd
 bobsleddomesticglandular.com
 bobtailovalsupply.com
@@ -58683,6 +58571,7 @@ bodiscdn.com
 bodleanarcho.com
 bodnerautoservice.com
 bodragglairsaesop.cyou
+bodtdwiswmmsc.space
 body-and-health.org
 bodybossmotivate.com
 bodyclick.net
@@ -58694,6 +58583,7 @@ boerenwebshop.com
 boffoadsapi.com
 boffoadsfeeds.com
 bogmunchbeneath.com
+bogodeal.shop
 bogosale.shop
 bogsschuhe.de
 bogusassistant.com
@@ -58895,6 +58785,7 @@ botscanner.com
 botsecurity.cfd
 botstatic-delivery-apicom.online
 botsxlhhjdvnp.online
+bottiglieria1881.online
 bottlefirst.com
 bottlestonightapp.com
 bouhoagy.net
@@ -59508,7 +59399,6 @@ business-facebook.us
 business-finance.xyz
 business-inventive.com
 business-minagne.com
-business-online.ru
 businessad.de
 businessclick.ch
 businessclick.com
@@ -59554,6 +59444,7 @@ buyapowa.com
 buybl.shop
 buycocainekrakow.pl
 buyergenomics.com
+buygallery.shop
 buygenerics.com
 buygoods.com
 buylint.com
@@ -59691,6 +59582,7 @@ bzdutznootnvg.website
 bzgmcqqfxd.com
 bzkysubds.biz
 bznbmqpxhi.com
+bzop.top
 bzosl.com
 bzpqekgjvaqkn.website
 bzqotz.com
@@ -60293,6 +60185,7 @@ casesbattle.net
 casetuis.com
 cash-ads.com
 cash-phantom.com
+cash-tornado.cyou
 cashalot.bet
 cashbro.net
 cashcinemaunbiased.com
@@ -60312,6 +60205,7 @@ cashochimi.com
 cashondelivery.xyz
 cashooshut.com
 cashort.com
+cashout-pump.fun
 cashpage.net
 cashpartners.eu
 cashraven.io
@@ -60815,7 +60709,6 @@ cfwtqenanlvxbln.com
 cfyrlemzzvaxe.site
 cgamoqsqxy.com
 cgflkxluy.com
-cgie.lu
 cgispy.com
 cgiutifqojkn.com
 cgjjaafjcgaehbgghabf.world
@@ -61530,6 +61423,7 @@ clickonometrics.pl
 clickpoint.com
 clickrank.ai
 clickrotate.net
+clickrtrckr.com
 clicksagent.com
 clicksapp.net
 clicksegypt.net
@@ -61714,7 +61608,6 @@ cloudtransfer.store
 cloudtrks.com
 cloudtrust.rocks
 cloudvideosa.com
-cloudworkstations.dev
 cloudymorningwood.com
 cloudymug.store
 cloudyveritona.com
@@ -61816,23 +61709,6 @@ cnet.systems
 cnet.xin
 cnetcontentsolutions.com
 cnhv.co
-cnic-probe-aws-asia-tokyo-live-1778711701.xyz
-cnic-probe-aws-asia-tokyo-live-1778712001.xyz
-cnic-probe-aws-asia-tokyo-live-1778712601.xyz
-cnic-probe-aws-asia-tokyo-live-1778716501.xyz
-cnic-probe-aws-eu-frankfurt-live-1778712301.xyz
-cnic-probe-aws-eu-frankfurt-live-1778713501.xyz
-cnic-probe-aws-eu-frankfurt-live-1778714701.xyz
-cnic-probe-aws-north-america-oregon-live-1778713201.xyz
-cnic-probe-aws-north-america-oregon-live-1778713801.xyz
-cnic-probe-aws-north-america-oregon-live-1778715301.xyz
-cnic-probe-aws-north-america-oregon-live-1778716201.xyz
-cnic-probe-aws-north-america-vir-live-1778714102.xyz
-cnic-probe-aws-north-america-vir-live-1778714402.xyz
-cnic-probe-aws-north-america-vir-live-1778715001.xyz
-cnic-probe-aws-oceania-sydney-live-1778712902.xyz
-cnic-probe-aws-oceania-sydney-live-1778715601.xyz
-cnic-probe-aws-oceania-sydney-live-1778715901.xyz
 cnitblog.com
 cnk3jdjtk.com
 cnn-live.online
@@ -61911,7 +61787,6 @@ codekiem.com
 codemod.link
 coder-logic-vault.courses
 codesour.com
-codetwo.online
 codhacks.ru
 codigo.se
 codigodebarra.co
@@ -61989,7 +61864,6 @@ coinbasefin.top
 coinbasefinance.top
 coinbasefinanceshorttermtrading.top
 coinbasehelpdesks.online
-coinbaseplus.network
 coinbaseprivatekey.com
 coinbasepump.com
 coinbases.cash
@@ -62105,6 +61979,7 @@ com-float-io.pro
 com-forge-app.pro
 com-gateway-hub.pro
 com-lightning-net.pro
+com-mint-net.pro
 com-online-cloudflare.com
 com-soporte.es
 com-transfers.sbs
@@ -62633,6 +62508,7 @@ coupling-media.de
 coupontic.com
 couriercare.in
 courigodelivery.info
+courirbe.shop
 coursecopy.com
 coursestiffenjealous.com
 coursevania.com
@@ -63053,6 +62929,7 @@ crypto-mining.club
 crypto-monitoring.lol
 crypto-pool.fr
 crypto-swapzero.com
+crypto24.cfd
 cryptoamlcheck.com
 cryptobossc.online
 cryptobossca.online
@@ -63168,7 +63045,6 @@ ctx88.pro
 ctxclwykznvzt.online
 ctxcollect.com
 ctxtfl.com
-cu.ma
 cuannnterus.com
 cuba-avantgarde.com
 cubaobei.com
@@ -63225,7 +63101,6 @@ curacescalper.cyou
 curantikol.site
 curbneon.com
 curcumetic.cyou
-curemommy.org
 curenaturalicancro.com
 curiarawolfkin.com
 curious-contraptions.com
@@ -63382,6 +63257,7 @@ czilventmoldheest.info
 cznzorthcvkvi.online
 czozahgihazp.in
 czuatpotvqip.in
+czulventskold.top
 czuovvrfi.com
 czx5eyk0exbhwp43ya.biz
 czxhy.com
@@ -63728,6 +63604,7 @@ darkworldmarket.com
 darmancerinelil.com
 darmowekino.pl
 darmowylicznik.pl
+darndcs-js.beer
 darnipora.lt
 darnobedienceupscale.com
 daro.so
@@ -63972,6 +63849,7 @@ ddfddff11454.store
 ddfocqtbglcxt.website
 ddgjwrj.cc
 ddieza4565.com
+ddiscounts.top
 ddm.io
 ddmanager.ru
 ddns.info
@@ -64067,6 +63945,7 @@ decisivebase.com
 deckedpreeze.com
 deckjav11.fun
 decknetwork.net
+deckwavegate.site
 declaredczxi.shop
 declareddetect.com
 decline-coinbase.com
@@ -64226,7 +64105,6 @@ delivery-uk.ink
 delivery-ze24.shop
 delivery207.icu
 delivery4you.shop
-deliveryaae.shop
 deliveryacademy360.live
 deliveryagency365.pro
 deliveryagent.xyz
@@ -64244,7 +64122,6 @@ deliverydreams.shop
 deliveryentregas.shop
 deliveryfail.sbs
 deliveryfedswiftex.live
-deliveryffc.shop
 deliveryffg.shop
 deliveryflorida.info
 deliveryflow.xyz
@@ -64473,6 +64350,7 @@ devpeakomegainnovations.com
 devqeury.org
 devsvojsxcsjj.com
 devtome.top
+dewdropdwelling.com
 deweltupdate.com
 dewigacor555.shop
 dewlapscsk.qpon
@@ -64550,13 +64428,13 @@ dgmayyil.com
 dgmlsiurhcdij.space
 dgmnnanjowm.com
 dgpclgy.ru
+dgpn-crypto.fr
 dgpot.com
 dgpwxgw.com
 dgvhzcxksncni.website
 dgzadan.top
 dgzykxavrvekj.site
 dh8ypn3lq8.com
-dhabigroup.top
 dhaka-office.com
 dhamassage.center
 dhaohbwfigc.in
@@ -64568,7 +64446,6 @@ dhcp.biz
 dhdebdmvzljbk.site
 dhimphits.com
 dhjcheats.com
-dhl.mom
 dhl-air.com
 dhl-delivery.com
 dhl-discoverlogistics.com
@@ -64715,7 +64592,6 @@ dhlhzxfc.xyz
 dhlhzxydfc.xyz
 dhlkl.info
 dhlkw.shop
-dhllrnpa972tbss6dpkepop473m28dud.shop
 dhllv.vip
 dhlmxli.com
 dhlnov.top
@@ -64932,6 +64808,7 @@ dire5589224.pro
 dire5589247.pro
 dire691055.pro
 dire691078.pro
+dire691101.pro
 dire691124.pro
 dire691147.pro
 dire691170.pro
@@ -65269,7 +65146,6 @@ dnot.sh
 dnpgwweaiepdu.top
 dns.com
 dns.info
-dns.navy
 dns-bait.com
 dns-dns.com
 dns-finder.com
@@ -65307,6 +65183,7 @@ doblizhq.shop
 doblonmortals.shop
 dobrezrodla.com
 doc-securehub.info
+doc-share.top
 doceree.com
 dochase.com
 doche.ru
@@ -65339,6 +65216,8 @@ docu5589254.pro
 docu691062.pro
 docu691085.pro
 docu691108.pro
+docu691131.pro
+docu691154.pro
 docu691177.pro
 docu691200.pro
 docu826146.pro
@@ -65414,6 +65293,7 @@ dombnrs.com
 domclickext.xyz
 domdex.com
 domdog.io
+domeravisko.info
 domici33880404.pro
 domici33880424.pro
 domici33880444.pro
@@ -66208,7 +66088,6 @@ dpdlocowa.xin
 dpdlocowa.xyz
 dpdlocowb.shop
 dpdlocowc.cyou
-dpdlocowd.info
 dpdlocowd.top
 dpdlocowd.work
 dpdlocowe.top
@@ -66228,13 +66107,10 @@ dpdlocowj.top
 dpdlocowj.xin
 dpdlocowk.click
 dpdlocowk.info
-dpdlocowk.top
-dpdlocowk.xyz
 dpdlocowl.help
 dpdlocowl.info
 dpdlocowl.top
 dpdlocowl.xin
-dpdlocowl.xyz
 dpdlocowm.top
 dpdlocown.shop
 dpdlocown.top
@@ -66843,7 +66719,6 @@ e6f848e6703abf54.com
 e6fd560b3e161086c24f7a979355cb5751e1a31c06bb23151b8af5844fbca63.link
 e70cce7276d8364a03f7c35cd53f5820b7b9ff39df7f429d59fb64573017898.link
 e7282b2a5f4e57aa.com
-e72ff3cc5b4d5a2319ed9cba357dc1e5.icu
 e7513d3fb1e56a6a5e431fbf60ac3ae7.digital
 e752f74951152e48.com
 e77842d07a891a64.com
@@ -67242,7 +67117,6 @@ edvgmtmlbjuvt.website
 edwaardliang.com
 edwardkruk.com
 edwardsanba.qpon
-edwldfc.com
 edwmpt.com
 edwnbrougecufx.com
 edxbbmcxp.com
@@ -67595,6 +67469,7 @@ empowerlocal.co
 empresas.click
 empresascorporativonet.chat
 empresasenegocio.info
+empresasenegocios.net
 empresasnetassistente.digital
 emptytough.com
 empusacooner.com
@@ -67635,6 +67510,7 @@ encratykenelm.com
 encrypted-ledger.com
 encuentrodemusicos.com
 encupfennish.cyou
+encurtador.dev
 encystkokil.com
 endai.com
 endang.top
@@ -68128,6 +68004,8 @@ euptnsyts.com
 eurasiacl--kr.com
 eurekster.com
 euro2022espoo.com
+eurofactory.shop
+eurohomeplus.shop
 euromaillinnk.com
 eurooffice.xyz
 europact.shop
@@ -68145,6 +68023,7 @@ eurotrip.live
 eurotwinkmovies.com
 eurovela.shop
 eurozakupy.shop
+eusaletool.top
 eustatsunative.com
 eutesalvo.com
 euvzpxozrlhtmt.com
@@ -68279,8 +68158,8 @@ excitead.com
 excitedassist.pro
 excitedcollegegirls.com
 excitedgleamingrefrigerate.com
+excitedsymbol.lol
 excitingdates.com
-excl.cloud
 exclstg.cloud
 exclusive-paper.com
 exclusivobonus.digital
@@ -68293,6 +68172,7 @@ exdocsfiles.com
 exdynsrv.com
 exe.bid
 execbeggar.com
+executivegov.com
 executiveoffice.shop
 executordelta.ph
 executors2550.com
@@ -68305,6 +68185,7 @@ exelbid.com
 exemplarfederallithe.com
 exemplary-garage.com
 exemplosjanotas.pt
+exercitationem-omnis-quos.xyz
 exey.io
 exfwqfykdxtig.space
 exhibitsneeze.com
@@ -69418,6 +69299,7 @@ fasttony.es
 fasttracksdeliveryexpress.icu
 fastukist.top
 fastupload.live
+fastviewbase.site
 fastvps-server.com
 fat-fly.com
 fatality.win
@@ -69475,6 +69357,7 @@ fbiagent.cyou
 fbigovquantum.com
 fbiwarning.online
 fbkdhyveclvwd.com
+fbkjmq.shop
 fblsf.com
 fbmedia-ckl.com
 fbmediafor.com
@@ -69714,6 +69597,7 @@ fgazzetta.it
 fgenergy.pl
 fget-career.com
 fgl.com
+fglfgn.shop
 fgmail.com
 fgqkrrvlve.com
 fgqxcrpyhuw.com
@@ -69965,6 +69849,7 @@ fiocchidiriso.com
 fionades.com
 fiotiltfnlfet.com
 fipqcyechylid.online
+fiprojecto.site
 fire-delivery.com
 fireads.org
 firebase-api-google-u1.sbs
@@ -70018,6 +69903,7 @@ fishymonster.com
 fissilitan.cyou
 fistleaccuser.shop
 fitario.shop
+fitelio.shop
 fitflopromania.com
 fitgirl-repack.com
 fitgirl-repacks.cc
@@ -70245,6 +70131,7 @@ flowingco.top
 flowinghypuralcincha.cfd
 flowpanlive.com
 flowpoint.ai
+flowstarnet.com
 flowsyncshield.com
 flowto.it
 flowtype.press
@@ -70380,6 +70267,7 @@ followmurmuringsquealing.com
 followsmumpingulna.cfd
 folusho.com
 fomo.com
+fomodeal.shop
 fondi-coinbase.com
 fondleaegipan.shop
 fongumporg.net
@@ -70470,6 +70358,7 @@ form33880473.pro
 form5589206.pro
 form5589229.pro
 form5589252.pro
+form573888.pro
 form578144.pro
 form691060.pro
 form691083.pro
@@ -70629,6 +70518,7 @@ frameworkjsbns.beer
 france-jeunes.net
 france-services.fr
 france-transporteur40.com
+franceconnectretard.com
 francegave.com
 francehayon.fr
 francemusicstore.com
@@ -71018,6 +70908,7 @@ fuse-cloud.com
 fuseaubedegar.qpon
 fusedcontent.com
 fusedeck.net
+fusedigwave.site
 fuseplatform.net
 fusetracking.com
 fusibletabstop.cfd
@@ -71056,6 +70947,7 @@ fvltlueulmjsc.com
 fvmjaiazpvjd.com
 fvwdjfrekgogp.online
 fvxbxclcjytyf.online
+fvzzy-checker.art
 fw-cdn.com
 fwcdn1.com
 fwcdn3.com
@@ -71568,7 +71460,6 @@ gekubov.top
 geldencosmeticos.com
 geldrace.nl
 geldronai.live
-geldspielerforum.de
 gelirartisi.com
 gelish.com
 gelosinscreigh.cfd
@@ -71881,7 +71772,6 @@ gfxdn.pics
 gg.bet
 gg123.vip
 gg146.bet
-gg51-lkyp1367.vip
 ggame.sbs
 ggbbbet.com
 ggbet.world
@@ -72138,6 +72028,7 @@ globalbrandsmagazine.com
 globalcaseoffice.info
 globalclaimoffice.info
 globalcompanions.com
+globalcopytrades.top
 globaleducationproject.org
 globalele.digital
 globalemedia.net
@@ -72493,7 +72384,6 @@ googie-anaiytics.com
 googietagmanager.com
 googke.no
 googl.ro
-google.latino
 google--verificationxizavtaeii9qxtvnugojam9ewcjthmivbbplxpys.site
 google-accounts.help
 google-admin.com
@@ -72566,7 +72456,6 @@ googleadservices-cn.com
 googleadsgpts.com
 googleadsserving.cn
 googleanalytics.com
-googlecnapps.club
 googlecommerce.com
 googleeplay.com
 googleflights-cn.net
@@ -72773,6 +72662,7 @@ goweb.de
 gowferbumped.shop
 goxbet4.com
 gozilla.com
+gozz.top
 gp5wvr.top
 gpautoshopimport.com
 gpefheorn.in
@@ -72998,7 +72888,11 @@ grogood.com
 groinfont.com
 grok-wallet.cfd
 grok28g.icu
+grok46k.com
+grok46k.net
+grok46k.org
 grok46k-cointelegraph.com
+grok46k-fxempire.com
 grok82c.icu
 grok82c-cointelegraph.com
 grok82c-cryptoslate.com
@@ -73245,6 +73139,7 @@ guvela.com
 guvmmaolnk.com
 guvqrudwy.com
 guvquqsip.in
+guvqyk.shop
 guytgaznvzzju.website
 guzo.fr
 gvaq70s7he.ru
@@ -73292,6 +73187,7 @@ gymglamoursklep.club
 gymony.club
 gymshark-vip.shop
 gymskelp.club
+gymsprzedaz.club
 gymyxey.pro
 gypowdr.com
 gypscruxeszokor.cyou
@@ -73404,6 +73300,7 @@ halvgruntbreskfold.info
 halvskaalvendrik.info
 halwijvi.in
 hambernuda.com
+hambonejataco.com
 hamburg-office.eu
 hammerdates.com
 hammerhearing.com
@@ -73463,7 +73360,6 @@ haoxuesheng4.top
 haphuongfoundation.net
 hapjs.org
 haplitecauson.cfd
-haplorrhini.com
 happiness-app.net
 happy-data.net
 happy-egg.net
@@ -74258,6 +74154,7 @@ hospitablehall.com
 hospitablehat.com
 host-file-host6.com
 host-host-file8.com
+host-netsup.com
 host2uls.com
 host44p.cfd
 host50p.cfd
@@ -74373,6 +74270,7 @@ hoxujugi.com
 hoya-ad.com
 hp-office.com
 hp-search.com
+hpage.com
 hpanalytics.net
 hpeotxtt.com
 hphp-dy.net
@@ -74388,6 +74286,7 @@ hpyjmp.com
 hpyrdr.com
 hq-office.org
 hqball.com
+hqdhdyehelnks.online
 hqhost.net
 hqmtmnnreim.com
 hqmxgbzzoxsfp.website
@@ -74467,7 +74366,6 @@ htplayground.com
 htqcz.com
 httooafldx.com
 http-kra-32-cc.ru
-httpcn.com
 httpdns.pro
 httpool.com
 httpps-www--roblox.com
@@ -74507,6 +74405,7 @@ hub33880458.pro
 hub33880478.pro
 hub5589211.pro
 hub5589234.pro
+hub5589257.pro
 hub691065.pro
 hub691088.pro
 hub691134.pro
@@ -74628,6 +74527,7 @@ hw-al.com
 hwclouds-dns.com
 hwdoman.com
 hweathernation.co
+hwgeneralins.com
 hwiieod.com
 hwltbkcaknjderbpsklu.com
 hwmonitor-ru.ru
@@ -74706,7 +74606,6 @@ hypersol-rewards.xyz
 hypertrack.com
 hypervisor-resource-grid.wiki
 hypervisorresourcecontroller.wiki
-hyperzod.dev
 hypesol-eligibility.xyz
 hypnosservices.com
 hypnotizebaseballjesus.com
@@ -74811,6 +74710,7 @@ ibmmarketingcloud.com
 iboot.site
 iboqwaleteu.com
 ibph4trk.com
+ibphxpkenil.com
 ibpxl.com
 ibqwdlokvqolv.website
 ibsys.com
@@ -74831,6 +74731,7 @@ iceiy.com
 icemining.ca
 icepromo.info
 icetraff.com
+icewounded.digital
 icfpvxonwq.com
 icg-in.com
 icg-in.info
@@ -75164,6 +75065,7 @@ imho.ru
 imicampaign.io
 imiclk.com
 imidesestreat.com
+imikime.com
 imimobile.com
 imitationbrochure.com
 imitrkn.net
@@ -75227,7 +75129,6 @@ impeccable-official.com
 impeccablewriter.com
 impeditenomoty.com
 imperialpharmaceutical.com
-impervaservices.com
 imperymahmal.com
 impfac.pics
 impiantisg.it
@@ -75315,6 +75216,7 @@ incloak.com
 incloudfl.com
 includemodal.com
 incognia.com
+income-usdc.icu
 income88.com
 incomeabl.live
 incomeupdate.com
@@ -75391,7 +75293,6 @@ indonesiajuara.asia
 indony.xyz
 indosmm.id
 indrapedia.com
-indubitably.xyz
 indulinrayful.com
 industrie-led.de
 industrybrains.com
@@ -75752,7 +75653,6 @@ instruments102.com
 instrumenttactics.com
 insulatech.com
 insurads.com
-int-azure-api.net
 int2float.com
 intactbeatengraceless.com
 intadx.com
@@ -76055,6 +75955,7 @@ iqctrf.shop
 iqfhjvwzpqg.com
 iqm.com
 iqncjxw.com
+iqocdq.top
 iqoczawzdbpai.space
 iqtkt.com
 iqtradesfusion.com
@@ -76289,6 +76190,7 @@ iyfnz.com
 iyfnzgb.com
 iyfsearch.com
 iyfubh.com
+iyiwgo.shop
 iykl.xyz
 iylmylijdicmv.site
 iymedia.me
@@ -76348,6 +76250,7 @@ jacappsdata.com
 jackalbegging.com
 jackaltimer.com
 jackcivilization.com
+jackgregson.com
 jackknifemonuments.com
 jackpot.com
 jackpot-frenzy.fr
@@ -76573,6 +76476,7 @@ jhrwxnyphhelu.site
 jhuavpto.com
 jhvzpcfg.biz
 jia183d6v.com
+jiajuhaven.com
 jialei-live.com
 jiangnan-live.com
 jiankongbao.com
@@ -76687,7 +76591,6 @@ jntrader.com
 jnwcubaojvaqh.site
 jnwucna.top
 jo3onepiece.top
-job-info.ru
 jobamatic.com
 jobgirl24.ru
 jobondeck.com
@@ -76776,6 +76679,7 @@ jour578148.pro
 jour578172.pro
 jour691064.pro
 jour691087.pro
+jour691110.pro
 jour691133.pro
 jour691156.pro
 jour691179.pro
@@ -76847,6 +76751,7 @@ jpod5589244.pro
 jpod578183.pro
 jpod691075.pro
 jpod691098.pro
+jpod691121.pro
 jpod691144.pro
 jpod691167.pro
 jpod691190.pro
@@ -77124,8 +77029,11 @@ jysk-sales.top
 jysk-up.top
 jyskeu.pro
 jyskeu2026.pro
+jyskeusalel.top
 jyskhomedirect.shop
 jyskplhome.shop
+jysks.shop
+jysksale-vipeu.shop
 jyskstore-dk.com
 jywqcjoelqiza.space
 jyzkut.com
@@ -77400,6 +77308,7 @@ kekius-maximus.org
 kekonum.com
 kektds.com
 kelascinta.com
+keld-digitholm.com
 keliones.lt
 kellyservices.us
 kellystreets.info
@@ -77659,6 +77568,7 @@ kkdiqiesklllbew.beer
 kkioxdosrju.in
 kkmacsqsbf.info
 kkqypycm.biz
+kkshops.top
 kkvahqtlvneswf.com
 kkvjdbph.com
 kl-construction.fr
@@ -77900,7 +77810,6 @@ kra22.net
 kra22-at.cc
 kra22at.cc
 kra23c.cc
-kra27c.cc
 kra2kn.cc
 kra3.net
 kra31.cc
@@ -77989,6 +77898,7 @@ kryptoslogic-cve-2021-44228.com
 ks67.com
 ksandaeniyan.rest
 ksehinkitw.hair
+ksfheb.shop
 kshop2.biz
 ksotdcm.cc
 kstore.space
@@ -78055,6 +77965,7 @@ kunibert-2.cfd
 kunibert-3.cfd
 kunibert-4.cfd
 kunmiutsnirtle.cyou
+kunst-fuer-alle.de
 kunvertads.com
 kuolkoola.com
 kuoxgfkgnw.com
@@ -78243,9 +78154,11 @@ lamettacleaned.qpon
 lamp-keeper-tomori.com
 lamp-shade.net
 lampasliegesbogles.cyou
+lampes-et-tubes.info
 lampingvision.shop
 lampionnonda.cfd
 lampshadescreen.com
+lamrt.com
 lamtlipvfhmiac.com
 lance-live.com
 lanceyatigan.com
@@ -78382,6 +78295,7 @@ lazarovs.ga
 lazybrooktrail.com
 lazybumblebee.com
 lazychord.com
+lazylayer.shop
 lazypecan.com
 lazzale.com
 lb-aff.com
@@ -78408,6 +78322,7 @@ lctaidhfetp.com
 lcuaxgcuso.in
 lcwss.com
 lcwxpgrm.com
+ldeueon.shop
 ldgnrtn.com
 ldhdlynsgehkd.site
 ldhy.click
@@ -79491,6 +79406,7 @@ llpgpro.com
 lls-whatsapp.bond
 lls-whatsapp.cyou
 lls-whatsapp.icu
+llsmoke.top
 lltrck.com
 llve-chatinc.com
 llvpn.com
@@ -79633,6 +79549,7 @@ loggisholpe.com
 loggly.net
 logic-buffer-skills.courses
 logicdate.com
+logicklikeinvestplplpl.com
 logicnode.surf
 logicpath.com
 logictv.com
@@ -79765,6 +79682,7 @@ lorengettrix.cfd
 lorentixazavronel.live
 lorex7in.digital
 loris.ai
+lorvesta.shop
 lorymo.online
 loscuentosderodo-youtube.com
 loselrymastsbattels.cyou
@@ -80072,6 +79990,7 @@ luyouxia.net
 luyten-98c.com
 lvditoys.com
 lvh.com
+lvlmfdndn.icu
 lvnskin.com
 lvrixcbdhinwu.website
 lvtl.cn
@@ -80250,7 +80169,6 @@ mafiaenligne.fr
 mafivaz.biz
 mafjcihxtnrrv.com
 mafroad.com
-mag-flex.com
 maga-eth.icu
 magacoin.com
 magacoinfinance.com
@@ -80315,7 +80233,6 @@ maidthereuponblacken.com
 maifile.cn
 mail-cloudflare.com
 mail-delivery-gb117292.com
-mail-exec-office.com
 mail-info-coinbase.com
 mail-live.top
 mail-review-coinbase.com
@@ -80565,6 +80482,7 @@ marketron.com
 markets365.net
 marketshot.com
 marketspiders.com
+marketstra.shop
 marketszalando.asia
 markettrack.com
 marketview.com
@@ -80626,6 +80544,7 @@ mas2trk.com
 masaxe.xyz
 mascaraowners.com
 mascarapersonality.com
+maseoqapksa.site
 masih.life
 masj.ru
 maskglobe.com
@@ -80848,6 +80767,7 @@ mdcmwrxomkirb.space
 mdcqrxw.com
 mddlsa.com
 mddsp.info
+mdeaw.shop
 mdeghflygr.com
 mdfull.com
 mdhv.io
@@ -81017,7 +80937,6 @@ meendocash.com
 meenetiy.com
 meesuthogoa.net
 meet-buddy.com
-meet-calllive.xyz
 meet-up.jp
 meet-usa.com
 meet3monk.com
@@ -81205,6 +81124,7 @@ merchantcentric.com
 merchantnavymemorial.com
 merchanttaxi.com
 merchats.com
+merci-official.shop
 mercuryace.com
 mercurybest.com
 mercyships.de
@@ -81314,6 +81234,7 @@ mexc.fm
 mexc.in
 mexc.us
 mexicoenfotos.com
+mexqivo.shop
 mext-v4.cyou
 meya.ai
 mezcalumlaut.com
@@ -81930,6 +81851,7 @@ modalwa.com
 modaperla.com
 modapharma.com
 modapharma.org
+modario.shop
 modastyl.shop
 moddetail.com
 moddroid.com
@@ -82348,6 +82270,7 @@ mrgrekeroad.com
 mrjaz.com
 mrkaiufqsytov.space
 mrktmtrcs.net
+mrl260002.pro
 mrlscr.com
 mrmnd.com
 mrmserve.com
@@ -82374,7 +82297,6 @@ ms10be.be
 ms11.net
 msa-alliance.cn
 msads.net
-mscds.com
 msdoj.com
 msecn.net
 msedgepackageinfo.com
@@ -82465,6 +82387,7 @@ mudanzasideal.com
 muddyclock.pro
 muddyhonorarymy.com
 mueller-rechnungswesen.de
+muemv8rubl52jn.cfd
 muermoabject.shop
 muffinsum.com
 mugen-online.com
@@ -82622,7 +82545,6 @@ my-backoffice-center.digital
 my-best-web.com
 my-board.org
 my-cool-app-discord.com
-my-cool-discord-moon.com
 my-deco-shop.com
 my-feijingtiyu-live.com
 my-free.website
@@ -82691,7 +82613,6 @@ mybjjblog.com
 mybloglog.com
 myblogshop.top
 mybluehost.me
-mybluehostin.me
 myborder.ru
 mybrowser-search.com
 mybrowserbar.com
@@ -82729,6 +82650,7 @@ mydiarydiet.com
 mydiscussion.net
 mydisneypluspoland.com
 mydoctorok.ru
+myeapj.shop
 myeasetrack.com
 myemailtracking.com
 myetherwallet.net
@@ -82798,6 +82720,7 @@ myminfn-support.com
 mymo-live.ch
 mymom.info
 mymonero.one
+mymovies.fi
 mymoyu.shop
 mympccommunity.com
 mymvrc.org
@@ -83334,8 +83257,6 @@ netbridge.icu
 netcatx.com
 netcinez.ch
 netcoresmartech.com
-netcraze.club
-netcraze.io
 netcrew-analysis.jp
 netdenegzlot24.sbs
 netembed.xyz
@@ -83376,7 +83297,6 @@ netflix-updatepayment.com
 netflixinyourneighborhoodnm.com
 netflixmoi.com
 netflixmovie.top
-netflixnepal.com
 netflixnm.com
 netfusiontechservices.com
 netguard.mobi
@@ -83574,6 +83494,7 @@ newtrendmicro.com
 newup.bid
 newv88.com
 newwaytotrade.com
+newwrestl.xyz
 newyorkaccountingoffice.info
 newyorkcasino.com
 newyorktaxoffice.info
@@ -83756,7 +83677,6 @@ nimblebird.co
 nimbleboilerdived.com
 nimbleplot.com
 nimbleswan.io
-nimboxcrm.cloud
 nimbusgrovelodge.com
 nimitznook.xyz
 nimternet.com
@@ -83876,7 +83796,6 @@ nniorecc.com
 nnmtools.com
 nnn.ru
 nnowa.com
-nnzrnbomfjsci.site
 no-kyc-swap.ru
 no-plans.com
 no-reply-coinbase.help
@@ -84151,6 +84070,7 @@ nrdxchrydjsdb.com
 nrelate.com
 nrgwkarwmgnih.com
 nrich.ai
+nrlclothing.shop
 nrovmibm.com
 nrs55.com
 nrs6ffl9w.com
@@ -84404,6 +84324,7 @@ oblg691172.pro
 oblg691195.pro
 oblg826140.pro
 oblg826164.pro
+oblg826188.pro
 oblguhosmfif.com
 obliquecensortend.com
 oblong-passenger.pro
@@ -84454,7 +84375,6 @@ oceanicdreamcove.com
 oceanmama.ca
 oceanofapks.com
 oceanofgames.com
-oceans-news.com
 oceansofgamess.com
 oceanstrai.cyou
 oceantogames.com
@@ -84685,7 +84605,6 @@ office-scd.net
 office-setup-ms.com
 office-sicpa.com
 office-spa.ru
-office-surplace.com
 office-sync.homes
 office-taskfather.com
 office-titan.net
@@ -84700,7 +84619,6 @@ office-windows.com
 office-work.eu
 office2000.cn
 office2026.fun
-office365.one
 office365-portal.fr
 office365-prosenectute.ch
 office365-rnicrosoft.com
@@ -84994,6 +84912,7 @@ oibveptkzqyhb.com
 oicp.net
 oifeqfiurelhe.site
 oifod.com
+oihgfr.shop
 oijlmxl.ru
 oil-profits.com
 oilembargo40.org
@@ -85073,7 +84992,10 @@ okuracookware.de
 okwin77.com
 okx-listings.com
 okx-web.app
+okxairdrop.top
 okxbet.com
+okxcrypto.top
+okxfinance.top
 okxlist.com
 okxpoll.net
 okzqhquaktxmj.website
@@ -85231,7 +85153,6 @@ oncloudshoes.de
 onclusive.com
 oncustomer.asia
 ondabackoffice.app
-ondigitalocean.com
 ondrizbpu.com
 one.bio
 one.link
@@ -85440,6 +85361,7 @@ oocyljpvx.com
 oodruhoufouzair.com
 oodxgdzqljgfy.site
 ooffice.xyz
+oofsnl.shop
 oogala.com
 oogkvtvfjovt.com
 oogneenu.net
@@ -85491,6 +85413,7 @@ ope33880422.pro
 ope33880442.pro
 ope33880462.pro
 ope33880482.pro
+ope5589215.pro
 ope5589238.pro
 ope5589261.pro
 ope691046.pro
@@ -85562,7 +85485,6 @@ operationcompany-innovation.com
 operativebreeder.com
 operion-bilsalem.com
 opershop.ru
-operwallet.net
 opfourpro.org
 opgg.beer
 ophelarqint.info
@@ -85707,6 +85629,7 @@ order-9517451.help
 orderbuycheap.com
 ordergunmagazinesonline.com
 orderlycash.com
+ordernzt.net
 orderofchaeronea.org
 orderpr.top
 ordersub-versive.wiki
@@ -86126,6 +86049,7 @@ pabovmxizagg.com
 pacificpoker.com
 packagetrackingtab.com
 packerta.com
+packet-lattice.digital
 packet-relay-engine.courses
 packetdistributionmesh.wiki
 packetforensics.com
@@ -86167,7 +86091,6 @@ pafiwoylabarat.org
 pafpartners.com
 paftracking.com
 pafutos.com
-pagamentosimplesnacional.business
 paganvente.cyou
 pagasmwci.com
 page.gd
@@ -86269,6 +86192,7 @@ pamelageller.com
 pamparentivon.live
 pamphiltre.com
 pan-kou-live.com
+pancakeswap.tel
 pancakeswapdefi.com
 panda.network
 pandanetwork.club
@@ -86354,6 +86278,7 @@ parimatch-australia-live.com
 parine.pl
 parishotel.lat
 parispicturesnewtab.com
+parisrockedit.shop
 parissommite.qpon
 parisyoungerfashion.com
 parkeringkkz.one
@@ -86617,6 +86542,7 @@ peacocks-mail.com
 peacockvowel.com
 peacyx.com
 peadeplete.com
+peakcorenet.com
 peakcreator.com
 peakseven.com
 peaktrck.uno
@@ -86674,6 +86600,7 @@ pelis-123.org
 pelitesestrich.com
 pellet4future.com
 pelmoriantaa.pro
+pelonastira.xyz
 pelsotin.buzz
 pelup.digital
 pelvarinaa.info
@@ -86924,6 +86851,7 @@ philacct.com
 philippinesuntouched.online
 philosophicalwarndrugged.com
 philosophydill.com
+phimsexhaybnn.com
 phinvesttoday.online
 phippstrailer.com
 phiscientificholdings.com
@@ -87007,8 +86935,10 @@ piccy.info
 picdixwap.com
 picel48.com
 pichinchacreditos.com
+pickad.shop
 pickbon.us
 pickmeneluted.qpon
+picksdeal.shop
 pickzen.com
 piclick.kr
 piclick.me
@@ -87070,7 +87000,6 @@ pingwincasino.com
 pinion.gg
 pinkkola.com
 pinklabel.com
-pinksale-finance.info
 pinktoesandpowertools.com
 pinnacle888-bk-live.ru
 pinocledicers.shop
@@ -87099,6 +87028,7 @@ pipesandstogiesmobilecigarlounge.com
 pipet.me
 pipidroods.com
 pipipub.com
+pippedectypal.cfd
 pippio.com
 pippity.com
 pipspicousmatzas.cyou
@@ -87188,6 +87118,7 @@ pizzaseo.com
 pizzeriagradi.es
 pizzlessclimb.top
 pj9453.com
+pjcanalempresa.digital
 pjfwciszm.com
 pjiptn.com
 pjmlxcninwgezc.com
@@ -87304,6 +87235,7 @@ platform-partner.com
 platform161.com
 platformcoop.net
 platformforcreateinterest.com
+platformi.digital
 platformsrat.com
 plati-num.com
 platicazze.cyou
@@ -87311,6 +87243,7 @@ platincasino.com
 platincoin.com
 platinumpla2023.com
 platinumplay.eu
+platxe.shop
 platzimgarten.com
 plausible.fun
 plausible.io
@@ -87406,6 +87339,7 @@ playstretch.host
 playsweetsweeps.com
 playtem.com
 playtogethervn.com
+playturquoise.com
 playukinternet.com
 playvideodirect.com
 playwire.com
@@ -87476,6 +87410,7 @@ plista.com
 plkeunoio.com
 plkiuioi.com
 pllplplplpl443plplpt5454lplplpldffd.site
+pllplplplplplplpl654plplplplpldffd.site
 pllplplplplplplplplplpldffd.site
 pllplplplplplplplplplplplplplplplpldffd.site
 pllplplplplplplplplplplplplplplplplplplpldffd.site
@@ -87486,6 +87421,7 @@ plnotin.xyz
 plnovyraxis.com
 ploferta-google-pixel-10-pro-512gb.lat
 ploitedcollegegirls.com
+plokim.com
 plondervikst.pro
 plopsquent.help
 plorevantis.info
@@ -88067,6 +88003,7 @@ preflect.com
 prehook.com
 premacanada.ca
 premclubs.com
+premiata.rest
 premierdeals.online
 premiermylodei.com
 premieropinion.com
@@ -88178,9 +88115,11 @@ primehealthplus.org
 primehouse.store
 primeinfospot.com
 primeix.net
+primemotive.shop
 primemovies.xyz
 primeoffice.xyz
 primeofficehouse.pro
+primeovix.shop
 primeraoffice.info
 primerollmedia.com
 primesung.top
@@ -88477,6 +88416,7 @@ propertyagent.xyz
 propertyofnews.com
 proposal-flare.app
 proposal-flare.foundation
+proposal-fx.xyz
 proposal-hachiko.com
 proposal-kit.com
 proposal-pendle.app
@@ -88487,6 +88427,7 @@ proposalforge.in
 proposalkeptstaff.com
 proposals-flare.foundation
 proposals-kledai.com
+proposals-raac.xyz
 proposals-unipeg.app
 proposaltemplatehub.com
 propose-soneium.org
@@ -89388,7 +89329,6 @@ qtogakpeeqkeu.com
 qtotkxbumapye.website
 qtrsearch.com
 qtsy-live.com
-qtufjslitdyzf.space
 qtumdestopinstall.xyz
 qtunfmawyv.com
 qtvbpiamyq.com
@@ -89499,6 +89439,7 @@ quickdomainfwd.com
 quickdriverupdater.com
 quickedbamban.cfd
 quickerapparently.com
+quickflare.shop
 quickflirt.com
 quickie-sex.com
 quickkoala.io
@@ -89512,6 +89453,7 @@ quickresolution.net
 quicksearchtool.com
 quickspeedtest.net
 quicktidy.xyz
+quickvistaa.shop
 quickwebsign.com
 quiet-beggar.site
 quietknowledge.com
@@ -89739,6 +89681,7 @@ rakanworks.com
 rakelyashrafi.cfd
 raketech.com
 rakuten--card.co
+rakuten-card6-jp.com
 rakutenadvertising.com
 rakutenadvertising.io
 rakutenmarketing.com
@@ -89786,6 +89729,7 @@ randyetitanic.com
 ranfenghd.com
 rangergustav.com
 rankersparadise.com
+rankflowpro.site
 ranking-dexscreener.net
 ranking-hits.de
 rankings-analytics.com
@@ -90345,6 +90289,7 @@ rellsagesamerence.com
 relmaxtop.com
 reluctantlygracefulcabinet.com
 reluctswornil.shop
+relvarita.world
 remaininghopefully.com
 remainmother.com
 remainthieve.com
@@ -90393,10 +90338,10 @@ rentracks.jp
 rentracksw.com
 renttron.com
 reo.dev
+reoahghrlfuy.com
 reoffice.xyz
 reonews.pl
 reown.ltd
-repaircenter-eg.com
 repairexcelfile.com
 repairmsexcel.com
 repairvisionsturgeon.com
@@ -90671,7 +90616,6 @@ rezale.ru
 rezonence.com
 rezowin156.pro
 rezync.com
-rf.gd
 rfajdkrqvqjam.site
 rfapkfkftokev.website
 rfb.ac
@@ -90904,9 +90848,12 @@ rjvs5589212.pro
 rjvs5589235.pro
 rjvs5589258.pro
 rjvs691043.pro
+rjvs691066.pro
 rjvs691089.pro
+rjvs691112.pro
 rjvs691135.pro
 rjvs691158.pro
+rjvs691181.pro
 rjvs826150.pro
 rjvs826174.pro
 rjyqgtlazaijq.site
@@ -91347,6 +91294,7 @@ rsifnbjs.com
 rsimadinah.com
 rskcwqsud.com
 rsogclad.com
+rson.top
 rspectr.com
 rsppartners.com
 rsptrack.com
@@ -91530,11 +91478,11 @@ rutcomposureopt.com
 ruthfultruce.shop
 ruthlessdegree.com
 rutor-24.at
-rutorbesth5lhmj47qz4fi5i4x5zvh4fizruog6iw2l3q223jmnawvid.net
 rutorforum.at
 rutorforum24.to
 rutrk.org
 ruwya.com
+ruxapelmori.info
 ruxavild-es.live
 rv400.com
 rvahgdrvko.com
@@ -91698,6 +91646,7 @@ safevisit.online
 saffroninterior.com
 safir.com
 safmuzwte.in
+saga.so
 sagame168th.com
 sagara-office.com
 sagcoreedge.com
@@ -91956,7 +91905,9 @@ scaloniyonner.com
 scalpingstillephemer-natorel.wiki
 scalyreward.com
 scamminder.com
+scan.page
 scan6show.com
+scanflowbase.site
 scanguard.com
 scanlonchiro.com
 scannary.com
@@ -92145,7 +92096,6 @@ se07.biz
 se19.biz
 sea-wheel.icu
 sealedawaygaming.com
-sealights.co
 sealmetrics.com
 sealoung.com
 seamingwaspishpimento.qpon
@@ -92252,7 +92202,6 @@ secprf.com
 secprf2.com
 secre.jp
 secretarypleasure.xyz
-secretcdn.net
 secretcryptos.com
 secretfans.bz
 secretlyunjust.com
@@ -92574,14 +92523,17 @@ serv5589205.pro
 serv5589228.pro
 serv5589251.pro
 serv573862.pro
+serv573910.pro
 serv578166.pro
 serv691059.pro
 serv691082.pro
 serv691105.pro
 serv691128.pro
+serv691151.pro
 serv691174.pro
 serv691197.pro
 serv826142.pro
+serv826166.pro
 serv826190.pro
 serv90.com
 serv9348753.pro
@@ -92605,6 +92557,7 @@ servera.info
 serverally.com
 serverbid.com
 serverless-mesh-core.wiki
+serverlesscontrolplane.courses
 serverlicenses.com
 servetag.com
 serveteck.com
@@ -92951,6 +92904,7 @@ shocking-honey.com
 shockingship.com
 shoebuy.com
 shoelace.com
+shoeparadise.shop
 shoes-ccceu.shop
 shoescentric.com
 shoesmegastore.com
@@ -92976,6 +92930,7 @@ shopcrandalloffice.shop
 shopculi9999.com
 shopdaraz.com
 shopdh5.com
+shopdrift.shop
 shopeasy.by
 shopeepe.com
 shopeeqq.top
@@ -92993,6 +92948,7 @@ shopluckyduckclub.com
 shoplytics.com
 shoplytienda.store
 shopmaxusersatzteile.shop
+shopmirth.shop
 shopmyshelf.us
 shopnavali.com
 shopnetic.com
@@ -93010,12 +92966,14 @@ shoprune.shop
 shopsetra.com
 shopskychefs.com
 shopsmysteryeagerly.com
+shopspire.shop
 shopt1.com
 shoptamsyn.com
 shoptee.de
 shoptelligence.com
 shopthanthoai.com
 shoptopia.com
+shoptract.shop
 shoptrafficentertainment.com
 shoptruongstar.com
 shopuglymoon.com
@@ -93060,7 +93018,6 @@ shownewsdaily.com
 showsclicka.com
 showtalk.jp
 showyouoffjy.shop
-shozu.com
 shpee.eco
 shpg.org
 shpwbsrw.biz
@@ -93092,6 +93049,7 @@ shurufa-sogou.com
 shusho.top
 shutdown.st
 shutinggatsby.qpon
+shuvocomputer.org
 shuzilm.cn
 shweeb.com
 shwfxrbsrifhx.online
@@ -93136,6 +93094,7 @@ sidekickopen84.com
 sidekickopen90.com
 sidelinesapp.com
 sidelinetotal.com
+sider.ai
 sideshift.app
 sidesteamroll.com
 sidewalkamazingly.com
@@ -93152,7 +93111,6 @@ sift.co
 sifufbads.com
 sighterbuffalo.com
 sigmaproi.com
-sigmasoft.ro
 sigmob.cn
 sigmob.com
 sign-doc.com
@@ -93197,6 +93155,7 @@ silnykapitrend.live
 silnymuz.com
 silorivane.shop
 silosobeachresort.com
+silvaki.shop
 silvarena.top
 silverbearcafe.com
 silveregg.net
@@ -93446,8 +93405,11 @@ skipperturncap.qpon
 skipperx.net
 skisofa.com
 sklatepretil.com
+sklepio.shop
+sklepix.shop
 sklepora.shop
 sklepoutlet.shop
+skleptio.shop
 sklstech.com
 skocz.pl
 skodadeal.com
@@ -93702,6 +93664,7 @@ smarterpassword.com
 smartersystems.net
 smartertrack.com
 smartforms.dev
+smarthard.click
 smarthint.co
 smartholder.app
 smarthomeace.com
@@ -93772,6 +93735,7 @@ smi24.kz
 smifzyuottaxc.website
 smilebox.com
 smilecdn.co
+smilespearfish.com
 smilewanted.com
 smileycentral.com
 smiling.video
@@ -93908,6 +93872,7 @@ snuggrow.com
 snugwednesday.com
 snv3gy4trk.com
 snyyowxbmnyqv.website
+so-carros.com
 so-gr3at3.com
 soakersunseely.com
 soalolxdhaha.zip
@@ -94029,6 +93994,7 @@ solar1erp.com
 solara-tech-groupe.com
 solaranlage-lausitz.de
 solaranlage-ohne-anzahlung.com
+solaranlagen-forum.com
 solarc.click
 solarcdn.me
 solarcyclonesky.com
@@ -94078,7 +94044,6 @@ solsticea.net
 solta.io
 solteriaq24.top
 solty.biz
-solubleleonine.com
 solumaticsac.com
 solution-apple.com
 solutions-covid19.com
@@ -94191,7 +94156,6 @@ soundstocking.com
 sourcebridgecelestialcomputing.net
 sourcecodeapp.com
 sourceknowledge.com
-sourcemanager.dev
 sourcetobin.com
 sourelevationregion.com
 sourserve.com
@@ -94252,9 +94216,11 @@ spankwire.com
 spanner.store
 spanreiubvncodis.com
 spanuoirnrofv.com
+spanwavenet.com
 spanwosdajwpjedk.com
 spapi.io
 spar-dienst.de
+sparco-eu.shop
 sparkasse.cash
 sparkasse.surf
 sparkasse-de.cfd
@@ -94431,6 +94397,7 @@ splicazili.cyou
 splicky.com
 splitbee.io
 splitscavallycolza.qpon
+splitwavenet.com
 splitwise.xyz
 splkmobile.com
 splunkcloud.com
@@ -94475,6 +94442,7 @@ sport-ml-live.com
 sport-od-live.com
 sport-xk-live.com
 sported.xyz
+sportero.shop
 sporticx.com
 sportingamazingconsequence.com
 sportivaa.shop
@@ -94514,6 +94482,7 @@ spotted-alternative.com
 spotted-speech.com
 spottednoise.com
 spottlelogjams.qpon
+spotwavepro.site
 spotx.tv
 spotxcdn.com
 spotxchange.com
@@ -94557,7 +94526,6 @@ spuppers.net
 spurdoeth.com
 spwwuswymuhtz.online
 spxtoken.xyz
-spy-instagram.sbs
 spyera.com
 spygenix.xyz
 spyhunter.com
@@ -94679,6 +94647,7 @@ ssoapm.com
 ssoextension.com
 ssp-bcc-ads.com
 sspzvqhsqywbq.site
+ssqcqaavrncxt.online
 ssqqdqdpdo.com
 sssexxx.net
 ssssdollldq.com
@@ -94822,6 +94791,7 @@ starter-generator-remont.online
 startface.net
 startingdeal.shop
 startingpromo.com
+startingsale.shop
 startnewlife.ru
 startperfectsolutions.com
 startree.ai
@@ -94996,6 +94966,7 @@ stenumiram.cyou
 steones.com
 step.dk
 stepcattle.com
+stepgaugebase.site
 stepminorityinept.com
 stepnation.com
 stepnseat.com
@@ -95139,7 +95110,6 @@ strategy.it
 strategy-25.com
 strategyanalytics.com
 stratos.blue
-stratoserver.net
 strauss-eu.shop
 strauss-eu77-vip-01.shop
 strauss1-euonline.shop
@@ -95284,8 +95254,11 @@ stvaults.net
 styleaffinity.com
 stylecyberrose.com
 styleja.com
+stylemania.shop
+stylemotion.shop
 stylerose.de
 styletsbarling.com
+styleworks.shop
 stylexlab.ru
 styliquestore.shop
 stylish-knife.com
@@ -95317,6 +95290,7 @@ subofficesworse.surf
 subornpohnachronal.qpon
 subscrib.sbs
 subscribedefinitionhosiery.com
+subscribepage.io
 subscribers.com
 subscription-renewal-apps.com
 subscriptioneccentric.com
@@ -95489,6 +95463,7 @@ superladygirl.live
 superliga168.com
 supermanapp.com
 supermario-game.com
+supermarketshopping.store
 superofficebooking.pro
 superonclick.com
 superonlineshopromania.com
@@ -95589,6 +95564,7 @@ surfy.space
 surgicalconceivedrighteous.com
 surgicaldrapecn.com
 surl.gd
+surl.lu
 surli.cc
 surmounttemperbooklet.com
 suroot.com
@@ -95668,6 +95644,7 @@ swatch.vip
 swatledgesling.com
 swaven.com
 swcs.jp
+swdcpr.shop
 swdqortugmmrj.online
 sweatpantsandcoffee.com
 sweaty-development.com
@@ -96106,6 +96083,7 @@ tauvineebisigi.net
 tavaobnftgph.com
 tavern-ledger.com
 tavkimo.shop
+tavlixo.shop
 tavlori.shop
 tavoos.net
 tavrionelis365.com
@@ -96403,6 +96381,7 @@ tenmax.io
 tennis-bet.ru
 tennisi.kz
 tennisnewlins.com
+tenorshare.ai
 tenovaz.com
 tenovo.digital
 tensingequateddories.qpon
@@ -96527,7 +96506,6 @@ thabet.black
 thabet.co
 thabet.gg
 thaffeam.in
-thagrals.net
 thagrechulo.com
 thaibetsite.com
 thaidham.com
@@ -96711,6 +96689,7 @@ themoneytizer.com
 themoneytizer.fr
 thenailbar.co
 thenetwork18.com
+thenewbuckle.shop
 thenewspaperoffice.shop
 thenewspaperoffice.xyz
 thenoble.xyz
@@ -96909,6 +96888,7 @@ thunderfiles.co
 thunderstresser.me
 thxkxqxdmxlwqdc.com
 thyglypsuphy.com
+thynaqesbar.pro
 tiacali.it
 tiandi.com
 tianjimedia.com
@@ -96949,7 +96929,6 @@ tifsuc.com
 tigar77.com
 tigear.com
 tigeoip.com
-tiger1234.com
 tigerbrluck.com
 tigertext.com
 tigfvdr.com
@@ -97101,6 +97080,7 @@ tk0x1.com
 tkajdudv.com
 tkcejsbtq.com
 tkdesign-office.com
+tkdjmibffvzst.online
 tkexutqf.in
 tkiodsor.in
 tkpopp.com
@@ -97879,6 +97859,7 @@ tremorvideo.com
 trencraft.com
 trend-tech.net
 trendavio.shop
+trendconcept.shop
 trendemon.com
 trendfrontline.online
 trendii.com
@@ -98062,6 +98043,7 @@ trojanonsolana.com
 troll-allocation.com
 troll-coin.app
 trollcoins.com
+trolleyjackpotbummer.com
 trollmog.fun
 trollopkubong.shop
 trolltoken.org
@@ -98069,6 +98051,15 @@ tron-link.help
 tronads.io
 tronbank.finance
 tronbank.pro
+tronlink.cool
+tronlink.group
+tronlink.tech
+tronlink-app.org
+tronlink108.top
+tronlinka.com
+tronlinkextensions.org
+tronlinkg.com
+tronlinki.com
 tronmarket.site
 tronmax.io
 tronnrg.com
@@ -98223,7 +98214,10 @@ trustwalletapp.us
 trustwalletjbv.com
 trustwalletjzu.com
 trustwalletmail.net
+trustwalletmeta.help
+trustwalletmeta.online
 trustwalletsupport.app
+trustwalletsupport.help
 trustwalletuec.com
 trustwalletv1.com
 trustwalletzwh.com
@@ -98827,8 +98821,6 @@ ulogin.ru
 ulokinat.com
 ulsgwwmkafdqa.website
 ulsterscarices.com
-ultaserver.net
-ultasrv.net
 ulteriorreporting.com
 ultimatecounter.com
 ultimatefreehost.in
@@ -99011,7 +99003,6 @@ uniicreative.com
 unijoin.me
 unikattoshop.de
 unikcandle-live.com
-unilabs.finance
 unimhk.com
 uninstallmaster.com
 union-anhanger.com
@@ -99263,6 +99254,7 @@ upxtgbgyfecfs.space
 upymgrtnacpco.site
 upzynswdjflah.website
 uqaewapcx.com
+uqc8ffgbh5q4ow5wiet4f2yio19x9f7okkzw.cfd
 uqd.io
 uqqxnqrykhk.com
 uqtslulxiarcu.website
@@ -99374,7 +99366,6 @@ usacyclestorepro.com
 usafis.org
 usafreespace.com
 usagc.org
-usainoad.net
 usami-office.com
 usaonlineclassifieds.com
 usasmmit.com
@@ -99475,6 +99466,7 @@ usnd.to
 usoasopersbefore.org
 usocial.pro
 usonar.jp
+usons.top
 usor.tech
 usose.com
 uspe4j25v6.com
@@ -99509,6 +99501,7 @@ utbrmczo.ru
 uthdrjcqnajx.com
 utherverse.com
 utility-coinbase.com
+utilizarea.com
 utiq-aws.net
 utiqcontent.com
 utjrepasermade.site
@@ -99531,7 +99524,6 @@ uufbfybqphccv.online
 uuidksinc.net
 uulucky.com
 uumkcycj.com
-uunat.com
 uuqzhzfaud5.com
 uusee.com
 uutiyo4ty2189g43.lat
@@ -99579,6 +99571,7 @@ uz-apple.click
 uzapgolabdiyl.site
 uzerly.net
 uzgcdprqhjbak.space
+uzpdji.shop
 uzrating.com
 uzzf.com
 v.center
@@ -99595,8 +99588,6 @@ v2cigs.com
 v2z.ru
 v30b.xyz
 v31o.xyz
-v6.army
-v6.rocks
 v88ag.com
 v88rich.com
 v8trck.com
@@ -99696,6 +99687,7 @@ vanilla-japan.love
 vanpowers.bike
 vanqacxuzqpy.com
 vansfrance.fr
+vanta.st
 vantage-tw.top
 vantageanalytics.com
 vanwardjincan.cfd
@@ -99713,6 +99705,7 @@ varentolixa.top
 varesepotreji.com
 vareza.net
 variational-omniprotocol.xyz
+varietyproduction.com
 varietytooartmolge.cyou
 variousformatscontent.com
 variousjoyfully.com
@@ -99796,6 +99789,7 @@ vdepvqqfufsvg.online
 vdeukmyunderthfe.org
 vdeztemladdeb.online
 vdgxabnuwfsrn.site
+vdhsab.shop
 vdhvldghccavh.site
 vdkonlne.mom
 vdna-assets.com
@@ -99889,6 +99883,7 @@ vemma.com
 vemtoutcheeg.com
 venaescag.shop
 venatusmedia.com
+venauniformystyle.shop
 vencord.app
 vendemore.com
 vendimob.pl
@@ -100308,6 +100303,7 @@ vilerebuffcontact.com
 viliacojugale.shop
 vilitram.com
 villagetraitgarret.com
+villainousmeasurement.pro
 villause.com
 villeallevard.fr
 villeannemasse.fr
@@ -100385,6 +100381,7 @@ vipavkacrfujf.online
 vipdeit.com
 vipdine.space
 vipeakchina.com
+vipeu-jysksale.shop
 vipgamesgen.com
 vipgcafayms.com
 viphotdream.com
@@ -100498,6 +100495,7 @@ vistory.com
 visualapproach.io
 visualdna.com
 visually-io.com
+visualracks.com
 visualrevenue.com
 visualstudiofactory.com
 visualvisitor.com
@@ -100666,6 +100664,7 @@ volsnmapks.site
 volt-ledger.com
 voltastores.com
 voltaxam.com
+voltcorenet.site
 voltedage.com
 voludex.net
 volument.com
@@ -100699,11 +100698,13 @@ voraciousinfosag.com
 vorfrede.com
 vormax.link
 vornexalia24.top
+vornexo.shop
 vorteilsguru.de
 vortello.shop
 vortex-protocol.live
 vortexials.com
 vortexlogicgate.digital
+vorthanelik.pro
 voruftuiov.com
 vorvulev.info
 vos-avantagesplus.com
@@ -100955,7 +100956,6 @@ vwahacrubri.com
 vwcmeebcmvgbq.website
 vwewnxqaxkhkmvy.com
 vwinonline.com
-vwn.cloud
 vwo.com
 vwoamqat.com
 vwoocnpq.com
@@ -101041,6 +101041,7 @@ wackysketch.com
 wacsstance.cyou
 wacuannq.com
 wadkonhl.com
+wadtsh.shop
 waecux.com
 waescyne.com
 waeshana.com
@@ -101401,6 +101402,7 @@ web-telegram.ru
 web0.eu
 web1000.com
 web2media.sk
+web3-bitgetwallet.net
 web3-protocol.lat
 web3-whatsapp.com
 web3ads.net
@@ -101456,10 +101458,8 @@ webdiana.ru
 webdmonitor.io
 webeo.com
 weberlo.com
-webexcce.com
 webexcrm.ru
 webexecution.xyz
-webexp-ipqa1.com
 webexpert.info
 webexperti.com
 webexplorer.co
@@ -101599,6 +101599,7 @@ weedishyeomen.com
 weedowbewhore.shop
 weegraphooph.net
 weekdanys.com
+weekendwardrobe.shop
 weeklyworldnews.com
 weepypapreg.com
 weewoogloogru.net
@@ -102173,7 +102174,6 @@ wofazoy.com
 woffice.xyz
 wogaa.sg
 wogiroi.com
-wohnungsaufloesung7berlin.de
 wojass-pl.shop
 wojxoeizixndb.space
 wokechubb.com
@@ -102249,8 +102249,6 @@ work.gd
 work-place.ch
 workcahoots.com
 workcon.live
-workdaysuv.com
-workdaysuvcareers.com
 workdeadlinededicate.com
 workerconnect.biz
 workfewerhours.com
@@ -102260,7 +102258,6 @@ workinlqxflow.digital
 workius.ru
 workoffice.xyz
 workoperation.com
-workorders.com
 workplaceanticipatedtribe.com
 workplacecakefaculty.com
 workshopcommuniten.com
@@ -102420,7 +102417,6 @@ wrongscreen.com
 wrouitslhznhn.online
 wrrqigpzmekcd.space
 wrsndaaf.com
-wrstudio.cloud
 wrth.info
 wrufer.com
 wrvgdifeilesr.com
@@ -102517,6 +102513,7 @@ wwarrifmila.in
 wwcdgvwvl.com
 wwclickserv.club
 wwebmail-orange.fr
+wwfictxcxfioz.website
 wwmifsmxx.com
 wwmode.de
 wwnlbsuvpt.com
@@ -102525,6 +102522,7 @@ wwopenclick.space
 wwopenclick.vip
 wwroblox.site
 wwsercher.biz
+wwstream.click
 wwtfmeonvlazu.online
 wwv-app-uniewap.pro
 www-activate-mcafee.com
@@ -102549,6 +102547,7 @@ wwwfullopecl.lol
 wwwhost.biz
 wwwmorpho.org
 wwwomen.ru
+wwwstreeam.click
 wwwyoutube.com
 wwxogjrjpdehh.com
 wxadserve.xyz
@@ -102706,6 +102705,7 @@ xaofsaemoqkoc.com
 xapads.com
 xaplonmsgwn.com
 xaprio.net
+xarnuko.shop
 xarvilo.com
 xasdasdasd.top
 xatatsvkak.in
@@ -102786,6 +102786,7 @@ xeno-executor.com
 xenonusdt.com
 xeqe.org
 xertopacluwerty.com
+xertra.info
 xexagleke.com
 xexe.club
 xf-apple.com
@@ -103031,7 +103032,6 @@ xnrinp.icu
 xnwyqmaqwladi.com
 xnxvnn.biz
 xnxx.tf
-xo.je
 xoalt.com
 xoanonhemljuchart.qpon
 xoblox.com
@@ -103189,6 +103189,7 @@ xxacpreh.ru
 xxbritslive.com
 xxdlfjdtazsju.website
 xxlargepop.com
+xxnhat.com
 xxpwdsggxpyrw.site
 xxrhbucdwagpr.website
 xxsmad4.com
@@ -103227,6 +103228,7 @@ xyclothing.com
 xyfvrrzuxvddr.website
 xyijw.com
 xylinidbobbin.qpon
+xymoravestu.xyz
 xymsk.com
 xyowqtdc.com
 xyrgy.biz
@@ -103804,7 +103806,6 @@ youthlyfowl.cyou
 youthop.com
 youtibe.com
 youtradefx.com
-youtube.latino
 youtube-chapter-generator.com
 youtube-clip.com
 youtube-cookiesave.com
@@ -104046,6 +104047,7 @@ zajukrib.net
 zakawkazlot.cfd
 zakazbuketov.kz
 zaktitafvtp.com
+zakupio.shop
 zakupora.shop
 zakupowo.shop
 zakvavgzu.in
@@ -104162,11 +104164,8 @@ zazhipu.com
 zazmbb.icu
 zazoowin.com
 zazporn.com
-zb-bc-whatsapp.com
 zb-bing.com
 zb-google.com
-zb-hn-whatsapp.com
-zb-jc-whatsapp.com
 zbahisz.com
 zbalzusr.net
 zbevofrechbto.space
@@ -104224,7 +104223,6 @@ zeal.app
 zealousimage.com
 zebestof.com
 zebg.top
-zebyinbox.com
 zeddit.com
 zedelivery-expres.shop
 zedeliveryentregas24.shop

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 May 2026 09:30 UTC
-# Version: 2026.0515.0930.58
+# Last modified: 15 May 2026 16:56 UTC
+# Version: 2026.0515.1656.45
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12774
+# Number of entries: 12775
 #
 local=/hichemtigsetorgy.0fees.net/
 local=/tracker.0x7c0.com/
@@ -1371,7 +1371,6 @@ local=/tracker.zum.bi/
 local=/003396815.xyz/
 local=/004430.xyz/
 local=/0123456789nonexistent.com/
-local=/0123movie.net/
 local=/0123movie.onl/
 local=/0123movie.online/
 local=/0123movie.stream/
@@ -10173,6 +10172,8 @@ local=/streaming-community.art/
 local=/streaming-community.asia/
 local=/streaming-community.courses/
 local=/streaming-community.fit/
+local=/streaming-community.garden/
+local=/streaming-community.guru/
 local=/streaming-community.kaufen/
 local=/streaming-community.sarl/
 local=/streaming-community.study/

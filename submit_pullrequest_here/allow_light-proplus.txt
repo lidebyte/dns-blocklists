@@ -3,6 +3,8 @@
 # https://github.com/hagezi/dns-blocklists/issues/10143
 gt.tc
 ct.ws
+rf.gd
+xo.je
 
 # https://github.com/hagezi/dns-blocklists/issues/8430#issuecomment-4386468382
 mqtt-mini.facebook.com

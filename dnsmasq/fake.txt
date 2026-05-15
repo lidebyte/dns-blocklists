@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 May 2026 08:26 UTC
-# Version: 2026.0515.0826.10
+# Last modified: 15 May 2026 17:14 UTC
+# Version: 2026.0515.1714.18
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 15538
+# Number of entries: 15535
 #
 local=/eoutlet.2023shoponline.com/
 local=/trader.212group.de/
@@ -645,7 +645,6 @@ local=/01broker.com/
 local=/01crypto.com/
 local=/0el-preiswert-kaufen.de/
 local=/1-rx-shop.com/
-local=/101apotheek.com/
 local=/11trikots.com/
 local=/123kamagra.cz/
 local=/123kamagra.net/
@@ -665,7 +664,6 @@ local=/1rx-pharmacy.com/
 local=/1ticketmarket.com/
 local=/1wins-app-india-online.com/
 local=/200pills.com/
-local=/2026discounttoolstore.shop/
 local=/222-t.com/
 local=/24-modellstore.com/
 local=/24-pharm.com/
@@ -10826,7 +10824,6 @@ local=/oxtrades.com/
 local=/oyemas.com/
 local=/oylerhof.de/
 local=/oyo-store.com/
-local=/ozempic-koupit247.com/
 local=/ozempic-shop.com/
 local=/ozempicbezreceptu.com/
 local=/ozempickaufenn.com/

@@ -1807,7 +1807,35 @@
       }
     },
     {
+      "PK": "sponsored-ads-eu.amazon-adsystem.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "sponsored-ads-eu.amazon.com.tr",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sponsored-ads-eu.amazon.de",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sponsored-ads-eu.amazon.nl",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sponsored-ads-eu.amazon.pl",
       "action": {
         "do": 0,
         "status": 1

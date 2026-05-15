@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778837820 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778864100 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 May 2026 09:37 UTC
-; Version: 2026.0515.0937.59
+; Last modified: 15 May 2026 16:55 UTC
+; Version: 2026.0515.1655.36
 ; Syntax: RPZ
-; Number of entries: 36838
+; Number of entries: 36832
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -3831,8 +3831,6 @@ httpdns.music.163.com CNAME .
 *.23.106.141.137.16clouds.com CNAME .
 16yd.com CNAME .
 *.16yd.com CNAME .
-1aclash.com CNAME .
-*.1aclash.com CNAME .
 1clickvpn.com CNAME .
 *.1clickvpn.com CNAME .
 donutdevcodingeducation.1copa.com CNAME .
@@ -3875,8 +3873,6 @@ onetwobucklemyshoethreefourbucklesomemore56nike.2022yw.com CNAME .
 *.2fastsurfer.com CNAME .
 2govpn.com CNAME .
 *.2govpn.com CNAME .
-2kclash.com CNAME .
-*.2kclash.com CNAME .
 doh.2kil.com CNAME .
 *.doh.2kil.com CNAME .
 dns.2poi.com CNAME .
@@ -28093,14 +28089,10 @@ vapor.onl CNAME .
 *.vapor.onl CNAME .
 02akgaayi2fi3xkdi13s0jtxj.online CNAME .
 *.02akgaayi2fi3xkdi13s0jtxj.online CNAME .
-04bsox5tuyzbhndhrkphxt8t.online CNAME .
-*.04bsox5tuyzbhndhrkphxt8t.online CNAME .
 098th189h98fh892.online CNAME .
 *.098th189h98fh892.online CNAME .
 0a7velfsvpgyy.online CNAME .
 *.0a7velfsvpgyy.online CNAME .
-0olnsejxo1cbravdmlarpeb.online CNAME .
-*.0olnsejxo1cbravdmlarpeb.online CNAME .
 13fwvc7ka.online CNAME .
 *.13fwvc7ka.online CNAME .
 1bfwu5d5n.online CNAME .
@@ -33265,6 +33257,8 @@ vpnlabs.site CNAME .
 *.vpnlabs.site CNAME .
 vpnproxy.site CNAME .
 *.vpnproxy.site CNAME .
+vpnstatus.site CNAME .
+*.vpnstatus.site CNAME .
 vpntun.site CNAME .
 *.vpntun.site CNAME .
 vpnxray.site CNAME .

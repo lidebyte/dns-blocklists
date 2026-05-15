@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 May 2026 09:37 UTC
-# Version: 2026.0515.0937.59
+# Last modified: 15 May 2026 16:55 UTC
+# Version: 2026.0515.1655.36
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 18419
+# Number of entries: 18416
 #
 local=/ss.0001.xyz/
 local=/ilovethiswebsite.001-lab.space/
@@ -7780,7 +7780,6 @@ local=/003153.xyz/
 local=/02akgaayi2fi3xkdi13s0jtxj.online/
 local=/041ad0cfb636.xyz/
 local=/04a0f262f2f391ead91af1f0ecc6ef3a.top/
-local=/04bsox5tuyzbhndhrkphxt8t.online/
 local=/0538c3060b94774da3ee011552255739.top/
 local=/069538.xyz/
 local=/06f7d4f2f41cbff183fa241167a3c7444b3cf00c.com/
@@ -7790,7 +7789,6 @@ local=/098th189h98fh892.online/
 local=/09vpn.com/
 local=/0a7velfsvpgyy.online/
 local=/0ms.dev/
-local=/0olnsejxo1cbravdmlarpeb.online/
 local=/0x3d.lu/
 local=/103prxy.com/
 local=/104prxy.com/
@@ -7847,7 +7845,6 @@ local=/190564326.xyz/
 local=/191262.xyz/
 local=/191268.xyz/
 local=/1929.work/
-local=/1aclash.com/
 local=/1and1-dns.de/
 local=/1bfwu5d5n.online/
 local=/1clickvpn.com/
@@ -7900,7 +7897,6 @@ local=/2fastsurfer.com/
 local=/2fastsurfer.eu/
 local=/2fastsurfer.us/
 local=/2govpn.com/
-local=/2kclash.com/
 local=/2mrk0bvkkye.online/
 local=/2poigv.xyz/
 local=/2proxy.de/
@@ -17473,6 +17469,7 @@ local=/vpnshazam.com/
 local=/vpnshieldapp.com/
 local=/vpnside.com/
 local=/vpnsites.com/
+local=/vpnstatus.site/
 local=/vpnstore.help/
 local=/vpnstunnel.com/
 local=/vpnsuper.app/

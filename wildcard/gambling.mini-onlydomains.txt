@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 May 2026 09:30 UTC
-# Version: 2026.0515.0930.25
+# Last modified: 15 May 2026 17:02 UTC
+# Version: 2026.0515.1702.41
 # Syntax: Domains (without subdomains)
-# Number of entries: 42008
+# Number of entries: 41925
 #
 web-119bet-2025-google-vip-119bet.119-hello.com
 web-166betcom-vip-166betcc-166betvip-2025fa-east1.166tiger.com
@@ -1547,13 +1547,10 @@ turkcasinoqxsscm.za.com
 0080kk.com
 0082.casino
 0086.casino
-0088.casino
 009.com
 0093.casino
-0095.casino
 009sfym.com
 00carlospin30.com
-0116.casino
 0123win.com
 0131.casino
 0132.casino
@@ -1561,7 +1558,6 @@ turkcasinoqxsscm.za.com
 0136.casino
 0140.casino
 0156.casino
-0158.casino
 0161.casino
 0167.casino
 0171.casino
@@ -1623,7 +1619,6 @@ turkcasinoqxsscm.za.com
 0457.casino
 0467.casino
 0469.casino
-0473.casino
 0475.casino
 0477.casino
 0489.casino
@@ -1631,7 +1626,6 @@ turkcasinoqxsscm.za.com
 0501bets.com
 0515.casino
 053187.com
-0537.casino
 0538.casino
 0542.casino
 0547.casino
@@ -1693,7 +1687,6 @@ turkcasinoqxsscm.za.com
 07715.casino
 0777x.com
 077x.casino
-07basswin.com
 07s2.casino
 07v6.casino
 08-04.casino
@@ -1715,7 +1708,6 @@ turkcasinoqxsscm.za.com
 08xin.com
 0911.casino
 09128.casino
-0923c.com
 0950.casino
 095c.casino
 09636.casino
@@ -1726,7 +1718,6 @@ turkcasinoqxsscm.za.com
 0997.casino
 099bet.com
 099x.casino
-09j.casino
 09vipcasino.com
 09vipcasinovip.com
 09vipcasinowin.com
@@ -1772,12 +1763,10 @@ turkcasinoqxsscm.za.com
 100shorething.com
 100tsars.com
 100vipcasinobet.com
-1010fs.casino
 10127.casino
 10141.casino
 10143.casino
 10147.casino
-101apotheek.com
 101c.casino
 101jili.net
 101phcash.com
@@ -1802,7 +1791,6 @@ turkcasinoqxsscm.za.com
 10481.casino
 10493.casino
 104s.casino
-1073.casino
 1074.casino
 108betpg.com
 1096.casino
@@ -1838,7 +1826,6 @@ turkcasinoqxsscm.za.com
 110l.casino
 110s.casino
 110win.com
-111000111000.com
 1115.casino
 111555.com
 111gambling.com
@@ -1880,7 +1867,6 @@ turkcasinoqxsscm.za.com
 11c.casino
 11casino.top
 11croco.com
-11e.casino
 11g5.casino
 11h7.casino
 11ic.com
@@ -1917,7 +1903,6 @@ turkcasinoqxsscm.za.com
 122s.casino
 123-betsx.online
 1237bet.com
-123art.net
 123bappcasino.com
 123bcasinoapp.com
 123bcasinobet.com
@@ -1967,7 +1952,6 @@ turkcasinoqxsscm.za.com
 12bet.uk
 12betcasinovip.com
 12betcasinowin.com
-12bets.xyz
 12bingo1.com
 12casino.top
 12f4.casino
@@ -1981,7 +1965,6 @@ turkcasinoqxsscm.za.com
 12q888.com
 12sanghoki.xyz
 12sensasi777.xyz
-12vo.casino
 12w5.casino
 12wincasinoslot.com
 12wincasinovip.com
@@ -2049,7 +2032,6 @@ turkcasinoqxsscm.za.com
 14angkringan138.com
 14casino.top
 14corp.com
-14d5.casino
 14ninecasino29.com
 14red.com
 14spinmama74.com
@@ -2064,7 +2046,6 @@ turkcasinoqxsscm.za.com
 155db.casino
 1566.casino
 15745.casino
-157db.casino
 159.games
 15casino.top
 15ganhebr.com
@@ -2259,7 +2240,6 @@ turkcasinoqxsscm.za.com
 18winpkr.com
 18yaarwin.com
 190vin.org
-1911bet7.com
 1919bet7.com
 191k.casino
 192bets10.com
@@ -2334,7 +2314,6 @@ turkcasinoqxsscm.za.com
 1joycasino.fun
 1jugabet.com
 1k69.casino
-1king-casino.bar
 1kush-casino.fun
 1lf.casino
 1lordcasino.com
@@ -2372,7 +2351,6 @@ turkcasinoqxsscm.za.com
 1vidapg.com
 1vulknvegas421.com
 1w.run
-1w5r.casino
 1w6mqs3panmvik7y1u8z.site
 1wadtg.top
 1wbapm.life
@@ -2459,7 +2437,6 @@ turkcasinoqxsscm.za.com
 1x001.com
 1x2.se
 1xatlarytm.com
-1xbat.click
 1xbet.ae
 1xbet.bi
 1xbet.bj
@@ -4260,8 +4237,6 @@ turkcasinoqxsscm.za.com
 1xbetapk.click
 1xbetapk.mom
 1xbetapk.pics
-1xbetapk.space
-1xbetapk.store
 1xbetapk-my.com
 1xbetapp.cfd
 1xbetapp.sbs
@@ -4516,10 +4491,8 @@ turkcasinoqxsscm.za.com
 1xlite-41962.top
 1xlite-46715.top
 1xlite-48727.bar
-1xlite-49657.bar
 1xlite-49932.top
 1xlite-81671.top
-1xlite-83033.pro
 1xlite-8701041.bar
 1xlite-93399.world
 1xlite-99990.top
@@ -4625,15 +4598,10 @@ turkcasinoqxsscm.za.com
 2025jogobets.com
 2026-casinofastgiris.com
 2026-slots-machine.online
-2026bahiscasino-kazanclariniz.com
-2026betsalvador-kazanclariniz.vip
-2026casinomilyon-kazanclariniz.com
 2026casinoroyal-bilgirehberi.icu
-2026casinoroyal-kazanclariniz.vip
 2026casinoroyalresmigiris.icu
 2026slotsgames.ru
 2026vaycasino.vip
-202h.casino
 202pub.com
 202z.casino
 203pub.com
@@ -4653,7 +4621,6 @@ turkcasinoqxsscm.za.com
 20betvipx.com
 20betzone.com
 20dollars2surf.com
-20fs.casino
 20game9.com
 20glob.com
 20jlpub.club
@@ -4679,7 +4646,6 @@ turkcasinoqxsscm.za.com
 21bets.com
 21bets.io
 21bit-casino-australia.com
-21bit-casinos.net
 21bitcasinoplay.net
 21casino.co
 21casino.com
@@ -4833,23 +4799,16 @@ turkcasinoqxsscm.za.com
 24-playcasino.com
 24097.casino
 24226.casino
-243db.casino
-244db.casino
-245db.casino
-246db.casino
 24781.casino
 247bets.fi
 247blackjack.com
 247casino-comps.com
-247db.casino
 247freepoker.com
 247gamblingworld.com
 247games.in
 247jugar.com
 247xbet.com
-248db.casino
 248phdream.com
-249db.casino
 24betonred37.com
 24bets.app
 24betting.com
@@ -4862,7 +4821,6 @@ turkcasinoqxsscm.za.com
 24hibajee.com
 24hrsbets.fun
 24kbetcasinogames.com
-24kcasino.com
 24live.com
 24lottos.com
 24onlinecasinos.com
@@ -4874,65 +4832,43 @@ turkcasinoqxsscm.za.com
 24vipcasino.com
 24vivo.com
 24wulcan-casino.com
-2500hunche.com
 250bets10.com
-250db.casino
-251db.casino
-252db.casino
 25329.casino
 253375.com
-253db.casino
-254db.casino
 255bet.com
-255db.casino
 2562.casino
 2568.casino
-256db.casino
 2570.casino
 2577.casino
 257bet1.com
 257bet5.com
-257db.casino
 2583878.com
 2583892.com
 25850.casino
 2588.casino
-258db.casino
 258maxslots42.com
 258y.casino
-259db.casino
 25maxslots71.com
 25phwin.vip
 25spinmama54.com
 25spinto140.casino
 26-liraspin-4.com
 26-nyxbets-4.com
-2600cpw.com
 2607.casino
-260db.casino
 2617.casino
-261db.casino
 2625.casino
-262db.casino
-263db.casino
 2647.casino
-264db.casino
 2658.casino
-265db.casino
 265spinto.casino
 2664.casino
 2667.casino
 2668.casino
-266db.casino
 2670.casino
 2676.casino
 2679.casino
-267db.casino
 2682.casino
 2683.casino
-268db.casino
 2696.casino
-269db.casino
 269j.casino
 26a17.com
 26jl9.com
@@ -4946,34 +4882,21 @@ turkcasinoqxsscm.za.com
 27.game
 2700.casino
 2706.casino
-270db.casino
 2713.casino
-271db.casino
 271v.casino
-272db.casino
-273db.casino
 273maxslots.com
 274399.com
 2748.casino
-274db.casino
 2751x.com
 2754.casino
-275db.casino
 2767.casino
-276db.casino
 277bet.com
-277db.casino
 27888.casino
-278db.casino
 2791155.com
 27938.casino
-279db.casino
 27a0.casino
 28050.casino
-280db.casino
-281db.casino
 281j.casino
-282db.casino
 2831.casino
 2862.casino
 2864.casino
@@ -4982,7 +4905,6 @@ turkcasinoqxsscm.za.com
 2870.casino
 2877bet.vip
 287on-x.casino
-287z.casino
 2881.casino
 288270.com
 2884.casino
@@ -5002,7 +4924,6 @@ turkcasinoqxsscm.za.com
 28wincasino.com
 28wincasinovip.com
 28wincasinowin.com
-28yw.casino
 29-slotsdj-9.com
 290yd.com
 29210120.com
@@ -5022,10 +4943,8 @@ turkcasinoqxsscm.za.com
 29bdmbet28.com
 29blackcasino.ch
 29nv.casino
-29r.casino
 29romancasino12.com
 29spingranny77.com
-29u.casino
 2abet.org
 2allrightcasino.com
 2bet.ag
@@ -20450,7 +20369,6 @@ fdjcasino.xyz
 fdjeux.net
 fdscrap.com
 fe88casinovip.com
-fearpoker.com
 febcasino.com
 febet.net
 febetcasinobet.com
@@ -30936,7 +30854,6 @@ orbitexch.com
 orbitslotsnetwork.nl
 orca88.com
 orderlink.in
-ordinalbets.com
 ordinalpoker.com
 ore.casino
 ore2ob.com

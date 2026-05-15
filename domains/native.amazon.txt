@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 May 2026 16:00 UTC
-# Version: 2026.0513.1600.43
+# Last modified: 15 May 2026 17:05 UTC
+# Version: 2026.0515.1705.09
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 713
+# Number of entries: 717
 #
 3px.axp.amazon-adsystem.com
 aan.amazon.co.jp
@@ -541,7 +541,11 @@ sessions.bugsnag.appstore.a2z.com
 sessions.prod.bugs.firebat.prime-video.amazon.dev
 sonar.prime-video.amazon.dev
 sponsored-ads-eu-south-2.amazon-adsystem.com
+sponsored-ads-eu.amazon-adsystem.com
 sponsored-ads-eu.amazon.com.tr
+sponsored-ads-eu.amazon.de
+sponsored-ads-eu.amazon.nl
+sponsored-ads-eu.amazon.pl
 sponsored-ads-fe.amazon-adsystem.com
 sponsored-ads-na.amazon-adsystem.com
 sponsored-ads.amazon.ca
