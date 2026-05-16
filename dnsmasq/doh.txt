@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 May 2026 09:40 UTC
-# Version: 2026.0514.0940.13
+# Last modified: 16 May 2026 09:40 UTC
+# Version: 2026.0516.0940.05
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3464
+# Number of entries: 3463
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -287,7 +287,6 @@ local=/dns.azcom.dev/
 local=/dns.azfar.my/
 local=/doh.azoris.ovh/
 local=/sradg.eastus.cloudapp.azure.com/
-local=/sradg2.eastus.cloudapp.azure.com/
 local=/doh1.b-cdn.net/
 local=/doh2.b-cdn.net/
 local=/dns.b33.network/

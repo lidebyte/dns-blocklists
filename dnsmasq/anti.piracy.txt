@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 May 2026 16:56 UTC
-# Version: 2026.0515.1656.45
+# Last modified: 16 May 2026 09:33 UTC
+# Version: 2026.0516.0933.39
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12775
+# Number of entries: 12769
 #
 local=/hichemtigsetorgy.0fees.net/
 local=/tracker.0x7c0.com/
@@ -1793,7 +1793,6 @@ local=/9kmovies.mov/
 local=/9kmovies.pet/
 local=/9kmovies.press/
 local=/9kmovies.ren/
-local=/9kmovies.rip/
 local=/9kmovies.sarl/
 local=/9kmovies.solar/
 local=/9kmovies.space/
@@ -1979,7 +1978,6 @@ local=/altadefinizione.community/
 local=/altadefinizione.cx/
 local=/altadefinizione.cyou/
 local=/altadefinizione.date/
-local=/altadefinizione.dating/
 local=/altadefinizione.de/
 local=/altadefinizione.eu/
 local=/altadefinizione.exchange/
@@ -2094,7 +2092,6 @@ local=/altadefinizionegratis.run/
 local=/altadefinizionegratis.sbs/
 local=/altadefinizionegratis.shop/
 local=/altadefinizionegratis.skin/
-local=/altadefinizionegratis.space/
 local=/altadefinizionegratis.store/
 local=/altadefinizionegratis.study/
 local=/altadefinizionegratis.surf/
@@ -2146,7 +2143,6 @@ local=/androidrookies.com/
 local=/androidtvbox.ru/
 local=/andropalace.org/
 local=/andyday.tv/
-local=/andydayz.lol/
 local=/ani-mania.com/
 local=/anicloud.domains/
 local=/anicloud.io/
@@ -2470,7 +2466,6 @@ local=/asmr-300.com/
 local=/asnet.pw/
 local=/aspirated.xyz/
 local=/assistir.biz/
-local=/assistiranimes.org/
 local=/assistirseriados.online/
 local=/assistirseriesflix.net/
 local=/assistirtvgratis.online/
@@ -2520,7 +2515,6 @@ local=/aurastresser.com/
 local=/auratorrent.pl/
 local=/aurorabird6.live/
 local=/autocadbmjes.com/
-local=/autocadgou.com/
 local=/autocadtfesvb.com/
 local=/autoeq.top/
 local=/avantabg.com/

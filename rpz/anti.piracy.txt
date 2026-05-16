@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778864160 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778923980 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 May 2026 16:56 UTC
-; Version: 2026.0515.1656.45
+; Last modified: 16 May 2026 09:33 UTC
+; Version: 2026.0516.0933.39
 ; Syntax: RPZ
-; Number of entries: 25550
+; Number of entries: 25538
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -3576,8 +3576,6 @@ aurastresser.com CNAME .
 *.aurastresser.com CNAME .
 autocadbmjes.com CNAME .
 *.autocadbmjes.com CNAME .
-autocadgou.com CNAME .
-*.autocadgou.com CNAME .
 autocadtfesvb.com CNAME .
 *.autocadtfesvb.com CNAME .
 avantabg.com CNAME .
@@ -9456,8 +9454,6 @@ streamingcommunityz.date CNAME .
 *.streamingcommunityz.date CNAME .
 rlsbb.unblockit.date CNAME .
 *.rlsbb.unblockit.date CNAME .
-altadefinizione.dating CNAME .
-*.altadefinizione.dating CNAME .
 tracker.cutie.dating CNAME .
 *.tracker.cutie.dating CNAME .
 tracker-de-2.cutie.dating CNAME .
@@ -13152,8 +13148,6 @@ vegamovies.locker CNAME .
 *.vegamovies.locker CNAME .
 123movies9.lol CNAME .
 *.123movies9.lol CNAME .
-andydayz.lol CNAME .
-*.andydayz.lol CNAME .
 bestwish.lol CNAME .
 *.bestwish.lol CNAME .
 binge.lol CNAME .
@@ -17112,8 +17106,6 @@ tracker.artixlinux.org CNAME .
 *.tracker.artixlinux.org CNAME .
 asiandvdclub.org CNAME .
 *.asiandvdclub.org CNAME .
-assistiranimes.org CNAME .
-*.assistiranimes.org CNAME .
 audionews.org CNAME .
 *.audionews.org CNAME .
 avatar-bg.org CNAME .
@@ -19860,8 +19852,6 @@ cb01.review CNAME .
 *.cb01.review CNAME .
 33seriestreaming.rip CNAME .
 *.33seriestreaming.rip CNAME .
-9kmovies.rip CNAME .
-*.9kmovies.rip CNAME .
 acg.rip CNAME .
 *.acg.rip CNAME .
 blablastream.rip CNAME .
@@ -21406,8 +21396,6 @@ streamingcommunity.spa CNAME .
 *.1soft.space CNAME .
 9kmovies.space CNAME .
 *.9kmovies.space CNAME .
-altadefinizionegratis.space CNAME .
-*.altadefinizionegratis.space CNAME .
 bananas.space CNAME .
 *.bananas.space CNAME .
 best4stremio.space CNAME .

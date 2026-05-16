@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 14 May 2026 17:00 UTC
-! Version: 2026.0514.1700.23
+! Last modified: 16 May 2026 08:26 UTC
+! Version: 2026.0516.0826.51
 ! Syntax: AdBlock
-! Number of entries: 9956
+! Number of entries: 9954
 !
 ||a.189.cn^
 ||t.2merkato.com^
@@ -1311,7 +1311,6 @@
 ||a8s.app^
 ||aaa.moda^
 ||aajhub.in^
-||aakem.click^
 ||aarp.info^
 ||aawsat.news^
 ||ab.co^
@@ -1539,7 +1538,6 @@
 ||aloeds.com^
 ||alol.io^
 ||alolink.com^
-||alongno1.live^
 ||alpha.camp^
 ||alphab.gr^
 ||alpinehr.ca^

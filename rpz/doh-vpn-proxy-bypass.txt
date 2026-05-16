@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778864100 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778924400 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 May 2026 16:55 UTC
-; Version: 2026.0515.1655.36
+; Last modified: 16 May 2026 09:40 UTC
+; Version: 2026.0516.0940.53
 ; Syntax: RPZ
-; Number of entries: 36832
+; Number of entries: 36736
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -553,12 +553,8 @@ skldfjei.wuejhrj.antropologiayasombro.ar CNAME .
 *.3.asistdoc.ar CNAME .
 careers.asistdoc.ar CNAME .
 *.careers.asistdoc.ar CNAME .
-devbyvcsa.asistdoc.ar CNAME .
-*.devbyvcsa.asistdoc.ar CNAME .
 genz.asistdoc.ar CNAME .
 *.genz.asistdoc.ar CNAME .
-megaus.asistdoc.ar CNAME .
-*.megaus.asistdoc.ar CNAME .
 nana.rammer.boiso.ar CNAME .
 *.nana.rammer.boiso.ar CNAME .
 math.casaperri.ar CNAME .
@@ -1325,10 +1321,6 @@ teach.mine.bz CNAME .
 *.teach.mine.bz CNAME .
 dns.npe.bz CNAME .
 *.dns.npe.bz CNAME .
-selenitewebtutorship.com.4webhelp.ca CNAME .
-*.selenitewebtutorship.com.4webhelp.ca CNAME .
-devman.goated.fr.8bit.ca CNAME .
-*.devman.goated.fr.8bit.ca CNAME .
 rammerhead.8bit.ca CNAME .
 *.rammerhead.8bit.ca CNAME .
 tatakai001.8bit.ca CNAME .
@@ -2537,16 +2529,10 @@ zarrowquasar.4trust.cl CNAME .
 *.zarrowquasar.4trust.cl CNAME .
 zarrows-site.4trust.cl CNAME .
 *.zarrows-site.4trust.cl CNAME .
-petezah.vcsa.aislantesbiobio.cl CNAME .
-*.petezah.vcsa.aislantesbiobio.cl CNAME .
 dx.alsarica.cl CNAME .
 *.dx.alsarica.cl CNAME .
-ji.alsarica.cl CNAME .
-*.ji.alsarica.cl CNAME .
 owens-engineering-info.aperture.cl CNAME .
 *.owens-engineering-info.aperture.cl CNAME .
-starscourage.autonomoconsultores.cl CNAME .
-*.starscourage.autonomoconsultores.cl CNAME .
 bebra.cl CNAME .
 *.bebra.cl CNAME .
 mcps.biquest.cl CNAME .
@@ -3893,12 +3879,8 @@ dns.2poi.com CNAME .
 *.365vpn.com CNAME .
 3dphototwitch.com CNAME .
 *.3dphototwitch.com CNAME .
-3rclash.com CNAME .
-*.3rclash.com CNAME .
 4everproxy.com CNAME .
 *.4everproxy.com CNAME .
-4rclash.com CNAME .
-*.4rclash.com CNAME .
 502jsq.com CNAME .
 *.502jsq.com CNAME .
 517wszy.com CNAME .
@@ -3915,8 +3897,6 @@ www-vpn.52oupa.com CNAME .
 *.531274e80907f3a26c18dd8aabd4fca776d65870.com CNAME .
 5537955585be9a774f79ea792941d72404fe69d3.com CNAME .
 *.5537955585be9a774f79ea792941d72404fe69d3.com CNAME .
-55clash.com CNAME .
-*.55clash.com CNAME .
 55gms.com CNAME .
 *.55gms.com CNAME .
 55laomao.com CNAME .
@@ -3935,8 +3915,6 @@ dns.58jdl.com CNAME .
 *.58ppyun.com CNAME .
 59561aa13a3300a5399b85b1470e7b9edbe58ad9.com CNAME .
 *.59561aa13a3300a5399b85b1470e7b9edbe58ad9.com CNAME .
-5eclash.com CNAME .
-*.5eclash.com CNAME .
 615ad0384e04cd707039f12eee38e280d18b3db5.com CNAME .
 *.615ad0384e04cd707039f12eee38e280d18b3db5.com CNAME .
 66laomao.com CNAME .
@@ -3959,16 +3937,12 @@ idk.7btech.com CNAME .
 *.7f8a85466c4219fa725c511ec0a32b15707710b1.com CNAME .
 7gain.com CNAME .
 *.7gain.com CNAME .
-7suyun.com CNAME .
-*.7suyun.com CNAME .
 7vpn.com CNAME .
 *.7vpn.com CNAME .
 800vpns.com CNAME .
 *.800vpns.com CNAME .
 85la.com CNAME .
 *.85la.com CNAME .
-8jclash.com CNAME .
-*.8jclash.com CNAME .
 8proxy.com CNAME .
 *.8proxy.com CNAME .
 8v9m.com CNAME .
@@ -4331,10 +4305,6 @@ acenpv.com CNAME .
 *.acenpv.com CNAME .
 acepandaapp.com CNAME .
 *.acepandaapp.com CNAME .
-learn.history.acepod.com CNAME .
-*.learn.history.acepod.com CNAME .
-shared.learn.acepod.com CNAME .
-*.shared.learn.acepod.com CNAME .
 aceproxy.com CNAME .
 *.aceproxy.com CNAME .
 acepureapp.com CNAME .
@@ -4517,12 +4487,6 @@ aibuddytech.com CNAME .
 *.aibuddytech.com CNAME .
 dns.aicreate360.com CNAME .
 *.dns.aicreate360.com CNAME .
-aifunjichang.com CNAME .
-*.aifunjichang.com CNAME .
-aifunss.com CNAME .
-*.aifunss.com CNAME .
-aifunssr.com CNAME .
-*.aifunssr.com CNAME .
 ailivechatweb.com CNAME .
 *.ailivechatweb.com CNAME .
 airjiasu.com CNAME .
@@ -4547,10 +4511,6 @@ akmbjsq.com CNAME .
 *.akmbjsq.com CNAME .
 akpnaca.com CNAME .
 *.akpnaca.com CNAME .
-aladingclash.com CNAME .
-*.aladingclash.com CNAME .
-aladingjc.com CNAME .
-*.aladingjc.com CNAME .
 algerie-poste.com CNAME .
 *.algerie-poste.com CNAME .
 alhapi.com CNAME .
@@ -4693,14 +4653,8 @@ amosstudios.com CNAME .
 *.amosstudios.com CNAME .
 amplitude-go.com CNAME .
 *.amplitude-go.com CNAME .
-amygw.com CNAME .
-*.amygw.com CNAME .
 amysecure.com CNAME .
 *.amysecure.com CNAME .
-amyssr.com CNAME .
-*.amyssr.com CNAME .
-amytelecomjc.com CNAME .
-*.amytelecomjc.com CNAME .
 amzsvc.com CNAME .
 *.amzsvc.com CNAME .
 rockfordarmy.anallyforced.com CNAME .
@@ -4751,10 +4705,6 @@ antivirusvpnprotection.com CNAME .
 *.antivirusvpnprotection.com CNAME .
 antpeak.com CNAME .
 *.antpeak.com CNAME .
-anylandclash.com CNAME .
-*.anylandclash.com CNAME .
-anylandjc.com CNAME .
-*.anylandjc.com CNAME .
 dp.anywaysoft.com CNAME .
 *.dp.anywaysoft.com CNAME .
 aox666.com CNAME .
@@ -4847,18 +4797,6 @@ dns.ares-taiwan.com CNAME .
 *.dns.ares-taiwan.com CNAME .
 emisjoking.argentinavision2020.com CNAME .
 *.emisjoking.argentinavision2020.com CNAME .
-archive.arionskyclub.com CNAME .
-*.archive.arionskyclub.com CNAME .
-disguise.arionskyclub.com CNAME .
-*.disguise.arionskyclub.com CNAME .
-divincilaw.arionskyclub.com CNAME .
-*.divincilaw.arionskyclub.com CNAME .
-headcanon.arionskyclub.com CNAME .
-*.headcanon.arionskyclub.com CNAME .
-tinkerbot.arionskyclub.com CNAME .
-*.tinkerbot.arionskyclub.com CNAME .
-arisakaclash.com CNAME .
-*.arisakaclash.com CNAME .
 ark-vpn.com CNAME .
 *.ark-vpn.com CNAME .
 dns.arkbotech.com CNAME .
@@ -4975,10 +4913,6 @@ awebproxy.com CNAME .
 *.awebproxy.com CNAME .
 axistechsupport.com CNAME .
 *.axistechsupport.com CNAME .
-ayanamijc.com CNAME .
-*.ayanamijc.com CNAME .
-ayanamissr.com CNAME .
-*.ayanamissr.com CNAME .
 ayu-cloud.com CNAME .
 *.ayu-cloud.com CNAME .
 ayu-ssr.com CNAME .
@@ -4991,8 +4925,6 @@ azirevpn.com CNAME .
 *.azirevpn.com CNAME .
 sradg.eastus.cloudapp.azure.com CNAME .
 *.sradg.eastus.cloudapp.azure.com CNAME .
-sradg2.eastus.cloudapp.azure.com CNAME .
-*.sradg2.eastus.cloudapp.azure.com CNAME .
 vpn.azure.com CNAME .
 *.vpn.azure.com CNAME .
 azureserv.com CNAME .
@@ -18913,30 +18845,14 @@ apigoogle.eu CNAME .
 *.apigoogle.eu CNAME .
 oci02.at9.eu CNAME .
 *.oci02.at9.eu CNAME .
-atc.atamanco.eu CNAME .
-*.atc.atamanco.eu CNAME .
-caxc.atamanco.eu CNAME .
-*.caxc.atamanco.eu CNAME .
-securly.com.atamanco.eu CNAME .
-*.securly.com.atamanco.eu CNAME .
-funding.atamanco.eu CNAME .
-*.funding.atamanco.eu CNAME .
-gatekeepthisfr.atamanco.eu CNAME .
-*.gatekeepthisfr.atamanco.eu CNAME .
 goofygoober.atamanco.eu CNAME .
 *.goofygoober.atamanco.eu CNAME .
 ieatmonsters.atamanco.eu CNAME .
 *.ieatmonsters.atamanco.eu CNAME .
-ilovehotmoms.atamanco.eu CNAME .
-*.ilovehotmoms.atamanco.eu CNAME .
 overcloaked.atamanco.eu CNAME .
 *.overcloaked.atamanco.eu CNAME .
-printer.atamanco.eu CNAME .
-*.printer.atamanco.eu CNAME .
 pulsewire.atamanco.eu CNAME .
 *.pulsewire.atamanco.eu CNAME .
-support.atamanco.eu CNAME .
-*.support.atamanco.eu CNAME .
 home.basthorst.eu CNAME .
 *.home.basthorst.eu CNAME .
 dns.bermeitinger.eu CNAME .
@@ -21755,8 +21671,6 @@ zorrovpn.io CNAME .
 *.zorrovpn.io CNAME .
 grgrgrkeepcalmkeepcalm.asatid12.ir CNAME .
 *.grgrgrkeepcalmkeepcalm.asatid12.ir CNAME .
-atvsh.ir CNAME .
-*.atvsh.ir CNAME .
 avaaaal.ir CNAME .
 *.avaaaal.ir CNAME .
 azerbaycanresanemiz.ir CNAME .
@@ -22039,8 +21953,6 @@ obeshbarmak.kz CNAME .
 *.obeshbarmak.kz CNAME .
 adns.3am.la CNAME .
 *.adns.3am.la CNAME .
-scholastic.allez.la CNAME .
-*.scholastic.allez.la CNAME .
 bajie.la CNAME .
 *.bajie.la CNAME .
 bebra.la CNAME .
@@ -28157,8 +28069,6 @@ actipw3.online CNAME .
 *.actipw3.online CNAME .
 adguard-vpn.online CNAME .
 *.adguard-vpn.online CNAME .
-afjxebasgewv.online CNAME .
-*.afjxebasgewv.online CNAME .
 alleesph.online CNAME .
 *.alleesph.online CNAME .
 alphabr.online CNAME .
@@ -28749,8 +28659,6 @@ overcloak2.allisons.org CNAME .
 *.overcloak2.allisons.org CNAME .
 amandahugnkiss.org CNAME .
 *.amandahugnkiss.org CNAME .
-ambslot-truewallet.org CNAME .
-*.ambslot-truewallet.org CNAME .
 americanvpn.org CNAME .
 *.americanvpn.org CNAME .
 blog2.amlegion.org CNAME .
@@ -31093,8 +31001,6 @@ yuntu.pro CNAME .
 *.yuntu.pro CNAME .
 ziboard.pro CNAME .
 *.ziboard.pro CNAME .
-ohvc.aluminiosnelugo.pt CNAME .
-*.ohvc.aluminiosnelugo.pt CNAME .
 galaxv6-is-never-comming-out.axsetubal.pt CNAME .
 *.galaxv6-is-never-comming-out.axsetubal.pt CNAME .
 visit-portugal.axsetubal.pt CNAME .
@@ -33889,8 +33795,6 @@ a9a3ac50c2373ac7ff8f6116e562cb44.top CNAME .
 *.a9a3ac50c2373ac7ff8f6116e562cb44.top CNAME .
 adfreedns.top CNAME .
 *.adfreedns.top CNAME .
-adobe-connect.top CNAME .
-*.adobe-connect.top CNAME .
 ai-yuni.top CNAME .
 *.ai-yuni.top CNAME .
 ailogogenerator.top CNAME .

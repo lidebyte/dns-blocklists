@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 May 2026 16:56 UTC
-# Version: 2026.0515.1656.45
+# Last modified: 16 May 2026 09:33 UTC
+# Version: 2026.0516.0933.39
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 12775
+# Number of entries: 12769
 #
 *.hichemtigsetorgy.0fees.net
 *.tracker.0x7c0.com
@@ -1793,7 +1793,6 @@
 *.9kmovies.pet
 *.9kmovies.press
 *.9kmovies.ren
-*.9kmovies.rip
 *.9kmovies.sarl
 *.9kmovies.solar
 *.9kmovies.space
@@ -1979,7 +1978,6 @@
 *.altadefinizione.cx
 *.altadefinizione.cyou
 *.altadefinizione.date
-*.altadefinizione.dating
 *.altadefinizione.de
 *.altadefinizione.eu
 *.altadefinizione.exchange
@@ -2094,7 +2092,6 @@
 *.altadefinizionegratis.sbs
 *.altadefinizionegratis.shop
 *.altadefinizionegratis.skin
-*.altadefinizionegratis.space
 *.altadefinizionegratis.store
 *.altadefinizionegratis.study
 *.altadefinizionegratis.surf
@@ -2146,7 +2143,6 @@
 *.androidtvbox.ru
 *.andropalace.org
 *.andyday.tv
-*.andydayz.lol
 *.ani-mania.com
 *.anicloud.domains
 *.anicloud.io
@@ -2470,7 +2466,6 @@
 *.asnet.pw
 *.aspirated.xyz
 *.assistir.biz
-*.assistiranimes.org
 *.assistirseriados.online
 *.assistirseriesflix.net
 *.assistirtvgratis.online
@@ -2520,7 +2515,6 @@
 *.auratorrent.pl
 *.aurorabird6.live
 *.autocadbmjes.com
-*.autocadgou.com
 *.autocadtfesvb.com
 *.autoeq.top
 *.avantabg.com

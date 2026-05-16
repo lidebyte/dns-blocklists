@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 14 May 2026 09:40 UTC
-! Version: 2026.0514.0940.13
+! Last modified: 16 May 2026 09:40 UTC
+! Version: 2026.0516.0940.05
 ! Syntax: AdBlock
-! Number of entries: 3464
+! Number of entries: 3463
 !
 ||ss.0001.xyz^
 ||ns.00dani.me^
@@ -288,7 +288,6 @@
 ||dns.azfar.my^
 ||doh.azoris.ovh^
 ||sradg.eastus.cloudapp.azure.com^
-||sradg2.eastus.cloudapp.azure.com^
 ||doh1.b-cdn.net^
 ||doh2.b-cdn.net^
 ||dns.b33.network^

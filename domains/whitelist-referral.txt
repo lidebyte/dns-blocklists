@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 May 2026 08:12 UTC
-# Version: 2026.0515.0812.09
+# Last modified: 16 May 2026 08:09 UTC
+# Version: 2026.0516.0809.48
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2302
+# Number of entries: 2309
 #
 1-aclk.net
 1aurl.io
@@ -262,12 +262,14 @@ seu.cleverreach.com
 369869.seu.cleverreach.com
 37135.seu.cleverreach.com
 38970.seu.cleverreach.com
+399804.seu.cleverreach.com
 7464.seu.cleverreach.com
 8437.seu.cleverreach.com
 8820.seu.cleverreach.com
 seu1.cleverreach.com
 170770.seu1.cleverreach.com
 176818.seu1.cleverreach.com
+288550.seu1.cleverreach.com
 40076.seu1.cleverreach.com
 40961.seu1.cleverreach.com
 42849.seu1.cleverreach.com
@@ -325,6 +327,7 @@ seu2.cleverreach.com
 130874.seu2.cleverreach.com
 131637.seu2.cleverreach.com
 131729.seu2.cleverreach.com
+131851.seu2.cleverreach.com
 133616.seu2.cleverreach.com
 138657.seu2.cleverreach.com
 140539.seu2.cleverreach.com
@@ -380,6 +383,7 @@ seu2.cleverreach.com
 239565.seu2.cleverreach.com
 241423.seu2.cleverreach.com
 241542.seu2.cleverreach.com
+243677.seu2.cleverreach.com
 244023.seu2.cleverreach.com
 244460.seu2.cleverreach.com
 245176.seu2.cleverreach.com
@@ -409,6 +413,7 @@ seu2.cleverreach.com
 283836.seu2.cleverreach.com
 284666.seu2.cleverreach.com
 287930.seu2.cleverreach.com
+288962.seu2.cleverreach.com
 291887.seu2.cleverreach.com
 292537.seu2.cleverreach.com
 294962.seu2.cleverreach.com
@@ -438,6 +443,7 @@ seu2.cleverreach.com
 341722.seu2.cleverreach.com
 342011.seu2.cleverreach.com
 342640.seu2.cleverreach.com
+342950.seu2.cleverreach.com
 344934.seu2.cleverreach.com
 345020.seu2.cleverreach.com
 348148.seu2.cleverreach.com
@@ -637,6 +643,7 @@ open.convertkit-mail2.com
 844e968a.open.convertkit-mail2.com
 925c32e7.open.convertkit-mail2.com
 9343673d.open.convertkit-mail2.com
+96b8b451.open.convertkit-mail2.com
 9968f34e.open.convertkit-mail2.com
 9adb1e69.open.convertkit-mail2.com
 9ae13412.open.convertkit-mail2.com
