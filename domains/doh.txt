@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 May 2026 09:40 UTC
-# Version: 2026.0516.0940.05
+# Last modified: 16 May 2026 16:55 UTC
+# Version: 2026.0516.1655.27
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3925
+# Number of entries: 3923
 #
 ss.0001.xyz
 003153.xyz
@@ -547,7 +547,6 @@ free.bravedns.com
 dns.brembeck.cloud
 dns.briac-mlb.fr
 dns.system.brianhong.kr
-ag.brianlee.fun
 dns.brionesserver.net
 agh.broaddy.com
 www.agh.broaddy.com
@@ -555,7 +554,6 @@ dns.brono.cloud
 home.bruckmoser.it
 81.brudnowski.eu
 81xyz.brudnowski.eu
-adguard.bse4792.site
 doh.bt.com
 goose.buckyfan.net
 doh.bugdns.com

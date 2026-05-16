@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 May 2026 08:26 UTC
-# Version: 2026.0516.0826.51
+# Last modified: 16 May 2026 16:56 UTC
+# Version: 2026.0516.1656.57
 # Syntax: Domains (without subdomains)
-# Number of entries: 9954
+# Number of entries: 9947
 #
 a.189.cn
 t.2merkato.com
@@ -1931,7 +1931,6 @@ biocardpro.com
 bioclick.net
 biofy.ai
 biofy.bio
-biohoster.com
 biohub.me
 biolink.blog
 biolink.cloud
@@ -2252,7 +2251,6 @@ bytr.ee
 byuroscope.com
 bz9.com
 bzfd.it
-bzh.me
 c-o.in
 c1.to
 c11.kr
@@ -4508,7 +4506,6 @@ kilat.ink
 kilat.io
 kimmel.trade
 kings.tn
-kingurl.xyz
 kinky-pipes.com
 kinnto.me
 kirimlink.com
@@ -6553,7 +6550,6 @@ py.md
 py6.ru
 pygy.co
 pym.se
-pymd.org
 pymoinfo.com
 pyt.app
 pzdls.co
@@ -6873,7 +6869,6 @@ reshortfly.com
 resvoice.com
 reten.net
 rethinktw.cc
-retireetravelcare.sbs
 retont.link
 reurl.cc
 reurl.in
@@ -8274,7 +8269,6 @@ thekreww.com
 thelegends.land
 thelinkmaster.com
 themestub.com
-thenews24h.tech
 theorist.media
 theposhed.com
 thesa.us
@@ -8354,7 +8348,6 @@ tinurl.pro
 tiny.ae
 tiny.cc
 tiny.do
-tiny.ee
 tiny.lt
 tiny.ms
 tiny.one

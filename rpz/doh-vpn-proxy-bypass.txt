@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778924400 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778950560 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 May 2026 09:40 UTC
-; Version: 2026.0516.0940.53
+; Last modified: 16 May 2026 16:56 UTC
+; Version: 2026.0516.1656.13
 ; Syntax: RPZ
-; Number of entries: 36736
+; Number of entries: 36570
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -1339,8 +1339,6 @@ trains.canadianlocomotivelogistics.ca CNAME .
 *.trains.canadianlocomotivelogistics.ca CNAME .
 depute.cefsk.ca CNAME .
 *.depute.cefsk.ca CNAME .
-sf.cefsk.ca CNAME .
-*.sf.cefsk.ca CNAME .
 canadianshield.cira.ca CNAME .
 *.canadianshield.cira.ca CNAME .
 cloaker.ca CNAME .
@@ -2563,8 +2561,6 @@ sciencestuff.blueshadows.cl CNAME .
 *.sciencestuff.blueshadows.cl CNAME .
 shadowtechnology.blueshadows.cl CNAME .
 *.shadowtechnology.blueshadows.cl CNAME .
-needhelp.callmark.cl CNAME .
-*.needhelp.callmark.cl CNAME .
 classtime.canalspa.cl CNAME .
 *.classtime.canalspa.cl CNAME .
 factsforfish.canalspa.cl CNAME .
@@ -3625,8 +3621,6 @@ boccc.co CNAME .
 *.boccc.co CNAME .
 bvpn.co CNAME .
 *.bvpn.co CNAME .
-s8.amazonaws.com.catbox.co CNAME .
-*.s8.amazonaws.com.catbox.co CNAME .
 co2wr.co CNAME .
 *.co2wr.co CNAME .
 panel.colacloud.co CNAME .
@@ -4991,8 +4985,6 @@ education7035.babushkamail.com CNAME .
 *.education7035.babushkamail.com CNAME .
 education9588.babushkamail.com CNAME .
 *.education9588.babushkamail.com CNAME .
-bacloudjichang.com CNAME .
-*.bacloudjichang.com CNAME .
 badrsgpr.com CNAME .
 *.badrsgpr.com CNAME .
 dns.bai0012.com CNAME .
@@ -5005,24 +4997,6 @@ httpsdns.baidu.com CNAME .
 *.httpsdns.baidu.com CNAME .
 httpdns.baidubce.com CNAME .
 *.httpdns.baidubce.com CNAME .
-baiyueguanggw.com CNAME .
-*.baiyueguanggw.com CNAME .
-baiyueguangjc.com CNAME .
-*.baiyueguangjc.com CNAME .
-baiyueguangss.com CNAME .
-*.baiyueguangss.com CNAME .
-baiyueguangssr.com CNAME .
-*.baiyueguangssr.com CNAME .
-baiyueguangv2.com CNAME .
-*.baiyueguangv2.com CNAME .
-bajieclash.com CNAME .
-*.bajieclash.com CNAME .
-bajiegw.com CNAME .
-*.bajiegw.com CNAME .
-bajiess.com CNAME .
-*.bajiess.com CNAME .
-bajiessr.com CNAME .
-*.bajiessr.com CNAME .
 education.balalaikamail.com CNAME .
 *.education.balalaikamail.com CNAME .
 ballbang.com CNAME .
@@ -5049,8 +5023,6 @@ keenlogic.banglaraloprotidin.com CNAME .
 *.keenlogic.banglaraloprotidin.com CNAME .
 nexthistory.banglaraloprotidin.com CNAME .
 *.nexthistory.banglaraloprotidin.com CNAME .
-banwagonggw.com CNAME .
-*.banwagonggw.com CNAME .
 bapplinks.com CNAME .
 *.bapplinks.com CNAME .
 learnaboutbillclinton.barellagirl.com CNAME .
@@ -5063,10 +5035,6 @@ batvpn.com CNAME .
 *.batvpn.com CNAME .
 batyasoft.com CNAME .
 *.batyasoft.com CNAME .
-bayunclash.com CNAME .
-*.bayunclash.com CNAME .
-bayunjichang.com CNAME .
-*.bayunjichang.com CNAME .
 fern.bbvlibrary.com CNAME .
 *.fern.bbvlibrary.com CNAME .
 httpdns.bcelive.com CNAME .
@@ -5097,8 +5065,6 @@ befreevpn.com CNAME .
 *.befreevpn.com CNAME .
 begweb.com CNAME .
 *.begweb.com CNAME .
-beibeiyunssr.com CNAME .
-*.beibeiyunssr.com CNAME .
 belkavpn.com CNAME .
 *.belkavpn.com CNAME .
 bellproxy.com CNAME .
@@ -5485,20 +5451,12 @@ bhpuvkri.com CNAME .
 *.bhpuvkri.com CNAME .
 bhupygnj.com CNAME .
 *.bhupygnj.com CNAME .
-bifenggangjsq.com CNAME .
-*.bifenggangjsq.com CNAME .
-bifenggangssr.com CNAME .
-*.bifenggangssr.com CNAME .
-bigairportgw.com CNAME .
-*.bigairportgw.com CNAME .
 bigquerycdn.com CNAME .
 *.bigquerycdn.com CNAME .
 httpdns.bilivideo.com CNAME .
 *.httpdns.bilivideo.com CNAME .
 help.billigerhost.com CNAME .
 *.help.billigerhost.com CNAME .
-math.help.bingo-list.com CNAME .
-*.math.help.bingo-list.com CNAME .
 bingojiasu.com CNAME .
 *.bingojiasu.com CNAME .
 birgerboy.com CNAME .
@@ -5513,10 +5471,6 @@ bitping.com CNAME .
 *.bitping.com CNAME .
 bitxlszroot.com CNAME .
 *.bitxlszroot.com CNAME .
-bitznetjc.com CNAME .
-*.bitznetjc.com CNAME .
-bitznetssr.com CNAME .
-*.bitznetssr.com CNAME .
 biuspggy.com CNAME .
 *.biuspggy.com CNAME .
 bixorn.com CNAME .
@@ -5619,8 +5573,6 @@ bobstrecansky.com CNAME .
 *.bobstrecansky.com CNAME .
 bocaplanet.com CNAME .
 *.bocaplanet.com CNAME .
-bocchiclash.com CNAME .
-*.bocchiclash.com CNAME .
 boda12306.com CNAME .
 *.boda12306.com CNAME .
 bodimozf.com CNAME .
@@ -5679,16 +5631,10 @@ boostnet3.com CNAME .
 *.boostnet3.com CNAME .
 boostnet4.com CNAME .
 *.boostnet4.com CNAME .
-boostnetgw.com CNAME .
-*.boostnetgw.com CNAME .
-boostnetjc.com CNAME .
-*.boostnetjc.com CNAME .
 boostqz.com CNAME .
 *.boostqz.com CNAME .
 boowuu.com CNAME .
 *.boowuu.com CNAME .
-boslifegw.com CNAME .
-*.boslifegw.com CNAME .
 areyousure.bostoncareercounselor.com CNAME .
 *.areyousure.bostoncareercounselor.com CNAME .
 m.athislife.bostoncareercounselor.com CNAME .
@@ -5699,8 +5645,6 @@ scien.ceislife.bostoncareercounselor.com CNAME .
 *.scien.ceislife.bostoncareercounselor.com CNAME .
 choose-a-career.bostoncareercounselor.com CNAME .
 *.choose-a-career.bostoncareercounselor.com CNAME .
-christianprince.bostoncareercounselor.com CNAME .
-*.christianprince.bostoncareercounselor.com CNAME .
 s.cienceislife.bostoncareercounselor.com CNAME .
 *.s.cienceislife.bostoncareercounselor.com CNAME .
 college.bostoncareercounselor.com CNAME .
@@ -5815,8 +5759,6 @@ user.bostoncareercounselor.com CNAME .
 *.user.bostoncareercounselor.com CNAME .
 vcsaxinter.bostoncareercounselor.com CNAME .
 *.vcsaxinter.bostoncareercounselor.com CNAME .
-yousifcantleakthis.bostoncareercounselor.com CNAME .
-*.yousifcantleakthis.bostoncareercounselor.com CNAME .
 botvpntype.com CNAME .
 *.botvpntype.com CNAME .
 lenz.bouncers4rent.com CNAME .
@@ -5843,8 +5785,6 @@ brazilproxy.com CNAME .
 *.brazilproxy.com CNAME .
 vacation.briaquaticcabinets.com CNAME .
 *.vacation.briaquaticcabinets.com CNAME .
-bridgethewisejc.com CNAME .
-*.bridgethewisejc.com CNAME .
 brightdata.com CNAME .
 *.brightdata.com CNAME .
 brightleaflife.com CNAME .
@@ -6007,12 +5947,8 @@ craft.idea.cassidyd.com CNAME .
 *.craft.idea.cassidyd.com CNAME .
 catchcurrent.com CNAME .
 *.catchcurrent.com CNAME .
-catnetjc.com CNAME .
-*.catnetjc.com CNAME .
 catnetpro.com CNAME .
 *.catnetpro.com CNAME .
-catnetssr.com CNAME .
-*.catnetssr.com CNAME .
 cave58.com CNAME .
 *.cave58.com CNAME .
 cave59.com CNAME .
@@ -6027,8 +5963,6 @@ ccave.com CNAME .
 *.ccave.com CNAME .
 ccavea.com CNAME .
 *.ccavea.com CNAME .
-ccclash.com CNAME .
-*.ccclash.com CNAME .
 ccsdujgg.com CNAME .
 *.ccsdujgg.com CNAME .
 httpdns.cctv.com CNAME .
@@ -6105,8 +6039,6 @@ cheesestorecedarhurst.com CNAME .
 *.cheesestorecedarhurst.com CNAME .
 cherryclash.com CNAME .
 *.cherryclash.com CNAME .
-cherryjc.com CNAME .
-*.cherryjc.com CNAME .
 boredom.chiangmaiorganics.com CNAME .
 *.boredom.chiangmaiorganics.com CNAME .
 fernlol.chiangmaiorganics.com CNAME .
@@ -6135,8 +6067,6 @@ nate.higgers.lebron67.com.chickenkiller.com CNAME .
 *.nate.higgers.lebron67.com.chickenkiller.com CNAME .
 cooking-with-a-goofy-ahh.chickenkiller.com CNAME .
 *.cooking-with-a-goofy-ahh.chickenkiller.com CNAME .
-coolkidd.chickenkiller.com CNAME .
-*.coolkidd.chickenkiller.com CNAME .
 kahoot.dad.chickenkiller.com CNAME .
 *.kahoot.dad.chickenkiller.com CNAME .
 dihinmyah-67.chickenkiller.com CNAME .
@@ -6229,8 +6159,6 @@ tuffchese.chickenkiller.com CNAME .
 *.tuffchese.chickenkiller.com CNAME .
 utoutopia.chickenkiller.com CNAME .
 *.utoutopia.chickenkiller.com CNAME .
-lightspeed.goguardian.hwhelp.v3.chickenkiller.com CNAME .
-*.lightspeed.goguardian.hwhelp.v3.chickenkiller.com CNAME .
 kamari.vincentfuntime.chickenkiller.com CNAME .
 *.kamari.vincentfuntime.chickenkiller.com CNAME .
 wheresyourmoney.chickenkiller.com CNAME .
@@ -6241,10 +6169,6 @@ wowiewowwow.chickenkiller.com CNAME .
 *.wowiewowwow.chickenkiller.com CNAME .
 youraohiololsofunnygreatmemereset67getajob.chickenkiller.com CNAME .
 *.youraohiololsofunnygreatmemereset67getajob.chickenkiller.com CNAME .
-chickenrunclash.com CNAME .
-*.chickenrunclash.com CNAME .
-chickenrunjc.com CNAME .
-*.chickenrunjc.com CNAME .
 chik-chirikvpn.com CNAME .
 *.chik-chirikvpn.com CNAME .
 chillglobal.com CNAME .
@@ -6271,12 +6195,6 @@ chkttzrt.com CNAME .
 *.chkttzrt.com CNAME .
 chnroute.com CNAME .
 *.chnroute.com CNAME .
-chonglangmaoclash.com CNAME .
-*.chonglangmaoclash.com CNAME .
-chonglangmaojc.com CNAME .
-*.chonglangmaojc.com CNAME .
-chonglangmaoss.com CNAME .
-*.chonglangmaoss.com CNAME .
 chopmixcook.com CNAME .
 *.chopmixcook.com CNAME .
 free-vpn-connection.chris-pc.com CNAME .
@@ -6293,8 +6211,6 @@ login.gov.chrsmck.com CNAME .
 *.login.gov.chrsmck.com CNAME .
 chsvutul.com CNAME .
 *.chsvutul.com CNAME .
-chuanyunjianssr.com CNAME .
-*.chuanyunjianssr.com CNAME .
 dns.chunghwamc.com CNAME .
 *.dns.chunghwamc.com CNAME .
 oraclejp2.chungyu.com CNAME .
@@ -6311,84 +6227,18 @@ citizenvpn.com CNAME .
 *.citizenvpn.com CNAME .
 dns.citrahost.com CNAME .
 *.dns.citrahost.com CNAME .
-citruslabgw.com CNAME .
-*.citruslabgw.com CNAME .
 civiclearncenter.com CNAME .
 *.civiclearncenter.com CNAME .
-ciyuanyunclash.com CNAME .
-*.ciyuanyunclash.com CNAME .
 cjwhahqi.com CNAME .
 *.cjwhahqi.com CNAME .
-clash1d.com CNAME .
-*.clash1d.com CNAME .
-clash1o.com CNAME .
-*.clash1o.com CNAME .
-clash2u.com CNAME .
-*.clash2u.com CNAME .
-clash8i.com CNAME .
-*.clash8i.com CNAME .
-clashbo.com CNAME .
-*.clashbo.com CNAME .
-clashbw.com CNAME .
-*.clashbw.com CNAME .
-clashd6.com CNAME .
-*.clashd6.com CNAME .
-clashfb.com CNAME .
-*.clashfb.com CNAME .
-clashfl.com CNAME .
-*.clashfl.com CNAME .
-clashgb.com CNAME .
-*.clashgb.com CNAME .
 clashgithub.com CNAME .
 *.clashgithub.com CNAME .
 clashgui.com CNAME .
 *.clashgui.com CNAME .
-clashhf.com CNAME .
-*.clashhf.com CNAME .
 clashios.com CNAME .
 *.clashios.com CNAME .
-clashjn.com CNAME .
-*.clashjn.com CNAME .
-clashlg.com CNAME .
-*.clashlg.com CNAME .
-clashli.com CNAME .
-*.clashli.com CNAME .
-clashln.com CNAME .
-*.clashln.com CNAME .
-clashlz.com CNAME .
-*.clashlz.com CNAME .
-clashni.com CNAME .
-*.clashni.com CNAME .
-clashp1.com CNAME .
-*.clashp1.com CNAME .
-clashpf.com CNAME .
-*.clashpf.com CNAME .
-clashpm.com CNAME .
-*.clashpm.com CNAME .
-clashpq.com CNAME .
-*.clashpq.com CNAME .
-clashqy.com CNAME .
-*.clashqy.com CNAME .
 clashsubs.com CNAME .
 *.clashsubs.com CNAME .
-clashsy.com CNAME .
-*.clashsy.com CNAME .
-clashtm.com CNAME .
-*.clashtm.com CNAME .
-clashtp.com CNAME .
-*.clashtp.com CNAME .
-clashts.com CNAME .
-*.clashts.com CNAME .
-clashuz.com CNAME .
-*.clashuz.com CNAME .
-clashw1.com CNAME .
-*.clashw1.com CNAME .
-clashw2.com CNAME .
-*.clashw2.com CNAME .
-clashyb.com CNAME .
-*.clashyb.com CNAME .
-clashyi.com CNAME .
-*.clashyi.com CNAME .
 clearvpn.com CNAME .
 *.clearvpn.com CNAME .
 clevertoolkit.com CNAME .
@@ -18631,8 +18481,6 @@ zabolotskikh.dev CNAME .
 *.zabolotskikh.dev CNAME .
 zadmin.dev CNAME .
 *.zadmin.dev CNAME .
-chromebook.digital CNAME .
-*.chromebook.digital CNAME .
 flarevpn.digital CNAME .
 *.flarevpn.digital CNAME .
 dns.goertz.digital CNAME .
@@ -19289,8 +19137,6 @@ axaxa.fun CNAME .
 *.axaxa.fun CNAME .
 bebravpn-app.fun CNAME .
 *.bebravpn-app.fun CNAME .
-ag.brianlee.fun CNAME .
-*.ag.brianlee.fun CNAME .
 cdnnetwork.fun CNAME .
 *.cdnnetwork.fun CNAME .
 chaoxi.fun CNAME .
@@ -20531,8 +20377,6 @@ best-cooking-recipes.info CNAME .
 *.best-cooking-recipes.info CNAME .
 bestvpnprovider.info CNAME .
 *.bestvpnprovider.info CNAME .
-bizfast.info CNAME .
-*.bizfast.info CNAME .
 brazilproxy.info CNAME .
 *.brazilproxy.info CNAME .
 browpay.info CNAME .
@@ -21681,8 +21525,6 @@ benb.ir CNAME .
 *.benb.ir CNAME .
 binamon.ir CNAME .
 *.binamon.ir CNAME .
-qh.cheftayebeh.ir CNAME .
-*.qh.cheftayebeh.ir CNAME .
 coolsitebroughttoyoubyant.cpub.ir CNAME .
 *.coolsitebroughttoyoubyant.cpub.ir CNAME .
 de.deghy.ir CNAME .
@@ -23751,8 +23593,6 @@ archlinuxisthebestlol.baselinux.net CNAME .
 *.archlinuxisthebestlol.baselinux.net CNAME .
 dashboardd.baselinux.net CNAME .
 *.dashboardd.baselinux.net CNAME .
-geektube.baselinux.net CNAME .
-*.geektube.baselinux.net CNAME .
 peninsulaeducation.baselinux.net CNAME .
 *.peninsulaeducation.baselinux.net CNAME .
 studyeasy.baselinux.net CNAME .
@@ -32967,8 +32807,6 @@ avovpn.site CNAME .
 *.avovpn.site CNAME .
 bananaspeed.site CNAME .
 *.bananaspeed.site CNAME .
-adguard.bse4792.site CNAME .
-*.adguard.bse4792.site CNAME .
 bst2200.site CNAME .
 *.bst2200.site CNAME .
 c7484e359297.site CNAME .
@@ -34695,8 +34533,6 @@ wheresyourmoneyhehe.bangerade.us CNAME .
 *.4.baumgardner.us CNAME .
 67.baumgardner.us CNAME .
 *.67.baumgardner.us CNAME .
-bungalow.baumgardner.us CNAME .
-*.bungalow.baumgardner.us CNAME .
 george-is.a-bum.and-me-and-john.are.cool.baumgardner.us CNAME .
 *.george-is.a-bum.and-me-and-john.are.cool.baumgardner.us CNAME .
 desmos.edu.baumgardner.us CNAME .
@@ -34711,8 +34547,6 @@ fern-is.nice.baumgardner.us CNAME .
 *.fern-is.nice.baumgardner.us CNAME .
 bun.s.baumgardner.us CNAME .
 *.bun.s.baumgardner.us CNAME .
-technologicalplantation.baumgardner.us CNAME .
-*.technologicalplantation.baumgardner.us CNAME .
 gn-math.is-annoying.cuz-of.the-soundboard.baumgardner.us CNAME .
 *.gn-math.is-annoying.cuz-of.the-soundboard.baumgardner.us CNAME .
 bensvpn.us CNAME .

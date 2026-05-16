@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 May 2026 09:33 UTC
-# Version: 2026.0516.0933.39
+# Last modified: 16 May 2026 16:57 UTC
+# Version: 2026.0516.1657.27
 # Syntax: Domains (without subdomains)
-# Number of entries: 12769
+# Number of entries: 12764
 #
 hichemtigsetorgy.0fees.net
 tracker.0x7c0.com
@@ -2583,7 +2583,6 @@ batmanstream.watch
 batstream.tv
 bayernstream.com
 bayfiles.com
-bayofpirates.xyz
 bb-tv.org
 bclearning.top
 bd-t.net
@@ -2699,7 +2698,6 @@ bitcomet.com
 bitcorea.org
 bitcountry.com
 bitcq.com
-bitdl.ir
 bitemytorrent.com
 bitenova.org
 bitestreams.net
@@ -2950,7 +2948,6 @@ buffstreams.tv
 bughome.de
 bulextorrent.org
 bulkpeers.com
-bullstresser.com
 bullstresser.net
 bundesliga-streams.net
 bunkr.tv
@@ -3287,7 +3284,6 @@ cineblog01.ws
 cineblog01.wtf
 cineblog01.xn--6frz82g
 cineblog01film.blog
-cineblog02.com
 cinebloom.com
 cinebloom.org
 cinebook.xyz
@@ -3316,9 +3312,7 @@ cinefreak.ch
 cinefreak.my
 cinefreak.net
 cinefreak.top
-cinefreak.tv
 cinefun.co
-cinego.tv
 cinehd.app
 cinehub24.com
 cinema24.tv
@@ -3334,7 +3328,6 @@ cinemagratis.vg
 cinemagratis.ws
 cinemagratis.xyz
 cinemahd.work
-cinemahdv2.io
 cinemaindo.net
 cinemalibero.cafe
 cinemalux.cfd
@@ -7065,6 +7058,7 @@ livesx.eu
 livetv.asia
 livetv.ru
 livetv.sx
+livetv-en.com
 livetv786.pro
 livetv802.me
 livetv806.me
@@ -7384,6 +7378,7 @@ megakino3.com
 megakino3.org
 megakino3.to
 megakino4.com
+megakino4.org
 megakinox.top
 megamanmaker.com
 megamodapk.com

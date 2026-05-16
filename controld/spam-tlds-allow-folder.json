@@ -624,6 +624,13 @@
       }
     },
     {
+      "PK": "blinko.space",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "bolero.bar",
       "action": {
         "do": 1,
@@ -5336,6 +5343,13 @@
     },
     {
       "PK": "social.lol",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sofascore.store",
       "action": {
         "do": 1,
         "status": 1

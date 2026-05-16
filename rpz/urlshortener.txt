@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778919960 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778950560 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 May 2026 08:26 UTC
-; Version: 2026.0516.0826.51
+; Last modified: 16 May 2026 16:56 UTC
+; Version: 2026.0516.1656.57
 ; Syntax: RPZ
-; Number of entries: 19908
+; Number of entries: 19894
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -3559,8 +3559,6 @@ bioandlink.com CNAME .
 *.bioandlink.com CNAME .
 biocardpro.com CNAME .
 *.biocardpro.com CNAME .
-biohoster.com CNAME .
-*.biohoster.com CNAME .
 biolinkexp.com CNAME .
 *.biolinkexp.com CNAME .
 biolinkgo.com CNAME .
@@ -8511,8 +8509,6 @@ shrtn.ee CNAME .
 *.shrtn.ee CNAME .
 stor.ee CNAME .
 *.stor.ee CNAME .
-tiny.ee CNAME .
-*.tiny.ee CNAME .
 tinyurl.ee CNAME .
 *.tinyurl.ee CNAME .
 tr.ee CNAME .
@@ -13827,8 +13823,6 @@ bxl.me CNAME .
 *.bxl.me CNAME .
 bylink.me CNAME .
 *.bylink.me CNAME .
-bzh.me CNAME .
-*.bzh.me CNAME .
 cardinates.me CNAME .
 *.cardinates.me CNAME .
 careem.me CNAME .
@@ -16275,8 +16269,6 @@ proxyrotate.org CNAME .
 *.proxyrotate.org CNAME .
 pushlimit.org CNAME .
 *.pushlimit.org CNAME .
-pymd.org CNAME .
-*.pymd.org CNAME .
 qrcd.org CNAME .
 *.qrcd.org CNAME .
 qrgenerator.org CNAME .
@@ -17323,8 +17315,6 @@ wi.sa CNAME .
 *.wi.sa CNAME .
 doods.sbs CNAME .
 *.doods.sbs CNAME .
-retireetravelcare.sbs CNAME .
-*.retireetravelcare.sbs CNAME .
 shortlink.sbs CNAME .
 *.shortlink.sbs CNAME .
 shortly.sbs CNAME .
@@ -18033,8 +18023,6 @@ snipix.tech CNAME .
 *.snipix.tech CNAME .
 techwizards.tech CNAME .
 *.techwizards.tech CNAME .
-thenews24h.tech CNAME .
-*.thenews24h.tech CNAME .
 vndr.tech CNAME .
 *.vndr.tech CNAME .
 b7.tel CNAME .
@@ -19779,8 +19767,6 @@ jaygo.xyz CNAME .
 *.jaygo.xyz CNAME .
 jepebanget.xyz CNAME .
 *.jepebanget.xyz CNAME .
-kingurl.xyz CNAME .
-*.kingurl.xyz CNAME .
 l6dh.xyz CNAME .
 *.l6dh.xyz CNAME .
 lillink.xyz CNAME .

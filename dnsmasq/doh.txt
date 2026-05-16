@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 May 2026 09:40 UTC
-# Version: 2026.0516.0940.05
+# Last modified: 16 May 2026 16:55 UTC
+# Version: 2026.0516.1655.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3463
+# Number of entries: 3461
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -390,14 +390,12 @@ local=/dns.brahma.world/
 local=/dns.brembeck.cloud/
 local=/dns.briac-mlb.fr/
 local=/dns.system.brianhong.kr/
-local=/ag.brianlee.fun/
 local=/dns.brionesserver.net/
 local=/agh.broaddy.com/
 local=/dns.brono.cloud/
 local=/home.bruckmoser.it/
 local=/81.brudnowski.eu/
 local=/81xyz.brudnowski.eu/
-local=/adguard.bse4792.site/
 local=/doh.bt.com/
 local=/goose.buckyfan.net/
 local=/doh.bugdns.com/

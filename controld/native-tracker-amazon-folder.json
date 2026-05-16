@@ -1814,6 +1814,13 @@
       }
     },
     {
+      "PK": "sponsored-ads-eu.amazon.ae",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "sponsored-ads-eu.amazon.com.tr",
       "action": {
         "do": 0,
@@ -1822,6 +1829,13 @@
     },
     {
       "PK": "sponsored-ads-eu.amazon.de",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sponsored-ads-eu.amazon.eg",
       "action": {
         "do": 0,
         "status": 1

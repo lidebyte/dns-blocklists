@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778923980 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778950620 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 May 2026 09:33 UTC
-; Version: 2026.0516.0933.39
+; Last modified: 16 May 2026 16:57 UTC
+; Version: 2026.0516.1657.27
 ; Syntax: RPZ
-; Number of entries: 25538
+; Number of entries: 25528
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -4002,8 +4002,6 @@ csite.bugs3.com CNAME .
 *.csite.bugs3.com CNAME .
 bulkpeers.com CNAME .
 *.bulkpeers.com CNAME .
-bullstresser.com CNAME .
-*.bullstresser.com CNAME .
 bushtorrent.com CNAME .
 *.bushtorrent.com CNAME .
 butterflyapk.com CNAME .
@@ -4088,8 +4086,6 @@ cineblog-01.com CNAME .
 *.cineblog-01.com CNAME .
 cineblog01.com CNAME .
 *.cineblog01.com CNAME .
-cineblog02.com CNAME .
-*.cineblog02.com CNAME .
 cinebloom.com CNAME .
 *.cinebloom.com CNAME .
 cinebto.com CNAME .
@@ -6082,6 +6078,8 @@ livescorehunter.com CNAME .
 *.livescorehunter.com CNAME .
 livesoccertv.com CNAME .
 *.livesoccertv.com CNAME .
+livetv-en.com CNAME .
+*.livetv-en.com CNAME .
 livingtorrents.com CNAME .
 *.livingtorrents.com CNAME .
 lizaonlinebd.com CNAME .
@@ -12002,8 +12000,6 @@ capcutmod.io CNAME .
 *.capcutmod.io CNAME .
 cineblog01.io CNAME .
 *.cineblog01.io CNAME .
-cinemahdv2.io CNAME .
-*.cinemahdv2.io CNAME .
 clashofmagic.io CNAME .
 *.clashofmagic.io CNAME .
 cloudboxes.io CNAME .
@@ -12218,8 +12214,6 @@ z-lib.io CNAME .
 *.z-lib.io CNAME .
 zetorrents.io CNAME .
 *.zetorrents.io CNAME .
-bitdl.ir CNAME .
-*.bitdl.ir CNAME .
 clubfilm.ir CNAME .
 *.clubfilm.ir CNAME .
 srv5.digiboy.ir CNAME .
@@ -17912,6 +17906,8 @@ megakino2.org CNAME .
 *.megakino2.org CNAME .
 megakino3.org CNAME .
 *.megakino3.org CNAME .
+megakino4.org CNAME .
+*.megakino4.org CNAME .
 meganova.org CNAME .
 *.meganova.org CNAME .
 megapeer.org CNAME .
@@ -23264,10 +23260,6 @@ choice1ip.tv CNAME .
 *.choice1ip.tv CNAME .
 cineblog01.tv CNAME .
 *.cineblog01.tv CNAME .
-cinefreak.tv CNAME .
-*.cinefreak.tv CNAME .
-cinego.tv CNAME .
-*.cinego.tv CNAME .
 cinema24.tv CNAME .
 *.cinema24.tv CNAME .
 cinemitas.tv CNAME .
@@ -25050,8 +25042,6 @@ azmovies.xyz CNAME .
 *.azmovies.xyz CNAME .
 badshahuploads.xyz CNAME .
 *.badshahuploads.xyz CNAME .
-bayofpirates.xyz CNAME .
-*.bayofpirates.xyz CNAME .
 tracker.bittor.xyz CNAME .
 *.tracker.bittor.xyz CNAME .
 tracker.blackunicorn.xyz CNAME .

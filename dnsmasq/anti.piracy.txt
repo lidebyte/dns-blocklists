@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 May 2026 09:33 UTC
-# Version: 2026.0516.0933.39
+# Last modified: 16 May 2026 16:57 UTC
+# Version: 2026.0516.1657.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12769
+# Number of entries: 12764
 #
 local=/hichemtigsetorgy.0fees.net/
 local=/tracker.0x7c0.com/
@@ -2583,7 +2583,6 @@ local=/batmanstream.watch/
 local=/batstream.tv/
 local=/bayernstream.com/
 local=/bayfiles.com/
-local=/bayofpirates.xyz/
 local=/bb-tv.org/
 local=/bclearning.top/
 local=/bd-t.net/
@@ -2699,7 +2698,6 @@ local=/bitcomet.com/
 local=/bitcorea.org/
 local=/bitcountry.com/
 local=/bitcq.com/
-local=/bitdl.ir/
 local=/bitemytorrent.com/
 local=/bitenova.org/
 local=/bitestreams.net/
@@ -2950,7 +2948,6 @@ local=/buffstreams.tv/
 local=/bughome.de/
 local=/bulextorrent.org/
 local=/bulkpeers.com/
-local=/bullstresser.com/
 local=/bullstresser.net/
 local=/bundesliga-streams.net/
 local=/bunkr.tv/
@@ -3287,7 +3284,6 @@ local=/cineblog01.ws/
 local=/cineblog01.wtf/
 local=/cineblog01.xn--6frz82g/
 local=/cineblog01film.blog/
-local=/cineblog02.com/
 local=/cinebloom.com/
 local=/cinebloom.org/
 local=/cinebook.xyz/
@@ -3316,9 +3312,7 @@ local=/cinefreak.ch/
 local=/cinefreak.my/
 local=/cinefreak.net/
 local=/cinefreak.top/
-local=/cinefreak.tv/
 local=/cinefun.co/
-local=/cinego.tv/
 local=/cinehd.app/
 local=/cinehub24.com/
 local=/cinema24.tv/
@@ -3334,7 +3328,6 @@ local=/cinemagratis.vg/
 local=/cinemagratis.ws/
 local=/cinemagratis.xyz/
 local=/cinemahd.work/
-local=/cinemahdv2.io/
 local=/cinemaindo.net/
 local=/cinemalibero.cafe/
 local=/cinemalux.cfd/
@@ -7065,6 +7058,7 @@ local=/livesx.eu/
 local=/livetv.asia/
 local=/livetv.ru/
 local=/livetv.sx/
+local=/livetv-en.com/
 local=/livetv786.pro/
 local=/livetv802.me/
 local=/livetv806.me/
@@ -7384,6 +7378,7 @@ local=/megakino3.com/
 local=/megakino3.org/
 local=/megakino3.to/
 local=/megakino4.com/
+local=/megakino4.org/
 local=/megakinox.top/
 local=/megamanmaker.com/
 local=/megamodapk.com/

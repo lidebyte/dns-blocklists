@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 May 2026 17:05 UTC
-# Version: 2026.0515.1705.09
+# Last modified: 16 May 2026 17:05 UTC
+# Version: 2026.0516.1705.51
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 341
+# Number of entries: 343
 #
 *.aan.amazon.co.jp
 *.aan.amazon.co.uk
@@ -259,8 +259,10 @@
 *.sonar.prime-video.amazon.dev
 *.sponsored-ads-eu-south-2.amazon-adsystem.com
 *.sponsored-ads-eu.amazon-adsystem.com
+*.sponsored-ads-eu.amazon.ae
 *.sponsored-ads-eu.amazon.com.tr
 *.sponsored-ads-eu.amazon.de
+*.sponsored-ads-eu.amazon.eg
 *.sponsored-ads-eu.amazon.nl
 *.sponsored-ads-eu.amazon.pl
 *.sponsored-ads-fe.amazon-adsystem.com

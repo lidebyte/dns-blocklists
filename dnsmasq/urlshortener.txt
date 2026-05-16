@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 May 2026 08:26 UTC
-# Version: 2026.0516.0826.51
+# Last modified: 16 May 2026 16:56 UTC
+# Version: 2026.0516.1656.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9954
+# Number of entries: 9947
 #
 local=/a.189.cn/
 local=/t.2merkato.com/
@@ -1931,7 +1931,6 @@ local=/biocardpro.com/
 local=/bioclick.net/
 local=/biofy.ai/
 local=/biofy.bio/
-local=/biohoster.com/
 local=/biohub.me/
 local=/biolink.blog/
 local=/biolink.cloud/
@@ -2252,7 +2251,6 @@ local=/bytr.ee/
 local=/byuroscope.com/
 local=/bz9.com/
 local=/bzfd.it/
-local=/bzh.me/
 local=/c-o.in/
 local=/c1.to/
 local=/c11.kr/
@@ -4508,7 +4506,6 @@ local=/kilat.ink/
 local=/kilat.io/
 local=/kimmel.trade/
 local=/kings.tn/
-local=/kingurl.xyz/
 local=/kinky-pipes.com/
 local=/kinnto.me/
 local=/kirimlink.com/
@@ -6553,7 +6550,6 @@ local=/py.md/
 local=/py6.ru/
 local=/pygy.co/
 local=/pym.se/
-local=/pymd.org/
 local=/pymoinfo.com/
 local=/pyt.app/
 local=/pzdls.co/
@@ -6873,7 +6869,6 @@ local=/reshortfly.com/
 local=/resvoice.com/
 local=/reten.net/
 local=/rethinktw.cc/
-local=/retireetravelcare.sbs/
 local=/retont.link/
 local=/reurl.cc/
 local=/reurl.in/
@@ -8274,7 +8269,6 @@ local=/thekreww.com/
 local=/thelegends.land/
 local=/thelinkmaster.com/
 local=/themestub.com/
-local=/thenews24h.tech/
 local=/theorist.media/
 local=/theposhed.com/
 local=/thesa.us/
@@ -8354,7 +8348,6 @@ local=/tinurl.pro/
 local=/tiny.ae/
 local=/tiny.cc/
 local=/tiny.do/
-local=/tiny.ee/
 local=/tiny.lt/
 local=/tiny.ms/
 local=/tiny.one/

@@ -763,6 +763,13 @@
       }
     },
     {
+      "PK": "blinko.space",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.blue",
       "action": {
         "do": 0,
@@ -6987,6 +6994,13 @@
     },
     {
       "PK": "social.lol",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sofascore.store",
       "action": {
         "do": 1,
         "status": 1
