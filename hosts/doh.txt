@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 May 2026 16:55 UTC
-# Version: 2026.0516.1655.27
+# Last modified: 17 May 2026 09:41 UTC
+# Version: 2026.0517.0941.38
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3923
+# Number of entries: 3915
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -743,13 +743,8 @@
 0.0.0.0 dns-one.lins.co.tt
 0.0.0.0 dns-three.lins.co.tt
 0.0.0.0 guard.lumusimc.co.uk
-0.0.0.0 adg.mnml.co.in
 0.0.0.0 dns.neilzone.co.uk
-0.0.0.0 dns.nerdytechgeeks.co.za
-0.0.0.0 ns.nerdytechgeeks.co.za
-0.0.0.0 ns01.nerdytechgeeks.co.za
 0.0.0.0 ns02.nerdytechgeeks.co.za
-0.0.0.0 ns03.nerdytechgeeks.co.za
 0.0.0.0 home.norvrandt.co.uk
 0.0.0.0 dns.nzxti5.co.uk
 0.0.0.0 dns.oliviertv.co.za
@@ -1453,7 +1448,6 @@
 0.0.0.0 duyyen.tk
 0.0.0.0 dvgarm.com
 0.0.0.0 atlantic.dyn1.de
-0.0.0.0 dns.dyn1.de
 0.0.0.0 akhilkalwakurthy.dyndns.org
 0.0.0.0 ueni.dyndns.org
 0.0.0.0 roucious.dyndns-remote.com
@@ -1463,7 +1457,6 @@
 0.0.0.0 flyloadguard.dynu.net
 0.0.0.0 quangdo92.dynu.net
 0.0.0.0 saomai.dynu.com
-0.0.0.0 dns.dynx.pro
 0.0.0.0 adg.dz.ax
 0.0.0.0 az.dz4fun.top
 0.0.0.0 dns.dzkji.cn
@@ -1505,7 +1498,6 @@
 0.0.0.0 enclosr.co
 0.0.0.0 gdns.end.pub
 0.0.0.0 hk.end.pub
-0.0.0.0 adguard.ender.fr
 0.0.0.0 dns.engineer-lib.ru
 0.0.0.0 dnssec.dns.enginyring.com
 0.0.0.0 dns01.enginyring.com

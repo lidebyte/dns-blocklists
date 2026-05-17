@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778950560 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779006480 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 May 2026 16:56 UTC
-; Version: 2026.0516.1656.57
+; Last modified: 17 May 2026 08:28 UTC
+; Version: 2026.0517.0828.20
 ; Syntax: RPZ
-; Number of entries: 19894
+; Number of entries: 19878
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2455,8 +2455,6 @@ do.co CNAME .
 *.do.co CNAME .
 dotsth.co CNAME .
 *.dotsth.co CNAME .
-dprox.co CNAME .
-*.dprox.co CNAME .
 drte.co CNAME .
 *.drte.co CNAME .
 dtdg.co CNAME .
@@ -4193,8 +4191,6 @@ earn4url.com CNAME .
 *.earn4url.com CNAME .
 earnestwiles.com CNAME .
 *.earnestwiles.com CNAME .
-earnpays.com CNAME .
-*.earnpays.com CNAME .
 earnshortly.com CNAME .
 *.earnshortly.com CNAME .
 earnwithlink.com CNAME .
@@ -4313,8 +4309,6 @@ fansurl.com CNAME .
 *.fansurl.com CNAME .
 fashionparklanka.com CNAME .
 *.fashionparklanka.com CNAME .
-fast-linker.com CNAME .
-*.fast-linker.com CNAME .
 fastserp.com CNAME .
 *.fastserp.com CNAME .
 fasttory.com CNAME .
@@ -8325,8 +8319,6 @@ url.sae.digital CNAME .
 *.url.sae.digital CNAME .
 sieduc.digital CNAME .
 *.sieduc.digital CNAME .
-dfds.direct CNAME .
-*.dfds.direct CNAME .
 lnk.direct CNAME .
 *.lnk.direct CNAME .
 sub.direct CNAME .
@@ -8745,8 +8737,6 @@ xy2.eu CNAME .
 *.xy2.eu CNAME .
 yeca.eu CNAME .
 *.yeca.eu CNAME .
-dfds.events CNAME .
-*.dfds.events CNAME .
 gscc.events CNAME .
 *.gscc.events CNAME .
 jackson.events CNAME .
@@ -8869,8 +8859,6 @@ crwd.fr CNAME .
 *.crwd.fr CNAME .
 cybr.fr CNAME .
 *.cybr.fr CNAME .
-doxane.fr CNAME .
-*.doxane.fr CNAME .
 url.enepe.fr CNAME .
 *.url.enepe.fr CNAME .
 etkt.fr CNAME .
@@ -10341,8 +10329,6 @@ earthtoday.info CNAME .
 *.earthtoday.info CNAME .
 easybio.info CNAME .
 *.easybio.info CNAME .
-edmno1.info CNAME .
-*.edmno1.info CNAME .
 f-internal.info CNAME .
 *.f-internal.info CNAME .
 fooji.info CNAME .
@@ -12555,8 +12541,6 @@ d138.link CNAME .
 *.d138.link CNAME .
 d2eak.link CNAME .
 *.d2eak.link CNAME .
-dardz.link CNAME .
-*.dardz.link CNAME .
 delphin.link CNAME .
 *.delphin.link CNAME .
 digily.link CNAME .

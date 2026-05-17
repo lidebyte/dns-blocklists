@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778950500 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779010860 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 May 2026 16:55 UTC
-; Version: 2026.0516.1655.27
+; Last modified: 17 May 2026 09:41 UTC
+; Version: 2026.0517.0941.38
 ; Syntax: RPZ
-; Number of entries: 6922
+; Number of entries: 6906
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -2053,8 +2053,6 @@ dukun.de CNAME .
 *.dukun.de CNAME .
 atlantic.dyn1.de CNAME .
 *.atlantic.dyn1.de CNAME .
-dns.dyn1.de CNAME .
-*.dns.dyn1.de CNAME .
 dns.internal.espresso-tasse.de CNAME .
 *.dns.internal.espresso-tasse.de CNAME .
 opennic1.eth-services.de CNAME .
@@ -2607,8 +2605,6 @@ adguardhome.fr.couli.fr CNAME .
 *.adguardhome.fr.couli.fr CNAME .
 dns.dgea.fr CNAME .
 *.dns.dgea.fr CNAME .
-adguard.ender.fr CNAME .
-*.adguard.ender.fr CNAME .
 dns.epcot.fr CNAME .
 *.dns.epcot.fr CNAME .
 ns0.fdn.fr CNAME .
@@ -2969,8 +2965,6 @@ dns.bofh.in CNAME .
 *.2.dnscrypt-cert.captnemo.in CNAME .
 doh.captnemo.in CNAME .
 *.doh.captnemo.in CNAME .
-adg.mnml.co.in CNAME .
-*.adg.mnml.co.in CNAME .
 sbdns.co.in CNAME .
 *.sbdns.co.in CNAME .
 sols.co.in CNAME .
@@ -5205,8 +5199,6 @@ cober-sky.pro CNAME .
 *.cober-sky.pro CNAME .
 drahonn.pro CNAME .
 *.drahonn.pro CNAME .
-dns.dynx.pro CNAME .
-*.dns.dynx.pro CNAME .
 gl33tch.pro CNAME .
 *.gl33tch.pro CNAME .
 httpdns.pro CNAME .
@@ -6919,16 +6911,8 @@ pihole.datamatter.co.za CNAME .
 *.pihole.datamatter.co.za CNAME .
 gn-z11.franscois.co.za CNAME .
 *.gn-z11.franscois.co.za CNAME .
-dns.nerdytechgeeks.co.za CNAME .
-*.dns.nerdytechgeeks.co.za CNAME .
-ns.nerdytechgeeks.co.za CNAME .
-*.ns.nerdytechgeeks.co.za CNAME .
-ns01.nerdytechgeeks.co.za CNAME .
-*.ns01.nerdytechgeeks.co.za CNAME .
 ns02.nerdytechgeeks.co.za CNAME .
 *.ns02.nerdytechgeeks.co.za CNAME .
-ns03.nerdytechgeeks.co.za CNAME .
-*.ns03.nerdytechgeeks.co.za CNAME .
 dns.oliviertv.co.za CNAME .
 *.dns.oliviertv.co.za CNAME .
 pooblet.co.za CNAME .

@@ -1744,6 +1744,13 @@
       }
     },
     {
+      "PK": "esc.vote",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "ethics.bar",
       "action": {
         "do": 1,

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 May 2026 16:55 UTC
-# Version: 2026.0516.1655.27
+# Last modified: 17 May 2026 09:41 UTC
+# Version: 2026.0517.0941.38
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3923
+# Number of entries: 3915
 #
 ss.0001.xyz
 003153.xyz
@@ -743,13 +743,8 @@ dns2.kloiber.co.at
 dns-one.lins.co.tt
 dns-three.lins.co.tt
 guard.lumusimc.co.uk
-adg.mnml.co.in
 dns.neilzone.co.uk
-dns.nerdytechgeeks.co.za
-ns.nerdytechgeeks.co.za
-ns01.nerdytechgeeks.co.za
 ns02.nerdytechgeeks.co.za
-ns03.nerdytechgeeks.co.za
 home.norvrandt.co.uk
 dns.nzxti5.co.uk
 dns.oliviertv.co.za
@@ -1453,7 +1448,6 @@ www.dupatruwi22.fun
 duyyen.tk
 dvgarm.com
 atlantic.dyn1.de
-dns.dyn1.de
 akhilkalwakurthy.dyndns.org
 ueni.dyndns.org
 roucious.dyndns-remote.com
@@ -1463,7 +1457,6 @@ adguard.ekhozie.dynu.net
 flyloadguard.dynu.net
 quangdo92.dynu.net
 saomai.dynu.com
-dns.dynx.pro
 adg.dz.ax
 az.dz4fun.top
 dns.dzkji.cn
@@ -1505,7 +1498,6 @@ emmmmm.me
 enclosr.co
 gdns.end.pub
 hk.end.pub
-adguard.ender.fr
 dns.engineer-lib.ru
 dnssec.dns.enginyring.com
 dns01.enginyring.com

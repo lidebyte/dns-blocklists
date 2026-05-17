@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 May 2026 08:09 UTC
-# Version: 2026.0516.0809.48
+# Last modified: 17 May 2026 08:11 UTC
+# Version: 2026.0517.0811.36
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2309
+# Number of entries: 2322
 #
 1-aclk.net
 1aurl.io
@@ -244,6 +244,7 @@ seu.cleverreach.com
 19706.seu.cleverreach.com
 20791.seu.cleverreach.com
 22503.seu.cleverreach.com
+22777.seu.cleverreach.com
 228301.seu.cleverreach.com
 23196.seu.cleverreach.com
 2561.seu.cleverreach.com
@@ -280,6 +281,7 @@ seu1.cleverreach.com
 51881.seu1.cleverreach.com
 52586.seu1.cleverreach.com
 52908.seu1.cleverreach.com
+54253.seu1.cleverreach.com
 54310.seu1.cleverreach.com
 56240.seu1.cleverreach.com
 57361.seu1.cleverreach.com
@@ -300,6 +302,7 @@ seu1.cleverreach.com
 79558.seu1.cleverreach.com
 175597.84296.seu1.cleverreach.com
 85516.seu1.cleverreach.com
+87841.seu1.cleverreach.com
 88974.seu1.cleverreach.com
 90461.seu1.cleverreach.com
 seu2.cleverreach.com
@@ -704,6 +707,7 @@ open.convertkit-mail4.com
 3c5984bd.open.convertkit-mail4.com
 51ce15f1.open.convertkit-mail4.com
 59b90e10.open.convertkit-mail4.com
+5e38c6c1.open.convertkit-mail4.com
 61475545.open.convertkit-mail4.com
 6198ed19.open.convertkit-mail4.com
 708149f7.open.convertkit-mail4.com
@@ -741,6 +745,7 @@ preferences.convertkit-mail4.com
 preview.convertkit-mail4.com
 unsubscribe.convertkit-mail4.com
 06dea2c1.unsubscribe.convertkit-mail4.com
+104ffb11.unsubscribe.convertkit-mail4.com
 e4c5c2ea.unsubscribe.convertkit-mail4.com
 data.digital.costco.ca
 data.digital.costco.com
@@ -987,6 +992,7 @@ bounce.s12.exacttarget.com
 click.s12.exacttarget.com
 mc.s12.exacttarget.com
 members.s12.exacttarget.com
+pub.s12.exacttarget.com
 reply.s12.exacttarget.com
 virt.s12.exacttarget.com
 click.virt.s12.exacttarget.com
@@ -1227,6 +1233,7 @@ sites.hscoscdn-eu1.net
 25385986.sites.hscoscdn-eu1.net
 25399637.sites.hscoscdn-eu1.net
 25500997.sites.hscoscdn-eu1.net
+25579174.sites.hscoscdn-eu1.net
 25608636.sites.hscoscdn-eu1.net
 25696692.sites.hscoscdn-eu1.net
 25758250.sites.hscoscdn-eu1.net
@@ -1247,6 +1254,7 @@ sites.hscoscdn-eu1.net
 26742987.sites.hscoscdn-eu1.net
 26743233.sites.hscoscdn-eu1.net
 26750902.sites.hscoscdn-eu1.net
+26760064.sites.hscoscdn-eu1.net
 26826924.sites.hscoscdn-eu1.net
 27001291.sites.hscoscdn-eu1.net
 27031067.sites.hscoscdn-eu1.net
@@ -1261,6 +1269,7 @@ group0.sites.hscoscdn-eu1.net
 143338098.group0.sites.hscoscdn-eu1.net
 143439914.group0.sites.hscoscdn-eu1.net
 143611028.group0.sites.hscoscdn-eu1.net
+143803951.group0.sites.hscoscdn-eu1.net
 143958517.group0.sites.hscoscdn-eu1.net
 144368567.group0.sites.hscoscdn-eu1.net
 144395336.group0.sites.hscoscdn-eu1.net
@@ -1271,6 +1280,8 @@ group0.sites.hscoscdn-eu1.net
 145609858.group0.sites.hscoscdn-eu1.net
 145642586.group0.sites.hscoscdn-eu1.net
 145725822.group0.sites.hscoscdn-eu1.net
+145830670.group0.sites.hscoscdn-eu1.net
+145884520.group0.sites.hscoscdn-eu1.net
 145892027.group0.sites.hscoscdn-eu1.net
 145935456.group0.sites.hscoscdn-eu1.net
 146229325.group0.sites.hscoscdn-eu1.net
@@ -1648,6 +1659,7 @@ mkto-ab660168.com
 mkto-ab690011.com
 mkto-ab690019.com
 mkto-ab690062.com
+mkto-ab690132.com
 mkto-ab700044.com
 mkto-abc0038.com
 mkto-abc0114.com
@@ -1702,6 +1714,7 @@ mkto-nld1030007.com
 mkto-nld1040017.com
 mkto-nld1040152.com
 mkto-nld1040186.com
+mkto-nld1050007.com
 mkto-nld1050103.com
 mkto-o0039.com
 mkto-p0016.com

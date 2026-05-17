@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 May 2026 16:56 UTC
-# Version: 2026.0516.1656.57
+# Last modified: 17 May 2026 08:28 UTC
+# Version: 2026.0517.0828.20
 # Syntax: Domains (without subdomains)
-# Number of entries: 9947
+# Number of entries: 9939
 #
 a.189.cn
 t.2merkato.com
@@ -2796,7 +2796,6 @@ dalinksavad.eu
 damoro.ro
 dandy.dental
 dar.vin
-dardz.link
 dasb.io
 dat.bio
 data-linkup.com
@@ -2861,8 +2860,6 @@ devkaffe.com
 devo.team
 devtoolscrape.com
 df-sports.com
-dfds.direct
-dfds.events
 dfemscnmi.org
 dfgameplay.com
 dfkr77.com
@@ -2975,14 +2972,12 @@ douyin.team
 dow.la
 downbe.com
 downloadtonic.com
-doxane.fr
 dp0.in
 dpb.fm
 dpb.link
 dpba2404.com
 dpmd.ai
 dpo.st
-dprox.co
 dps.media
 dpuplet.net
 dqr4.org
@@ -3081,7 +3076,6 @@ earn4url.com
 earnesst.website
 earnestwiles.com
 earnfly.net
-earnpays.com
 earnshort.site
 earnshortly.com
 earnwithlink.com
@@ -3120,7 +3114,6 @@ edh.kr
 edin.ac
 editricity.xyz
 edl.io
-edmno1.info
 edne.tw
 ednn.link
 edocs.co
@@ -3311,7 +3304,6 @@ fansurl.com
 faras.link
 fars.ee
 fashionparklanka.com
-fast-linker.com
 fastbio.app
 fastfilehost.link
 fasthouse.me

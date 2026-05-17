@@ -2317,6 +2317,13 @@
       }
     },
     {
+      "PK": "esc.vote",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.esq",
       "action": {
         "do": 0,

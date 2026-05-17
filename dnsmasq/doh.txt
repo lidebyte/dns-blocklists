@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 May 2026 16:55 UTC
-# Version: 2026.0516.1655.27
+# Last modified: 17 May 2026 09:41 UTC
+# Version: 2026.0517.0941.38
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3461
+# Number of entries: 3453
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -521,13 +521,8 @@ local=/dns2.kloiber.co.at/
 local=/dns-one.lins.co.tt/
 local=/dns-three.lins.co.tt/
 local=/guard.lumusimc.co.uk/
-local=/adg.mnml.co.in/
 local=/dns.neilzone.co.uk/
-local=/dns.nerdytechgeeks.co.za/
-local=/ns.nerdytechgeeks.co.za/
-local=/ns01.nerdytechgeeks.co.za/
 local=/ns02.nerdytechgeeks.co.za/
-local=/ns03.nerdytechgeeks.co.za/
 local=/home.norvrandt.co.uk/
 local=/dns.nzxti5.co.uk/
 local=/dns.oliviertv.co.za/
@@ -1055,7 +1050,6 @@ local=/x861g.duckdns.org/
 local=/dns.dumk.in/
 local=/adguard.duongphuckhanh.dev/
 local=/atlantic.dyn1.de/
-local=/dns.dyn1.de/
 local=/akhilkalwakurthy.dyndns.org/
 local=/ueni.dyndns.org/
 local=/roucious.dyndns-remote.com/
@@ -1065,7 +1059,6 @@ local=/ccadguard.dynu.net/
 local=/flyloadguard.dynu.net/
 local=/quangdo92.dynu.net/
 local=/saomai.dynu.com/
-local=/dns.dynx.pro/
 local=/adg.dz.ax/
 local=/az.dz4fun.top/
 local=/dns.dzkji.cn/
@@ -1100,7 +1093,6 @@ local=/adguard.elrobit.com/
 local=/nas.embraced.co/
 local=/gdns.end.pub/
 local=/hk.end.pub/
-local=/adguard.ender.fr/
 local=/dns.engineer-lib.ru/
 local=/dnssec.dns.enginyring.com/
 local=/dns01.enginyring.com/

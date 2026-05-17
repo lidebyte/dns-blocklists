@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 May 2026 16:56 UTC
-# Version: 2026.0516.1656.13
+# Last modified: 17 May 2026 09:42 UTC
+# Version: 2026.0517.0942.21
 # Syntax: Domains (without subdomains)
-# Number of entries: 18285
+# Number of entries: 18121
 #
 ss.0001.xyz
 ilovethiswebsite.001-lab.space
@@ -1234,7 +1234,6 @@ cvt-ic-us-adns-001.clearviewtechnology.net
 midns.clicinternet.com
 dns.clickhost.xyz
 dns.clickitsolutionsllc.com
-henrialbrechtisdumb.clienturl.net
 vps.cloaknet.eu
 linewize9w8didjdsowjsi.clocking.ro
 yawn.affable.cloud-ip.cc
@@ -1999,13 +1998,8 @@ saudisdumb.lightingonline.co.za
 dns-one.lins.co.tt
 dns-three.lins.co.tt
 guard.lumusimc.co.uk
-adg.mnml.co.in
 dns.neilzone.co.uk
-dns.nerdytechgeeks.co.za
-ns.nerdytechgeeks.co.za
-ns01.nerdytechgeeks.co.za
 ns02.nerdytechgeeks.co.za
-ns03.nerdytechgeeks.co.za
 home.norvrandt.co.uk
 arthi.rajmohan.nowhearthis.co.uk
 apple11.nowhearthis.co.uk
@@ -2016,7 +2010,6 @@ chrismylove.qr-code.co.za
 lightspeed.qr-code.co.za
 mathnotes.qr-code.co.za
 nd.qr-code.co.za
-tb.qr-code.co.za
 dns.rawalker.co.nz
 constructionneeded.roader247assist.co.za
 akanethegoat.sentinet.co.za
@@ -2055,7 +2048,6 @@ wish.i.knew.webconstructions.co.uk
 pizza.pizza.webconstructions.co.uk
 apple1.willemvisser.co.za
 new.willemvisser.co.za
-novastats.willemvisser.co.za
 overcloakedontop.willemvisser.co.za
 science.willemvisser.co.za
 evilajhbbgboiii.wiltscomputers.co.uk
@@ -2114,7 +2106,6 @@ vpnguide.co.cc
 vpnmailvista.co.cc
 vpnofanti.co.cc
 vpnoffice.co.cc
-webproxy.co.at
 windler.co.uk
 football.coaching2lead.com
 leglamp.coaching2lead.com
@@ -2159,7 +2150,6 @@ weloveplayernation.bfcontrol.com.mx
 tasks.media.bianchetti.com.ar
 ugh.binodbabusharma.com.np
 test.businessconnect.com.tr
-hai.carladutra.com.br
 tome.carladutra.com.br
 blankdocument.cassain.com.ar
 dns.ceai.com.tw
@@ -2170,7 +2160,6 @@ tailsmasterplan.comtek.com.ar
 study.construtoradantas.com.br
 dns.damlayayinevi.com.tr
 cd.data-express.com.ar
-ud.data-express.com.ar
 college.deltacompy.com.br
 equatorial.deltacompy.com.br
 high.deltacompy.com.br
@@ -2179,13 +2168,10 @@ learninghub.deltacompy.com.br
 gabogioa.destroyerkisscover.com.br
 how2math.destroyerkisscover.com.br
 man.destroyerkisscover.com.br
-notes.destroyerkisscover.com.br
 pneeiu.destroyerkisscover.com.br
 vcxyui.destroyerkisscover.com.br
 dining.dipeshshahi.com.np
 adguard.doranpierst.com.tr
-dev.playernation.drsanjay.com.au
-freshhistory.drsanjay.com.au
 qwertyuiop0987654321.eugenes.com.mx
 pleaseworkiwantutopia.faizinternational.com.np
 tests.teach.fullsense.com.br
@@ -2194,7 +2180,6 @@ adguard.gbrossi.com.br
 gngstopblockinmyshi.geetabasyal.com.np
 texasmatheducation.geetabasyal.com.np
 voidnrtowkr93urridudi.geetabasyal.com.np
-ovcsatober.germanbisogno.com.ar
 waguri.giriprakash.com.np
 espanol-de-la-class-4a.gitadhakal.com.np
 btg.go4it.com.mx
@@ -2207,21 +2192,12 @@ vcsa.goodfox.com.br
 dns2.gregoret.com.ar
 grade.major.grupoinca.com.pe
 blackhole.gugainfo.com.br
-bigmonmon22.gyanguragain.com.np
 dns.hub.com.de
 adguardcloud.iasm.com.ar
 mathh.img.com.ar
 testing.schoology.status.jorgelisboaantunes.com.br
 english.jsalfa.com.ar
 tasks.know.kabindrakajibajracharya.com.np
-gurgle.kalbas.com.vn
-faraway.khanalashok.com.np
-anotheroneforyou.knowhowit.com.au
-ifurlookingatthisurblah.knowhowit.com.au
-thisisforyouking.knowhowit.com.au
-urnejesnejfndh.knowhowit.com.au
-wearejustbored.knowhowit.com.au
-wearerhebeat9e48373.knowhowit.com.au
 dns.koretech.com.br
 dnssp.koretech.com.br
 arrakis.korolyzer.com.br
@@ -2252,8 +2228,6 @@ interstellar.nana.mza.com.ar
 bleakly.mza.com.ar
 ixl.mza.com.ar
 garlandisd.nabinshahi.com.np
-subscribevcsa.navarajbudha.com.np
-welove.playernation.navarajdhungana.com.np
 ixlmath.nembahadurraskoti.com.np
 dns.netraptor.com.au
 vcsa.nextcomm.com.ar
@@ -2303,7 +2277,6 @@ booking.traveling.com.ar
 edu.ts-me.com.my
 kj7.ts-me.com.my
 youtwo.ts-me.com.my
-selenitetransportcorporation.stc.com.tuintransporte.com.ar
 waguri.vancorp.com.au
 help.vantagestrategy.com.au
 doh.viatech.com.tw
@@ -2376,10 +2349,8 @@ easy-vpn.comodo.com
 3.computerne.com
 base.goal.computersforpeace.net
 nothing.computersforpeace.net
-vcsa.computersforpeace.net
 save.compy.ca
 hk.conana.info
-mathlessons.conifera.cl
 dns1.conne.net
 dns.connect.fail
 dns.consoro.eu
@@ -2404,7 +2375,6 @@ pure-mind-992.conwordable.com
 short-star-790.conwordable.com
 smart-river-784.conwordable.com
 wise-wind-366.conwordable.com
-cooca.coola.tw
 dns.cooluc.com
 sillygoose.coral-shop.ro
 dns.corefusion.xyz
@@ -2413,7 +2383,6 @@ real.coremindx.com
 doh.cornes.me
 doh.corpa.me
 resolve.corpa.me
-peace.corporateadworld.com
 proxy.corsfix.com
 waguri.corti.to
 adguardhome.fr.couli.fr
@@ -2429,12 +2398,10 @@ b.cpfrx.info
 c.cpfrx.info
 e.cpfrx.info
 104-36-85-232.cprapid.com
-coolsitebroughttoyoubyant.cpub.ir
 doh.cq0.co
 aboot.blank.crabdance.com
 hola.colom.378.com.crabdance.com
 crab-dance.com.crabdance.com
-goguardian-vs-iboss.com.crabdance.com
 moc.ecnadbarc.crabdance.com
 ourschooliscool.bg.geekarouny.crabdance.com
 la.manchaland.crabdance.com
@@ -2452,14 +2419,10 @@ joesproxy.crabdance.com
 kaidenb.crabdance.com
 learningcreativethinking.crabdance.com
 lickingheights.crabdance.com
-lmasalaka.crabdance.com
 maselivolovesscience.crabdance.com
 mroybtnd.crabdance.com
 nrusimha.crabdance.com
-qwertyblaher.crabdance.com
 random12.crabdance.com
-sixseven6swan.crabdance.com
-timfplhtaw.crabdance.com
 utopiaunblocker.crabdance.com
 clever.com.santi.craftleds.com
 history.grade.cranbury.info
@@ -2496,7 +2459,6 @@ teaching944.cspcorp.com
 duck.csproject.org
 dns.csswg.org
 grimace-shake.skibidi-rizz-gyatt-fanum-tax-sigma-ohio.ct.ws
-helios-browser.ct.ws
 joinpd.ctx.cl
 vynox.ctx.cl
 webdav.cubecloud.win
@@ -2532,7 +2494,6 @@ dns.danamas.net
 logs.danamas.net
 6301s.dangkiem.com
 ire.danielfreyr.com
-extremmathgames.danielrcrawford.com
 dns.home.daniil.it
 adguard.dantynes.cyou
 www-proxy.dariomingio.it
@@ -2635,7 +2596,6 @@ fittfi.ddnsgeek.com
 noads.ddnsgeek.com
 pro-3.ddnsgeek.com
 greenfn.ddnshost.ing
-readingtime.ddnshost.ing
 xx3madethis.ddnsking.com
 dns.xyz.ddnss.eu
 learnsowashcoorg.ddnss.org
@@ -2647,9 +2607,7 @@ kevinss-us-1.kevinss886.de5.net
 dns.deadsec.net
 vps.deckberg.de
 dns.decky.eu
-te.decolores.cl
 67hub.decoro.cl
-scientific.decoro.cl
 dns.dedsuts.com
 dns.skous.dedyn.io
 c9.dedyn.io
@@ -2663,7 +2621,6 @@ wiki.deez.nz
 doh.defaultroutes.de
 wutidontunderstand.defdc.com
 de.deghy.ir
-mathtutoring.dehme.com
 dns.dekedin.me
 adguard.dekonix.ru
 nas.delage.li
@@ -2671,7 +2628,6 @@ dns.deldown.de
 vm.delfini.online
 dns.deltain.ru
 dns.demon-inc.tw
-bt.demoteam.ch
 level.how.denizbuklet.com
 doh.denypradana.com
 adguard.depieri.net
@@ -2968,7 +2924,6 @@ adguard.duongphuckhanh.dev
 anything.dylix.org
 hellopeople.dyn.mk
 atlantic.dyn1.de
-dns.dyn1.de
 akhilkalwakurthy.dyndns.org
 ueni.dyndns.org
 roucious.dyndns-remote.com
@@ -2984,8 +2939,6 @@ quangdo92.dynu.net
 saomai.dynu.com
 getjumpscared.dynv6.net
 ineedmymoney.dynv6.net
-treesareplanted.dynv6.net
-dns.dynx.pro
 adg.dz.ax
 az.dz4fun.top
 vpn.dzarlax.dev
@@ -3001,8 +2954,6 @@ doh.e7.work
 safe.eaccelera.com
 me-when-i-lie.eaglercraft.cc
 adguard.easez.net
-edu.info.east-kazakhstan.su
-study.info.east-kazakhstan.su
 5656io.easterndns.com
 aaaaaaaaaaaaaaaaa.easterndns.com
 akadekukimotiiiiii.easterndns.com
@@ -3192,17 +3143,7 @@ dns.elemental.software
 add.how.elementsmi.com
 dns.eliv.kr
 ayosuproman.elmvp.cl
-bunt.elmvp.cl
-creativity.elmvp.cl
-fertilizer.elmvp.cl
-hesychastic.elmvp.cl
-krummhorn.elmvp.cl
-nothard.elmvp.cl
-solace.elmvp.cl
-tramble.elmvp.cl
-vemp.elmvp.cl
 adguard.elrobit.com
-boxerboy2000.elsanny.cl
 nas.embraced.co
 coreenglish.emili.com
 learn-vcsa.emili.com
@@ -3236,7 +3177,6 @@ rrrtytrtghytrfh.eminescusm.ro
 websiteiseasy.emtbiceland.is
 gdns.end.pub
 hk.end.pub
-adguard.ender.fr
 cloaked.endis.cyou
 why.endis.cyou
 verify.endiseducation.com
@@ -3262,7 +3202,6 @@ daydreaming.env.pm
 os.env.pm
 outerspace.env.pm
 dns.envs.net
-cmdc.envytations.com
 schmeatball.envytations.com
 dns.enzomtp.party
 adguard.eoghan-net.com
@@ -3284,7 +3223,6 @@ dns.esnube.es
 dns.internal.espresso-tasse.de
 excelatreading.essexregional.org
 qewqew.estamoson.pt
-deepcs.estiloescencial.cl
 studiolearngeo.estudioferrer.com
 ns.etalk.ai
 opennic1.eth-services.de
@@ -3362,7 +3300,6 @@ socchanpxy.f5.si
 jp1.f7b6h9.tk
 dns.f97.xyz
 dns.fabidouille.com
-fernn.fabricecosta.com
 idea.lab.fabriquilla25.com
 proxy.facil.wtf
 www-proxy.facil.wtf
@@ -9511,20 +9448,16 @@ clickwork7secure.com
 cliffschools.org
 clkcsxwl.cc
 clmvip.com
-cloaker.ca
 cloaker.us
 cloakvpn.com
 clorvan.ru
 closetruth.date
 cloudbenders.fun
 cloudbob.fr
-cloudfisherjc.com
 cloudflare-dns.com
 cloudflare-gateway.com
 cloudflaredns.com
 cloudflareresolve.com
-cloudfoxclash.com
-cloudfoxjc.com
 cloudnetcdn.com
 cloudnetwork.pro
 cloudnymous.com
@@ -9537,19 +9470,15 @@ cloudssh.us
 cloudvpn.ai
 cloudvpn.pro
 clovian.ru
-clusters.run
 clvsfeew.com
 cmgxspsp.com
 cmsone.cc
-cmyhongmei.com
-cmzfpr3wcsq2siws.online
 cn-accelerator.site
 cn-access.website
 cn-app-kuailian.com
 cn-kailian.com
 cn-klvpn.com
 cn-kuailian.cn
-cn-kuailian.net
 cn-kuailian.org
 cn-letsvpnapp.com
 cn-nord.info
@@ -9572,7 +9501,6 @@ codegooglehub.com
 codesbox.net
 codewars.cf
 codewars.gq
-coffeecloudjc.com
 coffeedaybreak.com
 cofowhs.cn
 cogahouse.com
@@ -9614,24 +9542,17 @@ contentboost.click
 contentboost.website
 contentrush.fun
 contentrush.space
-conyssgw.com
-conyssjc.com
 cookshowroom.org
 cool-proxy.net
 coolervpn.help
 coolvpn.help
 coolwatch8723.com
-coonetworkjc.com
 coproxy.io
 copvpn.com
 cordcloud.biz
-cordcloudgw.com
-cordcloudjc.com
 corecloak.com
 corehaze.cfd
 corivex.xyz
-cornssclash.com
-cornssjc.com
 corsproxy.io
 cosmohacker.space
 couplesow.com
@@ -9697,9 +9618,6 @@ cskqmqic.cc
 ct-access.pro
 ct-vpn.com
 ctc.run
-ctcclash.com
-ctcjinlongyu.com
-ctcssr.com
 cteqqjve.com
 ctilqhzv.cc
 ctkangh.cn
@@ -9733,7 +9651,6 @@ cxjxtnjdziinxq.xyz
 cybear.website
 cybearvpn.com
 cyber-gateway.net
-cyberairportclash.com
 cybercubevpn.com
 cyberghostjiasu.com
 cyberghostjsq.com
@@ -9745,7 +9662,6 @@ cyberssh.com
 cybertun.xyz
 cybertunnel.org
 cyclesydneylondon.com
-cylinkjc.com
 cyneros.com
 cynntex.fun
 cyphervpn.pro
@@ -9763,27 +9679,15 @@ dabache.top
 dabai.in
 dabmix.com
 daddyproxy.com
-dafeiyunclash.com
-dagecloud.com
 dageyun.com
 dageyun.info
 dageyun.net
-dageyuncalsh.com
-dageyunjc.com
 dageyunpro.com
-dageyunssr.com
 dagljcdy.com
 daishujiasu.club
 daishujiasuapp.com
-dajichang.com
-dajichangssr.com
-dakunchangclash.com
-damijiasuclash.com
 daneshvardost.com
 dansereau.xyz
-dantayun.com
-dantayunclash.com
-dantayunjc.com
 darikon.my
 dark-proxy.ru
 darkfat.com
@@ -9811,8 +9715,6 @@ daviddoesntmogaastik.com
 dawninternet.com
 daxiongvpn.com
 daxiro.ru
-daxunyunclash.com
-daxunyunssr.com
 daydayvpn.com
 daydreamx.pro
 daykokuten.com
@@ -9841,11 +9743,9 @@ deepwebvpn.net
 default2024.uk
 defencevpn.com
 defendfrienddns.fyi
-defilter.us
 defined.pics
 definitechaos.org
 defyxvpn.com
-degyaxclash.com
 dehb.ru
 deli-canzone.com
 demonzero.lat
@@ -9888,10 +9788,6 @@ diglet.org
 dild.loan
 dimqara.ru
 dingdangnao.com
-dingjiclash.com
-dingjijc.com
-dingjijichang.com
-dingjissr.com
 dinoo.org
 dinqul.com
 dinuxcloud.com
@@ -10088,7 +9984,6 @@ doqingwa.com
 doquanwang.com
 doquickq.com
 dorhex.xyz
-doriyanetwork.com
 dorockstar.net
 dorsino.ru
 dorsiva.ru
@@ -10126,10 +10021,6 @@ doublehop.me
 douglaster.com
 douplay.net
 dousgame.com
-douyin-update.store
-douyunjiasu.com
-douyunjiasugw.com
-douyunjiasujc.com
 dovanvu.top
 doveeeapp.com
 dovypr.com
@@ -10187,15 +10078,11 @@ drovanel.ru
 droxyproxy.com
 droyd.top
 drtmsxnj.com
-dsocksclash.com
 dstruis.nl
 duapps.com
 duba.net
-duckgogoclash.com
 dudeforum.xyz
 duii.de
-dujiaoshouclash.com
-dujiaoshoussr.com
 dukadi.one
 dukun.de
 dummygummy.xyz
@@ -10433,8 +10320,6 @@ ednovas.org
 ednovas.tech
 ednovas.world
 ednovas.xyz
-ednovasyunclash.com
-ednovasyunjc.com
 edpuzzle.space
 edpxzc8w5jqk.online
 edsqevwp.com
@@ -10450,8 +10335,6 @@ edwlrzyd.com
 eeaglevpn.com
 eeeb.loan
 eepresearch.org
-efancccloud.com
-efancccloudgw.com
 effuz.cn
 eftsnttz.online
 efxyyjlf.cc
@@ -10491,8 +10374,6 @@ endis.rest
 endorseattic.com
 endravo.ru
 energys.ir
-enetjc.com
-enetssr.com
 englishtutoring.cfd
 enotvpn.net
 enproxy.com
@@ -10513,7 +10394,6 @@ erwan59.pw
 erwan774.net
 erwan8.net
 erwancloud.info
-erwanyunclash.com
 erwanyunssr.com
 erymax.ru
 eryno.ru
@@ -10589,55 +10469,14 @@ f3vpn.net
 f43f8e0a28eef7e7ff0abf8669dfa203f59a6776.com
 f56eb41z.online
 faceless.me
-facmata.com
-facmatajc.com
 fairfieldps.org
 fakeip.org
 falais.com
 falconon.top
-falemonak.com
-falemonan.com
-falemonas.com
-falemonbb.com
-falemondw.com
-falemonhn.com
-falemoniq.com
-falemoniy.com
-falemonjg.com
-falemonkn.com
-falemonlb.com
-falemonle.com
-falemonlt.com
-falemonmq.com
-falemonms.com
-falemonmx.com
-falemonmy.com
-falemonne.com
-falemonpc.com
-falemonpn.com
-falemonpp.com
-falemonpw.com
-falemonqf.com
-falemonrl.com
-falemonrq.com
-falemonsh.com
-falemonsr.com
-falemonvj.com
-falemonxk.com
-falemonyc.com
-falemonyj.com
-falemonze.com
-falemonzx.com
-falemonzy.com
 fallin.app
 familyfirst.church
 famiroq.ru
-fancynetwor.com
 fangzhou.date
-fanqiejc.com
-fanqiev2jc.com
-fanqieyungw.com
-fanqieyunjc.com
 fanscloud.net
 fantagia.net
 faradns.net
@@ -10766,7 +10605,6 @@ fastline.club
 fastlinglong.com
 fastlingti.com
 fastlingyang.com
-fastlinkgw.com
 fastliuxing.com
 fastlol.com
 fastlvbei.com
@@ -10787,7 +10625,6 @@ fastningmengjing.com
 fastniuniu.com
 fastnixes.net
 fastnod.com
-fastnodegw.com
 fastnpv.com
 fasto2.com
 fastonion.net
@@ -10879,7 +10716,6 @@ fastyouyou.com
 fastyunfan.com
 fatcatcloud.info
 fatcatcloud.me
-fatcatyun.com
 favoriteshoes.us
 faxknz.cn
 fbaff.pro

@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 May 2026 16:56 UTC
-# Version: 2026.0516.1656.57
+# Last modified: 17 May 2026 08:28 UTC
+# Version: 2026.0517.0828.20
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9947
+# Number of entries: 9939
 #
 local=/a.189.cn/
 local=/t.2merkato.com/
@@ -2796,7 +2796,6 @@ local=/dalinksavad.eu/
 local=/damoro.ro/
 local=/dandy.dental/
 local=/dar.vin/
-local=/dardz.link/
 local=/dasb.io/
 local=/dat.bio/
 local=/data-linkup.com/
@@ -2861,8 +2860,6 @@ local=/devkaffe.com/
 local=/devo.team/
 local=/devtoolscrape.com/
 local=/df-sports.com/
-local=/dfds.direct/
-local=/dfds.events/
 local=/dfemscnmi.org/
 local=/dfgameplay.com/
 local=/dfkr77.com/
@@ -2975,14 +2972,12 @@ local=/douyin.team/
 local=/dow.la/
 local=/downbe.com/
 local=/downloadtonic.com/
-local=/doxane.fr/
 local=/dp0.in/
 local=/dpb.fm/
 local=/dpb.link/
 local=/dpba2404.com/
 local=/dpmd.ai/
 local=/dpo.st/
-local=/dprox.co/
 local=/dps.media/
 local=/dpuplet.net/
 local=/dqr4.org/
@@ -3081,7 +3076,6 @@ local=/earn4url.com/
 local=/earnesst.website/
 local=/earnestwiles.com/
 local=/earnfly.net/
-local=/earnpays.com/
 local=/earnshort.site/
 local=/earnshortly.com/
 local=/earnwithlink.com/
@@ -3120,7 +3114,6 @@ local=/edh.kr/
 local=/edin.ac/
 local=/editricity.xyz/
 local=/edl.io/
-local=/edmno1.info/
 local=/edne.tw/
 local=/ednn.link/
 local=/edocs.co/
@@ -3311,7 +3304,6 @@ local=/fansurl.com/
 local=/faras.link/
 local=/fars.ee/
 local=/fashionparklanka.com/
-local=/fast-linker.com/
 local=/fastbio.app/
 local=/fastfilehost.link/
 local=/fasthouse.me/

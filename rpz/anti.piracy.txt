@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778950620 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779010500 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 May 2026 16:57 UTC
-; Version: 2026.0516.1657.27
+; Last modified: 17 May 2026 09:35 UTC
+; Version: 2026.0517.0935.03
 ; Syntax: RPZ
-; Number of entries: 25528
+; Number of entries: 25500
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -518,8 +518,6 @@ crichd.at CNAME .
 *.crichd.at CNAME .
 mixes.dfx.at CNAME .
 *.mixes.dfx.at CNAME .
-dood.at CNAME .
-*.dood.at CNAME .
 hdmovie2.at CNAME .
 *.hdmovie2.at CNAME .
 hurawatch.at CNAME .
@@ -988,8 +986,6 @@ ebookee.biz CNAME .
 *.ebookee.biz CNAME .
 emiz.biz CNAME .
 *.emiz.biz CNAME .
-eonmovies.biz CNAME .
-*.eonmovies.biz CNAME .
 eurostreaming.biz CNAME .
 *.eurostreaming.biz CNAME .
 ffmovies.biz CNAME .
@@ -2256,8 +2252,6 @@ cineblog001.click CNAME .
 *.cineblog001.click CNAME .
 daddylivehd1.click CNAME .
 *.daddylivehd1.click CNAME .
-deporte-libre.click CNAME .
-*.deporte-libre.click CNAME .
 digeek.click CNAME .
 *.digeek.click CNAME .
 dlhd.click CNAME .
@@ -2654,8 +2648,6 @@ moddroid.com.co CNAME .
 *.moddroid.com.co CNAME .
 soap2day.com.co CNAME .
 *.soap2day.com.co CNAME .
-streamm4u.com.co CNAME .
-*.streamm4u.com.co CNAME .
 yt1s.com.co CNAME .
 *.yt1s.com.co CNAME .
 dadyflix.co CNAME .
@@ -4356,8 +4348,6 @@ daddylive3.com CNAME .
 *.daddylive3.com CNAME .
 daddylivestream.com CNAME .
 *.daddylivestream.com CNAME .
-daddyny.com CNAME .
-*.daddyny.com CNAME .
 dafunda.com CNAME .
 *.dafunda.com CNAME .
 dags43jh.com CNAME .
@@ -4472,8 +4462,6 @@ desibbrg.com CNAME .
 *.desibbrg.com CNAME .
 desitorrents.com CNAME .
 *.desitorrents.com CNAME .
-desmaxgo.com CNAME .
-*.desmaxgo.com CNAME .
 exodus.desync.com CNAME .
 *.exodus.desync.com CNAME .
 deutschekanale.com CNAME .
@@ -5746,6 +5734,8 @@ ipstresser.com CNAME .
 *.ipstresser.com CNAME .
 iptorrents.com CNAME .
 *.iptorrents.com CNAME .
+iptvmap.com CNAME .
+*.iptvmap.com CNAME .
 iptvprova.com CNAME .
 *.iptvprova.com CNAME .
 iptvsource.com CNAME .
@@ -5836,6 +5826,8 @@ jokerlivestream.com CNAME .
 *.jokerlivestream.com CNAME .
 joyra380som.com CNAME .
 *.joyra380som.com CNAME .
+jp-animenities.com CNAME .
+*.jp-animenities.com CNAME .
 jpxm3u8.com CNAME .
 *.jpxm3u8.com CNAME .
 jpzy01.com CNAME .
@@ -9420,8 +9412,6 @@ toplist.cz CNAME .
 *.toplist.cz CNAME .
 warezforum.cz CNAME .
 *.warezforum.cz CNAME .
-dlhd.dad CNAME .
-*.dlhd.dad CNAME .
 filmoflix.dad CNAME .
 *.filmoflix.dad CNAME .
 thedaddy.dad CNAME .
@@ -9454,8 +9444,6 @@ rlsbb.unblockit.date CNAME .
 *.rlsbb.unblockit.date CNAME .
 tracker.cutie.dating CNAME .
 *.tracker.cutie.dating CNAME .
-tracker-de-2.cutie.dating CNAME .
-*.tracker-de-2.cutie.dating CNAME .
 vegamovies.dating CNAME .
 *.vegamovies.dating CNAME .
 hdfilme.day CNAME .
@@ -9730,8 +9718,6 @@ z-lib.dev CNAME .
 *.123moviesfree9.digital CNAME .
 9anime.digital CNAME .
 *.9anime.digital CNAME .
-dood.digital CNAME .
-*.dood.digital CNAME .
 filmapik.digital CNAME .
 *.filmapik.digital CNAME .
 hdmovie2.digital CNAME .
@@ -11390,8 +11376,6 @@ comix-load.in CNAME .
 *.comix-load.in CNAME .
 uhdmovies.cs.in CNAME .
 *.uhdmovies.cs.in CNAME .
-data-load.in CNAME .
-*.data-load.in CNAME .
 einschalten.in CNAME .
 *.einschalten.in CNAME .
 elitetorrent.in CNAME .
@@ -12910,8 +12894,6 @@ dflix.live CNAME .
 *.dflix.live CNAME .
 doodstream.live CNAME .
 *.doodstream.live CNAME .
-dotsport.live CNAME .
-*.dotsport.live CNAME .
 ebox.live CNAME .
 *.ebox.live CNAME .
 echoowl19.live CNAME .
@@ -13128,8 +13110,6 @@ streamingcommunityz.loan CNAME .
 *.streamingcommunityz.loan CNAME .
 uhdmovies.loan CNAME .
 *.uhdmovies.loan CNAME .
-eurostreaming.loans CNAME .
-*.eurostreaming.loans CNAME .
 cineblog01.locker CNAME .
 *.cineblog01.locker CNAME .
 hdmovie2.locker CNAME .
@@ -13980,6 +13960,8 @@ voe.mobi CNAME .
 *.voe.mobi CNAME .
 zona.mobi CNAME .
 *.zona.mobi CNAME .
+amenzb.moe CNAME .
+*.amenzb.moe CNAME .
 anidex.moe CNAME .
 *.anidex.moe CNAME .
 animedaisuki.moe CNAME .
@@ -22758,16 +22740,12 @@ clb22.top CNAME .
 *.clb22.top CNAME .
 crichd-player.top CNAME .
 *.crichd-player.top CNAME .
-daddylive5.top CNAME .
-*.daddylive5.top CNAME .
 dashflix.top CNAME .
 *.dashflix.top CNAME .
 digimoviez39.top CNAME .
 *.digimoviez39.top CNAME .
 digimoviez40.top CNAME .
 *.digimoviez40.top CNAME .
-dlstreams.top CNAME .
-*.dlstreams.top CNAME .
 dood.top CNAME .
 *.dood.top CNAME .
 doodstream.top CNAME .
@@ -23918,8 +23896,6 @@ deadfrog.us CNAME .
 *.deadfrog.us CNAME .
 empornium.us CNAME .
 *.empornium.us CNAME .
-eprojectfreetv.us CNAME .
-*.eprojectfreetv.us CNAME .
 eurostreaming.us CNAME .
 *.eurostreaming.us CNAME .
 piranha.excom.us CNAME .
@@ -24208,8 +24184,6 @@ dramaqu.vip CNAME .
 *.dramaqu.vip CNAME .
 dropgalaxy.vip CNAME .
 *.dropgalaxy.vip CNAME .
-dubbedanime.vip CNAME .
-*.dubbedanime.vip CNAME .
 duboku.vip CNAME .
 *.duboku.vip CNAME .
 eurostreaming.vip CNAME .
@@ -24562,8 +24536,6 @@ altadefinizione.world CNAME .
 *.altadefinizione.world CNAME .
 cb01.world CNAME .
 *.cb01.world CNAME .
-crichd.world CNAME .
-*.crichd.world CNAME .
 docspedia.world CNAME .
 *.docspedia.world CNAME .
 doodstream.world CNAME .
