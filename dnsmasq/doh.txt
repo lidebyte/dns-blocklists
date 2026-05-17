@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 May 2026 09:41 UTC
-# Version: 2026.0517.0941.38
+# Last modified: 17 May 2026 16:58 UTC
+# Version: 2026.0517.1658.59
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3453
+# Number of entries: 3452
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -1386,7 +1386,6 @@ local=/adg.herry.dev/
 local=/dns.msk.hexagon1736.com/
 local=/httpdns.ocloud.heytapmobi.com/
 local=/dns.sgp.hicn.site/
-local=/adg.meviusberry.hidns.co/
 local=/mail.hilton-groups.com/
 local=/dns.hinet.net/
 local=/dns-01.hir.app/

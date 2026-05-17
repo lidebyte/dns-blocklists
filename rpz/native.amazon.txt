@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778951100 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779037860 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Amazon Tracker DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 May 2026 17:05 UTC
-; Version: 2026.0516.1705.51
+; Last modified: 17 May 2026 17:11 UTC
+; Version: 2026.0517.1711.29
 ; Syntax: RPZ
-; Number of entries: 686
+; Number of entries: 696
 ;
 advertising.amazon.ae CNAME .
 *.advertising.amazon.ae CNAME .
@@ -586,10 +586,14 @@ advertising.amazon.fr CNAME .
 *.advertising.amazon.fr CNAME .
 fls-eu.amazon.fr CNAME .
 *.fls-eu.amazon.fr CNAME .
+sponsored-ads.amazon.fr CNAME .
+*.sponsored-ads.amazon.fr CNAME .
 unagi.amazon.fr CNAME .
 *.unagi.amazon.fr CNAME .
 assoc-amazon.fr CNAME .
 *.assoc-amazon.fr CNAME .
+sponsored-ads-eu.amazon.ie CNAME .
+*.sponsored-ads-eu.amazon.ie CNAME .
 aan.amazon.in CNAME .
 *.aan.amazon.in CNAME .
 advertising.amazon.in CNAME .
@@ -668,10 +672,14 @@ advertising.amazon.sa CNAME .
 *.advertising.amazon.sa CNAME .
 fls-eu.amazon.sa CNAME .
 *.fls-eu.amazon.sa CNAME .
+sponsored-ads-eu.amazon.sa CNAME .
+*.sponsored-ads-eu.amazon.sa CNAME .
 unagi.amazon.sa CNAME .
 *.unagi.amazon.sa CNAME .
 fls-eu.amazon.se CNAME .
 *.fls-eu.amazon.se CNAME .
+sponsored-ads-eu.amazon.se CNAME .
+*.sponsored-ads-eu.amazon.se CNAME .
 unagi.amazon.se CNAME .
 *.unagi.amazon.se CNAME .
 fls-fe.amazon.sg CNAME .
@@ -700,3 +708,5 @@ unagi.amazon.co.uk CNAME .
 *.unagi.amazon.co.uk CNAME .
 assoc-amazon.co.uk CNAME .
 *.assoc-amazon.co.uk CNAME .
+sponsored-ads-eu.amazon.co.za CNAME .
+*.sponsored-ads-eu.amazon.co.za CNAME .

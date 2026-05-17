@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 May 2026 09:42 UTC
-# Version: 2026.0517.0942.21
+# Last modified: 17 May 2026 16:59 UTC
+# Version: 2026.0517.1659.53
 # Syntax: Domains (without subdomains)
-# Number of entries: 18121
+# Number of entries: 18054
 #
 ss.0001.xyz
 ilovethiswebsite.001-lab.space
@@ -3420,7 +3420,6 @@ collegeprep.fin-tech.com
 learngeometryfr.fin-tech.com
 testplease.fin-tech.com
 nf-is-a-good-artist-you-should-listen-to-his-music.finxstudio.fi
-trigola.finxstudio.fi
 canvas-math-tools.firebaseapp.com
 infamous-scram-test.firebaseapp.com
 quix-vpn.firebaseapp.com
@@ -3470,7 +3469,6 @@ thinggg.forever-20.com
 proxy.forkbomb.xyz
 www-proxy.formen.cc
 submit.formengineer.org
-schoolmath.foryourviewingpleasure.com
 dns.foximao.cn
 de-f1.foxyfy.net
 dns.foxyfy.net
@@ -3512,7 +3510,6 @@ tycoonisthebest.freeddns.uk
 hebe.freedynamicdns.org
 atom.area.freemath.ch
 dns.freemyemail.com
-shadow-3.freemyip.com
 walhalla.freemyip.com
 wg-aghome.freemyip.com
 zuk.freemyip.com
@@ -3536,8 +3533,6 @@ securly.com.frostcatcher.com
 avidislife.frostcatcher.com
 classroom.frostcatcher.com
 dns.froth.zone
-9dk3mztl0wqg5rnb8yvf2ehujxs7i4cpqa6omb1tdgklfuxvy.frtala.sk
-lililiilliiillililililllliiiiiiilllllliiillllll.frtala.sk
 dns.fsociety.club
 ychk.ft1991.top
 ilikehomework.ftp.sh
@@ -3564,8 +3559,6 @@ sm5q237c0.g666gle.me
 cluster-0.gac.edu
 cluster-1.gac.edu
 bolt.galacticrouter.xyz
-lunarhistory.galaxybbs.net
-sd.galaxysoft.ro
 myapps.instructure.com.galitec.es
 dns.gamban.com
 adguard.gambini.org
@@ -3577,7 +3570,6 @@ dns.beta.gandi.net
 guide.terms.gatpp.com
 adguard.gattow.com
 help.gayler.uk
-jordansmathnetwork.gazonnatural.ro
 easyliterature.gearenergy.com
 learnvcsa.gearenergy.com
 dns.gearworks.app
@@ -3585,7 +3577,6 @@ bg.geek.nz
 dns.geekbyte.de
 adg.geili.me
 nodes.gen4.ninja
-drive.google.com.geobattery.com
 dns.geohide.ru
 play-games-at.geometry-games.online
 rammerhead.geometry-games.online
@@ -3648,7 +3639,6 @@ doh.ptqy.gitv.tv
 h.gjrick.tw
 sdns22.gkonuralp.com
 dns.glampool.cloud
-diegito.glandelinnia.club
 wow.fun.cool.glasstechnik.ro
 adguard.glbd.fr
 fr33ze.gleeze.com
@@ -3680,7 +3670,6 @@ tracks.empleosonora.gob.mx
 clever.issuesloggingin.hndifhidalgo.gob.mx
 ixl.loginalternative.hospitaldelninodif.gob.mx
 gov.ovieags.gob.mx
-hola.colom.378.com.pagostepeapulco.gob.mx
 minhphamr.pagostepeapulco.gob.mx
 boltisback.panel-laboralcj.gob.mx
 idkwhattoputhere.panel-laboralcj.gob.mx
@@ -3690,7 +3679,6 @@ fernbrowse.goip.de
 fernplantbiology.goip.de
 night.goip.de
 science.goip.de
-webserverrtp.goip.de
 dohsg.goitoi.co
 dns.goldplate.org
 fkey-api.golink.dev
@@ -3783,8 +3771,6 @@ nana.rammer.grnyiui.shop
 zinko.grocerybear.lat
 dns.groupesaintmichel.fr
 educationalpotato.math-games123.groups.id
-ashtonisapig.groups.id
-dg.groups.id
 fivefootoneiscrazyngl.groups.id
 galaxy.groups.id
 kamalfeet.groups.id
@@ -3826,7 +3812,6 @@ webrtc5.gvideo.co
 smile-smp-forever.gw.lt
 hkns.gzelvis.com
 agh.gzhong.tw
-rodriguez.h-o-s-t.name
 schoologylearningedu.h-o-s-t.name
 dns.h0schi.cloud
 dns2.h0schi.cloud
@@ -3858,11 +3843,6 @@ nowayhome.halfwaythere.ca
 road.halfwaythere.ca
 utopia.halfwaythere.ca
 dns.hanahira.dev
-boiiituff.handle.ar
-collegeprep.handle.ar
-howareyou.handle.ar
-supbro.handle.ar
-topofthemorning.handle.ar
 adguard.haneulo.com
 dns.hanmey.de
 dns.hannielzhang.com
@@ -3890,7 +3870,6 @@ carolinareaper.heeremans.net
 office.heimtec.com
 sdfergrdewdwdawdwdszdsadsadas.helixarcade.space
 dns.hellozhao.com
-donate.help4bali.org
 novaenglish.help4bali.org
 vibecoding.help4bali.org
 need.helpforukraine.at
@@ -3906,11 +3885,9 @@ adg.herry.dev
 dns.msk.hexagon1736.com
 httpdns.ocloud.heytapmobi.com
 dns.sgp.hicn.site
-adg.meviusberry.hidns.co
 codinggamesforkids.highdesertcoders.com
 educational2learn.highdesertcoders.com
 learn.highdesertcoders.com
-jonahdaman.hillbrick.net
 mail.hilton-groups.com
 dns.hinet.net
 dns-01.hir.app
@@ -3923,7 +3900,6 @@ ns2.hjk.me
 jpdns.hker.me
 classroom.hkieca.com
 sq2.hkieca.com
-xc.hkieca.com
 dd.hlm.ovh
 nirbytesovercloaked.ho-danone.id
 nirfern.ho-danone.id
@@ -10740,29 +10716,19 @@ feiba.cyou
 feiji659.xyz
 feijicloud.info
 feijijiasu.net
-feijiyunclash.com
 feimajiasu.com
 feimalinktools.com
 feimaojiasu.net
-feimaoyunclash.com
-feimaoyunjc.com
-feimaoyunssr.com
-feiniaogw.com
-feiniaojc.com
 feishayun.cloud
 feishayun.com
 feishayun.net
 feishayun.pro
-feishussr.com
 feisucloud.com
 feisucloud.net
 feisucloud.pw
 feitan.cloud
 feitan.me
-feitangw.com
-feitanjc.com
 feituyunclash.com
-feituyunjc.com
 feiyujiasu.net
 feiyulink.net
 felqorn.lol
@@ -10771,8 +10737,6 @@ feltra.ru
 feltrax.ru
 femaroq.ru
 fenda.cloud
-fendajiasuqi.com
-fendajichang.com
 fengcheyun.club
 fengcheyun.co
 fengcheyun.com
@@ -10783,9 +10747,6 @@ fent.rest
 fern.best
 fernrecatquestionmark.shop
 ferunat.baby
-fetianzhuclash.com
-fetianzhujichang.com
-fetianzhussr.com
 feytra.ru
 fezgate.ovh
 ffjoksna7farrbzd.online
@@ -10873,7 +10834,6 @@ flonira.ru
 floppydata.com
 flornavo.ru
 flornic.ru
-flowercloudjc.com
 flowvpn.com
 flrnneprlkqiz.online
 fluxenta.click
@@ -10883,11 +10843,9 @@ flycatvipaff.cc
 flycatyun.cc
 flyfishnwa.com
 flyingbird.pro
-flyingbirdjc.com
 flyingcat.work
 flyingsnow.site
 flyingsnow.store
-flyintjc.com
 flymetothemoon.work
 flypork.com
 flyproxy.com
@@ -10901,7 +10859,6 @@ fmyvipaff.cc
 fnjjn.cn
 fnkgjdcw.cc
 fobwifi.com
-foclash.com
 focuses.cc
 foldandflyhigh.com
 folhinhaespirita.com
@@ -10911,7 +10868,6 @@ fonarex.my
 fonira.ru
 fontrix.ru
 fontsgoogleapis.net
-foofriendsgw.com
 fooksun.xyz
 for-privacy.net
 for-veto.ru
@@ -11003,7 +10959,6 @@ freeproxy.top
 freeproxy.win
 freeproxyaccess.com
 freeproxydb.com
-freeproxylist.online
 freeproxylist.ru
 freeproxyunblockyoutube.com
 freeproxyupdate.com
@@ -11073,7 +11028,6 @@ fs01-sc0y1xs0.top
 fs02-5fn1vdpt.top
 fscloud.app
 fscloud.vip
-fscloudclash.com
 ftq01-7oy3se1v.top
 ftq02-qfx8f2uv.top
 ftqfabu.com
@@ -11084,7 +11038,6 @@ fufo.org
 fulcrumtheatreinc.com
 fumarkel.com
 fumatek.baby
-fun4school.store
 funnyaisite.org
 funti.cc
 funtikspb.ru
@@ -11123,8 +11076,6 @@ gardenparty.me
 gas.education
 gatcha.org
 gatern.info
-gaternclash.com
-gaternjc.com
 gatesrev.ir
 gbbyeprd.com
 gclouddns.com
@@ -11256,7 +11207,6 @@ glados.one
 glados.rocks
 glados.space
 glados.vip
-gladosgw.com
 glebus.pro
 glintapp.org
 glitch.zone
@@ -11283,8 +11233,6 @@ goaslen.com
 gobebra.com
 gobestvpn.com
 gocheapfqvpn.com
-godetiajc.com
-godetiassr.com
 godzillo.link
 goearthpro.link
 gofastdirect.top
@@ -11298,7 +11246,6 @@ gogoletsgogo.net
 gogoo.club
 gogoo.cyou
 gogoodvpn.com
-gohahaclash.com
 gohahajc.com
 goingthere.org
 gointerstellar.app
@@ -11318,7 +11265,6 @@ golink.com
 golinkapi.com
 golinkcn.com
 gologin.com
-gomath.us
 goodfast.org
 goodfast.xyz
 goodusa.net
@@ -11347,14 +11293,9 @@ gossr.pw
 gostarlight.xyz
 gotoproxy.com
 gotrusted.com
-gougoujiasu.com
-gougoujiasuclash.com
-gougoujiasujc.com
 gougouvpn.info
 goujijiasu.com
 gouzicloud.com
-gouziyunclash.com
-gouziyunjc.com
 govacademyhub.com
 govpn.pw
 govpolicyhub.com
@@ -11405,15 +11346,11 @@ gscloud.icu
 gselyoaa.com
 gsocket.io
 gsoubgh.space
-gsougw.com
 gsoula.life
 gsouyou.space
 gsyvipaff.cc
 gtag.club
 gtdqambjtl3.online
-gtkpw.com
-gtkpwclash.com
-gtkpwjc.com
 gtmenbrs.com
 gtoyes.com
 guanmengkai.com
@@ -11474,10 +11411,7 @@ haita.io
 haita.link
 haita.org
 haita.us
-haitaclash.com
-haitajc.com
 hakoda.wtf
-halocloudclash.com
 haltrix.xyz
 hamsconfederal.top
 hanniel.tech
@@ -11527,7 +11461,6 @@ heidonglinktools.com
 heimaojiasu.com
 heliu.bond
 helium.com
-heliumnetworkgw.com
 hello-free.com
 hello-ins.com
 hello-panda.com

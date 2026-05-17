@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779010920 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779037140 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 May 2026 09:42 UTC
-; Version: 2026.0517.0942.21
+; Last modified: 17 May 2026 16:59 UTC
+; Version: 2026.0517.1659.53
 ; Syntax: RPZ
-; Number of entries: 36242
+; Number of entries: 36108
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -625,16 +625,6 @@ dogebynirb.winkel.com.ar CNAME .
 *.dogebynirb.winkel.com.ar CNAME .
 bu-saeed.feversani.ar CNAME .
 *.bu-saeed.feversani.ar CNAME .
-boiiituff.handle.ar CNAME .
-*.boiiituff.handle.ar CNAME .
-collegeprep.handle.ar CNAME .
-*.collegeprep.handle.ar CNAME .
-howareyou.handle.ar CNAME .
-*.howareyou.handle.ar CNAME .
-supbro.handle.ar CNAME .
-*.supbro.handle.ar CNAME .
-topofthemorning.handle.ar CNAME .
-*.topofthemorning.handle.ar CNAME .
 kjlefsdklj.wkjdfls.algoliq.net.ar CNAME .
 *.kjlefsdklj.wkjdfls.algoliq.net.ar CNAME .
 login.i-ready.com.a.noviolencia.ar CNAME .
@@ -3085,8 +3075,6 @@ dns.fsociety.club CNAME .
 *.dns.fsociety.club CNAME .
 g01-cn.club CNAME .
 *.g01-cn.club CNAME .
-diegito.glandelinnia.club CNAME .
-*.diegito.glandelinnia.club CNAME .
 gogoo.club CNAME .
 *.gogoo.club CNAME .
 gtag.club CNAME .
@@ -3583,8 +3571,6 @@ webrtc5.gvideo.co CNAME .
 *.webrtc5.gvideo.co CNAME .
 hideip.co CNAME .
 *.hideip.co CNAME .
-adg.meviusberry.hidns.co CNAME .
-*.adg.meviusberry.hidns.co CNAME .
 kuaifan.co CNAME .
 *.kuaifan.co CNAME .
 lefly.co CNAME .
@@ -8363,50 +8349,20 @@ fdkwl888.com CNAME .
 *.fdkwl888.com CNAME .
 juicewrld.feathertechno.com CNAME .
 *.juicewrld.feathertechno.com CNAME .
-feijiyunclash.com CNAME .
-*.feijiyunclash.com CNAME .
 feimajiasu.com CNAME .
 *.feimajiasu.com CNAME .
 feimalinktools.com CNAME .
 *.feimalinktools.com CNAME .
-feimaoyunclash.com CNAME .
-*.feimaoyunclash.com CNAME .
-feimaoyunjc.com CNAME .
-*.feimaoyunjc.com CNAME .
-feimaoyunssr.com CNAME .
-*.feimaoyunssr.com CNAME .
-feiniaogw.com CNAME .
-*.feiniaogw.com CNAME .
-feiniaojc.com CNAME .
-*.feiniaojc.com CNAME .
 feishayun.com CNAME .
 *.feishayun.com CNAME .
-feishussr.com CNAME .
-*.feishussr.com CNAME .
 feisucloud.com CNAME .
 *.feisucloud.com CNAME .
-feitangw.com CNAME .
-*.feitangw.com CNAME .
-feitanjc.com CNAME .
-*.feitanjc.com CNAME .
 feituyunclash.com CNAME .
 *.feituyunclash.com CNAME .
-feituyunjc.com CNAME .
-*.feituyunjc.com CNAME .
-fendajiasuqi.com CNAME .
-*.fendajiasuqi.com CNAME .
-fendajichang.com CNAME .
-*.fendajichang.com CNAME .
 home.fendya.com CNAME .
 *.home.fendya.com CNAME .
 fengcheyun.com CNAME .
 *.fengcheyun.com CNAME .
-fetianzhuclash.com CNAME .
-*.fetianzhuclash.com CNAME .
-fetianzhujichang.com CNAME .
-*.fetianzhujichang.com CNAME .
-fetianzhussr.com CNAME .
-*.fetianzhussr.com CNAME .
 fgrkzvua.com CNAME .
 *.fgrkzvua.com CNAME .
 fhhcdvus.com CNAME .
@@ -8495,8 +8451,6 @@ fligh7.com CNAME .
 *.fligh7.com CNAME .
 floppydata.com CNAME .
 *.floppydata.com CNAME .
-flowercloudjc.com CNAME .
-*.flowercloudjc.com CNAME .
 flowvpn.com CNAME .
 *.flowvpn.com CNAME .
 dns.flwagners.com CNAME .
@@ -8505,10 +8459,6 @@ flxzeiow.com CNAME .
 *.flxzeiow.com CNAME .
 flyfishnwa.com CNAME .
 *.flyfishnwa.com CNAME .
-flyingbirdjc.com CNAME .
-*.flyingbirdjc.com CNAME .
-flyintjc.com CNAME .
-*.flyintjc.com CNAME .
 biying.flymlc.com CNAME .
 *.biying.flymlc.com CNAME .
 flypork.com CNAME .
@@ -8523,14 +8473,10 @@ flyzhucloud.com CNAME .
 *.flyzhucloud.com CNAME .
 fobwifi.com CNAME .
 *.fobwifi.com CNAME .
-foclash.com CNAME .
-*.foclash.com CNAME .
 foldandflyhigh.com CNAME .
 *.foldandflyhigh.com CNAME .
 folhinhaespirita.com CNAME .
 *.folhinhaespirita.com CNAME .
-foofriendsgw.com CNAME .
-*.foofriendsgw.com CNAME .
 forest-01.com CNAME .
 *.forest-01.com CNAME .
 forest-cn.com CNAME .
@@ -8555,8 +8501,6 @@ fortuitousio.com CNAME .
 *.fortuitousio.com CNAME .
 fortvpn.com CNAME .
 *.fortvpn.com CNAME .
-schoolmath.foryourviewingpleasure.com CNAME .
-*.schoolmath.foryourviewingpleasure.com CNAME .
 fprmvgwu.com CNAME .
 *.fprmvgwu.com CNAME .
 fqmfwhpx.com CNAME .
@@ -8607,8 +8551,6 @@ freemybrowser.com CNAME .
 *.freemybrowser.com CNAME .
 dns.freemyemail.com CNAME .
 *.dns.freemyemail.com CNAME .
-shadow-3.freemyip.com CNAME .
-*.shadow-3.freemyip.com CNAME .
 walhalla.freemyip.com CNAME .
 *.walhalla.freemyip.com CNAME .
 wg-aghome.freemyip.com CNAME .
@@ -8691,8 +8633,6 @@ frsrdqhv.com CNAME .
 *.frsrdqhv.com CNAME .
 fruitelegant.com CNAME .
 *.fruitelegant.com CNAME .
-fscloudclash.com CNAME .
-*.fscloudclash.com CNAME .
 ftqfabu.com CNAME .
 *.ftqfabu.com CNAME .
 ftqnet.com CNAME .
@@ -8727,10 +8667,6 @@ gamingssh.com CNAME .
 *.gamingssh.com CNAME .
 garage-van.com CNAME .
 *.garage-van.com CNAME .
-gaternclash.com CNAME .
-*.gaternclash.com CNAME .
-gaternjc.com CNAME .
-*.gaternjc.com CNAME .
 guide.terms.gatpp.com CNAME .
 *.guide.terms.gatpp.com CNAME .
 adguard.gattow.com CNAME .
@@ -8753,8 +8689,6 @@ gemera-vpn.com CNAME .
 *.gemera-vpn.com CNAME .
 genmirror.com CNAME .
 *.genmirror.com CNAME .
-drive.google.com.geobattery.com CNAME .
-*.drive.google.com.geobattery.com CNAME .
 geographyles.com CNAME .
 *.geographyles.com CNAME .
 geonix.com CNAME .
@@ -8867,8 +8801,6 @@ gjxbqmgk.com CNAME .
 *.gjxbqmgk.com CNAME .
 sdns22.gkonuralp.com CNAME .
 *.sdns22.gkonuralp.com CNAME .
-gladosgw.com CNAME .
-*.gladosgw.com CNAME .
 fr33ze.gleeze.com CNAME .
 *.fr33ze.gleeze.com CNAME .
 jordansgotmathwork.gleeze.com CNAME .
@@ -8905,10 +8837,6 @@ gobestvpn.com CNAME .
 *.gobestvpn.com CNAME .
 gocheapfqvpn.com CNAME .
 *.gocheapfqvpn.com CNAME .
-godetiajc.com CNAME .
-*.godetiajc.com CNAME .
-godetiassr.com CNAME .
-*.godetiassr.com CNAME .
 goflyvpn.com CNAME .
 *.goflyvpn.com CNAME .
 gogogolets.com CNAME .
@@ -8919,8 +8847,6 @@ gogoletsgogo.com CNAME .
 *.gogoletsgogo.com CNAME .
 gogoodvpn.com CNAME .
 *.gogoodvpn.com CNAME .
-gohahaclash.com CNAME .
-*.gohahaclash.com CNAME .
 gohahajc.com CNAME .
 *.gohahajc.com CNAME .
 goj123.com CNAME .
@@ -8981,20 +8907,10 @@ gotoproxy.com CNAME .
 *.gotoproxy.com CNAME .
 gotrusted.com CNAME .
 *.gotrusted.com CNAME .
-gougoujiasu.com CNAME .
-*.gougoujiasu.com CNAME .
-gougoujiasuclash.com CNAME .
-*.gougoujiasuclash.com CNAME .
-gougoujiasujc.com CNAME .
-*.gougoujiasujc.com CNAME .
 goujijiasu.com CNAME .
 *.goujijiasu.com CNAME .
 gouzicloud.com CNAME .
 *.gouzicloud.com CNAME .
-gouziyunclash.com CNAME .
-*.gouziyunclash.com CNAME .
-gouziyunjc.com CNAME .
-*.gouziyunjc.com CNAME .
 govacademyhub.com CNAME .
 *.govacademyhub.com CNAME .
 govpolicyhub.com CNAME .
@@ -9043,14 +8959,6 @@ gruvpn.com CNAME .
 *.gruvpn.com CNAME .
 gselyoaa.com CNAME .
 *.gselyoaa.com CNAME .
-gsougw.com CNAME .
-*.gsougw.com CNAME .
-gtkpw.com CNAME .
-*.gtkpw.com CNAME .
-gtkpwclash.com CNAME .
-*.gtkpwclash.com CNAME .
-gtkpwjc.com CNAME .
-*.gtkpwjc.com CNAME .
 gtmenbrs.com CNAME .
 *.gtmenbrs.com CNAME .
 gtoyes.com CNAME .
@@ -9139,14 +9047,8 @@ hai915.com CNAME .
 *.hai915.com CNAME .
 haioujiasu.com CNAME .
 *.haioujiasu.com CNAME .
-haitaclash.com CNAME .
-*.haitaclash.com CNAME .
-haitajc.com CNAME .
-*.haitajc.com CNAME .
 dns.hakutakucn.com CNAME .
 *.dns.hakutakucn.com CNAME .
-halocloudclash.com CNAME .
-*.halocloudclash.com CNAME .
 adguard.haneulo.com CNAME .
 *.adguard.haneulo.com CNAME .
 dns.hannielzhang.com CNAME .
@@ -9199,8 +9101,6 @@ office.heimtec.com CNAME .
 *.office.heimtec.com CNAME .
 helium.com CNAME .
 *.helium.com CNAME .
-heliumnetworkgw.com CNAME .
-*.heliumnetworkgw.com CNAME .
 hello-free.com CNAME .
 *.hello-free.com CNAME .
 hello-ins.com CNAME .
@@ -9519,8 +9419,6 @@ classroom.hkieca.com CNAME .
 *.classroom.hkieca.com CNAME .
 sq2.hkieca.com CNAME .
 *.sq2.hkieca.com CNAME .
-xc.hkieca.com CNAME .
-*.xc.hkieca.com CNAME .
 hmavpn.com CNAME .
 *.hmavpn.com CNAME .
 hnveiere.com CNAME .
@@ -17557,8 +17455,6 @@ night.goip.de CNAME .
 *.night.goip.de CNAME .
 science.goip.de CNAME .
 *.science.goip.de CNAME .
-webserverrtp.goip.de CNAME .
-*.webserverrtp.goip.de CNAME .
 golegana.de CNAME .
 *.golegana.de CNAME .
 dnsblock.grisumedia.de CNAME .
@@ -18633,8 +18529,6 @@ dns.christerwaren.fi CNAME .
 *.dns.christerwaren.fi CNAME .
 nf-is-a-good-artist-you-should-listen-to-his-music.finxstudio.fi CNAME .
 *.nf-is-a-good-artist-you-should-listen-to-his-music.finxstudio.fi CNAME .
-trigola.finxstudio.fi CNAME .
-*.trigola.finxstudio.fi CNAME .
 finney.juk.fi CNAME .
 *.finney.juk.fi CNAME .
 lastentarvike.fi CNAME .
@@ -19643,10 +19537,6 @@ dns.diarbagus.id CNAME .
 *.dns.diarbagus.id CNAME .
 dns.gnb09.id CNAME .
 *.dns.gnb09.id CNAME .
-ashtonisapig.groups.id CNAME .
-*.ashtonisapig.groups.id CNAME .
-dg.groups.id CNAME .
-*.dg.groups.id CNAME .
 fivefootoneiscrazyngl.groups.id CNAME .
 *.fivefootoneiscrazyngl.groups.id CNAME .
 galaxy.groups.id CNAME .
@@ -22827,8 +22717,6 @@ ixl.loginalternative.hospitaldelninodif.gob.mx CNAME .
 *.ixl.loginalternative.hospitaldelninodif.gob.mx CNAME .
 gov.ovieags.gob.mx CNAME .
 *.gov.ovieags.gob.mx CNAME .
-hola.colom.378.com.pagostepeapulco.gob.mx CNAME .
-*.hola.colom.378.com.pagostepeapulco.gob.mx CNAME .
 minhphamr.pagostepeapulco.gob.mx CNAME .
 *.minhphamr.pagostepeapulco.gob.mx CNAME .
 boltisback.panel-laboralcj.gob.mx CNAME .
@@ -22911,8 +22799,6 @@ encryptmy.name CNAME .
 *.encryptmy.name CNAME .
 getvpn.name CNAME .
 *.getvpn.name CNAME .
-rodriguez.h-o-s-t.name CNAME .
-*.rodriguez.h-o-s-t.name CNAME .
 schoologylearningedu.h-o-s-t.name CNAME .
 *.schoologylearningedu.h-o-s-t.name CNAME .
 hideaway.name CNAME .
@@ -25511,8 +25397,6 @@ papi.fusionsai.net CNAME .
 *.papi.fusionsai.net CNAME .
 us.future-world.net CNAME .
 *.us.future-world.net CNAME .
-lunarhistory.galaxybbs.net CNAME .
-*.lunarhistory.galaxybbs.net CNAME .
 proxy.gamecove.net CNAME .
 *.proxy.gamecove.net CNAME .
 dns.api.gandi.net CNAME .
@@ -25613,8 +25497,6 @@ hidethisip.net CNAME .
 *.hidethisip.net CNAME .
 hiforever.net CNAME .
 *.hiforever.net CNAME .
-jonahdaman.hillbrick.net CNAME .
-*.jonahdaman.hillbrick.net CNAME .
 dns.hinet.net CNAME .
 *.dns.hinet.net CNAME .
 hiproxy.net CNAME .
@@ -27745,8 +27627,6 @@ zinko.floatyworld.online CNAME .
 *.zinko.floatyworld.online CNAME .
 flrnneprlkqiz.online CNAME .
 *.flrnneprlkqiz.online CNAME .
-freeproxylist.online CNAME .
-*.freeproxylist.online CNAME .
 freevbx.online CNAME .
 *.freevbx.online CNAME .
 freevpnfirst.online CNAME .
@@ -29089,8 +28969,6 @@ hcstemm.org CNAME .
 *.hcstemm.org CNAME .
 help-with-homework.org CNAME .
 *.help-with-homework.org CNAME .
-donate.help4bali.org CNAME .
-*.donate.help4bali.org CNAME .
 novaenglish.help4bali.org CNAME .
 *.novaenglish.help4bali.org CNAME .
 vibecoding.help4bali.org CNAME .
@@ -30869,10 +30747,6 @@ im-poor-in.sab.eminescusm.ro CNAME .
 *.im-poor-in.sab.eminescusm.ro CNAME .
 math.sheets.eminescusm.ro CNAME .
 *.math.sheets.eminescusm.ro CNAME .
-sd.galaxysoft.ro CNAME .
-*.sd.galaxysoft.ro CNAME .
-jordansmathnetwork.gazonnatural.ro CNAME .
-*.jordansmathnetwork.gazonnatural.ro CNAME .
 wow.fun.cool.glasstechnik.ro CNAME .
 *.wow.fun.cool.glasstechnik.ro CNAME .
 roadesdyn.go.ro CNAME .
@@ -32719,10 +32593,6 @@ xvmess.site CNAME .
 *.xvmess.site CNAME .
 yakutvpn.site CNAME .
 *.yakutvpn.site CNAME .
-9dk3mztl0wqg5rnb8yvf2ehujxs7i4cpqa6omb1tdgklfuxvy.frtala.sk CNAME .
-*.9dk3mztl0wqg5rnb8yvf2ehujxs7i4cpqa6omb1tdgklfuxvy.frtala.sk CNAME .
-lililiilliiillililililllliiiiiiilllllliiillllll.frtala.sk CNAME .
-*.lililiilliiillililililllliiiiiiilllllliiillllll.frtala.sk CNAME .
 lusefage.korunovacneslavnosti.sk CNAME .
 *.lusefage.korunovacneslavnosti.sk CNAME .
 dns.levonet.sk CNAME .
@@ -32963,8 +32833,6 @@ fastcontent.store CNAME .
 *.fastcontent.store CNAME .
 flyingsnow.store CNAME .
 *.flyingsnow.store CNAME .
-fun4school.store CNAME .
-*.fun4school.store CNAME .
 home-server.store CNAME .
 *.home-server.store CNAME .
 key1lib.store CNAME .
@@ -34307,8 +34175,6 @@ adguard.ghkyzz.us CNAME .
 *.adguard.ghkyzz.us CNAME .
 gifttrees.us CNAME .
 *.gifttrees.us CNAME .
-gomath.us CNAME .
-*.gomath.us CNAME .
 googo.us CNAME .
 *.googo.us CNAME .
 gpreport.us CNAME .

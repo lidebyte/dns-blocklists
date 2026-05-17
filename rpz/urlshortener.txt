@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779006480 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779037200 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 May 2026 08:28 UTC
-; Version: 2026.0517.0828.20
+; Last modified: 17 May 2026 17:00 UTC
+; Version: 2026.0517.1700.53
 ; Syntax: RPZ
-; Number of entries: 19878
+; Number of entries: 19872
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1775,8 +1775,6 @@ skyurl.cc CNAME .
 *.skyurl.cc CNAME .
 smallit.cc CNAME .
 *.smallit.cc CNAME .
-smll.cc CNAME .
-*.smll.cc CNAME .
 smollq.cc CNAME .
 *.smollq.cc CNAME .
 srv.cc CNAME .
@@ -3697,8 +3695,6 @@ bpjames.com CNAME .
 *.bpjames.com CNAME .
 bpkrlinks.com CNAME .
 *.bpkrlinks.com CNAME .
-bragimov.com CNAME .
-*.bragimov.com CNAME .
 brahmanalink.com CNAME .
 *.brahmanalink.com CNAME .
 brevelink.com CNAME .
@@ -3717,6 +3713,8 @@ bstnst.com CNAME .
 *.bstnst.com CNAME .
 btiliy.com CNAME .
 *.btiliy.com CNAME .
+btkmgir.com CNAME .
+*.btkmgir.com CNAME .
 btwrdn.com CNAME .
 *.btwrdn.com CNAME .
 bu66.com CNAME .
@@ -4433,8 +4431,6 @@ garudeya.com CNAME .
 *.garudeya.com CNAME .
 garyvee.com CNAME .
 *.garyvee.com CNAME .
-gasely.com CNAME .
-*.gasely.com CNAME .
 go.gcash.com CNAME .
 *.go.gcash.com CNAME .
 gclnk.com CNAME .
@@ -4487,6 +4483,8 @@ ghs.com CNAME .
 *.ghs.com CNAME .
 giosous.com CNAME .
 *.giosous.com CNAME .
+girismario.com CNAME .
+*.girismario.com CNAME .
 glattly.com CNAME .
 *.glattly.com CNAME .
 glbass.com CNAME .
@@ -7169,6 +7167,8 @@ tuskqr.com CNAME .
 *.tuskqr.com CNAME .
 tweetburner.com CNAME .
 *.tweetburner.com CNAME .
+twimgv.com CNAME .
+*.twimgv.com CNAME .
 twishx.com CNAME .
 *.twishx.com CNAME .
 twitterpan.com CNAME .
@@ -10787,8 +10787,6 @@ fltx.io CNAME .
 *.fltx.io CNAME .
 freedirector.io CNAME .
 *.freedirector.io CNAME .
-url-shortener.yc.fstrk.io CNAME .
-*.url-shortener.yc.fstrk.io CNAME .
 fys.io CNAME .
 *.fys.io CNAME .
 gantic.io CNAME .
@@ -12123,8 +12121,6 @@ emu.li CNAME .
 *.emu.li CNAME .
 eys.li CNAME .
 *.eys.li CNAME .
-g-o.li CNAME .
-*.g-o.li CNAME .
 geg.li CNAME .
 *.geg.li CNAME .
 glob.li CNAME .
@@ -12629,8 +12625,6 @@ gfl2exilium.link CNAME .
 *.gfl2exilium.link CNAME .
 gfmt.link CNAME .
 *.gfmt.link CNAME .
-ggilfz.link CNAME .
-*.ggilfz.link CNAME .
 ggl.link CNAME .
 *.ggl.link CNAME .
 gibi.link CNAME .

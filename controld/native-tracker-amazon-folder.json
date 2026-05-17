@@ -1793,6 +1793,13 @@
       }
     },
     {
+      "PK": "sponsored-ads.amazon.fr",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "sponsored-ads.amazon.in",
       "action": {
         "do": 0,
@@ -1828,6 +1835,13 @@
       }
     },
     {
+      "PK": "sponsored-ads-eu.amazon.co.za",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "sponsored-ads-eu.amazon.de",
       "action": {
         "do": 0,
@@ -1842,6 +1856,13 @@
       }
     },
     {
+      "PK": "sponsored-ads-eu.amazon.ie",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "sponsored-ads-eu.amazon.nl",
       "action": {
         "do": 0,
@@ -1850,6 +1871,20 @@
     },
     {
       "PK": "sponsored-ads-eu.amazon.pl",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sponsored-ads-eu.amazon.sa",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sponsored-ads-eu.amazon.se",
       "action": {
         "do": 0,
         "status": 1

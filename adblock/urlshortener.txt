@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 17 May 2026 08:28 UTC
-! Version: 2026.0517.0828.20
+! Last modified: 17 May 2026 17:00 UTC
+! Version: 2026.0517.1700.53
 ! Syntax: AdBlock
-! Number of entries: 9939
+! Number of entries: 9936
 !
 ||a.189.cn^
 ||t.2merkato.com^
@@ -328,7 +328,6 @@
 ||grey-sphere-536600.framer.app^
 ||s.free.fr^
 ||url-shortener.freebusinessapps.net^
-||url-shortener.yc.fstrk.io^
 ||on.ft.com^
 ||go-admin.functorz.com^
 ||download.fxsound.com^
@@ -2137,7 +2136,6 @@
 ||bra.lu^
 ||brad.blue^
 ||bradley-parker.social^
-||bragimov.com^
 ||brahmanalink.com^
 ||brandlink.me^
 ||bravo.ly^
@@ -2196,6 +2194,7 @@
 ||btf.st^
 ||bti.ninja^
 ||btiliy.com^
+||btkmgir.com^
 ||btly.cc^
 ||btm.li^
 ||btty.in^
@@ -3509,7 +3508,6 @@
 ||g.asia^
 ||g.co^
 ||g-linkly.com^
-||g-o.li^
 ||g-url.cn^
 ||g-web.in^
 ||g00.me^
@@ -3541,7 +3539,6 @@
 ||garuda.homes^
 ||garudeya.com^
 ||garyvee.com^
-||gasely.com^
 ||gat.to^
 ||gatustox.net^
 ||gaw.kr^
@@ -3619,7 +3616,6 @@
 ||gg.gg^
 ||ggapps.xyz^
 ||ggd.bz^
-||ggilfz.link^
 ||ggl.link^
 ||ggle.io^
 ||gglink.site^
@@ -3638,6 +3634,7 @@
 ||gir.gg^
 ||giraffeweb.link^
 ||giris724.link^
+||girismario.com^
 ||girlte.ch^
 ||git.ad^
 ||git.io^
@@ -7769,7 +7766,6 @@
 ||smkt.app^
 ||smlfy.com^
 ||smlk.es^
-||smll.cc^
 ||smlnk.us^
 ||smlr.nu^
 ||smo.do^
@@ -8696,6 +8692,7 @@
 ||twi.kz^
 ||twil.io^
 ||twilink.me^
+||twimgv.com^
 ||twishx.com^
 ||twishx.io^
 ||twitspin.win^

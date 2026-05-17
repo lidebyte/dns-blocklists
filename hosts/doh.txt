@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 May 2026 09:41 UTC
-# Version: 2026.0517.0941.38
+# Last modified: 17 May 2026 16:58 UTC
+# Version: 2026.0517.1658.59
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3915
+# Number of entries: 3914
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -1849,7 +1849,6 @@
 0.0.0.0 hgrps.eu
 0.0.0.0 www.hgrps.eu
 0.0.0.0 dns.sgp.hicn.site
-0.0.0.0 adg.meviusberry.hidns.co
 0.0.0.0 mail.hilton-groups.com
 0.0.0.0 himedns.com
 0.0.0.0 dns.hinet.net
