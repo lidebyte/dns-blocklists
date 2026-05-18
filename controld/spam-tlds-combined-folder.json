@@ -1820,6 +1820,13 @@
       }
     },
     {
+      "PK": "der-marmeladenladen.shop",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "derweinladen.shop",
       "action": {
         "do": 1,
@@ -3963,6 +3970,13 @@
     },
     {
       "PK": "kizuki.lol",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "kktix.cc",
       "action": {
         "do": 1,
         "status": 1

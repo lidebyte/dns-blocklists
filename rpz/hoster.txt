@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779095880 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779127140 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 18 May 2026 09:18 UTC
-; Version: 2026.0518.0918.35
+; Last modified: 18 May 2026 17:59 UTC
+; Version: 2026.0518.1759.14
 ; Syntax: RPZ
-; Number of entries: 2606
+; Number of entries: 2632
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -302,6 +302,8 @@ wapka.co CNAME .
 *.50megs.com CNAME .
 50webs.com CNAME .
 *.50webs.com CNAME .
+5gbfree.com CNAME .
+*.5gbfree.com CNAME .
 66ghz.com CNAME .
 *.66ghz.com CNAME .
 741.com CNAME .
@@ -572,6 +574,8 @@ financecryptoworld.com CNAME .
 *.financecryptoworld.com CNAME .
 firearms.com CNAME .
 *.firearms.com CNAME .
+firstcloudit.com CNAME .
+*.firstcloudit.com CNAME .
 fitnell.com CNAME .
 *.fitnell.com CNAME .
 flazio.com CNAME .
@@ -642,6 +646,8 @@ gerentebr.com CNAME .
 *.gerentebr.com CNAME .
 getresponsesite.com CNAME .
 *.getresponsesite.com CNAME .
+girlsense.com CNAME .
+*.girlsense.com CNAME .
 godaddysites.com CNAME .
 *.godaddysites.com CNAME .
 gofreeserve.com CNAME .
@@ -696,6 +702,8 @@ iceiy.com CNAME .
 *.iceiy.com CNAME .
 infinityfreeapp.com CNAME .
 *.infinityfreeapp.com CNAME .
+inmotionhosting.com CNAME .
+*.inmotionhosting.com CNAME .
 instantfreesite.com CNAME .
 *.instantfreesite.com CNAME .
 inube.com CNAME .
@@ -794,6 +802,8 @@ mypressonline.com CNAME .
 *.mypressonline.com CNAME .
 mystrikingly.com CNAME .
 *.mystrikingly.com CNAME .
+mywebsitetransfer.com CNAME .
+*.mywebsitetransfer.com CNAME .
 nabble.com CNAME .
 *.nabble.com CNAME .
 nexgenelectricct.com CNAME .
@@ -818,6 +828,8 @@ parknhost.com CNAME .
 *.parknhost.com CNAME .
 pcriot.com CNAME .
 *.pcriot.com CNAME .
+peraichi.com CNAME .
+*.peraichi.com CNAME .
 piczo.com CNAME .
 *.piczo.com CNAME .
 podia.com CNAME .
@@ -832,6 +844,8 @@ profreehost.com CNAME .
 *.profreehost.com CNAME .
 psend.com CNAME .
 *.psend.com CNAME .
+renderforestsites.com CNAME .
+*.renderforestsites.com CNAME .
 reodev.com CNAME .
 *.reodev.com CNAME .
 royal-host.com CNAME .
@@ -964,6 +978,8 @@ website.com CNAME .
 *.website.com CNAME .
 webspawner.com CNAME .
 *.webspawner.com CNAME .
+webstarterz.com CNAME .
+*.webstarterz.com CNAME .
 webstarts.com CNAME .
 *.webstarts.com CNAME .
 weebly.com CNAME .
@@ -1940,6 +1956,8 @@ mybluehost.me CNAME .
 *.mybluehost.me CNAME .
 mybluehostin.me CNAME .
 *.mybluehostin.me CNAME .
+onepage.me CNAME .
+*.onepage.me CNAME .
 page4.me CNAME .
 *.page4.me CNAME .
 populr.me CNAME .
@@ -1992,6 +2010,8 @@ one4u.0lx.net CNAME .
 *.1x.net CNAME .
 2kool4u.net CNAME .
 *.2kool4u.net CNAME .
+500mb.net CNAME .
+*.500mb.net CNAME .
 6te.net CNAME .
 *.6te.net CNAME .
 8m.net CNAME .
@@ -2156,6 +2176,8 @@ blogspot.co.nz CNAME .
 *.blogspot.co.nz CNAME .
 sth.nz CNAME .
 *.sth.nz CNAME .
+webpages.one CNAME .
+*.webpages.one CNAME .
 1sthost.org CNAME .
 *.1sthost.org CNAME .
 22web.org CNAME .
@@ -2292,8 +2314,6 @@ de.pl CNAME .
 *.de.pl CNAME .
 e-kei.pl CNAME .
 *.e-kei.pl CNAME .
-nazwa.pl CNAME .
-*.nazwa.pl CNAME .
 prv.pl CNAME .
 *.prv.pl CNAME .
 ucoz.pl CNAME .
@@ -2346,6 +2366,8 @@ mycpanel.rs CNAME .
 *.mycpanel.rs CNAME .
 3dn.ru CNAME .
 *.3dn.ru CNAME .
+bget.ru CNAME .
+*.bget.ru CNAME .
 blog.ru CNAME .
 *.blog.ru CNAME .
 blogspot.ru CNAME .
@@ -2404,6 +2426,8 @@ xsph.ru CNAME .
 *.xsph.ru CNAME .
 pancake.run CNAME .
 *.pancake.run CNAME .
+plasmic.run CNAME .
+*.plasmic.run CNAME .
 blogg.se CNAME .
 *.blogg.se CNAME .
 bloggplatsen.se CNAME .
@@ -2438,6 +2462,8 @@ brizy.site CNAME .
 *.brizy.site CNAME .
 business.site CNAME .
 *.business.site CNAME .
+company.site CNAME .
+*.company.site CNAME .
 studio.site CNAME .
 *.studio.site CNAME .
 temporary.site CNAME .

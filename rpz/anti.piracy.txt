@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779098040 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779123660 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 18 May 2026 09:54 UTC
-; Version: 2026.0518.0954.45
+; Last modified: 18 May 2026 17:01 UTC
+; Version: 2026.0518.1701.18
 ; Syntax: RPZ
-; Number of entries: 25864
+; Number of entries: 25860
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -2850,8 +2850,6 @@ nitestv.co CNAME .
 *.nitestv.co CNAME .
 official-kmspico.co CNAME .
 *.official-kmspico.co CNAME .
-olympicstreams.co CNAME .
-*.olympicstreams.co CNAME .
 onepiece-streaming.co CNAME .
 *.onepiece-streaming.co CNAME .
 onionplay.co CNAME .
@@ -4624,6 +4622,8 @@ dizipal1544.com CNAME .
 *.dizipal1544.com CNAME .
 dizipal1550.com CNAME .
 *.dizipal1550.com CNAME .
+dizipal1553.com CNAME .
+*.dizipal1553.com CNAME .
 dizipal1936.com CNAME .
 *.dizipal1936.com CNAME .
 dizipal2062.com CNAME .
@@ -4642,8 +4642,12 @@ dizipal2069.com CNAME .
 *.dizipal2069.com CNAME .
 dizipal2070.com CNAME .
 *.dizipal2070.com CNAME .
+dizipal2071.com CNAME .
+*.dizipal2071.com CNAME .
 dizipall32.com CNAME .
 *.dizipall32.com CNAME .
+dizipalorij.com CNAME .
+*.dizipalorij.com CNAME .
 djconway.com CNAME .
 *.djconway.com CNAME .
 djleak.com CNAME .
@@ -15698,8 +15702,6 @@ p2pnet.net CNAME .
 *.p2pnet.net CNAME .
 passion-musique.net CNAME .
 *.passion-musique.net CNAME .
-passpulse.net CNAME .
-*.passpulse.net CNAME .
 pcprogs.net CNAME .
 *.pcprogs.net CNAME .
 pdf-giant.net CNAME .
@@ -20900,8 +20902,6 @@ multimovies.run CNAME .
 *.multimovies.run CNAME .
 colibri.parrot.run CNAME .
 *.colibri.parrot.run CNAME .
-wolf.parrot.run CNAME .
-*.wolf.parrot.run CNAME .
 sportsurge.run CNAME .
 *.sportsurge.run CNAME .
 tanti-film.run CNAME .
@@ -23784,8 +23784,6 @@ mp3juice.tv CNAME .
 *.mp3juice.tv CNAME .
 mycujoo.tv CNAME .
 *.mycujoo.tv CNAME .
-myflixtor.tv CNAME .
-*.myflixtor.tv CNAME .
 myp2p.tv CNAME .
 *.myp2p.tv CNAME .
 myvi.tv CNAME .
@@ -25860,8 +25858,6 @@ limetorrents.zone CNAME .
 *.limetorrents.zone CNAME .
 megakino.zone CNAME .
 *.megakino.zone CNAME .
-s1130639.ha009.t.mydomain.zone CNAME .
-*.s1130639.ha009.t.mydomain.zone CNAME .
 s1124554.ha012.t.mydomain.zone CNAME .
 *.s1124554.ha012.t.mydomain.zone CNAME .
 s1130642.ha014.t.mydomain.zone CNAME .

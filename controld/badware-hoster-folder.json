@@ -701,6 +701,13 @@
       }
     },
     {
+      "PK": "500mb.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "50megs.com",
       "action": {
         "do": 0,
@@ -723,6 +730,13 @@
     },
     {
       "PK": "530.at",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "5gbfree.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1493,6 +1507,13 @@
     },
     {
       "PK": "bg.gp",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "bget.ru",
       "action": {
         "do": 0,
         "status": 1
@@ -2920,6 +2941,13 @@
       }
     },
     {
+      "PK": "company.site",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "comule.com",
       "action": {
         "do": 0,
@@ -3893,6 +3921,13 @@
       }
     },
     {
+      "PK": "firstcloudit.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "fitnell.com",
       "action": {
         "do": 0,
@@ -4468,6 +4503,13 @@
     },
     {
       "PK": "gildenseite.de",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "girlsense.com",
       "action": {
         "do": 0,
         "status": 1
@@ -5084,6 +5126,13 @@
     },
     {
       "PK": "infos.st",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "inmotionhosting.com",
       "action": {
         "do": 0,
         "status": 1
@@ -6154,6 +6203,13 @@
       }
     },
     {
+      "PK": "mywebsitetransfer.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "n-e.kr",
       "action": {
         "do": 0,
@@ -6197,13 +6253,6 @@
     },
     {
       "PK": "nazuka.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "nazwa.pl",
       "action": {
         "do": 0,
         "status": 1
@@ -6420,6 +6469,13 @@
       }
     },
     {
+      "PK": "onepage.me",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "onepage.website",
       "action": {
         "do": 0,
@@ -6630,6 +6686,13 @@
       }
     },
     {
+      "PK": "peraichi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "perfektionieren.de",
       "action": {
         "do": 0,
@@ -6729,6 +6792,13 @@
     },
     {
       "PK": "planet.tl",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "plasmic.run",
       "action": {
         "do": 0,
         "status": 1
@@ -6932,6 +7002,13 @@
     },
     {
       "PK": "regruhosting.ru",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "renderforestsites.com",
       "action": {
         "do": 0,
         "status": 1
@@ -8618,6 +8695,13 @@
       }
     },
     {
+      "PK": "webpages.one",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "webs.com",
       "action": {
         "do": 0,
@@ -8682,6 +8766,13 @@
     },
     {
       "PK": "webspawner.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "webstarterz.com",
       "action": {
         "do": 0,
         "status": 1

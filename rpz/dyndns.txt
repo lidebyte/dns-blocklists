@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778777400 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779123480 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 14 May 2026 16:50 UTC
-; Version: 2026.0514.1650.56
+; Last modified: 18 May 2026 16:58 UTC
+; Version: 2026.0518.1658.14
 ; Syntax: RPZ
-; Number of entries: 2958
+; Number of entries: 2976
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -188,6 +188,8 @@ smelly.cc CNAME .
 *.smelly.cc CNAME .
 usa.cc CNAME .
 *.usa.cc CNAME .
+vicp.cc CNAME .
+*.vicp.cc CNAME .
 cloudns.ch CNAME .
 *.cloudns.ch CNAME .
 ddnss.ch CNAME .
@@ -490,8 +492,6 @@ doomdns.com CNAME .
 *.doomdns.com CNAME .
 dougtreadwell.com CNAME .
 *.dougtreadwell.com CNAME .
-doyleandprendergast.com CNAME .
-*.doyleandprendergast.com CNAME .
 dp76.com CNAME .
 *.dp76.com CNAME .
 dpcube.com CNAME .
@@ -1194,8 +1194,6 @@ pendulumaudio.com CNAME .
 *.pendulumaudio.com CNAME .
 peregrineair.com CNAME .
 *.peregrineair.com CNAME .
-photo-cult.com CNAME .
-*.photo-cult.com CNAME .
 photo-frame.com CNAME .
 *.photo-frame.com CNAME .
 piroge.com CNAME .
@@ -1502,6 +1500,8 @@ it.cx CNAME .
 *.it.cx CNAME .
 cpsnet.cz CNAME .
 *.cpsnet.cz CNAME .
+pdns.cz CNAME .
+*.pdns.cz CNAME .
 2fine.de CNAME .
 *.2fine.de CNAME .
 any64.de CNAME .
@@ -1510,6 +1510,8 @@ api64.de CNAME .
 *.api64.de CNAME .
 clickip.de CNAME .
 *.clickip.de CNAME .
+ddnss.de CNAME .
+*.ddnss.de CNAME .
 ddnssec.de CNAME .
 *.ddnssec.de CNAME .
 dns64.de CNAME .
@@ -1540,6 +1542,8 @@ fuettertdasnetz.de CNAME .
 *.fuettertdasnetz.de CNAME .
 home-webserver.de CNAME .
 *.home-webserver.de CNAME .
+home64.de CNAME .
+*.home64.de CNAME .
 iot64.de CNAME .
 *.iot64.de CNAME .
 ipv64.de CNAME .
@@ -2072,6 +2076,10 @@ from-ny.net CNAME .
 *.from-ny.net CNAME .
 gets-it.net CNAME .
 *.gets-it.net CNAME .
+gicp.net CNAME .
+*.gicp.net CNAME .
+h0stname.net CNAME .
+*.h0stname.net CNAME .
 ham-radio-op.net CNAME .
 *.ham-radio-op.net CNAME .
 hbmc.net CNAME .
@@ -2316,6 +2324,8 @@ accesscam.org CNAME .
 *.accesscam.org CNAME .
 afraid.org CNAME .
 *.afraid.org CNAME .
+airdns.org CNAME .
+*.airdns.org CNAME .
 allisons.org CNAME .
 *.allisons.org CNAME .
 allowed.org CNAME .
@@ -2438,6 +2448,8 @@ essexregional.org CNAME .
 *.essexregional.org CNAME .
 ezxdev.org CNAME .
 *.ezxdev.org CNAME .
+f3322.org CNAME .
+*.f3322.org CNAME .
 fairuse.org CNAME .
 *.fairuse.org CNAME .
 familyds.org CNAME .
@@ -2760,8 +2772,6 @@ mikata.ru CNAME .
 *.mikata.ru CNAME .
 myjino.ru CNAME .
 *.myjino.ru CNAME .
-nedvighimost-sochi.ru CNAME .
-*.nedvighimost-sochi.ru CNAME .
 novgaz-rzn.ru CNAME .
 *.novgaz-rzn.ru CNAME .
 orskkino.ru CNAME .
@@ -2818,6 +2828,8 @@ ix.tc CNAME .
 *.ix.tc CNAME .
 nx.tc CNAME .
 *.nx.tc CNAME .
+freedns.tech CNAME .
+*.freedns.tech CNAME .
 pntl.tl CNAME .
 *.pntl.tl CNAME .
 biz.tm CNAME .
@@ -2888,6 +2900,8 @@ fdns.uk CNAME .
 *.fdns.uk CNAME .
 freeddns.uk CNAME .
 *.freeddns.uk CNAME .
+ddns.me.uk CNAME .
+*.ddns.me.uk CNAME .
 dynamicdns.me.uk CNAME .
 *.dynamicdns.me.uk CNAME .
 d-n-s.org.uk CNAME .
@@ -2958,10 +2972,14 @@ shacknet.us CNAME .
 *.shacknet.us CNAME .
 stuff-4-sale.us CNAME .
 *.stuff-4-sale.us CNAME .
+tobuy.us CNAME .
+*.tobuy.us CNAME .
 hs.vc CNAME .
 *.hs.vc CNAME .
 webs.vc CNAME .
 *.webs.vc CNAME .
+qlbv.vn CNAME .
+*.qlbv.vn CNAME .
 k.vu CNAME .
 *.k.vu CNAME .
 dyndns.ws CNAME .

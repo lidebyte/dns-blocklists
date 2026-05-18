@@ -6,8 +6,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 18 May 2026 08:32 UTC
-! Version: 2026.0518.0832.16
+! Last modified: 18 May 2026 17:21 UTC
+! Version: 2026.0518.1721.30
 ! Syntax: AdBlock
 ! Number of entries: 15613
 !
@@ -219,6 +219,7 @@
 ||at.eeelgnte.shop^
 ||heimwuq.einfachykfe.cyou^
 ||checkout.ekommmedia.com^
+||adlz.ekyyq.shop^
 ||shop.electro-center.lu^
 ||de.emmiol.com^
 ||unser-eshop.shop.epages.de^
@@ -471,7 +472,6 @@
 ||app.onlinelebenslauf.com^
 ||more2water.onshopbase.com^
 ||indiafacts.org.in^
-||eu.oshosebk.shop^
 ||de.osmo-official.com^
 ||www.buy-bitcoin.pagedemo.co^
 ||login.parsev.com^
@@ -1683,6 +1683,7 @@
 ||babyproduce.com^
 ||babyroom-shop.com^
 ||babyseat-shop.com^
+||babysetonline.shop^
 ||babywarepromo.com^
 ||babyweltde.com^
 ||bachelorm.com^
@@ -1995,6 +1996,7 @@
 ||berlinermode.shop^
 ||berlinessence.com^
 ||berlinfog.com^
+||berlinglamour.de^
 ||berlinherren.de^
 ||berlinmedz.com^
 ||berlinmoon.com^
@@ -2126,6 +2128,7 @@
 ||beuniger.de^
 ||beweich.de^
 ||bewerte-den-shop.de^
+||bewolken.de^
 ||bexisassets.com^
 ||bextradefx.online^
 ||beziehungspersoenlichkeit.de^
@@ -2840,6 +2843,7 @@
 ||cascosoffroad.com^
 ||caseetepen.com^
 ||cashmerancing.com^
+||casino-instant-online.de^
 ||casira.de^
 ||casiva.de^
 ||caspharmacy.com^
@@ -3494,6 +3498,7 @@
 ||dannerwandelschoen.com^
 ||danster-gmbh.de^
 ||dantesavoy.de^
+||danxon.de^
 ||dap-deals.de^
 ||dapperlogistik.com^
 ||dar-germany.de^
@@ -3550,6 +3555,7 @@
 ||de-cnovapaymoney.org^
 ||de-fahrradshop.com^
 ||de-filter.com^
+||de-fizzclean.com^
 ||de-frilufts.com^
 ||de-gojurist.site^
 ||de-lumelia.com^
@@ -5807,6 +5813,7 @@
 ||get-adel.de^
 ||get-akusoli.com^
 ||get-curaball.com^
+||get-fizzclean.com^
 ||get-hydrogenwaterbottle.com^
 ||get-klaudena.com^
 ||get-male-meds.net^
@@ -6425,6 +6432,7 @@
 ||haustierbedarfshop.com^
 ||haustiererabatt.com^
 ||haustiereshop.com^
+||haustierstolz.de^
 ||haustirwelten.de^
 ||hausture.com^
 ||hausundgarten.haus^
@@ -10009,7 +10017,6 @@
 ||newinmountain.com^
 ||newinsnowboard.com^
 ||newkidsinc.com^
-||newland-travel.com^
 ||newlivingroomchairs.com^
 ||newmanshoes.com^
 ||newmissstylish.com^
@@ -10030,6 +10037,7 @@
 ||nexo-ki.com^
 ||nexoil.de^
 ||nexolc.com^
+||nexorider.com^
 ||nexsource.de^
 ||next-bricks.com^
 ||next-neu.de^
@@ -10085,7 +10093,6 @@
 ||nivekco.com^
 ||nivela.de^
 ||nixbetonline.com^
-||nixse.com^
 ||nizle.shop^
 ||njordoutdoors.com^
 ||nkd-store.com^
@@ -10100,7 +10107,6 @@
 ||no-bull-deutschland.de^
 ||nobalte.de^
 ||noblepawz.com^
-||nobrerefino.com^
 ||nobulldeutschland.de^
 ||nobullosterreich.com^
 ||nobullsale.at^
@@ -10224,7 +10230,6 @@
 ||nspsl.sk^
 ||nsrarlou.shop^
 ||nsxcapital.com^
-||ntbdiffusion.com^
 ||ntbps-sales.com^
 ||ntischoolpune.org^
 ||ntonio.de^
@@ -10237,14 +10242,12 @@
 ||nurioso.com^
 ||nursingaccessoriesstore.com^
 ||nurssery.com^
-||nurulamal.com^
 ||nuubu-store.com^
 ||nuvistio.com^
 ||nuvonda.shop^
 ||nuxifuland.shop^
 ||nuxxu.de^
 ||nvcxa.com^
-||nvgevolgd.com^
 ||nw-heizoel.de^
 ||nwmoverscp.com^
 ||nwstore1game.com^
@@ -10543,7 +10546,6 @@
 ||onrunningoutletdeutschland.com^
 ||onrunningoutletdeutschland.de^
 ||onrunningoutletfactory.com^
-||onrunningoutletstore.de^
 ||onrunningsale.com^
 ||onrunningsoutlet.de^
 ||onrunningwien.at^
@@ -10593,7 +10595,6 @@
 ||optionsmarter.com^
 ||optionsxo.com^
 ||opyiazki.shop^
-||opzx.de^
 ||oralb-austria.com^
 ||orba24.de^
 ||orbi-mount.com^
@@ -10641,7 +10642,6 @@
 ||ortovoxs.at^
 ||ortovoxs.de^
 ||oruguitashop.com^
-||orunning.shop^
 ||orykas.de^
 ||orynstores.com^
 ||oryokide.com^
@@ -10680,7 +10680,6 @@
 ||otp-online.de^
 ||otpedic.de^
 ||otronical.de^
-||otto-angebote.de^
 ||ottoelektro.de^
 ||ottoramed.com^
 ||ottowhale.com^
@@ -11725,7 +11724,6 @@
 ||rekordpellets.com^
 ||rekten.com^
 ||relativitye.com^
-||relaxholz.at^
 ||relaxliegenxa.com^
 ||relevantf.com^
 ||reli-lex.de^
@@ -12164,6 +12162,7 @@
 ||salomonsuomi.com^
 ||salomonsuomioutlet.com^
 ||salud-europa.com^
+||salussaunasonline.shop^
 ||salzburg-atelier.at^
 ||salzburgapotheke.com^
 ||salzburgmode.at^
@@ -14752,6 +14751,7 @@
 ||virtualgift-online.com^
 ||virtuallyk.com^
 ||virtualmall.my^
+||virtualpharma.de^
 ||virtuelle-analysen.de^
 ||visinature.com^
 ||vision-fs.com^

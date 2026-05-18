@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 14 May 2026 16:50 UTC
-! Version: 2026.0514.1650.56
+! Last modified: 18 May 2026 16:58 UTC
+! Version: 2026.0518.1658.14
 ! Syntax: AdBlock
-! Number of entries: 1479
+! Number of entries: 1488
 !
 ||dyn.addr.tools^
 ||changeip.co.uk^
@@ -22,6 +22,7 @@
 ||winco.com.br^
 ||dyn.dns.he.net^
 ||4040.idv.tw^
+||ddns.me.uk^
 ||dynamicdns.me.uk^
 ||d-n-s.org.uk^
 ||dynamicdns.org.uk^
@@ -78,6 +79,7 @@
 ||afraid.org^
 ||agropeople.ru^
 ||aintno.info^
+||airdns.org^
 ||airlinemeals.net^
 ||albertn.ru^
 ||allez.la^
@@ -268,6 +270,7 @@
 ||ddnsking.com^
 ||ddnslive.com^
 ||ddnss.ch^
+||ddnss.de^
 ||ddnss.eu^
 ||ddnss.org^
 ||ddnssec.de^
@@ -344,7 +347,6 @@
 ||doomdns.com^
 ||doomdns.org^
 ||dougtreadwell.com^
-||doyleandprendergast.com^
 ||dp76.com^
 ||dpcube.com^
 ||dray-dns.de^
@@ -499,6 +501,7 @@
 ||ezxdev.org^
 ||f-parts.net^
 ||f3322.net^
+||f3322.org^
 ||fairuse.org^
 ||falcongreen.com^
 ||familyds.com^
@@ -533,6 +536,7 @@
 ||freeddns.org^
 ||freeddns.uk^
 ||freeddns.us^
+||freedns.tech^
 ||freedynamicdns.net^
 ||freedynamicdns.org^
 ||freemyip.com^
@@ -612,6 +616,7 @@
 ||gettrails.com^
 ||gettrials.com^
 ||ghostnation.org^
+||gicp.net^
 ||gigaportal.pl^
 ||giize.com^
 ||glddns.com^
@@ -645,6 +650,7 @@
 ||gw.lt^
 ||gw1.org^
 ||h-o-s-t.name^
+||h0stname.net^
 ||h1x.com^
 ||h4ck.me^
 ||hackquest.com^
@@ -675,6 +681,7 @@
 ||hokum-smack.com^
 ||home.kg^
 ||home-webserver.de^
+||home64.de^
 ||homedns.org^
 ||homeftp.net^
 ||homeftp.org^
@@ -1037,7 +1044,6 @@
 ||natrofa.com^
 ||ndcg.com^
 ||neat-url.com^
-||nedvighimost-sochi.ru^
 ||nerdcamp.net^
 ||nerdpol.ovh^
 ||net-freaks.com^
@@ -1119,13 +1125,13 @@
 ||partycenteronline.com^
 ||patelmortgage.com^
 ||paulkelly.org^
+||pdns.cz^
 ||peachyweb.com^
 ||pedie.info^
 ||pendulumaudio.com^
 ||peregrineair.com^
 ||pgafan.net^
 ||phenixs.org^
-||photo-cult.com^
 ||photo-frame.com^
 ||php-dev.net^
 ||pics.mu^
@@ -1167,6 +1173,7 @@
 ||pudim.info^
 ||qc.to^
 ||qhigh.com^
+||qlbv.vn^
 ||qpoe.com^
 ||qthome.org^
 ||quackerscomic.com^
@@ -1362,6 +1369,7 @@
 ||thingsnewandused.com^
 ||thruhere.net^
 ||tinyrealm.com^
+||tobuy.us^
 ||toh.info^
 ||topdns.com^
 ||topsddns.net^
@@ -1411,6 +1419,7 @@
 ||venez.net^
 ||verymad.net^
 ||viamisoftware.com^
+||vicp.cc^
 ||vietnamddns.com^
 ||viewdns.net^
 ||viiic.net^

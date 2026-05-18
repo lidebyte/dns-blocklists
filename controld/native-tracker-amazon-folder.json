@@ -1828,6 +1828,13 @@
       }
     },
     {
+      "PK": "sponsored-ads-eu.amazon.com.be",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "sponsored-ads-eu.amazon.com.tr",
       "action": {
         "do": 0,

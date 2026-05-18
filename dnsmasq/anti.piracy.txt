@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 May 2026 09:54 UTC
-# Version: 2026.0518.0954.45
+# Last modified: 18 May 2026 17:01 UTC
+# Version: 2026.0518.1701.18
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12932
+# Number of entries: 12930
 #
 local=/hichemtigsetorgy.0fees.net/
 local=/tracker.0x7c0.com/
@@ -791,7 +791,6 @@ local=/tracker.msm8916.com/
 local=/ln.mtahost.co/
 local=/linux.mybookmarkmanager.com/
 local=/forums.mydigitallife.net/
-local=/s1130639.ha009.t.mydomain.zone/
 local=/s1124554.ha012.t.mydomain.zone/
 local=/s1130642.ha014.t.mydomain.zone/
 local=/s1130638.ha016.t.mydomain.zone/
@@ -960,7 +959,6 @@ local=/nyaa.pantsu.cat/
 local=/sukebei.pantsu.cat/
 local=/tracker.paradise-tracker.com/
 local=/colibri.parrot.run/
-local=/wolf.parrot.run/
 local=/tracker.parrotlinux.org/
 local=/tracker.parrotsec.org/
 local=/tpb.patatje.eu/
@@ -3942,6 +3940,7 @@ local=/dizipal1532.com/
 local=/dizipal1543.com/
 local=/dizipal1544.com/
 local=/dizipal1550.com/
+local=/dizipal1553.com/
 local=/dizipal1936.com/
 local=/dizipal2062.com/
 local=/dizipal2063.com/
@@ -3951,10 +3950,12 @@ local=/dizipal2066.com/
 local=/dizipal2067.com/
 local=/dizipal2069.com/
 local=/dizipal2070.com/
+local=/dizipal2071.com/
 local=/dizipal22.plus/
 local=/dizipal754.vip/
 local=/dizipal755.vip/
 local=/dizipall32.com/
+local=/dizipalorij.com/
 local=/djconway.com/
 local=/djleak.com/
 local=/dl-more.eu/
@@ -8140,7 +8141,6 @@ local=/myflixerhd.ru/
 local=/myflixertv.to/
 local=/myflixerz.stream/
 local=/myflixerz.to/
-local=/myflixtor.tv/
 local=/myfreeleech.com/
 local=/myfreemp3.vip/
 local=/myfreemp3juices.cc/
@@ -8523,7 +8523,6 @@ local=/olevod.com/
 local=/olevod.eu/
 local=/ololo.to/
 local=/ololo.ws/
-local=/olympicstreams.co/
 local=/olympicstreams.tv/
 local=/omgtorrent.com/
 local=/omgtorrent.cz/
@@ -8654,7 +8653,6 @@ local=/paranetinfo.com/
 local=/parliamentlive.tv/
 local=/partis.si/
 local=/passion-musique.net/
-local=/passpulse.net/
 local=/passthepopcorn.me/
 local=/passthepopcorn.org/
 local=/patalpuri.com/

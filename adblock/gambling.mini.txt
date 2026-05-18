@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 18 May 2026 09:54 UTC
-! Version: 2026.0518.0954.02
+! Last modified: 18 May 2026 17:07 UTC
+! Version: 2026.0518.1707.19
 ! Syntax: AdBlock
-! Number of entries: 51381
+! Number of entries: 51327
 !
 ||web-119bet-2025-google-vip-119bet.119-hello.com^
 ||web-166betcom-vip-166betcc-166betvip-2025fa-east1.166tiger.com^
@@ -1299,7 +1299,6 @@
 ||besten-casino.org.uk^
 ||betarnocasino.org.uk^
 ||betmaster-casino.org.mx^
-||betscore.org.uk^
 ||betwestcasino.org.pl^
 ||betwrightcasino.org.uk^
 ||betzinocasino.org.uk^
@@ -7854,7 +7853,6 @@
 ||7k-222.casino^
 ||7k-233.casino^
 ||7k-235.casino^
-||7k-308.casino^
 ||7k-466.casino^
 ||7k-488.casino^
 ||7k-527.casino^
@@ -10464,7 +10462,6 @@
 ||atom-1163.casino^
 ||atom-1171.casino^
 ||atom-1189.casino^
-||atom-124.casino^
 ||atom-701.casino^
 ||atom-705.casino^
 ||atom-713.casino^
@@ -12889,7 +12886,6 @@
 ||betsatgirislerr.com^
 ||betsatgirr.top^
 ||betsatguncel.marketing^
-||betsatguncel1.vip^
 ||betsatguncelgiris.vip^
 ||betsatxqz.vip^
 ||betsatzgiris1.vip^
@@ -18928,8 +18924,6 @@
 ||casinodiorguncel.info^
 ||casinodirekt.com^
 ||casinodisopra.org^
-||casinodispatch.com^
-||casinodispatchhub.com^
 ||casinodivasluck.com^
 ||casinodivaspin-fr.com^
 ||casinodivaspins-fr.com^
@@ -19441,7 +19435,6 @@
 ||casinolabaus.com^
 ||casinolabb.com^
 ||casinolabcasino-no.com^
-||casinolabhq.com^
 ||casinolabofficial.com^
 ||casinolabofficial.uk^
 ||casinolabs.net^
@@ -24658,7 +24651,6 @@
 ||ev99casinoslot.com^
 ||ev99casinowin.com^
 ||eva.casino^
-||eva-07.casino^
 ||eva-104.casino^
 ||eva-203.casino^
 ||eva-208.casino^
@@ -24867,7 +24859,6 @@
 ||ezganacasino.com^
 ||ezsgo.com^
 ||ezslot.bet^
-||f-f.vip^
 ||f0112.com^
 ||f0505.com^
 ||f07f2699.com^
@@ -28293,7 +28284,6 @@
 ||hoki333.site^
 ||hoki389masuk.com^
 ||hoki77a.com^
-||hoki9.pro^
 ||hoki99force.com^
 ||hokiforfun.com^
 ||hokirajaice.xyz^
@@ -30947,7 +30937,6 @@
 ||kasynoslottica.com^
 ||katacountryhouse.com^
 ||katakunci.com^
-||katekobets.ru^
 ||katherinemariephotography.com^
 ||katran.online^
 ||kats-casino.vip^
@@ -34671,7 +34660,6 @@
 ||miya138.net^
 ||miya4dpecah.com^
 ||miyamine.online^
-||mj500.top^
 ||mjm.casino^
 ||mjq.casino^
 ||mjsports.bet^
@@ -35261,7 +35249,6 @@
 ||my-snapps.com^
 ||my-stake.bet^
 ||my-stake-casino.uk^
-||my-wifi-ext.com^
 ||my10cric.com^
 ||my11circle.com^
 ||my1xbetapp.com^
@@ -35276,7 +35263,6 @@
 ||mybet.com^
 ||mybet.de^
 ||mybet-casino.net^
-||mybet88in.com^
 ||mybets.today^
 ||mybetsafeapp.com^
 ||mybettingsites.com^
@@ -35306,7 +35292,6 @@
 ||myempire-1413.com^
 ||myempire243501.com^
 ||myempire8287.com^
-||myempirecasino.de^
 ||myempirecasino-at.com^
 ||myempirecasino-official.ca^
 ||myempirecasino-online.com^
@@ -35445,7 +35430,6 @@
 ||nagapoker.com^
 ||nagapoker.shop^
 ||nagasaon6d.top^
-||nagasaon88.biz^
 ||nagasaontogel.info^
 ||nagasuper.org^
 ||nagasuper.site^
@@ -35573,7 +35557,6 @@
 ||needforspincasino-ca.com^
 ||neesinecasino.vip^
 ||neesinecasinoo.icu^
-||neesinecasinoo.vip^
 ||neighborwarsbetsoft.com^
 ||neil.casino^
 ||neko-casino.xyz^
@@ -35636,15 +35619,9 @@
 ||neptuneplaycasino-online.com^
 ||nesine.com^
 ||nesinecasino-activesite2026.icu^
-||nesinecasino-gircasino.vip^
 ||nesinecasino-giris.icu^
 ||nesinecasino-giris.life^
 ||nesinecasino-kazancinnoktasi2026.icu^
-||nesinecasino-oorjinali.vip^
-||nesinecasino-oranlaryuksek2026.vip^
-||nesinecasino-orjinali.vip^
-||nesinecasino-orjinall.vip^
-||nesinecasino-sanaloyun.vip^
 ||nesinecasino-sefiirkazanclar.icu^
 ||nesinecasino-seriikazanclar.icu^
 ||nesinecasino529.cam^
@@ -35654,12 +35631,9 @@
 ||nesinecasino655.com^
 ||nesinecasino660.com^
 ||nesinecasinoadresi.icu^
-||nesinecasinocanli.icu^
-||nesinecasinogirisadresi2026.vip^
 ||nesinecasinogunceel.icu^
 ||nesinecasinoguncelde.vip^
 ||nesinecasinoguncelim.vip^
-||nesinecasinolineadres.com^
 ||nesinecasinoo.icu^
 ||nesinecasinooyeni.icu^
 ||net88.ac^
@@ -35893,7 +35867,6 @@
 ||niftycasino1.com^
 ||nigeriacasino.xyz^
 ||nightcasino.nl^
-||nightingaledeclaration.net^
 ||nightrush.com^
 ||nightrush-casino-at.com^
 ||nightrushcasino.net^
@@ -35916,7 +35889,6 @@
 ||nine-casino.ie^
 ||nine-casino-deutsche.top^
 ||nine-casino-it.click^
-||nine-casino-ufficiale.us^
 ||nine-casinoonline.fr^
 ||nine-casinos.ca^
 ||nine-casinos.sk^
@@ -36065,7 +36037,6 @@
 ||nnbetsv.com^
 ||nnesiinecasinoo.icu^
 ||nnnbet.vip^
-||nnortonn.com^
 ||nnswisslots.cyou^
 ||nnv.casino^
 ||no-deposit-bonus-nl.casino^
@@ -36124,7 +36095,6 @@
 ||nogamstcasinos.org^
 ||nogamstopcasino.ink^
 ||nogamstopcasinos.co^
-||nogamstopcasinos.net^
 ||nogamstopcasinosgb.ink^
 ||nogamstopcasinosites.ink^
 ||nogamstopcasinositesgb.ink^
@@ -36196,7 +36166,6 @@
 ||nona88.us^
 ||nonaams-casinosit.live^
 ||nonadmcasino.com^
-||noname1.xyz^
 ||nonegamstopcasino.ink^
 ||nonegamstopcasinos.ink^
 ||nongam-bets.ink^
@@ -36281,7 +36250,6 @@
 ||northern-lights-stay.casino^
 ||northernfuncasino.com^
 ||northernlightscasinoonline.com^
-||northlandblog.com^
 ||northstarbets.ca^
 ||northstay.casino^
 ||northwestpharmacy.com^
@@ -36536,7 +36504,6 @@
 ||oceanspincasino-fi.com^
 ||oceanspincasinos.com^
 ||oceanspincasinos-de.com^
-||ocpolefitness.com^
 ||ocstry.com^
 ||octafx.com^
 ||octocasino-dutch.com^
@@ -36976,7 +36943,6 @@
 ||omegacasinolab.nl^
 ||omegapokeronline.nl^
 ||omegaslotspoint.nl^
-||omegasmartbar.com^
 ||omn.casino^
 ||omni-slots.de^
 ||omni-slots.net^
@@ -37341,7 +37307,6 @@
 ||online-casino.pro^
 ||online-casino.run^
 ||online-casino-ace.com^
-||online-casino-at.live^
 ||online-casino-au.net^
 ||online-casino-au.org^
 ||online-casino-bonuses-for-new-players.digital^
@@ -37439,7 +37404,6 @@
 ||onlinecasino-ohnewartezeit.de^
 ||onlinecasino-ph.com^
 ||onlinecasino-poland.com^
-||onlinecasino-portal.net^
 ||onlinecasino-real-money-in.click^
 ||onlinecasino-sites.com^
 ||onlinecasino24.nl^
@@ -37719,7 +37683,6 @@
 ||oreelscasino.ch^
 ||oreelscasino-online.com^
 ||oregononlinecasino.com^
-||orgmercurecasino.icu^
 ||ori77.net^
 ||oria.be^
 ||oriacasino-ca.com^
@@ -37777,7 +37740,6 @@
 ||oshicasinosau.com^
 ||osiriscasino.com^
 ||osiriscasino.net^
-||oslobets876.com^
 ||osmanlicasino.com^
 ||ososlota1.com^
 ||osq.casino^
@@ -37855,7 +37817,6 @@
 ||oz2win-casino-au.com^
 ||oz2win-casino-online-au.com^
 ||oz3.casino^
-||oz7.casino^
 ||ozb.casino^
 ||ozgroup.vip^
 ||ozlandcasino.com^
@@ -37881,16 +37842,13 @@
 ||p-pokerklasguncelgiris.com^
 ||p0wbet-0758.com^
 ||p1xbr.io^
-||p20.casino^
 ||p2q.casino^
-||p30.casino^
 ||p3bet-casino.com^
 ||p3casino.bet^
 ||p3casino.io^
 ||p3s.casino^
 ||p44bets.com^
 ||p4g.casino^
-||p50.casino^
 ||p555bets.com^
 ||p5slot.com^
 ||p5y.casino^
@@ -38013,7 +37971,6 @@
 ||palacecasino.xyz^
 ||palaceofchance.com^
 ||palaceofchance-casino.vip^
-||palasantingan.com^
 ||paldobet.co^
 ||paldocasino.net^
 ||palladiumcompetitions.com^
@@ -38025,7 +37982,6 @@
 ||palmslots.com^
 ||palmslots-ca.com^
 ||palmslots-casino-be.com^
-||palmslots07.com^
 ||palmslotscasino-at.com^
 ||palmslotss.com^
 ||palottery.com^
@@ -38053,8 +38009,6 @@
 ||pandidocasino.uk^
 ||pandidocasino1.pl^
 ||pandidocasinoau.com^
-||pandora188casino2.shop^
-||pandora188casino2.store^
 ||panel888starz.partners^
 ||panenslot8.vip^
 ||panet7casino.com^
@@ -38222,7 +38176,6 @@
 ||pasacasinoyenigiris.vip^
 ||pasacasinoyenigirisi.vip^
 ||pasangsini.com^
-||pasangtaruhan.net^
 ||pasangtogel.org^
 ||pasarpokerpkv.com^
 ||pascoakff.com^
@@ -39962,7 +39915,6 @@
 ||pokerklas-guncel.discount^
 ||pokerklas-guncel.site^
 ||pokerklas-guncel.vip^
-||pokerklas-gunceladresi.vip^
 ||pokerklas-guncelgiris2026.com^
 ||pokerklas-gunceli.vip^
 ||pokerklas-gunceline.com^
@@ -40012,7 +39964,6 @@
 ||pokerklas1254.com^
 ||pokerklas1256.com^
 ||pokerklas1257.com^
-||pokerklas1260.com^
 ||pokerklas1265.com^
 ||pokerklas1375.com^
 ||pokerklas1462.com^
@@ -42716,7 +42667,6 @@
 ||sakti77.lol^
 ||sakuslots.org^
 ||salam888.net^
-||salamjp.com^
 ||saldo123top.com^
 ||salegambling.com^
 ||salingsilang.beauty^
@@ -43807,7 +43757,6 @@
 ||slotsking.bet^
 ||slotskuy.xyz^
 ||slotslaunch.com^
-||slotsledger.com^
 ||slotslot.net^
 ||slotslotomoji.cz^
 ||slotsltd.com^
@@ -44747,7 +44696,6 @@
 ||spintexas70.com^
 ||spintexascasino.ch^
 ||spintexascasino.pl^
-||spinto-05.casino^
 ||spinto1305.casino^
 ||spinto284.casino^
 ||spinto342.casino^
@@ -46498,7 +46446,6 @@
 ||topregulatedcasinos.com^
 ||topregulatedcasinos.online^
 ||toproyalukcasino.com^
-||topsites-casinoenligne.live^
 ||topskin.cc^
 ||topskin.net^
 ||topslots.skin^
@@ -47598,7 +47545,6 @@
 ||vaycasino-girisler-guncel.icu^
 ||vaycasino-girislertek.com^
 ||vaycasino-girismobil.com^
-||vaycasino-guncelgirisleri1.vip^
 ||vaycasino-guncell.icu^
 ||vaycasino-guncell-giris.vip^
 ||vaycasino-id.com^

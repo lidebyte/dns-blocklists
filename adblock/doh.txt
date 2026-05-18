@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 18 May 2026 10:02 UTC
-! Version: 2026.0518.1002.00
+! Last modified: 18 May 2026 16:58 UTC
+! Version: 2026.0518.1658.50
 ! Syntax: AdBlock
-! Number of entries: 3446
+! Number of entries: 3445
 !
 ||ss.0001.xyz^
 ||ns.00dani.me^
@@ -2174,7 +2174,6 @@
 ||dns.ourvau.lt^
 ||addns.ovalie.ovh^
 ||vps-1f675aa1.vps.ovh.us^
-||dns.ovpn.bond^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
 ||doh.p2cdn.cn^

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Apr 2026 17:13 UTC
-# Version: 2026.0427.1713.56
+# Last modified: 18 May 2026 17:14 UTC
+# Version: 2026.0518.1714.47
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1818
+# Number of entries: 1819
 #
 alphonso.tv
 aaqhmintg9.alphonso.tv
@@ -527,6 +527,7 @@ krishnaw450.alphonso.tv
 krishnaw451.alphonso.tv
 krishnaw452.alphonso.tv
 krishnaw453.alphonso.tv
+krishnaw454.alphonso.tv
 krishnaw455.alphonso.tv
 krishnaw456.alphonso.tv
 krishnaw457.alphonso.tv

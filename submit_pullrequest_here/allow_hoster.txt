@@ -21,6 +21,7 @@
 *.wpeproxy.com
 0hi.me
 2chblog.jp
+accounts.blogger.com
 amazon.se
 amplifyapp.com
 bazaarvoice.com
@@ -48,6 +49,7 @@ fc2web.com
 framer.app
 free.fr
 gger.jp
+ghost.io
 golog.jp
 hateblo.jp
 hatena.ne.jp
@@ -65,6 +67,8 @@ livedoor.biz
 multiscreensite.com
 myjournal.jp
 mynikki.jp
+nazwa.pl
+netart.com
 officeblog.jp
 officialblog.jp
 one.com
@@ -94,5 +98,3 @@ wix.com
 x10hosting.com
 xxxblog.jp
 youblog.jp
-accounts.blogger.com
-ghost.io
