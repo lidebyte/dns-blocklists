@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 May 2026 16:58 UTC
-# Version: 2026.0517.1658.59
+# Last modified: 18 May 2026 10:02 UTC
+# Version: 2026.0518.1002.00
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3914
+# Number of entries: 3907
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -2035,8 +2035,6 @@
 0.0.0.0 dns.ikataruto.com
 0.0.0.0 mnsvless.ikwb.com
 0.0.0.0 ilinhy.com
-0.0.0.0 ilmxs.com
-0.0.0.0 www.ilmxs.com
 0.0.0.0 dns.imaicool.com
 0.0.0.0 ad.imblien.com
 0.0.0.0 noads.imbuffering.com
@@ -2194,7 +2192,6 @@
 0.0.0.0 adguard.kalyanmudumby.com
 0.0.0.0 dns.kamilszczepanski.com
 0.0.0.0 jp.kano.sh
-0.0.0.0 adguard.kantinyoyok.xyz
 0.0.0.0 dns.kapite.in
 0.0.0.0 dns.kapoww.tk
 0.0.0.0 dns.karadag.me
@@ -2280,7 +2277,6 @@
 0.0.0.0 dns.krol.cloud
 0.0.0.0 kstdownload.com
 0.0.0.0 hdns.ksyun.com
-0.0.0.0 dns.kugoapps.com
 0.0.0.0 dns.kukal.cz
 0.0.0.0 agh.kul-lippek.de
 0.0.0.0 dns.kusoneko.moe
@@ -2317,7 +2313,6 @@
 0.0.0.0 leecurrylawfirm.com
 0.0.0.0 adblock.leenit.kr
 0.0.0.0 yarp.lefolgoc.net
-0.0.0.0 externalmobiel.lekdijk.online
 0.0.0.0 sndkcuf.lekun.me
 0.0.0.0 lelux.fi
 0.0.0.0 dns.lepilleur.com
@@ -2405,7 +2400,6 @@
 0.0.0.0 dns.malanser.ru
 0.0.0.0 dns.malhuda.com
 0.0.0.0 dns.mandre.dev
-0.0.0.0 doh.manish.ltd
 0.0.0.0 adguard.manmademagic.com
 0.0.0.0 dns.maolaohei.xyz
 0.0.0.0 dns.maomaovpn.com
@@ -2513,7 +2507,6 @@
 0.0.0.0 dns.moonssif.com
 0.0.0.0 dns.moonwx.net
 0.0.0.0 akunamatata8888.mooo.com
-0.0.0.0 alexj123.mooo.com
 0.0.0.0 disinformer.mooo.com
 0.0.0.0 e23a.mooo.com
 0.0.0.0 riga91197.mooo.com

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 May 2026 16:58 UTC
-# Version: 2026.0517.1658.59
+# Last modified: 18 May 2026 10:02 UTC
+# Version: 2026.0518.1002.00
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3452
+# Number of entries: 3446
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -1631,7 +1631,6 @@ local=/agh.kacike.cl/
 local=/adguard.kalyanmudumby.com/
 local=/dns.kamilszczepanski.com/
 local=/jp.kano.sh/
-local=/adguard.kantinyoyok.xyz/
 local=/dns.kapite.in/
 local=/dns.kapoww.tk/
 local=/dns.karadag.me/
@@ -1692,7 +1691,6 @@ local=/dns.kriswerry.nl/
 local=/xray.krnl.eu/
 local=/dns.krol.cloud/
 local=/hdns.ksyun.com/
-local=/dns.kugoapps.com/
 local=/dns.kukal.cz/
 local=/agh.kul-lippek.de/
 local=/dns.kusoneko.moe/
@@ -1723,7 +1721,6 @@ local=/adguard2.leadmon.net/
 local=/tr.league1.xyz/
 local=/adblock.leenit.kr/
 local=/yarp.lefolgoc.net/
-local=/externalmobiel.lekdijk.online/
 local=/sndkcuf.lekun.me/
 local=/dns.lepilleur.com/
 local=/dns.lermer.nl/
@@ -1796,7 +1793,6 @@ local=/dnsserver.mailchan.eu/
 local=/dns.maitrekuc.fr/
 local=/dns.malhuda.com/
 local=/dns.mandre.dev/
-local=/doh.manish.ltd/
 local=/adguard.manmademagic.com/
 local=/dns.maolaohei.xyz/
 local=/dns.maomaovpn.com/
@@ -1880,7 +1876,6 @@ local=/dns.moondip.net/
 local=/dns.moonssif.com/
 local=/dns.moonwx.net/
 local=/akunamatata8888.mooo.com/
-local=/alexj123.mooo.com/
 local=/disinformer.mooo.com/
 local=/e23a.mooo.com/
 local=/riga91197.mooo.com/
@@ -3185,7 +3180,6 @@ local=/ib.systems/
 local=/iij.jp/
 local=/ikarosalpha.xyz/
 local=/ilinhy.com/
-local=/ilmxs.com/
 local=/imperio.top/
 local=/incaseineeditoneday.com/
 local=/ingenmannsland.online/

@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 17 May 2026 17:00 UTC
-! Version: 2026.0517.1700.53
+! Last modified: 18 May 2026 08:34 UTC
+! Version: 2026.0518.0834.07
 ! Syntax: AdBlock
-! Number of entries: 9936
+! Number of entries: 9923
 !
 ||a.189.cn^
 ||t.2merkato.com^
@@ -424,7 +424,6 @@
 ||kutt.itarian.com^
 ||qr.itservicebd.com^
 ||short.iuav.it^
-||go.jc.fm^
 ||board.jdownloader.org^
 ||l.jiosewa.com^
 ||r.jod.gg^
@@ -4214,7 +4213,6 @@
 ||iolink.me^
 ||ionos.ly^
 ||ipdc.link^
-||ipgrab.org^
 ||ipgrabber.ru^
 ||ipgraber.ru^
 ||ipkill.org^
@@ -4297,7 +4295,6 @@
 ||iwwlink.org^
 ||ix.sk^
 ||ixi.me^
-||ixnrad.com^
 ||iyc.life^
 ||izi.su^
 ||izip.me^
@@ -4421,7 +4418,6 @@
 ||just.as^
 ||just2earn.com^
 ||justcut.io^
-||justreleased.site^
 ||justshortit.com^
 ||jut.li^
 ||jv.mp^
@@ -4487,7 +4483,6 @@
 ||kgs88.co^
 ||kham.tw^
 ||khan.co^
-||khrso.org^
 ||khtm.ir^
 ||khudd.am^
 ||ki.gy^
@@ -4583,7 +4578,6 @@
 ||krazy.la^
 ||krazylinks.com^
 ||krdit.be^
-||krdtss.com^
 ||krete.info^
 ||kristal777.us^
 ||kro.kr^
@@ -4683,7 +4677,6 @@
 ||learnit.today^
 ||lebow.me^
 ||leenker.io^
-||legacyecho-ai.com^
 ||lego.build^
 ||leica.gs^
 ||leitup.com^
@@ -4860,7 +4853,6 @@
 ||linkdly.com^
 ||linkdly.me^
 ||linkdoer.com^
-||linkdom.me^
 ||linkdpx.xyz^
 ||linkdrip.com^
 ||linke.to^
@@ -4878,7 +4870,6 @@
 ||linkfrom.us^
 ||linkful.me^
 ||linkfusion.in^
-||linkgacor33.info^
 ||linkgacortexas.org^
 ||linkgizmo.com^
 ||linkgo.live^
@@ -4895,7 +4886,6 @@
 ||linkify.page^
 ||linkifyer.com^
 ||linkila.com^
-||linkim.cc^
 ||linkin.icu^
 ||linkinbio.pro^
 ||linkinbio.to^
@@ -4970,7 +4960,6 @@
 ||linkoo.ru^
 ||linkoon.com^
 ||linkopener.co^
-||linkopeners.com^
 ||linkoqr.com^
 ||linkotomy.com^
 ||linkotw.live^
@@ -5592,8 +5581,6 @@
 ||mlnk.vn^
 ||mlog.news^
 ||mm.vg^
-||mmbr4d.com^
-||mmccwilson.live^
 ||mmcgalena.org^
 ||mmgurl.com^
 ||mmo-it.com^

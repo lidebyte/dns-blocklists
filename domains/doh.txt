@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 May 2026 16:58 UTC
-# Version: 2026.0517.1658.59
+# Last modified: 18 May 2026 10:02 UTC
+# Version: 2026.0518.1002.00
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3914
+# Number of entries: 3907
 #
 ss.0001.xyz
 003153.xyz
@@ -2035,8 +2035,6 @@ ikarosalpha.xyz
 dns.ikataruto.com
 mnsvless.ikwb.com
 ilinhy.com
-ilmxs.com
-www.ilmxs.com
 dns.imaicool.com
 ad.imblien.com
 noads.imbuffering.com
@@ -2194,7 +2192,6 @@ kallemarc.de
 adguard.kalyanmudumby.com
 dns.kamilszczepanski.com
 jp.kano.sh
-adguard.kantinyoyok.xyz
 dns.kapite.in
 dns.kapoww.tk
 dns.karadag.me
@@ -2280,7 +2277,6 @@ xray.krnl.eu
 dns.krol.cloud
 kstdownload.com
 hdns.ksyun.com
-dns.kugoapps.com
 dns.kukal.cz
 agh.kul-lippek.de
 dns.kusoneko.moe
@@ -2317,7 +2313,6 @@ tr.league1.xyz
 leecurrylawfirm.com
 adblock.leenit.kr
 yarp.lefolgoc.net
-externalmobiel.lekdijk.online
 sndkcuf.lekun.me
 lelux.fi
 dns.lepilleur.com
@@ -2405,7 +2400,6 @@ malanser.ru
 dns.malanser.ru
 dns.malhuda.com
 dns.mandre.dev
-doh.manish.ltd
 adguard.manmademagic.com
 dns.maolaohei.xyz
 dns.maomaovpn.com
@@ -2513,7 +2507,6 @@ dns.moondip.net
 dns.moonssif.com
 dns.moonwx.net
 akunamatata8888.mooo.com
-alexj123.mooo.com
 disinformer.mooo.com
 e23a.mooo.com
 riga91197.mooo.com

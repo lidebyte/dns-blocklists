@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779037080 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779098520 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 May 2026 16:58 UTC
-; Version: 2026.0517.1658.59
+; Last modified: 18 May 2026 10:02 UTC
+; Version: 2026.0518.1002.00
 ; Syntax: RPZ
-; Number of entries: 6904
+; Number of entries: 6892
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -1215,8 +1215,6 @@ mnsvless.ikwb.com CNAME .
 *.mnsvless.ikwb.com CNAME .
 ilinhy.com CNAME .
 *.ilinhy.com CNAME .
-ilmxs.com CNAME .
-*.ilmxs.com CNAME .
 dns.imaicool.com CNAME .
 *.dns.imaicool.com CNAME .
 ad.imblien.com CNAME .
@@ -1319,8 +1317,6 @@ kstdownload.com CNAME .
 *.kstdownload.com CNAME .
 hdns.ksyun.com CNAME .
 *.hdns.ksyun.com CNAME .
-dns.kugoapps.com CNAME .
-*.dns.kugoapps.com CNAME .
 cdns.lagzerotm.com CNAME .
 *.cdns.lagzerotm.com CNAME .
 mx1.laoxiao789.com CNAME .
@@ -1413,8 +1409,6 @@ dns.moonssif.com CNAME .
 *.dns.moonssif.com CNAME .
 akunamatata8888.mooo.com CNAME .
 *.akunamatata8888.mooo.com CNAME .
-alexj123.mooo.com CNAME .
-*.alexj123.mooo.com CNAME .
 disinformer.mooo.com CNAME .
 *.disinformer.mooo.com CNAME .
 e23a.mooo.com CNAME .
@@ -3375,8 +3369,6 @@ dns.redvau.lt CNAME .
 *.dns.redvau.lt CNAME .
 dns.5273.ltd CNAME .
 *.dns.5273.ltd CNAME .
-doh.manish.ltd CNAME .
-*.doh.manish.ltd CNAME .
 sink.nolo.ltd CNAME .
 *.sink.nolo.ltd CNAME .
 crd.circl.lu CNAME .
@@ -4593,8 +4585,6 @@ ingenmannsland.online CNAME .
 *.ingenmannsland.online CNAME .
 inpssh.online CNAME .
 *.inpssh.online CNAME .
-externalmobiel.lekdijk.online CNAME .
-*.externalmobiel.lekdijk.online CNAME .
 dns.mahiro.online CNAME .
 *.dns.mahiro.online CNAME .
 ddns.martinmore.online CNAME .
@@ -6801,8 +6791,6 @@ tj.jamesxue.xyz CNAME .
 *.tj.jamesxue.xyz CNAME .
 kaiwu.xyz CNAME .
 *.kaiwu.xyz CNAME .
-adguard.kantinyoyok.xyz CNAME .
-*.adguard.kantinyoyok.xyz CNAME .
 dns.kerekes.xyz CNAME .
 *.dns.kerekes.xyz CNAME .
 adguard.kitakitsune.xyz CNAME .

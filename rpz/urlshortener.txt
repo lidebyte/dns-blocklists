@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779037200 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779093240 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 May 2026 17:00 UTC
-; Version: 2026.0517.1700.53
+; Last modified: 18 May 2026 08:34 UTC
+; Version: 2026.0518.0834.07
 ; Syntax: RPZ
-; Number of entries: 19872
+; Number of entries: 19846
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1693,8 +1693,6 @@ lin-k.cc CNAME .
 *.lin-k.cc CNAME .
 link.cc CNAME .
 *.link.cc CNAME .
-linkim.cc CNAME .
-*.linkim.cc CNAME .
 linklab.cc CNAME .
 *.linklab.cc CNAME .
 linky.cc CNAME .
@@ -4827,8 +4825,6 @@ itvty.com CNAME .
 *.itvty.com CNAME .
 ivtshort.com CNAME .
 *.ivtshort.com CNAME .
-ixnrad.com CNAME .
-*.ixnrad.com CNAME .
 izumikanagata.com CNAME .
 *.izumikanagata.com CNAME .
 jaglil.com CNAME .
@@ -4935,8 +4931,6 @@ go.kotelov.com CNAME .
 *.go.kotelov.com CNAME .
 krazylinks.com CNAME .
 *.krazylinks.com CNAME .
-krdtss.com CNAME .
-*.krdtss.com CNAME .
 kslnk.com CNAME .
 *.kslnk.com CNAME .
 ktckesaria.com CNAME .
@@ -4969,8 +4963,6 @@ latinhire.com CNAME .
 *.latinhire.com CNAME .
 leakslinks.com CNAME .
 *.leakslinks.com CNAME .
-legacyecho-ai.com CNAME .
-*.legacyecho-ai.com CNAME .
 leitup.com CNAME .
 *.leitup.com CNAME .
 leokad.com CNAME .
@@ -5141,8 +5133,6 @@ linkoli.com CNAME .
 *.linkoli.com CNAME .
 linkoon.com CNAME .
 *.linkoon.com CNAME .
-linkopeners.com CNAME .
-*.linkopeners.com CNAME .
 linkoqr.com CNAME .
 *.linkoqr.com CNAME .
 linkotomy.com CNAME .
@@ -5479,8 +5469,6 @@ mklnd.com CNAME .
 *.mklnd.com CNAME .
 mllej.com CNAME .
 *.mllej.com CNAME .
-mmbr4d.com CNAME .
-*.mmbr4d.com CNAME .
 mmgurl.com CNAME .
 *.mmgurl.com CNAME .
 mmo-it.com CNAME .
@@ -8807,8 +8795,6 @@ if.fm CNAME .
 *.if.fm CNAME .
 ihr.fm CNAME .
 *.ihr.fm CNAME .
-go.jc.fm CNAME .
-*.go.jc.fm CNAME .
 ping.fm CNAME .
 *.ping.fm CNAME .
 pxl.fm CNAME .
@@ -10383,8 +10369,6 @@ lf8.info CNAME .
 *.lf8.info CNAME .
 lihat.info CNAME .
 *.lihat.info CNAME .
-linkgacor33.info CNAME .
-*.linkgacor33.info CNAME .
 linkly.info CNAME .
 *.linkly.info CNAME .
 linktexas.info CNAME .
@@ -13221,8 +13205,6 @@ mattes.live CNAME .
 *.mattes.live CNAME .
 microsoftfiles.live CNAME .
 *.microsoftfiles.live CNAME .
-mmccwilson.live CNAME .
-*.mmccwilson.live CNAME .
 munchbet.live CNAME .
 *.munchbet.live CNAME .
 nanatech.live CNAME .
@@ -14093,8 +14075,6 @@ linkbee.me CNAME .
 *.linkbee.me CNAME .
 linkdly.me CNAME .
 *.linkdly.me CNAME .
-linkdom.me CNAME .
-*.linkdom.me CNAME .
 linkfast.me CNAME .
 *.linkfast.me CNAME .
 linkfly.me CNAME .
@@ -16083,8 +16063,6 @@ inspiredbydreams.org CNAME .
 *.inspiredbydreams.org CNAME .
 intrescom.org CNAME .
 *.intrescom.org CNAME .
-ipgrab.org CNAME .
-*.ipgrab.org CNAME .
 ipkill.org CNAME .
 *.ipkill.org CNAME .
 iplogger.org CNAME .
@@ -16115,8 +16093,6 @@ keremozgit.org CNAME .
 *.keremozgit.org CNAME .
 kf.org CNAME .
 *.kf.org CNAME .
-khrso.org CNAME .
-*.khrso.org CNAME .
 kisaurl.org CNAME .
 *.kisaurl.org CNAME .
 kmr1.org CNAME .
@@ -17571,8 +17547,6 @@ hoki1dana.site CNAME .
 *.hoki1dana.site CNAME .
 islinks.site CNAME .
 *.islinks.site CNAME .
-justreleased.site CNAME .
-*.justreleased.site CNAME .
 kav.site CNAME .
 *.kav.site CNAME .
 kisaca.site CNAME .

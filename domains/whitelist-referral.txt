@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 May 2026 08:11 UTC
-# Version: 2026.0517.0811.36
+# Last modified: 18 May 2026 08:14 UTC
+# Version: 2026.0518.0814.58
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2322
+# Number of entries: 2328
 #
 1-aclk.net
 1aurl.io
@@ -290,6 +290,7 @@ seu1.cleverreach.com
 63728.seu1.cleverreach.com
 64137.seu1.cleverreach.com
 66809.seu1.cleverreach.com
+67398.seu1.cleverreach.com
 67656.seu1.cleverreach.com
 68214.seu1.cleverreach.com
 72611.seu1.cleverreach.com
@@ -367,6 +368,7 @@ seu2.cleverreach.com
 199744.seu2.cleverreach.com
 200787.seu2.cleverreach.com
 206577.seu2.cleverreach.com
+214020.seu2.cleverreach.com
 214747.seu2.cleverreach.com
 216589.seu2.cleverreach.com
 219699.seu2.cleverreach.com
@@ -428,6 +430,7 @@ seu2.cleverreach.com
 304709.seu2.cleverreach.com
 306076.seu2.cleverreach.com
 306738.seu2.cleverreach.com
+308844.seu2.cleverreach.com
 312066.seu2.cleverreach.com
 313131.seu2.cleverreach.com
 315011.seu2.cleverreach.com
@@ -458,6 +461,7 @@ seu2.cleverreach.com
 354991.seu2.cleverreach.com
 356133.seu2.cleverreach.com
 357748.seu2.cleverreach.com
+359327.seu2.cleverreach.com
 359752.seu2.cleverreach.com
 361290.seu2.cleverreach.com
 363224.seu2.cleverreach.com
@@ -746,6 +750,7 @@ preview.convertkit-mail4.com
 unsubscribe.convertkit-mail4.com
 06dea2c1.unsubscribe.convertkit-mail4.com
 104ffb11.unsubscribe.convertkit-mail4.com
+7504adad.unsubscribe.convertkit-mail4.com
 e4c5c2ea.unsubscribe.convertkit-mail4.com
 data.digital.costco.ca
 data.digital.costco.com
@@ -1237,6 +1242,7 @@ sites.hscoscdn-eu1.net
 25608636.sites.hscoscdn-eu1.net
 25696692.sites.hscoscdn-eu1.net
 25758250.sites.hscoscdn-eu1.net
+25846123.sites.hscoscdn-eu1.net
 25874232.sites.hscoscdn-eu1.net
 25880420.sites.hscoscdn-eu1.net
 25882072.sites.hscoscdn-eu1.net

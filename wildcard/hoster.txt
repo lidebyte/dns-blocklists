@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 May 2026 18:02 UTC
-# Version: 2026.0514.1802.27
+# Last modified: 18 May 2026 09:18 UTC
+# Version: 2026.0518.0918.35
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1302
+# Number of entries: 1303
 #
 *.one4u.0lx.net
 *.24.co.at
@@ -1210,6 +1210,7 @@
 *.webatu.com
 *.webblog24.de
 *.webblogg.se
+*.webboss.site
 *.webcindario.com
 *.webgarden.com
 *.weblium.com

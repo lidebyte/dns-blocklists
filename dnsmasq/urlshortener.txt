@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 May 2026 17:00 UTC
-# Version: 2026.0517.1700.53
+# Last modified: 18 May 2026 08:34 UTC
+# Version: 2026.0518.0834.07
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9936
+# Number of entries: 9923
 #
 local=/a.189.cn/
 local=/t.2merkato.com/
@@ -423,7 +423,6 @@ local=/go.itanea.fr/
 local=/kutt.itarian.com/
 local=/qr.itservicebd.com/
 local=/short.iuav.it/
-local=/go.jc.fm/
 local=/board.jdownloader.org/
 local=/l.jiosewa.com/
 local=/r.jod.gg/
@@ -4213,7 +4212,6 @@ local=/inyuy.com/
 local=/iolink.me/
 local=/ionos.ly/
 local=/ipdc.link/
-local=/ipgrab.org/
 local=/ipgrabber.ru/
 local=/ipgraber.ru/
 local=/ipkill.org/
@@ -4296,7 +4294,6 @@ local=/iwr.link/
 local=/iwwlink.org/
 local=/ix.sk/
 local=/ixi.me/
-local=/ixnrad.com/
 local=/iyc.life/
 local=/izi.su/
 local=/izip.me/
@@ -4420,7 +4417,6 @@ local=/jurl.io/
 local=/just.as/
 local=/just2earn.com/
 local=/justcut.io/
-local=/justreleased.site/
 local=/justshortit.com/
 local=/jut.li/
 local=/jv.mp/
@@ -4486,7 +4482,6 @@ local=/kgs.yt/
 local=/kgs88.co/
 local=/kham.tw/
 local=/khan.co/
-local=/khrso.org/
 local=/khtm.ir/
 local=/khudd.am/
 local=/ki.gy/
@@ -4582,7 +4577,6 @@ local=/kratsi.cz/
 local=/krazy.la/
 local=/krazylinks.com/
 local=/krdit.be/
-local=/krdtss.com/
 local=/krete.info/
 local=/kristal777.us/
 local=/kro.kr/
@@ -4682,7 +4676,6 @@ local=/learn.to/
 local=/learnit.today/
 local=/lebow.me/
 local=/leenker.io/
-local=/legacyecho-ai.com/
 local=/lego.build/
 local=/leica.gs/
 local=/leitup.com/
@@ -4859,7 +4852,6 @@ local=/linkdel.bio/
 local=/linkdly.com/
 local=/linkdly.me/
 local=/linkdoer.com/
-local=/linkdom.me/
 local=/linkdpx.xyz/
 local=/linkdrip.com/
 local=/linke.to/
@@ -4877,7 +4869,6 @@ local=/linkfr.ee/
 local=/linkfrom.us/
 local=/linkful.me/
 local=/linkfusion.in/
-local=/linkgacor33.info/
 local=/linkgacortexas.org/
 local=/linkgizmo.com/
 local=/linkgo.live/
@@ -4894,7 +4885,6 @@ local=/linkia.co/
 local=/linkify.page/
 local=/linkifyer.com/
 local=/linkila.com/
-local=/linkim.cc/
 local=/linkin.icu/
 local=/linkinbio.pro/
 local=/linkinbio.to/
@@ -4969,7 +4959,6 @@ local=/linkoli.com/
 local=/linkoo.ru/
 local=/linkoon.com/
 local=/linkopener.co/
-local=/linkopeners.com/
 local=/linkoqr.com/
 local=/linkotomy.com/
 local=/linkotw.live/
@@ -5591,8 +5580,6 @@ local=/mllej.com/
 local=/mlnk.vn/
 local=/mlog.news/
 local=/mm.vg/
-local=/mmbr4d.com/
-local=/mmccwilson.live/
 local=/mmcgalena.org/
 local=/mmgurl.com/
 local=/mmo-it.com/
