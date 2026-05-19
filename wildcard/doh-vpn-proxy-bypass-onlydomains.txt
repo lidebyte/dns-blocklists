@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 May 2026 16:59 UTC
-# Version: 2026.0518.1659.48
+# Last modified: 19 May 2026 09:51 UTC
+# Version: 2026.0519.0951.45
 # Syntax: Domains (without subdomains)
-# Number of entries: 17823
+# Number of entries: 17682
 #
 ss.0001.xyz
 ilovethiswebsite.001-lab.space
@@ -5693,7 +5693,6 @@ next.pettica.com
 adguard.pggns.de
 dns.pgnhatrang.com
 mydns.phatna.net
-dns.phatnt.org
 dns.phillipjberry.net
 gojoiscoolbutweird.photo-frame.com
 fern.ub.phuri.cc
@@ -5712,7 +5711,6 @@ dns.pizzari.me
 67dircen67.pjabbari.com
 doh.plaawan.uk
 hydra.plan9-ns1.com
-draco.plan9-ns2.com
 door.plasmadancer.ru
 www.bhghhfhgffghfjh.152-53-136-204.plesk.page
 sdtfghjbnm.152-53-136-204.plesk.page
@@ -5758,12 +5756,7 @@ dns.polarwinds.ru
 61inthebig21.polezen.bg
 planets.polezen.bg
 saturn-math.polezen.bg
-nana.ddx.v2.polishmc.pl
-eli.polishmc.pl
-upon.polishmc.pl
-woah.polishmc.pl
 vps.poly-tank.jp
-study.polyhedramath.com
 dns.pondokngunut.ponpes.id
 great.big.poo.li
 ididabig.poo.li
@@ -5777,7 +5770,6 @@ ab.pot8o.dev
 inter.pot8o.dev
 proxyapi.pot8o.dev
 pwriuja.potmix.cc
-information.potomacriversafetycommittee.org
 jakesucksadgeodash.potomacriversafetycommittee.org
 tourguide.potomacriversafetycommittee.org
 dns.powerbs.net
@@ -5942,7 +5934,6 @@ void.radio.fm
 educational.radissontucson.com
 school.edu.radix-site.com
 check.ragpets.com
-fern.best.rainbowcup.com
 looking.rainbowcup.com
 ns.ral9005.org
 luminalvcsa.ramalhais.com
@@ -5973,9 +5964,6 @@ agh.realwap.net
 www-p.reaper.mx
 hk.reaticle.com
 theory.school.rebootconsulting.com
-wifi.reconectar.cl
-solving.redalameda.cl
-topwriting.redalameda.cl
 rammed-head.redjoc.cl
 dns.redroot.cc
 dns.redvau.lt
@@ -6009,10 +5997,6 @@ dns1.rhscz.eu
 dns2.rhscz.eu
 adguard.richardapplegate.io
 subscribevcsa.richreel.com
-baedeker.righes.ch
-durity.righes.ch
-gabble.righes.ch
-thankyou.righes.ch
 dns.rin.sh
 school.learning.coding.easy.ixl.rinet.ai
 ddx.v2.nana.rinet.ai
@@ -6042,7 +6026,6 @@ blob.ro0t.hm
 uc.robby.blue
 skibidirizz.robinhud.com
 1.rock-review.ru
-evilevil.rocketyoga.ar
 dns2.rocksdns.ovh
 dns.roedel.cloud
 dns.rogpurs.com
@@ -6124,7 +6107,6 @@ staging.sailforeducation.org
 wmhctvlu.sailforeducation.org
 dns.sainternet.xyz
 clever.com.saintsparky.org
-vpn.sakhwow.ru
 zxiocvus.bjlskjdf.salavat.ru
 www.securly.com.salavat.ru
 work.idea.salman.pk
@@ -6213,8 +6195,6 @@ fjkdxmhgsugbjj.hfdjksahdjks.searchegpt.com
 mlfjkskd.klsdfj.searchegpt.com
 fcbjhnk.sodfjksdflkdsf.searchegpt.com
 proxy.searchfiles.de
-geo.searchgpy.com
-gesture.searchgpy.com
 mathhelp4858.searchgpy.com
 dns.searom.ovh
 dns.seby.io
@@ -6247,7 +6227,6 @@ www.securly.com.setto.cl
 htmenirbytes.setto.cl
 ombytensmi.setto.cl
 dns.sev.monster
-bolt-private.dmain.sevecom.com
 alphalogic.sevecom.com
 interstellar.sevecom.com
 keepyourweapon.sevecom.com
@@ -6296,7 +6275,6 @@ dns.simplylinux.ch
 dns.sindominio.net
 bring-your-own.sinewave.cc
 family.sinuabi.ee
-worifkddkj.sitaci.com
 northfayetteschools-org.sitesi.tc
 moto.adg.siudzinski.net
 sams.adg.siudzinski.net
@@ -6359,18 +6337,15 @@ www-proxy.sodemc.com
 adguardhome.softcloud.pe
 myprivityvpn.softether.net
 free-vpn.en.softonic.com
-pteryla.solicituddemateriales.cl
 imfroggingit.soloo.win
 wtbd02.solowalk.top
 ns.solutics.ec
 ns.solutionsbest.de
 algebra.somgelida.net
-bwg.sooda.moe
 thtghrabf.soon.it
 r.soraapp.gq
 sentry.soraapp.gq
 area.level.southtrestle.com
-pika.sovdat.si
 adguard.spaceindex.net
 fyi.ishan-m.likes.anvita.spacejamhd.com
 cfisd.against.balatro.spacejamhd.com
@@ -6400,17 +6375,8 @@ sainttech.spencerbosworth.com
 www-proxy.spin.rip
 dns.spirio.fr
 soadfjrksf.lasdkfj.sportconceptmedia.ru
-baldi.sportconceptmedia.ru
-baldi2.sportconceptmedia.ru
-footballresearch.sportconceptmedia.ru
 physicaleducation.sportseducationinstructors.org
 chillenglish.spot.hk
-crossiantwork.sr3z.com
-flout.sr3z.com
-gagdet.sr3z.com
-sieze.sr3z.com
-tess.sr3z.com
-unix.sr3z.com
 s1.srch.top
 adguard.sre.ovh
 dns.srijan.site
@@ -6423,7 +6389,6 @@ adbox-v8.srv64.de
 thjk.srv64.de
 remballtriedthis.srvdns.de
 uniub.srvdns.de
-adguard.sscw.win
 dns.sshub.win
 www-web.sshub.win
 205.209.125.106.sslip.io
@@ -6583,8 +6548,6 @@ agha.sunryu.site
 ehs.suondaxi.xyz
 ibuxdrwvjkjgyromtwck.supabase.co
 ufsnmvbmgwvkhirfnptm.supabase.co
-bigbugpoppearblack.super-modding.quest
-kadowaki.super-modding.quest
 dns.supercluster.io
 learn.vcsa.superportret.ru
 quasar.vcsa.superportret.ru
@@ -14119,13 +14082,6 @@ peekvpn.online
 peer2profit.app
 peer2profit.in
 peets.pro
-peibengw.com
-peibenjc.com
-peibenjichang.com
-peiqianguanwang.com
-peiqiangw.com
-peiqianjc.com
-peiqianssr.com
 peltrax.ru
 pendrawer.com
 penphone92.com
@@ -14162,7 +14118,6 @@ philqoo.com
 phog.top
 phonebook92.com
 phonecar92.com
-phonechair92.com
 phongg.vn
 photonsecure.com
 phpatewiw.online
@@ -14180,8 +14135,6 @@ pilvoro.ru
 pineappled.org
 pingbeehive.com
 pingbi.xyz
-pingjiaclash.com
-pingjiassr.com
 pingmybee.net
 pingproxy.com
 pingvpn.com
@@ -14198,15 +14151,12 @@ pisk.loan
 pitertv24.ru
 pixelgorithm.com
 pixelprivacy.com
-pixicatclash.com
-pixicatjc.com
 pixolium.com
 pizdets.ca
 pjcc22.com
 pjeb.top
 pjkwzzz2pi10io7w.online
 pjocyymt.com
-pkcloudclash.com
 pkproxy.info
 pkrreaperr.me
 pkt.world
@@ -14246,7 +14196,6 @@ platinumunblocker.com
 platobox.info
 platobox.net
 platobox.org
-platonet.org
 platospace.com
 platovpn.click
 platovpn.club
@@ -14294,7 +14243,6 @@ pokercloudclash.com
 pokinev.ru
 polargrizzly.com
 polaris.cx
-polessclash.com
 policlone.pro
 policyedunet.com
 polisitogel.beauty
@@ -14569,7 +14517,6 @@ proxyroxy.net
 proxysan.info
 proxyscope.com
 proxyscrape.com
-proxyscraper.net
 proxyscraper.org
 proxyserver.com
 proxyserver.rocks
@@ -14605,7 +14552,6 @@ proxyunblocker.org
 proxyvpn.eu
 proxyvpnserver.com
 proxyway.com
-prprcloudgw.com
 pruvanta.ru
 prvd.info
 psifa.com
@@ -14664,7 +14610,6 @@ purevpn.de
 purevpn.fr
 purevpn-tools.com
 purevqn.com
-pursuant.run
 pushvpn.com
 puvyubd.cn
 pvcozadopa50e.online
@@ -14682,7 +14627,6 @@ pygos.space
 pyiirwlu.com
 pyjichang.com
 pz-kuailian.com
-pzclash.com
 pzjgyywf.com
 pzovr.cc
 q1w2e3r4.xyz
@@ -14710,19 +14654,12 @@ qhqi.top
 qhwrjpvp.cc
 qianmo.tw
 qianmo.xin
-qiansumiaoclash.com
-qiansumiaojc.com
 qiaqia.io
 qifeijiasu.net
 qingaqwt.com
-qingchengjisuclash.com
 qingmangqw.cn
 qingmo.vip
 qingtongxiaai.cn
-qingyunticlash.com
-qingyuntigw.com
-qingyuntiss.com
-qingyuntissr.com
 qintaro.ru
 qirevo.xyz
 qis.io
@@ -14732,16 +14669,13 @@ qiventa.ru
 qiventa.xyz
 qivs.top
 qkjyowzo.com
-qlclash.com
 qlmrze.com
-qnclash.com
 qnid.cc
 qntfrkbz.com
 qodami.com
 qolfgv.xyz
 qpadf.com
 qpzpmwfh.com
-qqjsgw.com
 qqmcfw.tech
 qrykgvdh.com
 qstam.ru
@@ -14783,7 +14717,6 @@ quotivatehub.com
 qustano.xyz
 qv2ray.org
 qvkyjkus.cc
-qwclash.com
 qwiepc.com
 qwpien.com
 qwruo.com
@@ -14821,7 +14754,6 @@ raltrix.ru
 ralveno.ru
 ramivo.ru
 rammerhead.org
-ranchogw.com
 rankedmc.win
 ranqigaibiao.com
 rapidcdn.click
@@ -14852,13 +14784,11 @@ rd-service.moscow
 realityvpn.com
 realityvpn.ru
 reallysmart2.com
-realnodejc.com
 realpurejs.com
 realpurevpn.com
 realvpn.io
 realvpn.space
 recharger.link
-recmata.com
 red-vpn.mom
 redhoodie.site
 redproxy.info
@@ -14875,7 +14805,6 @@ redvpn.uk
 reflect4.me
 refvpntype.com
 regiopolis.cloud
-regoujc.com
 relatenose.com
 relayon.org
 relokant.net
@@ -14888,10 +14817,6 @@ reniac.su
 renvpn.lol
 renzhe.cloud
 renzhecloud.com
-renzhecloudjc.com
-renzheyun.com
-renzheyungw.com
-renzheyunjc.com
 repocket.co
 repogoogle.com
 repsdemo.online
@@ -14922,7 +14847,6 @@ riolu.ooo
 riolu.work
 riolu-node.link
 riolu00.link
-ripno9uq0q6kyvss.online
 riponex.my
 ritmaco.com
 ritualfutures.com
@@ -15047,13 +14971,6 @@ sandparticles.us
 sandprivacy.com
 sandvpn.com
 sandvpn.online
-sanfancloud.info
-sanfanyunclash.com
-sanfanyunssr.com
-sanfenclash.com
-sanfenjc.com
-sanfenss.com
-sanfenssr.com
 saoudiproxy.info
 sascha-rabold.de
 satnet.cv
@@ -15063,8 +14980,6 @@ saturnvpn.com
 savrilo.ru
 savycrafter.com
 sawdmg.com
-sayssclash.com
-sayssjc.com
 sbdc3cw.click
 sbjct.xyz
 sbknvp.xyz
@@ -15117,7 +15032,6 @@ secretsline.org
 secure-proxy.shop
 secure-vpn.com
 secureconnect.me
-secured.wiki
 securefor.com
 secureguardpro.com
 securehole.com
@@ -15143,14 +15057,11 @@ seed4me.app
 seed4me.help
 seed4me-vpn.mom
 seedboxes.cc
-seeknodesjc.com
 seelabour.com
 seeproxy.me
 seeu.dev
 selenite.cc
 seligmania-online.com
-selongyun.com
-selongyunclash.com
 selsby.info
 sentinel.com
 senviro.ru
@@ -15191,45 +15102,11 @@ shadowrocket.vip
 shadowrocket.win
 shadowrocket.work
 shadowrocket-app.com
-shadowrocketal.com
-shadowrocketap.com
-shadowrocketbi.com
-shadowrocketbz.com
-shadowrocketck.com
 shadowrocketdownload.com
-shadowrocketfh.com
-shadowrockethb.com
-shadowrockethm.com
-shadowrocketic.com
 shadowrocketid.com
 shadowrocketios.org
-shadowrocketjj.com
-shadowrocketjo.com
-shadowrocketlp.com
-shadowrocketmo.com
-shadowrocketmy.com
-shadowrocketnc.com
-shadowrocketnl.com
-shadowrocketnv.com
-shadowrocketok.com
-shadowrocketqm.com
-shadowrocketqn.com
-shadowrocketrm.com
-shadowrocketru.com
-shadowrocketrw.com
-shadowrocketsm.com
-shadowrockettg.com
-shadowrockettn.com
-shadowrocketub.com
-shadowrocketuj.com
 shadowrocketvpn.app
 shadowrocketvpn.com
-shadowrocketvq.com
-shadowrocketxq.com
-shadowrocketxt.com
-shadowrocketyl.com
-shadowrocketyn.com
-shadowrocketzr.com
 shadowsocks.click
 shadowsocks.org
 shadowsocksvpn.net
@@ -15241,14 +15118,10 @@ shalenkov.dev
 shandian.asia
 shandian.autos
 shandian.pw
-shandiancloud.com
 shandiancn.com
-shandiangw.com
 shandianjiasu.com
-shandianmaojc.com
 shandianpro.com
 shandianpro.org
-shandianyungw.com
 shanghainese.uk
 shanhai.cfd
 shanhai.click
@@ -15256,7 +15129,6 @@ shanhai.me
 shanhai.one
 shanhai.sbs
 shanhuyun.info
-shanhuyungw.com
 shanyangvpn.com
 shareaha1.com
 sharejav.com
@@ -15280,14 +15152,11 @@ shopping-website.us
 shoppingfestival.us
 shopproxy.net
 shopsocks5.com
-shouhouwangluo.com
 shouldiboosttherammerheadserver.tk
 shscypxw.cc
 shuijubaosiquanjia-shuijubaosiquanjia.xyz
 shuttlemath.com
 shuttleproxy.com
-shwlclash.com
-shwlgw.com
 sia.tech
 sibitc.ir
 siftfilter.com
@@ -15331,7 +15200,6 @@ siteunblock.xyz
 siteunblocked.club
 siteunblocked.lol
 siteunblocked.space
-siteunblocked.website
 siteunblocked.xyz
 sitework.info
 sitx2.cc
@@ -15414,7 +15282,6 @@ spbyjzu.cn
 spedo.co
 speedboost.website
 speedcat.info
-speedcatjc.com
 speedcn.in
 speedify.com
 speedifynetworks.com
@@ -15463,14 +15330,10 @@ srfshrk.net
 srlvptke.com
 ss-cdn.com
 ssarea.com
-ssdairport.com
-ssdairportclash.com
 ssgreen.org
 ssh-free.com
 ssh-storage.ru
-ssh-udp.me
 sshagan.net
-sshd.me
 sshdropbear.net
 sshgofast.com
 sshkit.com
@@ -15482,9 +15345,7 @@ sshssl.com
 sshstores.net
 sshtun.site
 ssl-letsvpn.com
-ssl-tun.me
 ssl3cdn.com
-sslinksclash.com
 sslprivateproxy.com
 sslpro.eu
 sslpro.org
@@ -15500,7 +15361,6 @@ ssr-vpn.com
 ssrdog.com
 ssrdog.info
 ssrdog17.com
-ssrdoggw.com
 ssrplus.org
 sssss.click
 sstank.top
@@ -15538,7 +15398,6 @@ stayhidden.net
 stc-anycast.com
 stc-anycast.net
 stc-cloudserver.com
-stc-clubs.click
 stc-server.in
 stc-spades.com
 stc-spadesdns.com

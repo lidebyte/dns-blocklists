@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 May 2026 16:58 UTC
-# Version: 2026.0518.1658.50
+# Last modified: 19 May 2026 09:51 UTC
+# Version: 2026.0519.0951.00
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3445
+# Number of entries: 3441
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -2206,7 +2206,6 @@ local=/dns.petqa.ru/
 local=/adguard.pggns.de/
 local=/dns.pgnhatrang.com/
 local=/mydns.phatna.net/
-local=/dns.phatnt.org/
 local=/dns.phillipjberry.net/
 local=/adguard.piekacz.pl/
 local=/dns.pierzchlewicz.pl/
@@ -2219,7 +2218,6 @@ local=/helios.plan9-dns.com/
 local=/kronos.plan9-dns.com/
 local=/pluton.plan9-dns.com/
 local=/hydra.plan9-ns1.com/
-local=/draco.plan9-ns2.com/
 local=/door.plasmadancer.ru/
 local=/secure-dns.pleumkungz.com/
 local=/thanos.pleumkungz.com/
@@ -2524,7 +2522,6 @@ local=/myprivityvpn.softether.net/
 local=/wtbd02.solowalk.top/
 local=/ns.solutics.ec/
 local=/ns.solutionsbest.de/
-local=/bwg.sooda.moe/
 local=/adguard.spaceindex.net/
 local=/lomoff.spb.ru/
 local=/wifrousl.spdns.de/
@@ -2540,7 +2537,6 @@ local=/dns2.srv-home.fr/
 local=/resolve.srv-pro.de/
 local=/resolve02.srv-pro.de/
 local=/resolve2.srv-pro.de/
-local=/adguard.sscw.win/
 local=/dns.sshub.win/
 local=/doh.ntu.ssooss.win/
 local=/ag.ssrahul96.xyz/

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779123480 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779184260 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 18 May 2026 16:58 UTC
-; Version: 2026.0518.1658.50
+; Last modified: 19 May 2026 09:51 UTC
+; Version: 2026.0519.0951.00
 ; Syntax: RPZ
-; Number of entries: 6890
+; Number of entries: 6882
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -1587,8 +1587,6 @@ pluton.plan9-dns.com CNAME .
 *.pluton.plan9-dns.com CNAME .
 hydra.plan9-ns1.com CNAME .
 *.hydra.plan9-ns1.com CNAME .
-draco.plan9-ns2.com CNAME .
-*.draco.plan9-ns2.com CNAME .
 secure-dns.pleumkungz.com CNAME .
 *.secure-dns.pleumkungz.com CNAME .
 thanos.pleumkungz.com CNAME .
@@ -3591,8 +3589,6 @@ adguard3.ota.moe CNAME .
 *.adguard3.ota.moe CNAME .
 adguard4.ota.moe CNAME .
 *.adguard4.ota.moe CNAME .
-bwg.sooda.moe CNAME .
-*.bwg.sooda.moe CNAME .
 adg.g3.monster CNAME .
 *.adg.g3.monster CNAME .
 kavkaz.monster CNAME .
@@ -4969,8 +4965,6 @@ ns4.opennameserver.org CNAME .
 *.ns4.opennameserver.org CNAME .
 dns.ostfriese.org CNAME .
 *.dns.ostfriese.org CNAME .
-dns.phatnt.org CNAME .
-*.dns.phatnt.org CNAME .
 doh.powerdns.org CNAME .
 *.doh.powerdns.org CNAME .
 office.pramanik.org CNAME .
@@ -6563,8 +6557,6 @@ dns.rinux.win CNAME .
 *.dns.rinux.win CNAME .
 roycom.win CNAME .
 *.roycom.win CNAME .
-adguard.sscw.win CNAME .
-*.adguard.sscw.win CNAME .
 dns.sshub.win CNAME .
 *.dns.sshub.win CNAME .
 doh.ntu.ssooss.win CNAME .

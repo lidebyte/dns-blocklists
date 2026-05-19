@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 18 May 2026 16:59 UTC
-! Version: 2026.0518.1659.32
+! Last modified: 19 May 2026 09:51 UTC
+! Version: 2026.0519.0951.31
 ! Syntax: AdBlock
-! Number of entries: 3387
+! Number of entries: 3383
 !
 ||ss.0001.xyz^
 ||ns.00dani.me^
@@ -2167,7 +2167,6 @@
 ||adguard.pggns.de^
 ||dns.pgnhatrang.com^
 ||mydns.phatna.net^
-||dns.phatnt.org^
 ||dns.phillipjberry.net^
 ||adguard.piekacz.pl^
 ||dns.pierzchlewicz.pl^
@@ -2179,7 +2178,6 @@
 ||kronos.plan9-dns.com^
 ||pluton.plan9-dns.com^
 ||hydra.plan9-ns1.com^
-||draco.plan9-ns2.com^
 ||door.plasmadancer.ru^
 ||secure-dns.pleumkungz.com^
 ||thanos.pleumkungz.com^
@@ -2476,7 +2474,6 @@
 ||wtbd02.solowalk.top^
 ||ns.solutics.ec^
 ||ns.solutionsbest.de^
-||bwg.sooda.moe^
 ||adguard.spaceindex.net^
 ||lomoff.spb.ru^
 ||wifrousl.spdns.de^
@@ -2491,7 +2488,6 @@
 ||resolve.srv-pro.de^
 ||resolve02.srv-pro.de^
 ||resolve2.srv-pro.de^
-||adguard.sscw.win^
 ||dns.sshub.win^
 ||doh.ntu.ssooss.win^
 ||ag.ssrahul96.xyz^

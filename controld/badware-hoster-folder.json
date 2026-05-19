@@ -71,6 +71,13 @@
       }
     },
     {
+      "PK": "000webhotapp.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "000worldwide.com",
       "action": {
         "do": 0,
@@ -4509,13 +4516,6 @@
       }
     },
     {
-      "PK": "girlsense.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "glide.page",
       "action": {
         "do": 0,
@@ -7429,13 +7429,6 @@
     },
     {
       "PK": "sophiashantidaniel.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "sosblog.com",
       "action": {
         "do": 0,
         "status": 1

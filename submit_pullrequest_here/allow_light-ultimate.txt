@@ -1,6 +1,9 @@
 # Unblocking for all lists (relaxed, balanced, aggressive and strict)
 # Domains to be removed from the light, normal, pro, pro++ and ultimate list. Also from the fake, popupads and tif.
 
+# https://github.com/hagezi/dns-blocklists/issues/10239
+smsonline.cloud
+
 # https://github.com/hagezi/dns-blocklists/issues/10225
 snapdrop.net
 
@@ -1569,5 +1572,12 @@ z-m-gateway.facebook.com
 z-p4-gateway.facebook.com
 
 # Misc
-*.hagezi.org
 *.dnsbunker.org
+*.hagezi.org
+
+# Copilot
+proxy.individual.githubcopilot.com
+api.individual.githubcopilot.com
+
+# Personal domains
+*.justmichael.xyz

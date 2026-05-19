@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 18 May 2026 17:00 UTC
-! Version: 2026.0518.1700.45
+! Last modified: 19 May 2026 08:31 UTC
+! Version: 2026.0519.0831.07
 ! Syntax: AdBlock
-! Number of entries: 9953
+! Number of entries: 9921
 !
 ||a.189.cn^
 ||t.2merkato.com^
@@ -212,7 +212,6 @@
 ||farmacrm.com.br^
 ||fastlinks.com.tr^
 ||gar.com.pa^
-||iup.com.tr^
 ||linkboard.com.br^
 ||linksbr.com.br^
 ||mpfi.com.ph^
@@ -621,7 +620,6 @@
 ||su.mss.qc.ca^
 ||url.qhon.com^
 ||jobs.qjobsindia.com^
-||url.quick-social.com^
 ||toweraws.cs.rackspace.com^
 ||qs.rams-app.com^
 ||go.rapid-meta.com^
@@ -1163,7 +1161,6 @@
 ||4.gp^
 ||4.ly^
 ||4-bio.link^
-||420.bio^
 ||42jump.com^
 ||42l.fr^
 ||42url.com^
@@ -1593,7 +1590,6 @@
 ||ana.ms^
 ||anacon.org^
 ||analyticslinker.ovh^
-||anbisu.com^
 ||anch.co^
 ||anchorurl.cloud^
 ||ancstry.me^
@@ -1761,7 +1757,6 @@
 ||aws.tl^
 ||aws3.link^
 ||aws3-demo.link^
-||awtgatp.com^
 ||aww.al^
 ||awwurl.com^
 ||awy.to^
@@ -1837,7 +1832,6 @@
 ||bb8.mn^
 ||bbb.bz^
 ||bbc.in^
-||bbcrle.com^
 ||bbff.me^
 ||bbva.info^
 ||bc.ax^
@@ -2218,7 +2212,6 @@
 ||budurl.com^
 ||buff.link^
 ||buff.ly^
-||buho.link^
 ||bui.lk^
 ||bui.st^
 ||buildinhockinghills.com^
@@ -2303,7 +2296,6 @@
 ||captl1.co^
 ||captur.in^
 ||cardinates.me^
-||cardiox-care.com^
 ||cardprofile.de^
 ||cardprofile.link^
 ||cardstap.com^
@@ -2683,7 +2675,6 @@
 ||cuanbio.com^
 ||cuer.io^
 ||cuk.one^
-||cukbaray.com^
 ||cul.ke^
 ||cultm.ac^
 ||culy.top^
@@ -3023,7 +3014,6 @@
 ||dstats.net^
 ||dstly.xyz^
 ||dswurl.de^
-||dsyixm.com^
 ||dtdg.co^
 ||dti.io^
 ||dtl.la^
@@ -3481,7 +3471,6 @@
 ||freeshorten.com^
 ||freeshorturl.com^
 ||freeshorturls.com^
-||freeurlshort.com^
 ||freshlnk.com^
 ||freze.it^
 ||frizzymedia.com^
@@ -4384,7 +4373,6 @@
 ||jkf.lv^
 ||jks.bio^
 ||jktc.pro^
-||jlsfcd.com^
 ||jmal.top^
 ||jmeet.io^
 ||jmp.ad^
@@ -4615,7 +4603,6 @@
 ||kuku.lu^
 ||kulink.me^
 ||kumawink.com^
-||kuoqnt.com^
 ||kurly.it^
 ||kurv.gr^
 ||kurz.jetzt^
@@ -4643,7 +4630,6 @@
 ||l-n.app^
 ||l00p.eu^
 ||l138.co^
-||l1k.ir^
 ||l1nk.fr^
 ||l1nk.me^
 ||l1nx.ai^
@@ -4769,7 +4755,6 @@
 ||likifi.com^
 ||lil.ee^
 ||lil.ge^
-||lil.so^
 ||lil.vc^
 ||lilbt.com^
 ||lillink.net^
@@ -4876,7 +4861,6 @@
 ||linkdly.com^
 ||linkdly.me^
 ||linkdoer.com^
-||linkdom.co^
 ||linkdpx.xyz^
 ||linkdrip.com^
 ||linke.to^
@@ -4989,7 +4973,6 @@
 ||linkotw.live^
 ||linkp.ir^
 ||linkp.online^
-||linkpad.pro^
 ||linkpage.it^
 ||linkpara.bio^
 ||linkpatel.com^
@@ -5532,7 +5515,6 @@
 ||microh.link^
 ||microlink.ro^
 ||microlinkfy.io^
-||microlinks.io^
 ||microsoftaistories.com^
 ||microsoftfiles.live^
 ||microurl.in^
@@ -6084,9 +6066,7 @@
 ||omegalinks.in^
 ||omg.ae^
 ||omg.ms^
-||omie.marketing^
 ||omni.ag^
-||omukrpo.com^
 ||on-line.link^
 ||on4t.com^
 ||on4t.net^
@@ -6873,7 +6853,6 @@
 ||resvoice.com^
 ||reten.net^
 ||rethinktw.cc^
-||retireetravelcare.sbs^
 ||retont.link^
 ||reurl.cc^
 ||reurl.in^
@@ -7031,7 +7010,6 @@
 ||saf.li^
 ||safe.mn^
 ||safeelink.com^
-||safelink.vn^
 ||safelinking.net^
 ||safelinku.com^
 ||safely.to^
@@ -7432,7 +7410,6 @@
 ||shortlync.com^
 ||shortlynks.com^
 ||shortlyqr.com^
-||shortlyurl.in^
 ||shortlyx.de^
 ||shortma.de^
 ||shortmaro.live^
@@ -7605,9 +7582,7 @@
 ||shrtn.io^
 ||shrtna.com^
 ||shrtnly.pro^
-||shrtnr.pro^
 ||shrtr.cc^
-||shrtru.com^
 ||shrtso.com^
 ||shrturl.com^
 ||shrturl.io^
@@ -7779,7 +7754,6 @@
 ||smkt.app^
 ||smlfy.com^
 ||smlk.es^
-||smll.cc^
 ||smlnk.us^
 ||smlr.nu^
 ||smo.do^
@@ -8091,7 +8065,6 @@
 ||swsig.de^
 ||swsupt.com^
 ||swtt.cc^
-||sxrm.tr^
 ||sy.pe^
 ||sy.to^
 ||syb.la^
@@ -8269,7 +8242,6 @@
 ||thekreww.com^
 ||thelegends.land^
 ||themestub.com^
-||thenews24h.tech^
 ||theorist.media^
 ||theposhed.com^
 ||thesa.us^
@@ -8938,7 +8910,6 @@
 ||urlbind.com^
 ||urlbit.co^
 ||urlbit.io^
-||urlbit.online^
 ||urlbit.pro^
 ||urlbity.com^
 ||urlbox.cc^
@@ -9074,7 +9045,6 @@
 ||urlshoter.com^
 ||urlshtr.com^
 ||urlsmall.com^
-||urlsmall.link^
 ||urlsminify.com^
 ||urlsmush.com^
 ||urlsnap.com^
@@ -9735,7 +9705,6 @@
 ||yelp.to^
 ||yep.it^
 ||yep.pt^
-||yepp.link^
 ||yero.it^
 ||yes.link^
 ||yesb.app^
@@ -9894,7 +9863,6 @@
 ||zkr.cz^
 ||zkrat.me^
 ||zkrt.cz^
-||zlasds.com^
 ||zlink.fun^
 ||zlinks.me^
 ||zln.do^
