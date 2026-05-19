@@ -3403,6 +3403,13 @@
       }
     },
     {
+      "PK": "durablesites.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "dvd.lc",
       "action": {
         "do": 0,
@@ -5839,6 +5846,13 @@
       }
     },
     {
+      "PK": "me-page.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "me.gp",
       "action": {
         "do": 0,
@@ -5952,6 +5966,13 @@
     },
     {
       "PK": "moneyash.top",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "moy.su",
       "action": {
         "do": 0,
         "status": 1
@@ -6379,6 +6400,13 @@
     },
     {
       "PK": "npx.de",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "nsfera.pl",
       "action": {
         "do": 0,
         "status": 1
@@ -7330,6 +7358,13 @@
       }
     },
     {
+      "PK": "site44.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "site90.net",
       "action": {
         "do": 0,
@@ -7512,6 +7547,13 @@
       }
     },
     {
+      "PK": "staticrun.app",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "sth.nz",
       "action": {
         "do": 0,
@@ -7562,6 +7604,13 @@
     },
     {
       "PK": "sv.gp",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sviluppo.host",
       "action": {
         "do": 0,
         "status": 1
@@ -7751,6 +7800,13 @@
     },
     {
       "PK": "tiiny.host",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "tiiny.io",
       "action": {
         "do": 0,
         "status": 1
@@ -8094,6 +8150,13 @@
     },
     {
       "PK": "uploader.eu",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "urest.org",
       "action": {
         "do": 0,
         "status": 1

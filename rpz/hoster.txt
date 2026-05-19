@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779181560 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779213660 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 19 May 2026 09:06 UTC
-; Version: 2026.0519.0906.16
+; Last modified: 19 May 2026 18:01 UTC
+; Version: 2026.0519.1801.36
 ; Syntax: RPZ
-; Number of entries: 2630
+; Number of entries: 2648
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -46,6 +46,8 @@ edgeone.app CNAME .
 *.edgeone.app CNAME .
 ic0.app CNAME .
 *.ic0.app CNAME .
+staticrun.app CNAME .
+*.staticrun.app CNAME .
 teleporthq.app CNAME .
 *.teleporthq.app CNAME .
 h4g3z1-hoster.web.app CNAME .
@@ -510,6 +512,8 @@ dreamstation.com CNAME .
 *.dreamstation.com CNAME .
 dtiblog.com CNAME .
 *.dtiblog.com CNAME .
+durablesites.com CNAME .
+*.durablesites.com CNAME .
 e-docssig.com CNAME .
 *.e-docssig.com CNAME .
 e-monsite.com CNAME .
@@ -770,6 +774,8 @@ maddsites.com CNAME .
 *.maddsites.com CNAME .
 mashstaffing.com CNAME .
 *.mashstaffing.com CNAME .
+me-page.com CNAME .
+*.me-page.com CNAME .
 medianewsonline.com CNAME .
 *.medianewsonline.com CNAME .
 merchats.com CNAME .
@@ -870,6 +876,8 @@ sharkserve.com CNAME .
 *.sharkserve.com CNAME .
 simdif.com CNAME .
 *.simdif.com CNAME .
+site44.com CNAME .
+*.site44.com CNAME .
 sitepalace.com CNAME .
 *.sitepalace.com CNAME .
 siterubix.com CNAME .
@@ -1628,6 +1636,8 @@ cool.hn CNAME .
 *.cool.hn CNAME .
 shopping.hn CNAME .
 *.shopping.hn CNAME .
+sviluppo.host CNAME .
+*.sviluppo.host CNAME .
 tiiny.host CNAME .
 *.tiiny.host CNAME .
 blog.hr CNAME .
@@ -1722,6 +1732,8 @@ dcr.sehlat.io CNAME .
 *.dcr.sehlat.io CNAME .
 soup.io CNAME .
 *.soup.io CNAME .
+tiiny.io CNAME .
+*.tiiny.io CNAME .
 wstd.io CNAME .
 *.wstd.io CNAME .
 blogspot.is CNAME .
@@ -2270,6 +2282,8 @@ telrock.org CNAME .
 *.telrock.org CNAME .
 ucoz.org CNAME .
 *.ucoz.org CNAME .
+urest.org CNAME .
+*.urest.org CNAME .
 v0r.org CNAME .
 *.v0r.org CNAME .
 website.org CNAME .
@@ -2312,6 +2326,8 @@ de.pl CNAME .
 *.de.pl CNAME .
 e-kei.pl CNAME .
 *.e-kei.pl CNAME .
+nsfera.pl CNAME .
+*.nsfera.pl CNAME .
 prv.pl CNAME .
 *.prv.pl CNAME .
 ucoz.pl CNAME .
@@ -2502,6 +2518,8 @@ secureonline.store CNAME .
 *.secureonline.store CNAME .
 wapka.store CNAME .
 *.wapka.store CNAME .
+moy.su CNAME .
+*.moy.su CNAME .
 biz.tc CNAME .
 *.biz.tc CNAME .
 bz.tc CNAME .

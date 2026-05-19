@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779183840 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779210120 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 19 May 2026 09:44 UTC
-; Version: 2026.0519.0944.53
+; Last modified: 19 May 2026 17:02 UTC
+; Version: 2026.0519.1702.20
 ; Syntax: RPZ
-; Number of entries: 25846
+; Number of entries: 25812
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -1108,8 +1108,6 @@ thestreameast.biz CNAME .
 *.thestreameast.biz CNAME .
 torrent9.biz CNAME .
 *.torrent9.biz CNAME .
-trackerturk.biz CNAME .
-*.trackerturk.biz CNAME .
 turktorrent.biz CNAME .
 *.turktorrent.biz CNAME .
 xcinemas.tvstream.biz CNAME .
@@ -1452,8 +1450,6 @@ tracker.bz CNAME .
 *.tracker.bz CNAME .
 unblockit.bz CNAME .
 *.unblockit.bz CNAME .
-vipbox.bz CNAME .
-*.vipbox.bz CNAME .
 cinefreak.ca CNAME .
 *.cinefreak.ca CNAME .
 digitalmusicians.ca CNAME .
@@ -2908,8 +2904,6 @@ streamworld.co CNAME .
 *.streamworld.co CNAME .
 terbit21.co CNAME .
 *.terbit21.co CNAME .
-tracker.tfile.co CNAME .
-*.tracker.tfile.co CNAME .
 thepiratebay3.co CNAME .
 *.thepiratebay3.co CNAME .
 toros.co CNAME .
@@ -8106,8 +8100,6 @@ techbigs.com CNAME .
 *.techbigs.com CNAME .
 techmediatune.com CNAME .
 *.techmediatune.com CNAME .
-techtoroms.com CNAME .
-*.techtoroms.com CNAME .
 teentorrents.com CNAME .
 *.teentorrents.com CNAME .
 milanesitracker.tekcities.com CNAME .
@@ -8776,8 +8768,6 @@ vidi64.com CNAME .
 *.vidi64.com CNAME .
 vidics.com CNAME .
 *.vidics.com CNAME .
-vidkw.com CNAME .
-*.vidkw.com CNAME .
 vidlc.com CNAME .
 *.vidlc.com CNAME .
 vidmateapp.com CNAME .
@@ -9582,8 +9572,6 @@ filmoflix.dad CNAME .
 *.filmoflix.dad CNAME .
 thedaddy.dad CNAME .
 *.thedaddy.dad CNAME .
-trendy47.dad CNAME .
-*.trendy47.dad CNAME .
 uhdmovies.dad CNAME .
 *.uhdmovies.dad CNAME .
 rlsbb.unblockit.dad CNAME .
@@ -10332,8 +10320,6 @@ hdhub4u.family CNAME .
 *.hdhub4u.family CNAME .
 streamingcommunity.family CNAME .
 *.streamingcommunity.family CNAME .
-vegamovies.family CNAME .
-*.vegamovies.family CNAME .
 animesama.fan CNAME .
 *.animesama.fan CNAME .
 dood.fan CNAME .
@@ -18912,8 +18898,6 @@ vidlink.org CNAME .
 *.vidlink.org CNAME .
 vidoza.org CNAME .
 *.vidoza.org CNAME .
-vidplay.org CNAME .
-*.vidplay.org CNAME .
 viewvault.org CNAME .
 *.viewvault.org CNAME .
 violetscans.org CNAME .
@@ -19742,8 +19726,6 @@ superflix.pro CNAME .
 *.superflix.pro CNAME .
 tanti-film.pro CNAME .
 *.tanti-film.pro CNAME .
-taraftarium24mac5.pro CNAME .
-*.taraftarium24mac5.pro CNAME .
 themfire.pro CNAME .
 *.themfire.pro CNAME .
 tjrksciow.pro CNAME .
@@ -21238,8 +21220,6 @@ streamingcommunityz.shop CNAME .
 *.streamingcommunityz.shop CNAME .
 tiendaskin.shop CNAME .
 *.tiendaskin.shop CNAME .
-tviy-vybir.shop CNAME .
-*.tviy-vybir.shop CNAME .
 udderlesscowswithmilk.shop CNAME .
 *.udderlesscowswithmilk.shop CNAME .
 uhdmovies.shop CNAME .
@@ -21532,8 +21512,6 @@ taraftarium24pro12.site CNAME .
 *.taraftarium24pro12.site CNAME .
 thepibay.site CNAME .
 *.thepibay.site CNAME .
-thepinks.site CNAME .
-*.thepinks.site CNAME .
 timstreams.site CNAME .
 *.timstreams.site CNAME .
 tmaxapp.site CNAME .
@@ -21946,8 +21924,6 @@ tennis.stream CNAME .
 *.tennis.stream CNAME .
 time4tv.stream CNAME .
 *.time4tv.stream CNAME .
-uhdmovies.stream CNAME .
-*.uhdmovies.stream CNAME .
 videyy.stream CNAME .
 *.videyy.stream CNAME .
 vostfr.stream CNAME .
@@ -22938,8 +22914,6 @@ vegamovies.to CNAME .
 *.vegamovies.to CNAME .
 vibemax.to CNAME .
 *.vibemax.to CNAME .
-vidics.to CNAME .
-*.vidics.to CNAME .
 vidsrc.to CNAME .
 *.vidsrc.to CNAME .
 vidstream.to CNAME .
@@ -23300,10 +23274,6 @@ thjpg10.top CNAME .
 *.thjpg10.top CNAME .
 thjpg2.top CNAME .
 *.thjpg2.top CNAME .
-thjpg5.top CNAME .
-*.thjpg5.top CNAME .
-thjpg6.top CNAME .
-*.thjpg6.top CNAME .
 thjpg7.top CNAME .
 *.thjpg7.top CNAME .
 thjpg8.top CNAME .
@@ -23318,8 +23288,6 @@ torrenttip211.top CNAME .
 *.torrenttip211.top CNAME .
 torrenttip225.top CNAME .
 *.torrenttip225.top CNAME .
-tvshow15.top CNAME .
-*.tvshow15.top CNAME .
 uakinogo.top CNAME .
 *.uakinogo.top CNAME .
 unblockit.top CNAME .
@@ -23936,8 +23904,6 @@ thepiratefilmestorrent.tv CNAME .
 *.thepiratefilmestorrent.tv CNAME .
 thewatchcartoononline.tv CNAME .
 *.thewatchcartoononline.tv CNAME .
-thotbay.tv CNAME .
-*.thotbay.tv CNAME .
 thots.tv CNAME .
 *.thots.tv CNAME .
 thotshub.tv CNAME .

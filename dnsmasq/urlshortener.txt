@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 May 2026 08:31 UTC
-# Version: 2026.0519.0831.07
+# Last modified: 19 May 2026 17:01 UTC
+# Version: 2026.0519.1701.47
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9921
+# Number of entries: 9917
 #
 local=/a.189.cn/
 local=/t.2merkato.com/
@@ -992,7 +992,6 @@ local=/1fi.us/
 local=/1fy.ir/
 local=/1gh.co/
 local=/1i1.in/
-local=/1in.me/
 local=/1ink.info/
 local=/1ir.org/
 local=/1kh.de/
@@ -1281,7 +1280,6 @@ local=/92url.com/
 local=/93.link/
 local=/98.to/
 local=/985.so/
-local=/98pro.cc/
 local=/99forward.com/
 local=/99fw.in/
 local=/99links.in/
@@ -3030,7 +3028,6 @@ local=/dunia.li/
 local=/duopro.io/
 local=/durl.in/
 local=/durl.pw/
-local=/durvainfratech.com/
 local=/dus.im/
 local=/dv.gd/
 local=/dviel.com/
@@ -8982,7 +8979,6 @@ local=/urllink.live/
 local=/urllink.me/
 local=/urllinker.com/
 local=/urllix.com/
-local=/urllover.com/
 local=/urlm.net/
 local=/urlme.cc/
 local=/urlme.ru/

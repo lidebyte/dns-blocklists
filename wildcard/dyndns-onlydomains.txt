@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 May 2026 09:50 UTC
-# Version: 2026.0519.0950.30
+# Last modified: 19 May 2026 16:59 UTC
+# Version: 2026.0519.1659.22
 # Syntax: Domains (without subdomains)
-# Number of entries: 1487
+# Number of entries: 1491
 #
 dyn.addr.tools
 changeip.co.uk
@@ -204,6 +204,7 @@ cleansite.info
 cleansite.us
 clickip.de
 clienturl.net
+cloud-ip.biz
 cloudns.asia
 cloudns.be
 cloudns.biz
@@ -517,6 +518,7 @@ feste-ip.net
 fin-tech.com
 fintech-llc.com
 fivepals.com
+flashhub.net
 flat4free.com
 flazzard.com
 flnet.org
@@ -1332,6 +1334,7 @@ sumibi.org
 sundby.com
 surak.kz
 surfnet.ca
+suroot.com
 swtest.ru
 syno-ds.de
 synology-diskstation.de
@@ -1418,6 +1421,7 @@ venez.net
 verymad.net
 viamisoftware.com
 vicp.cc
+vicp.net
 vietnamddns.com
 viewdns.net
 viiic.net

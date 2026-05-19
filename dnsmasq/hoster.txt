@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 May 2026 09:06 UTC
-# Version: 2026.0519.0906.16
+# Last modified: 19 May 2026 18:01 UTC
+# Version: 2026.0519.1801.36
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1315
+# Number of entries: 1324
 #
 local=/one4u.0lx.net/
 local=/24.co.at/
@@ -516,6 +516,7 @@ local=/dreamstation.com/
 local=/dreht-auf.de/
 local=/dtiblog.com/
 local=/duanwenzi.cn/
+local=/durablesites.com/
 local=/dvd.lc/
 local=/e.gp/
 local=/e-docssig.com/
@@ -860,6 +861,7 @@ local=/mashstaffing.com/
 local=/mdbgo.io/
 local=/me.gp/
 local=/me.ly/
+local=/me-page.com/
 local=/mediafirex.icu/
 local=/medianewsonline.com/
 local=/megabyet.net/
@@ -873,6 +875,7 @@ local=/mobi.ps/
 local=/mobinteg.com/
 local=/mochahost.com/
 local=/moneyash.top/
+local=/moy.su/
 local=/mp3.cr/
 local=/mpeblog.com/
 local=/muf.mobi/
@@ -933,6 +936,7 @@ local=/nobody.jp/
 local=/nofeeshost.com/
 local=/now.lc/
 local=/npx.de/
+local=/nsfera.pl/
 local=/nut.cc/
 local=/o.gp/
 local=/o-f.com/
@@ -1067,6 +1071,7 @@ local=/shopping.hn/
 local=/simdif.com/
 local=/site.pro/
 local=/site123.me/
+local=/site44.com/
 local=/site90.net/
 local=/sitego.fr/
 local=/sitepalace.com/
@@ -1091,6 +1096,7 @@ local=/srv1.org/
 local=/start.lc/
 local=/start.page/
 local=/startertjes.nl/
+local=/staticrun.app/
 local=/sth.nz/
 local=/stormloader.com/
 local=/stormpages.com/
@@ -1099,6 +1105,7 @@ local=/suchtis.de/
 local=/superweb.ws/
 local=/surge.sh/
 local=/sv.gp/
+local=/sviluppo.host/
 local=/sweb.cz/
 local=/sxx.in/
 local=/synergize.co/
@@ -1125,6 +1132,7 @@ local=/tggame.xyz/
 local=/th.gp/
 local=/thisistap.com/
 local=/tiiny.host/
+local=/tiiny.io/
 local=/tiiny.site/
 local=/tilda.ws/
 local=/timeforchangecounselling.com/
@@ -1173,6 +1181,7 @@ local=/unblog.fr/
 local=/untergrund.net/
 local=/uphero.com/
 local=/uploader.eu/
+local=/urest.org/
 local=/urlaub.lc/
 local=/us.nf/
 local=/us.st/

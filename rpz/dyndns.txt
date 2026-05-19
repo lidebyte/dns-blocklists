@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779184200 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779209940 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 19 May 2026 09:50 UTC
-; Version: 2026.0519.0950.30
+; Last modified: 19 May 2026 16:59 UTC
+; Version: 2026.0519.1659.22
 ; Syntax: RPZ
-; Number of entries: 2974
+; Number of entries: 2982
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -58,6 +58,8 @@ chavo.biz CNAME .
 *.chavo.biz CNAME .
 cleansite.biz CNAME .
 *.cleansite.biz CNAME .
+cloud-ip.biz CNAME .
+*.cloud-ip.biz CNAME .
 cloudns.biz CNAME .
 *.cloudns.biz CNAME .
 d2g.biz CNAME .
@@ -1358,6 +1360,8 @@ stughead.com CNAME .
 *.stughead.com CNAME .
 sundby.com CNAME .
 *.sundby.com CNAME .
+suroot.com CNAME .
+*.suroot.com CNAME .
 synoserver.com CNAME .
 *.synoserver.com CNAME .
 sysadminetworks.com CNAME .
@@ -2064,6 +2068,8 @@ farted.net CNAME .
 *.farted.net CNAME .
 feste-ip.net CNAME .
 *.feste-ip.net CNAME .
+flashhub.net CNAME .
+*.flashhub.net CNAME .
 freedynamicdns.net CNAME .
 *.freedynamicdns.net CNAME .
 from-az.net CNAME .
@@ -2270,6 +2276,8 @@ venez.net CNAME .
 *.venez.net CNAME .
 verymad.net CNAME .
 *.verymad.net CNAME .
+vicp.net CNAME .
+*.vicp.net CNAME .
 viewdns.net CNAME .
 *.viewdns.net CNAME .
 viiic.net CNAME .

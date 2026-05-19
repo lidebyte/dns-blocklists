@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 May 2026 09:51 UTC
-# Version: 2026.0519.0951.45
+# Last modified: 19 May 2026 17:00 UTC
+# Version: 2026.0519.1700.51
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 17682
+# Number of entries: 17573
 #
 *.ss.0001.xyz
 *.ilovethiswebsite.001-lab.space
@@ -6559,7 +6559,6 @@
 *.myapps.classlink.suredoc.net
 *.ams01-n.surf-p.com
 *.hexagon000.surfnet.ca
-*.ramadaramada.surfnet.ca
 *.dns.surfsharkdns.com
 *.bashful-stretch.surge.sh
 *.best-dock.surge.sh
@@ -6637,9 +6636,6 @@
 *.www.iloveto.talk4fun.net
 *.adguard.tammi.cc
 *.travel.taniadomena.eu
-*.imsoboredom.com.tantrum.org
-*.greeniyouaremygoat.cdn.cloudflare.net.tantrum.org
-*.akaneisthegoat.tantrum.org
 *.galaxy.tantrum.org
 *.glint.tantrum.org
 *.pizzaisfood.tantrum.org
@@ -6682,7 +6678,6 @@
 *.vps.techrich.net
 *.platform.techsmart.tk
 *.dns.teckhawk.be
-*.sifu.tedbuy.com
 *.meow.teddynunyah.cfd
 *.rh.teddynunyah.cfd
 *.ixlmathhomework6thgrade.tedfullwood.com
@@ -6704,10 +6699,6 @@
 *.agh.srv.tenete.net
 *.vpn-tw.teng.sh
 *.ag.teqilla.tk
-*.au.teradns.org
-*.de.teradns.org
-*.ny.teradns.org
-*.sg.teradns.org
 *.tx.teradns.org
 *.uk.teradns.org
 *.apne1.dns.terumi.club
@@ -6790,9 +6781,7 @@
 *.doh.thio.me
 *.67hub.thisoldrack.us
 *.dns.thiz.top
-*.thomas.thompent.com
 *.dns.thore.cloud
-*.my.pltwvocabuaryreview.org.thronos.eu
 *.jus.tice-industries.com
 *.topic.know.ticpu.net
 *.fdfhgbv.ticsur.cl
@@ -6830,18 +6819,10 @@
 *.www.securly.com.tongbaoyule999.com
 *.dns.tooizi.eu
 *.dot.tooli.ca
-*.xvhjkxnesdfsdfc.adshfkjecxvlk.top7.mx
-*.wjkhfsjkdhfesdfjkle.eskljdflsdf.top7.mx
-*.xcvjklclvcve.lksjdfeiccv.top7.mx
-*.wklcvjsffsdklfe.sdjflkjicxdf.top7.mx
-*.whaksdfj.wjklsfd.top7.mx
-*.wdjkxlvcksedfe.wkljicvesdf.top7.mx
 *.how.prep.topmoto.pl
 *.chart.train.topone.cl
 *.nsc.torgues.net
 *.center.k12.mo.us.tornotluk.in
-*.arnoldmiddleyk.totalcare.pk
-*.rn.totalcare.pk
 *.doh.totoro.pub
 *.cease.touchofpink.ca
 *.endismadebyevan.tovamiasto.com
@@ -6860,59 +6841,7 @@
 *.homes.tr25.cn
 *.jump.tr25.cn
 *.dns.tracker.ink
-*.schools.tradekinginternational.com
 *.access.traders-friend.com
-*.205.209.125.106.traefik.me
-*.158.69.222.114.traefik.me
-*.66.23.193.126.traefik.me
-*.5.188.124.13.traefik.me
-*.37.27.88.135.traefik.me
-*.92.38.177.16.traefik.me
-*.15.204.247.166.traefik.me
-*.92.38.177.17.traefik.me
-*.15.204.209.18.traefik.me
-*.104.243.38.18.traefik.me
-*.51.222.206.184.traefik.me
-*.51.222.141.2.traefik.me
-*.69.164.251.210.traefik.me
-*.65.109.112.222.traefik.me
-*.104.36.85.232.traefik.me
-*.129.153.136.235.traefik.me
-*.104.36.85.249.traefik.me
-*.152.53.170.32.traefik.me
-*.74.208.174.33.traefik.me
-*.51.222.141.36.traefik.me
-*.15.204.147.42.traefik.me
-*.159.195.59.55.traefik.me
-*.108.181.32.77.traefik.me
-*.74.208.64.80.traefik.me
-*.152.53.36.82.traefik.me
-*.144.217.77.9.traefik.me
-*.104-243-38-18.traefik.me
-*.104-36-85-249.traefik.me
-*.108-181-32-77.traefik.me
-*.129-153-136-235.traefik.me
-*.144-217-77-9.traefik.me
-*.15-204-147-42.traefik.me
-*.15-204-209-18.traefik.me
-*.15-204-247-166.traefik.me
-*.152-53-170-32.traefik.me
-*.152-53-36-82.traefik.me
-*.158-69-222-114.traefik.me
-*.159-195-59-55.traefik.me
-*.205-209-125-106.traefik.me
-*.37-27-88-135.traefik.me
-*.5-188-124-13.traefik.me
-*.51-222-141-2.traefik.me
-*.51-222-141-36.traefik.me
-*.51-222-206-184.traefik.me
-*.65-109-112-222.traefik.me
-*.66-23-193-126.traefik.me
-*.69-164-251-210.traefik.me
-*.74-208-174-33.traefik.me
-*.74-208-64-80.traefik.me
-*.92-38-177-16.traefik.me
-*.92-38-177-17.traefik.me
 *.edgex.trafficmanager.net
 *.bio.goal.trans.am
 *.resolv1.trash.net
@@ -6955,7 +6884,6 @@
 *.friedchimkensaurus.tvjumbleanswers.com
 *.itscauseiamblack.tvjumbleanswers.com
 *.littlepiggies571s.tvjumbleanswers.com
-*.65.109.112.222.twilightparadox.com
 *.dbqonline.com.login.a.twilightparadox.com
 *.biggerneverknown.com.twilightparadox.com
 *.ilovelearninggames.com.twilightparadox.com
@@ -6963,16 +6891,13 @@
 *.lightspeedisahh.edu.gov.education.twilightparadox.com
 *.toofuntoostudy-math-study.gavin.twilightparadox.com
 *.classroom.google.twilightparadox.com
-*.perdona.my.twilightparadox.com
 *.support.sghub.co.za.twilightparadox.com
 *.230704953-learn-maths-starters.twilightparadox.com
 *.278765434574.twilightparadox.com
 *.alearluvsruby.twilightparadox.com
 *.betterthefrogiesarcade.twilightparadox.com
-*.classroomoffive.twilightparadox.com
 *.dagsonbanana.twilightparadox.com
 *.djsnsnsnsnn.twilightparadox.com
-*.duck.twilightparadox.com
 *.fireworksedu.twilightparadox.com
 *.goofygang.twilightparadox.com
 *.gtjschool.twilightparadox.com
@@ -6999,7 +6924,6 @@
 *.vless-service.ufodns.com
 *.study.howto.ugo.si
 *.mathhelp.ugo.si
-*.drive.google.com.uitgavepatroon.nl
 *.blokuj.ujwie.co
 *.nitter.ujwie.co
 *.webproxy.uk.com
@@ -7011,7 +6935,6 @@
 *.doh.umbrella.com
 *.anycast.uncensoreddns.dk
 *.unicast.uncensoreddns.dk
-*.please.dont.just.undo.it
 *.lets.just.undo.it
 *.block.undo.cl
 *.cheesepizza.undo.it
@@ -7031,7 +6954,6 @@
 *.instantly.unibutton.com
 *.learnvcsa.unibutton.com
 *.google.unicoridor.ru
-*.pleasedontblockthis.unids.com
 *.major.know.unielectronics.ca
 *.galileo.math.unipd.it
 *.dns.unitech.company
@@ -7070,7 +6992,6 @@
 *.ramen.vandrekalenderen.dk
 *.wasd.vandrekalenderen.dk
 *.whereisaplacetoseeingloridaearth.vandrekalenderen.dk
-*.skibidiboppyyesyes.vanitypanels.com
 *.adguard.vape.ong
 *.tor.vasi.li
 *.dns.vault81.de
@@ -13962,6 +13883,7 @@
 *.ososna.ru
 *.ospylac.com
 *.ostrichvpn.net
+*.oszar.com
 *.oszx.co
 *.ot4axb6.online
 *.otniscool.com
@@ -15525,7 +15447,6 @@
 *.surfsharkstatus.com
 *.surfsharkvpn.online
 *.surfsjark.com
-*.surfsneaker.com
 *.surfsuark.com
 *.surfwebsite.org
 *.surfy-chinaz.com
@@ -15538,16 +15459,12 @@
 *.sustainpilot.space
 *.susucloud.net
 *.suyin.club
-*.suying666clash.com
-*.suying666jc.com
 *.suying999.net
 *.suyinx.space
 *.suyinx.xyz
 *.suyunh.com
 *.suyunti.com
 *.suyunti.info
-*.suyunticlash.com
-*.suyuntissr.com
 *.svg33.eu
 *.svip666888.com
 *.svtfwqhb.com
@@ -15575,7 +15492,6 @@
 *.szyrzyk.pl
 *.t-dz.com
 *.t2hd3gctgprggas.online
-*.t9clash.com
 *.taarique.shop
 *.tabijibiyori.org
 *.tablebook92.com
@@ -15622,8 +15538,6 @@
 *.techtecnow.club
 *.techvaso.com
 *.tecworx.at
-*.tejiajc.com
-*.tejiass.com
 *.telegramnn.org
 *.telegramvpn.mom
 *.telex.app
@@ -15643,7 +15557,6 @@
 *.testdomainname.xyz
 *.testred.xyz
 *.testvpn.info
-*.teto.lat
 *.teto.win
 *.teyyw.com
 *.tfckwhed.com
@@ -15701,7 +15614,6 @@
 *.thriftychoice.space
 *.thrxdqtm.com
 *.thunder-vpn.help
-*.thunderjc.com
 *.thundervpnwin.com
 *.thxvv.ru
 *.tiafun.com
@@ -15709,9 +15621,6 @@
 *.tianhang.org
 *.tianhang.shop
 *.tianhang.site
-*.tiantianyunjc.com
-*.tianxingwangluo.com
-*.tianxingwangluojc.com
 *.tiar.app
 *.tiarap.org
 *.tiecxghg.cc
@@ -15746,22 +15655,17 @@
 *.tiptopvpn.xyz
 *.tiptopvps.help
 *.tipvpn.help
-*.tirnclash.com
-*.tirnjc.com
 *.tisocks.net
 *.titandev.info
 *.titaniumnetwork.org
-*.titanjc.com
 *.titannet.info
 *.titannet.io
-*.titanssr.com
 *.titantunnelvpn.com
 *.tivaro.ru
 *.tizidajian.com
 *.tk31z.com
 *.tkgf2.cn
 *.tksvvrbc.cc
-*.tkvjc.com
 *.tlkqiaax.com
 *.tlsext.com
 *.tlsvpn.com
@@ -15775,7 +15679,6 @@
 *.tnoiaaro.cc
 *.tnquyfpp.com
 *.tns5gcwfy.online
-*.tntcloudjc.com
 *.tntv2.com
 *.tnvpn.com
 *.toaster.lol
@@ -15783,7 +15686,6 @@
 *.togglevpn.org
 *.togppqls.com
 *.tois.tech
-*.tokit.site
 *.tokvpn.help
 *.tolveno.ru
 *.tommattinglyda.site
@@ -15908,7 +15810,6 @@
 *.tsmeog.top
 *.tsmeow.com
 *.tsmeowclash.com
-*.tsmeowjc.com
 *.tsre-s.cc
 *.tszbegfdw9.com
 *.ttsw557.app
@@ -16050,7 +15951,6 @@
 *.unblockbook.biz
 *.unblockd.org
 *.unblockdirect.com
-*.unblocked.ac
 *.unblocked.biz
 *.unblocked.buzz
 *.unblocked.cloud
@@ -16060,10 +15960,7 @@
 *.unblocked.id
 *.unblocked.me
 *.unblocked.name
-*.unblocked.racing
 *.unblocked.soy
-*.unblocked.surf
-*.unblocked.tube
 *.unblocked2.biz
 *.unblocked2.cc
 *.unblocked2.dev
@@ -16101,6 +15998,7 @@
 *.unblockedstreaming.org
 *.unblockedv4.com
 *.unblockedwarez.com
+*.unblocker.cc
 *.unblocker.net
 *.unblocker.us
 *.unblockfreeproxy.com
@@ -16125,8 +16023,6 @@
 *.unblockproxy.win
 *.unblocks.net
 *.unblocksite.biz
-*.unblocksite.fun
-*.unblocksite.id
 *.unblocksite.org
 *.unblocksite.pw
 *.unblocksite.space
@@ -16256,7 +16152,6 @@
 *.v2box.homes
 *.v2cvipaff.cc
 *.v2fast.cc
-*.v2networkgw.com
 *.v2nodes.com
 *.v2ny.cc
 *.v2ny.co
@@ -16269,8 +16164,6 @@
 *.v2plus.cc
 *.v2ray.cc
 *.v2rayclient.com
-*.v2rayds.com
-*.v2rayka.com
 *.v2rayn.org
 *.v2rayng.cyou
 *.v2rayng.org
@@ -16280,8 +16173,6 @@
 *.v2raytunvpn.app
 *.v2raytunvpn.blog
 *.v2rayu.org
-*.v2raywy.com
-*.v2rayyd.com
 *.v4f.info
 *.v4f.me
 *.v4freedom.com

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 May 2026 09:51 UTC
-# Version: 2026.0519.0951.00
+# Last modified: 19 May 2026 16:59 UTC
+# Version: 2026.0519.1659.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3441
+# Number of entries: 3437
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -2637,10 +2637,6 @@ local=/agh.srv.tenete.net/
 local=/iana.tenta.io/
 local=/opennic.tenta.io/
 local=/ag.teqilla.tk/
-local=/au.teradns.org/
-local=/de.teradns.org/
-local=/ny.teradns.org/
-local=/sg.teradns.org/
 local=/tx.teradns.org/
 local=/uk.teradns.org/
 local=/apne1.dns.terumi.club/

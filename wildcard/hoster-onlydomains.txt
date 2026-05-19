@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 May 2026 09:06 UTC
-# Version: 2026.0519.0906.16
+# Last modified: 19 May 2026 18:01 UTC
+# Version: 2026.0519.1801.36
 # Syntax: Domains (without subdomains)
-# Number of entries: 1315
+# Number of entries: 1324
 #
 one4u.0lx.net
 24.co.at
@@ -516,6 +516,7 @@ dreamstation.com
 dreht-auf.de
 dtiblog.com
 duanwenzi.cn
+durablesites.com
 dvd.lc
 e.gp
 e-docssig.com
@@ -860,6 +861,7 @@ mashstaffing.com
 mdbgo.io
 me.gp
 me.ly
+me-page.com
 mediafirex.icu
 medianewsonline.com
 megabyet.net
@@ -873,6 +875,7 @@ mobi.ps
 mobinteg.com
 mochahost.com
 moneyash.top
+moy.su
 mp3.cr
 mpeblog.com
 muf.mobi
@@ -933,6 +936,7 @@ nobody.jp
 nofeeshost.com
 now.lc
 npx.de
+nsfera.pl
 nut.cc
 o.gp
 o-f.com
@@ -1067,6 +1071,7 @@ shopping.hn
 simdif.com
 site.pro
 site123.me
+site44.com
 site90.net
 sitego.fr
 sitepalace.com
@@ -1091,6 +1096,7 @@ srv1.org
 start.lc
 start.page
 startertjes.nl
+staticrun.app
 sth.nz
 stormloader.com
 stormpages.com
@@ -1099,6 +1105,7 @@ suchtis.de
 superweb.ws
 surge.sh
 sv.gp
+sviluppo.host
 sweb.cz
 sxx.in
 synergize.co
@@ -1125,6 +1132,7 @@ tggame.xyz
 th.gp
 thisistap.com
 tiiny.host
+tiiny.io
 tiiny.site
 tilda.ws
 timeforchangecounselling.com
@@ -1173,6 +1181,7 @@ unblog.fr
 untergrund.net
 uphero.com
 uploader.eu
+urest.org
 urlaub.lc
 us.nf
 us.st

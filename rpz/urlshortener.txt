@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779179460 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779210060 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 19 May 2026 08:31 UTC
-; Version: 2026.0519.0831.07
+; Last modified: 19 May 2026 17:01 UTC
+; Version: 2026.0519.1701.47
 ; Syntax: RPZ
-; Number of entries: 19842
+; Number of entries: 19834
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1583,8 +1583,6 @@ small.cat CNAME .
 *.88nb.cc CNAME .
 89bet69.cc CNAME .
 *.89bet69.cc CNAME .
-98pro.cc CNAME .
-*.98pro.cc CNAME .
 9o9.cc CNAME .
 *.9o9.cc CNAME .
 adesta.cc CNAME .
@@ -4159,8 +4157,6 @@ dssurl.com CNAME .
 *.dssurl.com CNAME .
 dukehealthwiki.com CNAME .
 *.dukehealthwiki.com CNAME .
-durvainfratech.com CNAME .
-*.durvainfratech.com CNAME .
 dviel.com CNAME .
 *.dviel.com CNAME .
 p.dw.com CNAME .
@@ -7357,8 +7353,6 @@ urllinker.com CNAME .
 *.urllinker.com CNAME .
 urllix.com CNAME .
 *.urllix.com CNAME .
-urllover.com CNAME .
-*.urllover.com CNAME .
 urlno.com CNAME .
 *.urlno.com CNAME .
 urlnova.com CNAME .
@@ -13651,8 +13645,6 @@ wb.md CNAME .
 *.1cl.me CNAME .
 1do.me CNAME .
 *.1do.me CNAME .
-1in.me CNAME .
-*.1in.me CNAME .
 1ty.me CNAME .
 *.1ty.me CNAME .
 2k1.me CNAME .

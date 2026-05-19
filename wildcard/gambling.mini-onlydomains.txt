@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 May 2026 09:44 UTC
-# Version: 2026.0519.0944.10
+# Last modified: 19 May 2026 17:08 UTC
+# Version: 2026.0519.1708.42
 # Syntax: Domains (without subdomains)
-# Number of entries: 50132
+# Number of entries: 50066
 #
 web-119bet-2025-google-vip-119bet.119-hello.com
 web-166betcom-vip-166betcc-166betvip-2025fa-east1.166tiger.com
@@ -494,7 +494,6 @@ ptmprizes.co.uk
 pubcasino.co.uk
 puntcasino.co.uk
 puntcasino.co.za
-qualityironmongery.co.uk
 radiotimesdvds.co.uk
 rakocasino.co.nl
 rakoo-casinos.co.nl
@@ -1222,7 +1221,6 @@ generator2.idns889.net
 img.ihudba.com
 sazka-sazkabet.cdn.imagelance.com
 sportsbet.imgix.net
-1xbet.in.ua
 cosmolot-slots.in.ua
 markas.mariobet.it.com
 gaskuy168.it.com
@@ -1333,7 +1331,6 @@ duelbitscasino.org.uk
 elitecasino.org.uk
 emperiacasino.org.uk
 fabulousvegascasino.org.uk
-forzabetcasino.org.uk
 gdalabel.org.uk
 ggpokergwanzhbao.org.cn
 ggpokergwbanzhongwenban.org.cn
@@ -1468,7 +1465,6 @@ casinositesuknongamstop.us.com
 casinoxru.us.com
 casinozondercruksonline.us.org
 casoolacasino.us.org
-enligne-casino-2026.us.com
 gbnongamstopcasinosites.us.com
 juicypopslots.us.com
 michaelkorshandbagssale.us.org
@@ -14619,9 +14615,7 @@ c7707.com
 c777.one
 c90.casino
 c91.casino
-c92.casino
 c93.casino
-c94.casino
 c95.casino
 c9e.casino
 c9v2b.com
@@ -15952,7 +15946,6 @@ casino-en.beer
 casino-en.click
 casino-en-argentina.com
 casino-en-ligne.info
-casino-en-ligne-fra.com
 casino-en-ligne-gratuit.net
 casino-en-ligne-international.ch
 casino-en-ligne-meilleur.org
@@ -16708,7 +16701,6 @@ casino-online.sk
 casino-online-au.net
 casino-online-au.org
 casino-online-australia.net
-casino-online-australian.com
 casino-online-burkinafaso.com
 casino-online-casibom.com
 casino-online-casino.org
@@ -19829,7 +19821,6 @@ casinos-ohne-verifizierung.com
 casinos-online.org
 casinos-online-au.net
 casinos-online-au.org
-casinos-online-canadian.com
 casinos-online-mexico.org
 casinos-online-ohne-oasis.org
 casinos-online-se.vip
@@ -24191,7 +24182,6 @@ ev88casinowin.com
 ev99casinoslot.com
 ev99casinowin.com
 eva.casino
-eva-05.casino
 eva-104.casino
 eva-208.casino
 eva-bets-casino1.top
@@ -27152,7 +27142,6 @@ gtrtoto099.com
 gtrtoto64.com
 gtrtoto89.com
 gtwin.com
-guccytoto6.com
 gudarcasino.com
 guedecide.com
 guenther.de
@@ -32670,7 +32659,6 @@ m-bahiscasino674.com
 m-bahiscasino675.com
 m-bahiscasino676.com
 m-bahiscasino677.com
-m-betsmove781.com
 m-casinodior349.com
 m-casinoper232.com
 m-casinoper264.com
@@ -33056,7 +33044,6 @@ mariacasino-ca.com
 mariatogel889.org
 mariinskylabel.com
 marinacasino1.com
-marinacasino888.online
 marinecasino.com
 mariobet.casino
 mariobet.com
@@ -36715,7 +36702,6 @@ onlinecasinomaldives.com
 onlinecasinomanitoba.com
 onlinecasinomitstartguthaben.org
 onlinecasinon.us
-onlinecasinonederland.eu
 onlinecasinonevada2026.com
 onlinecasinonevada2026.net
 onlinecasinonevada2026.org
@@ -44334,14 +44320,12 @@ surecasino.bet
 surestrikebets.com
 surethingcasino.com
 surf-casino26.ru
-surfasone.com
 surfcasino.com
 surfplay.com
 surfplay-casino.org
 surga11.shop
 surga777a.com
 surga88.xyz
-surgalotre-j.xyz
 surgaplay.shop
 surgecasino-aus.org
 surgecasino-australia.org
@@ -44477,7 +44461,6 @@ switch2casino.care
 swq.casino
 swv.casino
 sx.bet
-sx80.casino
 sxo.casino
 sydneypoolstoday.com
 sykaaa-casino219.buzz
@@ -44554,7 +44537,6 @@ taigobetsite.com
 taikaspins.com
 tainakf.com
 taipei999.biz
-taison01.com
 taivin168.biz
 taixiu.cc
 takabet15.com
@@ -44698,7 +44680,6 @@ teosbets-realsiterniz.icu
 teosbetserigir.vip
 tep.casino
 terbetslot.org
-terminix.id
 termixstore.ru
 terrabetstation.nl
 terracasinoflow.nl
@@ -44804,7 +44785,6 @@ theatrebristol.net
 thebcpoker.com
 thebescasino.com
 thebestbinaryoptionsbrokers.net
-thebestcasinoguide.com
 thebettership.com
 thebetting.net
 theboldwords.com
@@ -44845,7 +44825,6 @@ thegameroom.org
 thegardenerfilm.com
 thegatecasino.com
 thegatecitycasino.com
-thegilmanstar.com
 thegod789.club
 thegolddoor.com
 thegoldlounge.com
@@ -44858,7 +44837,6 @@ thehomepokerclub.com
 thehomepokerclub.uk
 thehookjournal.com
 thehouseofcasino.com
-theisraelofgodatl.com
 thekingbillycasino.com
 thelaartbox.com
 thelittlebigblog.com
@@ -45071,7 +45049,6 @@ time4betscasino.com
 time4betskw.com
 time4betsqa.com
 time4betsuae.com
-timebetsponsor.com
 timeforcasino.com
 timeofbet.com
 timeph.vip
@@ -45094,7 +45071,6 @@ tipico-casino.org
 tipicocasino.nl
 tipicocasino.one
 tipicocasino-ca.com
-tipobet-365.net
 tipobet-tekcasino.com
 tipobet365.com
 tipos.sk
@@ -45208,7 +45184,6 @@ tokyo.cz
 tokyo-casino-az.com
 tol.casino
 tolleapotheke101.com
-tom-casino.fi
 tomato222.com
 tomato333.com
 tomato555.com
@@ -45367,7 +45342,6 @@ topcasinosjapan.com
 topcasinosonline.vip
 topcasinosportugalonline.com
 topcasinosptonline.com
-topcasinosreviews.in
 topcasinosuisse.com
 topcasinouk10.com
 topcasinoza.com
@@ -45418,7 +45392,6 @@ topslotsmobile.com
 topslotssh.site
 topslotsusa.xyz
 topslotsvip.store
-topsnslots.com
 topsport.lt
 topsport-casino.com
 toptally.com
@@ -45490,7 +45463,6 @@ totocasino.club
 totocasino-ca.com
 totocasino3.nl
 totocasinobonus.top
-totoclickcasino.com
 totofortuna.it
 totogacor.net
 totogaming.am
@@ -45513,7 +45485,6 @@ tournamentplus.com
 toutgagner.com
 tower.bet
 towercasinoskegness.com
-towerfilter.com
 towerslotsnew.site
 tp88.fun
 tp88.games
@@ -45578,7 +45549,6 @@ trip2vip.com
 trip2vip-casino-hub.com
 trip2vip1.com
 triple-diamond-slots.com
-triplea.id
 triplecaliente.com
 tripledg.com
 tripledorado.com
@@ -45633,7 +45603,6 @@ truepoker.eu
 truepokerodds.com
 truevaluebets.com
 truewin.ae
-trungtamtrimun.com
 trust-online-casino.com
 trustbetgames.online
 trustbookie.com
@@ -45761,13 +45730,11 @@ twin140.com
 twin172.com
 twin3.org
 twincasino.sk
-twincasino-oficial.lat
 twincasino-portugal.click
 twincasino-pt.click
 twincasino-pt.club
 twindor-casino.click
 twindor-casino.ink
-twindor-casino.site
 twindor-casino.xyz
 twinsbet.lt
 twinscasino-se.com
@@ -45905,7 +45872,6 @@ ufabets.services
 ufabets.shop
 ufabets-th.org
 ufabetslogin.com
-ufabetslotmachine.com
 ufabetsport.club
 ufacash.today
 ufacasino.us
@@ -45998,7 +45964,6 @@ ultrafresh.casino
 ultrapanda.casino
 ultrapanda.mobi
 ultraplaycasino.com
-ultrapoker88.com
 ultrapokerpoint.nl
 ultrasbet.com
 ultraslots88.com
@@ -46098,7 +46063,6 @@ up4.casino
 up7.xyz
 upbet.com
 upcoz.com
-updatebola.net
 upgrader.com
 upoker.net
 uptown-aces-casino.net
@@ -46401,7 +46365,6 @@ vavadacsaj.com
 vavadagh.com
 vavadaincasino55.com
 vavadal7a4.com
-vavadallo.com
 vavadalockcasino-2tbj.buzz
 vavadaonlinecasinocomru1.top
 vavadaplaywin.com
@@ -46442,7 +46405,6 @@ vaycasino-es.vip
 vaycasino-eu.org
 vaycasino-gercekgiris.cyou
 vaycasino-giris.lat
-vaycasino-girisadresimtr.com
 vaycasino-girisi.cam
 vaycasino-girisi-orjin.com
 vaycasino-girisim.vip
@@ -46462,7 +46424,6 @@ vaycasino-model.icu
 vaycasino-resmi.cam
 vaycasino-resmi-girisi.com
 vaycasino-resmi-guncel.icu
-vaycasino-resmiadresleri7.vip
 vaycasino-tt.org
 vaycasino-turkey.icu
 vaycasino-uk.com
@@ -46471,7 +46432,6 @@ vaycasino-yeniadres.vip
 vaycasino1.lol
 vaycasino1113.org
 vaycasino1114.cam
-vaycasino1358.com
 vaycasino2.lol
 vaycasino2026.org
 vaycasino2026-yenigir.vip
@@ -46481,7 +46441,6 @@ vaycasino2115.com
 vaycasino3.lol
 vaycasinoadres.com
 vaycasinoadres.org
-vaycasinoaff.org
 vaycasinoaffilate.icu
 vaycasinoapplication.org
 vaycasinoeu.org
@@ -46498,7 +46457,6 @@ vaycasinogirisler.icu
 vaycasinogirisleri.icu
 vaycasinoguncel2.icu
 vaycasinoguncel3.icu
-vaycasinogunceladres.org
 vaycasinoguncelgir.icu
 vaycasinoguncelgiris.icu
 vaycasinoguncellgiris.icu
@@ -46506,23 +46464,16 @@ vaycasinoguncelsite.org
 vaycasinohemengir.com
 vaycasinohizli.icu
 vaycasinoio.org
-vaycasinokat.lat
-vaycasinomobile26.vip
 vaycasinoorjinal.icu
 vaycasinoorjinalgiris.icu
-vaycasinoresmi.vip
 vaycasinotrguncel.icu
-vaycasinott.org
-vaycasinoturkiyeresmiadres.com
 vaycasinoukk.org
 vaycasinous.org
 vaycasinouyelik.vip
 vaycasinovip.icu
 vaycasinovipgiris.icu
 vaycasinovipgiris.net
-vaycasinoweb.com
 vaycasinoweb.live
-vaycasinoweb.org
 vaycasinoweb-it.org
 vaycasinowebadres.org
 vaycasinowebadresi.org
@@ -46561,14 +46512,12 @@ vdcasino.icu
 vdcasino-1334.com
 vdcasino-2026giris.ink
 vdcasino-adresi.vip
-vdcasino-aktifadres.vip
 vdcasino-amp.com
 vdcasino-ampgiris.vip
 vdcasino-ampsitesi.icu
 vdcasino-ampsitesi.vip
 vdcasino-api.com
 vdcasino-app.com
-vdcasino-canli.vip
 vdcasino-canliqiris.icu
 vdcasino-direktgiris.site
 vdcasino-direktgiris.vip
@@ -46587,39 +46536,27 @@ vdcasino-gunncel.vip
 vdcasino-official.site
 vdcasino-sitegiris.vip
 vdcasino-sorunsuz-giris.vip
-vdcasino-teamqiris.com
 vdcasino-tekqiris.icu
-vdcasino-tr.vip
-vdcasino-trgirisi.vip
-vdcasino-turk.top
 vdcasino-vdqiris.vip
 vdcasino-yenigiris.ink
 vdcasino1-tr.com
 vdcasino1337.cam
 vdcasino1508.com
-vdcasino1533.com
 vdcasino1534.com
-vdcasino1535.com
 vdcasino1735.com
 vdcasino2026-girisler.icu
-vdcasino2026-sports.icu
 vdcasino2026resmigiris.icu
 vdcasino2334.com
 vdcasino2336.com
 vdcasino2337.com
 vdcasinoadresler.icu
-vdcasinobost-qiris.com
-vdcasinocl-erisim.com
-vdcasinocl-tekqiris.com
 vdcasinoe-giris.vip
-vdcasinofcl-adres.vip
 vdcasinogiris-tico.vip
 vdcasinogiris1.win
 vdcasinogirisadresi.com
 vdcasinogirisadresi.vip
 vdcasinomobil-giris.vip
 vdcasinomobilgiris.icu
-vdcasinopoker.com
 vdcasinoresmigiris.icu
 vdcasinosgiris.com
 vdcasinosite-giris.vip
@@ -46632,7 +46569,6 @@ vdcasinoyeniadres.vip
 ve1xbet.com
 veb.casino
 vega-sino-casino.com
-vega-slotcasino.com
 vega-stars-casino-au.com
 vega-stars-casino-australia.com
 vega-stars-casino-online.com
@@ -46783,7 +46719,6 @@ vembetar.casino
 ven-1xbet.com
 venceu.com
 venedikcasino.com
-venetian1965.com
 venetianmacao-casino.com
 venezia-casino.click
 venice888.casino
@@ -49250,7 +49185,6 @@ xcasino.com
 xcasino102.com
 xcasino41.com
 xcasinoau.com
-xcasinoclub.pl
 xcasinoofficial.space
 xcasinoonline.space
 xcasinosb.com

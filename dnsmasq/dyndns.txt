@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 May 2026 09:50 UTC
-# Version: 2026.0519.0950.30
+# Last modified: 19 May 2026 16:59 UTC
+# Version: 2026.0519.1659.22
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1487
+# Number of entries: 1491
 #
 local=/dyn.addr.tools/
 local=/changeip.co.uk/
@@ -204,6 +204,7 @@ local=/cleansite.info/
 local=/cleansite.us/
 local=/clickip.de/
 local=/clienturl.net/
+local=/cloud-ip.biz/
 local=/cloudns.asia/
 local=/cloudns.be/
 local=/cloudns.biz/
@@ -517,6 +518,7 @@ local=/feste-ip.net/
 local=/fin-tech.com/
 local=/fintech-llc.com/
 local=/fivepals.com/
+local=/flashhub.net/
 local=/flat4free.com/
 local=/flazzard.com/
 local=/flnet.org/
@@ -1332,6 +1334,7 @@ local=/sumibi.org/
 local=/sundby.com/
 local=/surak.kz/
 local=/surfnet.ca/
+local=/suroot.com/
 local=/swtest.ru/
 local=/syno-ds.de/
 local=/synology-diskstation.de/
@@ -1418,6 +1421,7 @@ local=/venez.net/
 local=/verymad.net/
 local=/viamisoftware.com/
 local=/vicp.cc/
+local=/vicp.net/
 local=/vietnamddns.com/
 local=/viewdns.net/
 local=/viiic.net/
