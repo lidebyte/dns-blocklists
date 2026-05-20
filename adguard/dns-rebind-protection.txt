@@ -32,6 +32,8 @@
 ! Host
 /^([a-z0-9\-]+\.)?(localhost|localdomain|ip6-localhost)$/
 ! Allow
+! Fritz!Box
 @@||fritz.box^
 @@||fritz.nas^
+! Microsoft Windows network status
 @@||dns.msftncsi.com^
