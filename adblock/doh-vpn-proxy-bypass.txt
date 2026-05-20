@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 20 May 2026 09:58 UTC
-! Version: 2026.0520.0958.43
+! Last modified: 20 May 2026 16:56 UTC
+! Version: 2026.0520.1656.35
 ! Syntax: AdBlock
-! Number of entries: 17412
+! Number of entries: 17414
 !
 ||ss.0001.xyz^
 ||ilovethiswebsite.001-lab.space^
@@ -7645,6 +7645,7 @@
 ||5c6349ef4335997128aa2cbf110959a8.top^
 ||5cojvd8ge.online^
 ||5fvfofc9f.online^
+||5mdvpn.ru^
 ||5noers.xyz^
 ||615ad0384e04cd707039f12eee38e280d18b3db5.com^
 ||62599ae90134ca5e1e6ccef7f0990ab3.top^
@@ -13642,6 +13643,7 @@
 ||northstreetumc.org^
 ||norvato.ru^
 ||norvixa.ru^
+||nostrvpn.org^
 ||notaproxy.xyz^
 ||notebooklamb.space^
 ||notely.lol^

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 May 2026 09:51 UTC
-# Version: 2026.0520.0951.20
+# Last modified: 20 May 2026 17:03 UTC
+# Version: 2026.0520.1703.30
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 49554
+# Number of entries: 49569
 #
 *.web-119bet-2025-google-vip-119bet.119-hello.com
 *.web-166betcom-vip-166betcc-166betvip-2025fa-east1.166tiger.com
@@ -9163,6 +9163,7 @@
 *.aceluxecasino.com
 *.acepoker.co
 *.acepoker-krasnodar.ru
+*.aco96.com
 *.acolourher.com
 *.acornfun.com
 *.acr.casino
@@ -9315,7 +9316,6 @@
 *.african-palace.casino
 *.afrobets365.com
 *.afrorushslots.site
-*.afroslots.com
 *.afrsportsbetting.com
 *.afslotsip.xyz
 *.afternooncasino.com
@@ -10078,7 +10078,6 @@
 *.asgardslots-casino-ca.com
 *.ashtangaparampara.org
 *.asia365.shop
-*.asia99app.store
 *.asiabet.club
 *.asiabet.one
 *.asiabet.org
@@ -10583,6 +10582,7 @@
 *.azino777games.casino
 *.azino777slots10.casino
 *.azino888casino213.online
+*.azlines.com
 *.aznbet.com
 *.aznbetcasino.com
 *.azontrack.com
@@ -13116,6 +13116,7 @@
 *.betzillo-casino.ltd
 *.betzillo-officialsite.casino
 *.betzillo3-official.casino
+*.betzillo5.com
 *.betzillo6-official.casino
 *.betzillocasino.app
 *.betzillocasino1.com
@@ -20937,6 +20938,7 @@
 *.cazimbocasino.co
 *.cazimbocasino-at.com
 *.cazino.ro
+*.cazino-bizzo.com
 *.cazinouri.info
 *.cbet.gg
 *.cbet.lt
@@ -20952,7 +20954,6 @@
 *.cbf369.com
 *.cbi.casino
 *.cbldc.io
-*.cblrgadmb.com
 *.cbpoker.team
 *.cc6casino.net
 *.cc6ph8.com
@@ -27181,6 +27182,7 @@
 *.hellspin.com
 *.hellspin-casino-play.com
 *.hellspin-x.com
+*.hellspin-zone.com
 *.hellspin139.com
 *.hellspin222.com
 *.hellspin36.com
@@ -28996,6 +28998,7 @@
 *.jackpotjill.xyz
 *.jackpotjill-casino.click
 *.jackpotjill-casino.lat
+*.jackpotjillvip.ai
 *.jackpotjoy.com
 *.jackpotjoycasino-online.com
 *.jackpotlandslots.com
@@ -29383,6 +29386,7 @@
 *.joefortune.fun
 *.joefortune-aus-casino.com
 *.joefortunecasino.best
+*.joefortunepokies.win
 *.joeypoker.com
 *.joga-casino.com
 *.jogabetsmz.com
@@ -29402,6 +29406,7 @@
 *.jogos365br.com
 *.jogossantacasa.pt
 *.jogovvv.vip
+*.johnniekashkings.me
 *.johnnybet.com
 *.johnnykash-casinos.com
 *.johnnyputt.com
@@ -29441,6 +29446,7 @@
 *.jokaroom-casinos.com
 *.jokaviproom.pro
 *.jokaviproom1.com
+*.jokaviproom21.com
 *.joker.lv
 *.joker.win
 *.joker-casino-at.com
@@ -31169,6 +31175,8 @@
 *.leon101.bet
 *.leon109.bet
 *.leon157.bet
+*.leon171.bet
+*.leon199.bet
 *.leon212.casino
 *.leon225.casino
 *.leon33.bet
@@ -33063,7 +33071,6 @@
 *.mega777.lol
 *.mega7s.com
 *.mega88.space
-*.mega888.ltd
 *.mega888malaysia.app
 *.megabestslots.top
 *.megabet-casino.ca
@@ -34407,6 +34414,7 @@
 *.nasigoreng.site
 *.nasijadibubur.com
 *.nat-casino.com
+*.natiocasino-luck.com
 *.natiocazino.com
 *.national-casino.app
 *.national-casino.com
@@ -39034,6 +39042,7 @@
 *.pokieslab1.com
 *.pokiesman.com
 *.pokiesman.net
+*.pokiesman1.net
 *.pokiespins.com
 *.pokiespros.com
 *.pola78.com
@@ -40663,6 +40672,7 @@
 *.rocketplay18.com
 *.rocketplay20.com
 *.rocketplay20casino.com
+*.rocketplay30.com
 *.rocketplayau.casino
 *.rocketplayaustralia.casino
 *.rocketplaycasino.best
@@ -40980,6 +40990,7 @@
 *.royalreels20casinos.club
 *.royalreels21.com
 *.royalreels21casinos.club
+*.royalreels22.com
 *.royalreels22casino.club
 *.royalreelscasino.top
 *.royalreelscasino.vip
@@ -44354,6 +44365,7 @@
 *.theclubhousecasino.com
 *.theclubhousecasino5.com
 *.theclubhousecasino7.com
+*.theclubhousecasino8.com
 *.theclubhousecasinosnz.com
 *.thecolumbiapartnership.org
 *.thecricketdraft.com
@@ -44421,6 +44433,7 @@
 *.thepokies-casino-aus.com
 *.thepokies10.net
 *.thepokies108.net
+*.thepokies119.net
 *.thepokies39.net
 *.thepokiesnet-119.casino
 *.thepokiesnet-casino.org
@@ -46209,6 +46222,7 @@
 *.vegastars-casinos-online-au.com
 *.vegastars-casinos-online-australia.com
 *.vegastars5.com
+*.vegastars7.com
 *.vegastarscasino.cc
 *.vegastarscasino.click
 *.vegastarscasino.live
@@ -47753,6 +47767,7 @@
 *.wildpharao.com
 *.wildpharaocasino.net
 *.wildpokertime.com
+*.wildpokies8.vip
 *.wildrobin.com
 *.wildrobin-canada.com
 *.wildrobin-casino.net

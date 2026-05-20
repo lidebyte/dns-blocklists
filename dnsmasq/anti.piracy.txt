@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 May 2026 09:51 UTC
-# Version: 2026.0520.0951.56
+# Last modified: 20 May 2026 16:57 UTC
+# Version: 2026.0520.1657.50
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12905
+# Number of entries: 12904
 #
 local=/hichemtigsetorgy.0fees.net/
 local=/tracker.0x7c0.com/
@@ -10662,7 +10662,6 @@ local=/sunnymovies.site/
 local=/sunonlinebd.com/
 local=/sunplex.net/
 local=/sunset-dragons.com/
-local=/sunsetline07.online/
 local=/sunveil63.live/
 local=/sunxdcc.com/
 local=/super-torrent.pl/

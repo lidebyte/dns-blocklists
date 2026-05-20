@@ -1351,6 +1351,13 @@
       }
     },
     {
+      "PK": "cnckitchen.store",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "cnyes.cool",
       "action": {
         "do": 1,
@@ -5349,13 +5356,6 @@
     },
     {
       "PK": "octopus.energy",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "oe24cdn.biz",
       "action": {
         "do": 1,
         "status": 1
