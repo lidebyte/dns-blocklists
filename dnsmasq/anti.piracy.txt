@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 May 2026 17:02 UTC
-# Version: 2026.0519.1702.20
+# Last modified: 20 May 2026 09:51 UTC
+# Version: 2026.0520.0951.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12906
+# Number of entries: 12905
 #
 local=/hichemtigsetorgy.0fees.net/
 local=/tracker.0x7c0.com/
@@ -1826,6 +1826,7 @@ local=/abcvg.info/
 local=/abibd.com/
 local=/abnctg.net/
 local=/abnzb.com/
+local=/abonnementiptv.fun/
 local=/aboutbeautifulgallopinghorsesinthegreenpasture.online/
 local=/abrase.beer/
 local=/abrokegamer.com/
@@ -7188,6 +7189,7 @@ local=/lookmovie2.la/
 local=/lookmovie2.site/
 local=/lookmovie2.to/
 local=/lookmoviess.com/
+local=/lorasoap.com/
 local=/lordfilm-2025.media/
 local=/lordfilm-black3.com/
 local=/lordfilmbdd.top/
@@ -7210,6 +7212,7 @@ local=/lostfilm.tv/
 local=/lostfilm5.org/
 local=/loudmovies.com/
 local=/loushao.net/
+local=/lov2day.com/
 local=/love-games1.net/
 local=/love-torrent.net/
 local=/lovemovie.org/
@@ -8199,6 +8202,7 @@ local=/naturalbd.com/
 local=/naturalbd.org/
 local=/naudios.com/
 local=/navegador.click/
+local=/nayamovies.net/
 local=/nbabite.com/
 local=/nbabite.to/
 local=/nbabitez.com/
@@ -8741,6 +8745,7 @@ local=/pinoymovieshub.tv/
 local=/pinoymovieshub.win/
 local=/pinoysflixtv.net/
 local=/pinoytorrents.net/
+local=/pioneersoap.com/
 local=/piraat.xyz/
 local=/piracy.guide/
 local=/piracyproxy.net/
@@ -11547,6 +11552,7 @@ local=/uafilm.tv/
 local=/uaflix.net/
 local=/uakino.club/
 local=/uakino.me/
+local=/uakino-bay.biz/
 local=/uakino-bay.net/
 local=/uakino-lu.com/
 local=/uakinogo.art/
@@ -12229,7 +12235,6 @@ local=/wareza.net/
 local=/warezaccess.com/
 local=/warezbox.com/
 local=/warezchristian.com/
-local=/warezcidayi.com/
 local=/warezcore.com/
 local=/warezcrack.net/
 local=/warezdownloads.info/
@@ -12267,7 +12272,6 @@ local=/wareztuga.ws/
 local=/warezturkey.org/
 local=/warezwitch.com/
 local=/warezworm.com/
-local=/warezws.com/
 local=/warindustries.com/
 local=/warlog.info/
 local=/warned.net/
@@ -12498,7 +12502,6 @@ local=/x360club.pw/
 local=/x4f7yww4ddr.com/
 local=/xalaflix.bet/
 local=/xalaflix.boutique/
-local=/xalaflix.design/
 local=/xalaflix.fitness/
 local=/xalaflix.garden/
 local=/xalaflix.in/
@@ -12656,13 +12659,11 @@ local=/yesmovies.vc/
 local=/yesmovies.vin/
 local=/yesmovies.vip/
 local=/yesmovies.world/
-local=/yesmovies.wtf/
 local=/yesmovies.zone/
 local=/yesnetcommunication.com/
 local=/yeyemo.info/
 local=/yflix.to/
 local=/ygg.gratis/
-local=/ygg.re/
 local=/yggleak.top/
 local=/yggtorrent.com/
 local=/yggtorrent.fi/
@@ -12692,7 +12693,6 @@ local=/ymovies.vip/
 local=/yoadobehekku.com/
 local=/yomovies.courses/
 local=/yomovies.health/
-local=/yomovies.pet/
 local=/yomovies.productions/
 local=/yomovies.technology/
 local=/yomovies.uno/
@@ -12814,7 +12814,6 @@ local=/zamunda.ch/
 local=/zamunda.net/
 local=/zamunda.se/
 local=/zaniob.com/
-local=/zarbbin.info/
 local=/zaycev.net/
 local=/zaypool.win/
 local=/zbigz.com/

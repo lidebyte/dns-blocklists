@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 19 May 2026 16:59 UTC
-! Version: 2026.0519.1659.54
+! Last modified: 20 May 2026 09:57 UTC
+! Version: 2026.0520.0957.55
 ! Syntax: AdBlock
-! Number of entries: 3437
+! Number of entries: 3430
 !
 ||ss.0001.xyz^
 ||ns.00dani.me^
@@ -2777,7 +2777,6 @@
 ||dns.volsap.ovh^
 ||adguard.vozersky.com^
 ||killads.vpms.xyz^
-||adguard.vpnkitakitsune.com^
 ||dns.vps.pw^
 ||45.32.17.58.vultrusercontent.com^
 ||solution.w10.life^
@@ -2820,7 +2819,6 @@
 ||doh.wewitro.net^
 ||doh-rs.whalebone.io^
 ||bwh.why4free.top^
-||dns.wibenson.cloud^
 ||dns1-secure.wifire.it^
 ||adguard.wifri.space^
 ||dns-1.wil.cloud^
@@ -2868,15 +2866,12 @@
 ||doh.xorlet.ru^
 ||adgh.xrossj.top^
 ||look.xshentx.org^
-||dns.xuann.my^
 ||dns.xuming.studio^
 ||dns.xusqui.com^
 ||dns.xv.fi^
-||dns.xwdmw.xyz^
 ||dns.xwu.us^
 ||v2.xx3210766.live^
 ||dns.xydustc.me^
-||v1.xylto.com^
 ||dns.y2f.xyz^
 ||dns.yameenassotally.com^
 ||2.dnscrypt-cert.browser.yandex.net^
@@ -2889,7 +2884,6 @@
 ||dns.yatima.tv^
 ||adguard.yavuztutcu.net^
 ||adguardhome.yavuztutcu.net^
-||lion.yazilimatolye.com^
 ||biba.ydns.eu^
 ||sg.yepdns.com^
 ||adguard.ygd.lol^
@@ -2915,7 +2909,6 @@
 ||httpdns.gslb.yy.com^
 ||dns.yyaan.com^
 ||dns.yyaan.top^
-||adg.yybyy.wiki^
 ||dns.daemon.za.net^
 ||adguard.zachitect.com^
 ||akylah.zapto.org^

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779210120 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779270660 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 19 May 2026 17:02 UTC
-; Version: 2026.0519.1702.20
+; Last modified: 20 May 2026 09:51 UTC
+; Version: 2026.0520.0951.56
 ; Syntax: RPZ
-; Number of entries: 25812
+; Number of entries: 25810
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -1112,6 +1112,8 @@ turktorrent.biz CNAME .
 *.turktorrent.biz CNAME .
 xcinemas.tvstream.biz CNAME .
 *.xcinemas.tvstream.biz CNAME .
+uakino-bay.biz CNAME .
+*.uakino-bay.biz CNAME .
 uhdmovies.biz CNAME .
 *.uhdmovies.biz CNAME .
 vidics.uproxy2.biz CNAME .
@@ -6188,6 +6190,8 @@ lookmovie.com CNAME .
 *.lookmovie.com CNAME .
 lookmoviess.com CNAME .
 *.lookmoviess.com CNAME .
+lorasoap.com CNAME .
+*.lorasoap.com CNAME .
 lordfilm-black3.com CNAME .
 *.lordfilm-black3.com CNAME .
 losmovies.com CNAME .
@@ -6196,6 +6200,8 @@ losslessclub.com CNAME .
 *.losslessclub.com CNAME .
 loudmovies.com CNAME .
 *.loudmovies.com CNAME .
+lov2day.com CNAME .
+*.lov2day.com CNAME .
 tracker01.loveapp.com CNAME .
 *.tracker01.loveapp.com CNAME .
 luckymodapk.com CNAME .
@@ -7136,6 +7142,8 @@ picktorrent.com CNAME .
 *.picktorrent.com CNAME .
 pig2pig.com CNAME .
 *.pig2pig.com CNAME .
+pioneersoap.com CNAME .
+*.pioneersoap.com CNAME .
 tv.pipexbd.com CNAME .
 *.tv.pipexbd.com CNAME .
 piratebay-mirrors.com CNAME .
@@ -8852,8 +8860,6 @@ warezbox.com CNAME .
 *.warezbox.com CNAME .
 warezchristian.com CNAME .
 *.warezchristian.com CNAME .
-warezcidayi.com CNAME .
-*.warezcidayi.com CNAME .
 warezcore.com CNAME .
 *.warezcore.com CNAME .
 warezfactor.com CNAME .
@@ -8890,8 +8896,6 @@ warezwitch.com CNAME .
 *.warezwitch.com CNAME .
 warezworm.com CNAME .
 *.warezworm.com CNAME .
-warezws.com CNAME .
-*.warezws.com CNAME .
 warindustries.com CNAME .
 *.warindustries.com CNAME .
 wat32.com CNAME .
@@ -9784,8 +9788,6 @@ cineblog01.delivery CNAME .
 *.cineblog01.delivery CNAME .
 coflix.design CNAME .
 *.coflix.design CNAME .
-xalaflix.design CNAME .
-*.xalaflix.design CNAME .
 aerolite.dev CNAME .
 *.aerolite.dev CNAME .
 animexin.dev CNAME .
@@ -10738,6 +10740,8 @@ vegamovies.frl CNAME .
 *.1337x.fun CNAME .
 9kmovies.fun CNAME .
 *.9kmovies.fun CNAME .
+abonnementiptv.fun CNAME .
+*.abonnementiptv.fun CNAME .
 acermovies.fun CNAME .
 *.acermovies.fun CNAME .
 actrue.fun CNAME .
@@ -12034,8 +12038,6 @@ xcine.info CNAME .
 *.xcine.info CNAME .
 yeyemo.info CNAME .
 *.yeyemo.info CNAME .
-zarbbin.info CNAME .
-*.zarbbin.info CNAME .
 zonestreaming.info CNAME .
 *.zonestreaming.info CNAME .
 rlsbb.unblockit.ing CNAME .
@@ -15576,6 +15578,8 @@ mytlinkbd.net CNAME .
 *.mytlinkbd.net CNAME .
 najnovije.net CNAME .
 *.najnovije.net CNAME .
+nayamovies.net CNAME .
+*.nayamovies.net CNAME .
 nedasabd.net CNAME .
 *.nedasabd.net CNAME .
 neefit.net CNAME .
@@ -19100,8 +19104,6 @@ vegamovies.pet CNAME .
 *.vegamovies.pet CNAME .
 xalaflix.pet CNAME .
 *.xalaflix.pet CNAME .
-yomovies.pet CNAME .
-*.yomovies.pet CNAME .
 altadefinizione.ph CNAME .
 *.altadefinizione.ph CNAME .
 demonoid.ph CNAME .
@@ -19970,8 +19972,6 @@ ngp.re CNAME .
 *.ngp.re CNAME .
 tpb.re CNAME .
 *.tpb.re CNAME .
-ygg.re CNAME .
-*.ygg.re CNAME .
 yts.re CNAME .
 *.yts.re CNAME .
 hdmovie2.realty CNAME .
@@ -25206,8 +25206,6 @@ u.wwwww.wtf CNAME .
 *.u.wwwww.wtf CNAME .
 w.wwwww.wtf CNAME .
 *.w.wwwww.wtf CNAME .
-yesmovies.wtf CNAME .
-*.yesmovies.wtf CNAME .
 9kmovies.xin CNAME .
 *.9kmovies.xin CNAME .
 annas-archive.xin CNAME .

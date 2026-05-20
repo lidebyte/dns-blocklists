@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 May 2026 16:59 UTC
-# Version: 2026.0519.1659.54
+# Last modified: 20 May 2026 09:57 UTC
+# Version: 2026.0520.0957.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3437
+# Number of entries: 3430
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -2776,7 +2776,6 @@ local=/httpdns.volcengineapi.com/
 local=/dns.volsap.ovh/
 local=/adguard.vozersky.com/
 local=/killads.vpms.xyz/
-local=/adguard.vpnkitakitsune.com/
 local=/dns.vps.pw/
 local=/45.32.17.58.vultrusercontent.com/
 local=/solution.w10.life/
@@ -2819,7 +2818,6 @@ local=/zhang.wenru.xyz/
 local=/doh.wewitro.net/
 local=/doh-rs.whalebone.io/
 local=/bwh.why4free.top/
-local=/dns.wibenson.cloud/
 local=/dns1-secure.wifire.it/
 local=/adguard.wifri.space/
 local=/dns-1.wil.cloud/
@@ -2867,15 +2865,12 @@ local=/dns.xlion.tw/
 local=/doh.xorlet.ru/
 local=/adgh.xrossj.top/
 local=/look.xshentx.org/
-local=/dns.xuann.my/
 local=/dns.xuming.studio/
 local=/dns.xusqui.com/
 local=/dns.xv.fi/
-local=/dns.xwdmw.xyz/
 local=/dns.xwu.us/
 local=/v2.xx3210766.live/
 local=/dns.xydustc.me/
-local=/v1.xylto.com/
 local=/dns.y2f.xyz/
 local=/dns.yameenassotally.com/
 local=/2.dnscrypt-cert.browser.yandex.net/
@@ -2888,7 +2883,6 @@ local=/agh-hetzner.yasirafique.com/
 local=/dns.yatima.tv/
 local=/adguard.yavuztutcu.net/
 local=/adguardhome.yavuztutcu.net/
-local=/lion.yazilimatolye.com/
 local=/biba.ydns.eu/
 local=/sg.yepdns.com/
 local=/adguard.ygd.lol/
@@ -2914,7 +2908,6 @@ local=/dns.yuzia.cc/
 local=/httpdns.gslb.yy.com/
 local=/dns.yyaan.com/
 local=/dns.yyaan.top/
-local=/adg.yybyy.wiki/
 local=/dns.daemon.za.net/
 local=/adguard.zachitect.com/
 local=/akylah.zapto.org/

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779209940 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779271020 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 19 May 2026 16:59 UTC
-; Version: 2026.0519.1659.54
+; Last modified: 20 May 2026 09:57 UTC
+; Version: 2026.0520.0957.55
 ; Syntax: RPZ
-; Number of entries: 6874
+; Number of entries: 6860
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -447,8 +447,6 @@ tls.vietguards.cloud CNAME .
 *.tls.vietguards.cloud CNAME .
 quadrogramma.vps.webdock.cloud CNAME .
 *.quadrogramma.vps.webdock.cloud CNAME .
-dns.wibenson.cloud CNAME .
-*.dns.wibenson.cloud CNAME .
 dns-1.wil.cloud CNAME .
 *.dns-1.wil.cloud CNAME .
 dns-2.wil.cloud CNAME .
@@ -1827,8 +1825,6 @@ httpdns.volcengineapi.com CNAME .
 *.httpdns.volcengineapi.com CNAME .
 adguard.vozersky.com CNAME .
 *.adguard.vozersky.com CNAME .
-adguard.vpnkitakitsune.com CNAME .
-*.adguard.vpnkitakitsune.com CNAME .
 45.32.17.58.vultrusercontent.com CNAME .
 *.45.32.17.58.vultrusercontent.com CNAME .
 wantaquddin.com CNAME .
@@ -1871,14 +1867,10 @@ xorbiadns.com CNAME .
 *.xorbiadns.com CNAME .
 dns.xusqui.com CNAME .
 *.dns.xusqui.com CNAME .
-v1.xylto.com CNAME .
-*.v1.xylto.com CNAME .
 dns.yameenassotally.com CNAME .
 *.dns.yameenassotally.com CNAME .
 agh-hetzner.yasirafique.com CNAME .
 *.agh-hetzner.yasirafique.com CNAME .
-lion.yazilimatolye.com CNAME .
-*.lion.yazilimatolye.com CNAME .
 sg.yepdns.com CNAME .
 *.sg.yepdns.com CNAME .
 adguard.youler.com CNAME .
@@ -3611,8 +3603,6 @@ shinano.anime.com.my CNAME .
 *.shinano.anime.com.my CNAME .
 cloud.securifi.com.my CNAME .
 *.cloud.securifi.com.my CNAME .
-dns.xuann.my CNAME .
-*.dns.xuann.my CNAME .
 iux3-s.cuiy4trg8fmosya2iip3ci.name CNAME .
 *.iux3-s.cuiy4trg8fmosya2iip3ci.name CNAME .
 domain.name CNAME .
@@ -6523,8 +6513,6 @@ zakaria.website CNAME .
 *.zakaria.website CNAME .
 urology.wiki CNAME .
 *.urology.wiki CNAME .
-adg.yybyy.wiki CNAME .
-*.adg.yybyy.wiki CNAME .
 dns.4-the.win CNAME .
 *.dns.4-the.win CNAME .
 webdav.cubecloud.win CNAME .
@@ -6865,8 +6853,6 @@ zhang.wenru.xyz CNAME .
 *.zhang.wenru.xyz CNAME .
 adguard.x88x.xyz CNAME .
 *.adguard.x88x.xyz CNAME .
-dns.xwdmw.xyz CNAME .
-*.dns.xwdmw.xyz CNAME .
 dns.y2f.xyz CNAME .
 *.dns.y2f.xyz CNAME .
 adguard.yuki2th.xyz CNAME .

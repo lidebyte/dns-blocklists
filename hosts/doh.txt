@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 May 2026 16:59 UTC
-# Version: 2026.0519.1659.54
+# Last modified: 20 May 2026 09:57 UTC
+# Version: 2026.0520.0957.55
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3898
+# Number of entries: 3891
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -3681,7 +3681,6 @@
 0.0.0.0 killads.vpms.xyz
 0.0.0.0 vpnhellings.nl
 0.0.0.0 www.vpnhellings.nl
-0.0.0.0 adguard.vpnkitakitsune.com
 0.0.0.0 dns.vps.pw
 0.0.0.0 vtcuong.site
 0.0.0.0 vuivn.site
@@ -3735,7 +3734,6 @@
 0.0.0.0 doh-rs.whalebone.io
 0.0.0.0 whatcaniplay.com
 0.0.0.0 bwh.why4free.top
-0.0.0.0 dns.wibenson.cloud
 0.0.0.0 dns1-secure.wifire.it
 0.0.0.0 adguard.wifri.space
 0.0.0.0 wikimedia-dns.org
@@ -3805,16 +3803,13 @@
 0.0.0.0 doh.xorlet.ru
 0.0.0.0 adgh.xrossj.top
 0.0.0.0 look.xshentx.org
-0.0.0.0 dns.xuann.my
 0.0.0.0 dns.xuming.studio
 0.0.0.0 dns.xusqui.com
 0.0.0.0 dns.xv.fi
-0.0.0.0 dns.xwdmw.xyz
 0.0.0.0 dns.xwu.us
 0.0.0.0 r7ws-poco-f3.dns.xwu.us
 0.0.0.0 v2.xx3210766.live
 0.0.0.0 dns.xydustc.me
-0.0.0.0 v1.xylto.com
 0.0.0.0 dns.y2f.xyz
 0.0.0.0 dns.yameenassotally.com
 0.0.0.0 2.dnscrypt-cert.browser.yandex.net
@@ -3832,7 +3827,6 @@
 0.0.0.0 dns.yatima.tv
 0.0.0.0 adguard.yavuztutcu.net
 0.0.0.0 adguardhome.yavuztutcu.net
-0.0.0.0 lion.yazilimatolye.com
 0.0.0.0 ychen.cf
 0.0.0.0 ychen.gq
 0.0.0.0 biba.ydns.eu
@@ -3866,7 +3860,6 @@
 0.0.0.0 httpdns.gslb.yy.com
 0.0.0.0 dns.yyaan.com
 0.0.0.0 dns.yyaan.top
-0.0.0.0 adg.yybyy.wiki
 0.0.0.0 dns.daemon.za.net
 0.0.0.0 zabolotskikh.dev
 0.0.0.0 adguard.zachitect.com

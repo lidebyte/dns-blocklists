@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779210060 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779266640 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 19 May 2026 17:01 UTC
-; Version: 2026.0519.1701.47
+; Last modified: 20 May 2026 08:44 UTC
+; Version: 2026.0520.0844.13
 ; Syntax: RPZ
-; Number of entries: 19834
+; Number of entries: 19832
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -7629,8 +7629,6 @@ whatconverts.com CNAME .
 *.whatconverts.com CNAME .
 whiteclickaffiliates.com CNAME .
 *.whiteclickaffiliates.com CNAME .
-go.wholeheartedrevolution.com CNAME .
-*.go.wholeheartedrevolution.com CNAME .
 wholesaletedgo.com CNAME .
 *.wholesaletedgo.com CNAME .
 whyiwu.com CNAME .
