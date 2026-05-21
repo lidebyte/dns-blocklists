@@ -42,6 +42,7 @@ deno.dev
 diary.to
 doorblog.jp
 dreamlog.jp
+dropbox.com
 editmysite.com
 emschwartz.me
 fc2.com
@@ -98,4 +99,3 @@ wix.com
 x10hosting.com
 xxxblog.jp
 youblog.jp
-dropbox.com

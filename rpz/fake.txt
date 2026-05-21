@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779297300 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779352920 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 20 May 2026 17:15 UTC
-; Version: 2026.0520.1715.25
+; Last modified: 21 May 2026 08:42 UTC
+; Version: 2026.0521.0842.22
 ; Syntax: RPZ
-; Number of entries: 31434
+; Number of entries: 31430
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -26,6 +26,8 @@ quantwise.ai CNAME .
 *.quantwise.ai CNAME .
 investir-dans-l-or.site.sitekick.ai CNAME .
 *.investir-dans-l-or.site.sitekick.ai CNAME .
+smartsolve.ai CNAME .
+*.smartsolve.ai CNAME .
 trading-floor.ai CNAME .
 *.trading-floor.ai CNAME .
 bitcore-momentum.app CNAME .
@@ -1064,8 +1066,6 @@ wienschmidt.at CNAME .
 *.wienschmidt.at CNAME .
 wimmer-boutique.at CNAME .
 *.wimmer-boutique.at CNAME .
-win2daycasino.at CNAME .
-*.win2daycasino.at CNAME .
 withingss.at CNAME .
 *.withingss.at CNAME .
 wonderskin.at CNAME .
@@ -11396,8 +11396,6 @@ malerbedarf-sales.com CNAME .
 *.malerbedarf-sales.com CNAME .
 mall-outdoors.com CNAME .
 *.mall-outdoors.com CNAME .
-mallorca-holidayhomes.com CNAME .
-*.mallorca-holidayhomes.com CNAME .
 mallorca-partner.com CNAME .
 *.mallorca-partner.com CNAME .
 mallstrade.com CNAME .
@@ -12806,6 +12804,8 @@ neot-capital.com CNAME .
 *.neot-capital.com CNAME .
 neotechix.com CNAME .
 *.neotechix.com CNAME .
+neptuneselectronics.com CNAME .
+*.neptuneselectronics.com CNAME .
 nesgesfinancemempoolexchange.com CNAME .
 *.nesgesfinancemempoolexchange.com CNAME .
 nestleovae.com CNAME .
@@ -15752,8 +15752,6 @@ seveninter.com CNAME .
 *.seveninter.com CNAME .
 seventeenk.com CNAME .
 *.seventeenk.com CNAME .
-sexicats.com CNAME .
-*.sexicats.com CNAME .
 sgtruffe.com CNAME .
 *.sgtruffe.com CNAME .
 shaarks.com CNAME .
@@ -27382,8 +27380,6 @@ meridianunitedholdingsnet.digital CNAME .
 *.meridianunitedholdingsnet.digital CNAME .
 prozesswerk.digital CNAME .
 *.prozesswerk.digital CNAME .
-rihilozavoradvisorynet.digital CNAME .
-*.rihilozavoradvisorynet.digital CNAME .
 skygarden.digital CNAME .
 *.skygarden.digital CNAME .
 zukunftspartner.digital CNAME .

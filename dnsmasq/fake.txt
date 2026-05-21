@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 May 2026 17:15 UTC
-# Version: 2026.0520.1715.25
+# Last modified: 21 May 2026 08:42 UTC
+# Version: 2026.0521.0842.22
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 15717
+# Number of entries: 15715
 #
 local=/eoutlet.2023shoponline.com/
 local=/trader.212group.de/
@@ -9018,7 +9018,6 @@ local=/malens-boutique.de/
 local=/malerbedarf-sales.com/
 local=/mall-outdoors.com/
 local=/mallof.shop/
-local=/mallorca-holidayhomes.com/
 local=/mallorca-partner.com/
 local=/mallstrade.com/
 local=/malojarabatt.com/
@@ -10055,6 +10054,7 @@ local=/neot-capital.com/
 local=/neotechix.com/
 local=/neowatt.shop/
 local=/neptun-media.de/
+local=/neptuneselectronics.com/
 local=/neroo.de/
 local=/nesgesfinancemempoolexchange.com/
 local=/neshno.de/
@@ -11996,7 +11996,6 @@ local=/riekerboutique.com/
 local=/riekeroutlet.at/
 local=/riekeroutlet.de/
 local=/riekerschuhe.at/
-local=/rihilozavoradvisorynet.digital/
 local=/riiokya.shop/
 local=/rileyheftman.shop/
 local=/rilladesjab.com/
@@ -12578,7 +12577,6 @@ local=/sevatrix.com/
 local=/sevenfiguresolar.com/
 local=/seveninter.com/
 local=/seventeenk.com/
-local=/sexicats.com/
 local=/sexpuppenkaufen.at/
 local=/seyjoy.shop/
 local=/seylab.shop/
@@ -12908,6 +12906,7 @@ local=/smartlightingshop.com/
 local=/smartmarket26.com/
 local=/smartpills.io/
 local=/smartplantivy.com/
+local=/smartsolve.ai/
 local=/smartsteamershop.com/
 local=/smartundgeizig.de/
 local=/smartwaerme.com/
@@ -15295,7 +15294,6 @@ local=/wilsonsquare.com/
 local=/wiltonsale.com/
 local=/wimmer-boutique.at/
 local=/wimpanistaeu.shop/
-local=/win2daycasino.at/
 local=/winandwine.com/
 local=/windyys.com/
 local=/wine-investments.com/

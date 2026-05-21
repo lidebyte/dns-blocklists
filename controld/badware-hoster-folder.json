@@ -29,20 +29,6 @@
       }
     },
     {
-      "PK": "000space.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "000webapp.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "000webhost.com",
       "action": {
         "do": 0,
@@ -71,35 +57,7 @@
       }
     },
     {
-      "PK": "000worldwide.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "00author.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "00freehost.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "00go.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "00it.com",
       "action": {
         "do": 0,
         "status": 1
@@ -120,13 +78,6 @@
       }
     },
     {
-      "PK": "07080900.xyz",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "0catch.com",
       "action": {
         "do": 0,
@@ -141,13 +92,6 @@
       }
     },
     {
-      "PK": "0fees.us",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "0hna.com",
       "action": {
         "do": 0,
@@ -156,13 +100,6 @@
     },
     {
       "PK": "0pe.kr",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "0pi.com",
       "action": {
         "do": 0,
         "status": 1
@@ -191,13 +128,6 @@
     },
     {
       "PK": "100webspace.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "10gbfreehost.com",
       "action": {
         "do": 0,
         "status": 1
@@ -239,13 +169,6 @@
       }
     },
     {
-      "PK": "128-199-7-137.cprapid.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "12n.de",
       "action": {
         "do": 0,
@@ -254,13 +177,6 @@
     },
     {
       "PK": "131.at",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "135.it",
       "action": {
         "do": 0,
         "status": 1
@@ -421,13 +337,6 @@
       }
     },
     {
-      "PK": "208-115-225-138.cprapid.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "20fr.com",
       "action": {
         "do": 0,
@@ -561,27 +470,6 @@
       }
     },
     {
-      "PK": "2kool4u.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "2shared.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "3-89-181-9.cprapid.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "310.at",
       "action": {
         "do": 0,
@@ -604,13 +492,6 @@
     },
     {
       "PK": "36f.de",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "3blogger.com",
       "action": {
         "do": 0,
         "status": 1
@@ -674,13 +555,6 @@
     },
     {
       "PK": "530.at",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "5gbfree.com",
       "action": {
         "do": 0,
         "status": 1
@@ -757,13 +631,6 @@
       }
     },
     {
-      "PK": "7m.pl",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "8.je",
       "action": {
         "do": 0,
@@ -800,13 +667,6 @@
     },
     {
       "PK": "989.at",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "9down.com",
       "action": {
         "do": 0,
         "status": 1
@@ -870,13 +730,6 @@
     },
     {
       "PK": "aba.ae",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "aba.vg",
       "action": {
         "do": 0,
         "status": 1
@@ -1016,28 +869,7 @@
       }
     },
     {
-      "PK": "ag0rcgwjv5.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "airset.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "al6.de",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "alavps.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1128,13 +960,6 @@
       }
     },
     {
-      "PK": "anonfile.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "anschauen.in",
       "action": {
         "do": 0,
@@ -1143,13 +968,6 @@
     },
     {
       "PK": "anschiessen.de",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "anyhub.net",
       "action": {
         "do": 0,
         "status": 1
@@ -1206,20 +1024,6 @@
     },
     {
       "PK": "atsnx.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "atspace.biz",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "atspace.co.uk",
       "action": {
         "do": 0,
         "status": 1
@@ -1296,13 +1100,6 @@
       }
     },
     {
-      "PK": "axifile.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "az.gp",
       "action": {
         "do": 0,
@@ -1338,21 +1135,7 @@
       }
     },
     {
-      "PK": "bandungberita.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "bappy.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "bayfiles.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1394,13 +1177,6 @@
       }
     },
     {
-      "PK": "bestsharing.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "betrunken.org",
       "action": {
         "do": 0,
@@ -1436,13 +1212,6 @@
       }
     },
     {
-      "PK": "billblett.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "biz.ly",
       "action": {
         "do": 0,
@@ -1458,20 +1227,6 @@
     },
     {
       "PK": "biz.tc",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blackapplehost.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blackblogs.org",
       "action": {
         "do": 0,
         "status": 1
@@ -1527,13 +1282,6 @@
       }
     },
     {
-      "PK": "blogspot.al",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "blogspot.am",
       "action": {
         "do": 0,
@@ -1555,21 +1303,7 @@
       }
     },
     {
-      "PK": "blogspot.bg",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "blogspot.ca",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.cf",
       "action": {
         "do": 0,
         "status": 1
@@ -1583,161 +1317,7 @@
       }
     },
     {
-      "PK": "blogspot.cl",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.cm",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.co",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.co.at",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.co.id",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.co.il",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.co.ke",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.co.nz",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.co.uk",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.co.za",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.com.ar",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.com.au",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.com.br",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.com.by",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.com.co",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.com.cy",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.com.ee",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.com.eg",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "blogspot.com.es",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.com.mt",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.com.ng",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.com.tr",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.com.uy",
       "action": {
         "do": 0,
         "status": 1
@@ -1793,35 +1373,7 @@
       }
     },
     {
-      "PK": "blogspot.hr",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.hu",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.ie",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "blogspot.in",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.is",
       "action": {
         "do": 0,
         "status": 1
@@ -1842,13 +1394,6 @@
       }
     },
     {
-      "PK": "blogspot.kr",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "blogspot.li",
       "action": {
         "do": 0,
@@ -1856,42 +1401,7 @@
       }
     },
     {
-      "PK": "blogspot.lt",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.lu",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.md",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.mk",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "blogspot.mx",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.my",
       "action": {
         "do": 0,
         "status": 1
@@ -1912,35 +1422,7 @@
       }
     },
     {
-      "PK": "blogspot.org",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.pe",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "blogspot.pt",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.qa",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.ro",
       "action": {
         "do": 0,
         "status": 1
@@ -1968,20 +1450,6 @@
       }
     },
     {
-      "PK": "blogspot.sg",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.si",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "blogspot.sk",
       "action": {
         "do": 0,
@@ -1997,13 +1465,6 @@
     },
     {
       "PK": "blogspot.tw",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.ug",
       "action": {
         "do": 0,
         "status": 1
@@ -2045,13 +1506,6 @@
       }
     },
     {
-      "PK": "bravesites.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "brizy.site",
       "action": {
         "do": 0,
@@ -2087,13 +1541,6 @@
       }
     },
     {
-      "PK": "business.site",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "bx5.de",
       "action": {
         "do": 0,
@@ -2122,21 +1569,7 @@
       }
     },
     {
-      "PK": "byethost13.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "byethost17.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "byethost18.com",
       "action": {
         "do": 0,
         "status": 1
@@ -2157,35 +1590,7 @@
       }
     },
     {
-      "PK": "byethost4.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "byethost5.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "byethost6.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "byethost7.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "byethost9.com",
       "action": {
         "do": 0,
         "status": 1
@@ -2220,42 +1625,7 @@
       }
     },
     {
-      "PK": "cabanova.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "cba.pl",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "cbkgardens.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "cellnovis.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "center.tl",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "cfw.me",
       "action": {
         "do": 0,
         "status": 1
@@ -2318,13 +1688,6 @@
       }
     },
     {
-      "PK": "citybios.sa.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "cixx6.com",
       "action": {
         "do": 0,
@@ -2333,13 +1696,6 @@
     },
     {
       "PK": "ciy.de",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "cjb.net",
       "action": {
         "do": 0,
         "status": 1
@@ -2396,13 +1752,6 @@
     },
     {
       "PK": "clandomain.org",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "clipser.com",
       "action": {
         "do": 0,
         "status": 1
@@ -2521,13 +1870,6 @@
       }
     },
     {
-      "PK": "conohawing.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "convertri.com",
       "action": {
         "do": 0,
@@ -2543,13 +1885,6 @@
     },
     {
       "PK": "cool.lc",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "coolfreepages.com",
       "action": {
         "do": 0,
         "status": 1
@@ -2591,13 +1926,6 @@
       }
     },
     {
-      "PK": "cryptonight.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "cs-clan.org",
       "action": {
         "do": 0,
@@ -2619,14 +1947,7 @@
       }
     },
     {
-      "PK": "ctempurl.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "cutedrive.com",
+      "PK": "cut.vin",
       "action": {
         "do": 0,
         "status": 1
@@ -2690,27 +2011,6 @@
     },
     {
       "PK": "daftpage.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "dailyuploads.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "dardarkom.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "dcr.sehlat.io",
       "action": {
         "do": 0,
         "status": 1
@@ -2815,20 +2115,6 @@
       }
     },
     {
-      "PK": "dimsolo.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "dinamikajambi.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "diowebhost.com",
       "action": {
         "do": 0,
@@ -2851,27 +2137,6 @@
     },
     {
       "PK": "dot.tk",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "dothome.co.kr",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "douploads.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "downfall.shop",
       "action": {
         "do": 0,
         "status": 1
@@ -2934,28 +2199,7 @@
       }
     },
     {
-      "PK": "duanwenzi.cn",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "dvd.lc",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "dweb.link",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "e-docssig.com",
       "action": {
         "do": 0,
         "status": 1
@@ -2977,13 +2221,6 @@
     },
     {
       "PK": "easyfreehosting.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "eb2a.com",
       "action": {
         "do": 0,
         "status": 1
@@ -3074,20 +2311,6 @@
       }
     },
     {
-      "PK": "ehaitao.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "electronicfiles.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "elementfx.com",
       "action": {
         "do": 0,
@@ -3103,13 +2326,6 @@
     },
     {
       "PK": "english.lc",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "entekpartners.com",
       "action": {
         "do": 0,
         "status": 1
@@ -3270,13 +2486,6 @@
       }
     },
     {
-      "PK": "event-redeem.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "events-games.com",
       "action": {
         "do": 0,
@@ -3284,14 +2493,14 @@
       }
     },
     {
-      "PK": "ewp.live",
+      "PK": "exactpages.com",
       "action": {
         "do": 0,
         "status": 1
       }
     },
     {
-      "PK": "exactpages.com",
+      "PK": "example-website.work.gd",
       "action": {
         "do": 0,
         "status": 1
@@ -3313,6 +2522,13 @@
     },
     {
       "PK": "f11.us",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "faceboook-app.com",
       "action": {
         "do": 0,
         "status": 1
@@ -3347,20 +2563,6 @@
       }
     },
     {
-      "PK": "fast-page.org",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "fastshare.org",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "fat-fly.com",
       "action": {
         "do": 0,
@@ -3382,35 +2584,7 @@
       }
     },
     {
-      "PK": "ferreracademy.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "fileave.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "filebin.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "filecache.de",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "filedropper.com",
       "action": {
         "do": 0,
         "status": 1
@@ -3424,21 +2598,7 @@
       }
     },
     {
-      "PK": "files.bz",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "filesusr.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "fileurls.com",
       "action": {
         "do": 0,
         "status": 1
@@ -3453,13 +2613,6 @@
     },
     {
       "PK": "financecryptoworld.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "firearms.com",
       "action": {
         "do": 0,
         "status": 1
@@ -3515,6 +2668,13 @@
       }
     },
     {
+      "PK": "fli.so",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "flirten.info",
       "action": {
         "do": 0,
@@ -3564,13 +2724,6 @@
       }
     },
     {
-      "PK": "forumil.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "fotos.lc",
       "action": {
         "do": 0,
@@ -3606,13 +2759,6 @@
       }
     },
     {
-      "PK": "freakshare.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "free.bizhat.com",
       "action": {
         "do": 0,
@@ -3635,20 +2781,6 @@
     },
     {
       "PK": "free.nf",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "freeasphost.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "freeblog.biz",
       "action": {
         "do": 0,
         "status": 1
@@ -3684,13 +2816,6 @@
     },
     {
       "PK": "freehostia.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "freehosting.cc",
       "action": {
         "do": 0,
         "status": 1
@@ -3907,28 +3032,7 @@
       }
     },
     {
-      "PK": "gamer.gd",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "gaming.lc",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "gearhostpreview.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "genblogger.com",
       "action": {
         "do": 0,
         "status": 1
@@ -3943,20 +3047,6 @@
     },
     {
       "PK": "getenjoyment.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "getfile.biz",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "getresponsesite.com",
       "action": {
         "do": 0,
         "status": 1
@@ -4019,13 +3109,6 @@
       }
     },
     {
-      "PK": "gr-site.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "gr.gp",
       "action": {
         "do": 0,
@@ -4034,6 +3117,13 @@
     },
     {
       "PK": "gr.kg",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "grabify.org",
       "action": {
         "do": 0,
         "status": 1
@@ -4068,13 +3158,6 @@
       }
     },
     {
-      "PK": "grwebsite.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "gt.tc",
       "action": {
         "do": 0,
@@ -4090,13 +3173,6 @@
     },
     {
       "PK": "guide.lc",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "guzhibo.cn",
       "action": {
         "do": 0,
         "status": 1
@@ -4152,13 +3228,6 @@
       }
     },
     {
-      "PK": "hinerava.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "home.lc",
       "action": {
         "do": 0,
@@ -4201,13 +3270,6 @@
       }
     },
     {
-      "PK": "hostfree.pw",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "hostingersite.com",
       "action": {
         "do": 0,
@@ -4230,13 +3292,6 @@
     },
     {
       "PK": "hot.lc",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "hotfile.com",
       "action": {
         "do": 0,
         "status": 1
@@ -4271,13 +3326,6 @@
       }
     },
     {
-      "PK": "hr-rewards.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "hst5.com",
       "action": {
         "do": 0,
@@ -4286,13 +3334,6 @@
     },
     {
       "PK": "html-5.me",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "htmlpasta.com",
       "action": {
         "do": 0,
         "status": 1
@@ -4334,13 +3375,6 @@
       }
     },
     {
-      "PK": "hyperphp.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "i.gp",
       "action": {
         "do": 0,
@@ -4349,13 +3383,6 @@
     },
     {
       "PK": "ibiz.cc",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "iblogger.org",
       "action": {
         "do": 0,
         "status": 1
@@ -4425,14 +3452,14 @@
       }
     },
     {
-      "PK": "imageurlhost.com",
+      "PK": "in.gp",
       "action": {
         "do": 0,
         "status": 1
       }
     },
     {
-      "PK": "in.gp",
+      "PK": "in.run",
       "action": {
         "do": 0,
         "status": 1
@@ -4461,13 +3488,6 @@
     },
     {
       "PK": "inbox24.org",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "infinityfree.me",
       "action": {
         "do": 0,
         "status": 1
@@ -4544,13 +3564,6 @@
       }
     },
     {
-      "PK": "inmotionhosting.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "instantfreesite.com",
       "action": {
         "do": 0,
@@ -4566,13 +3579,6 @@
     },
     {
       "PK": "internetsite.eu",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "intoupload.net",
       "action": {
         "do": 0,
         "status": 1
@@ -4614,20 +3620,6 @@
       }
     },
     {
-      "PK": "is-great.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "is-great.org",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "ishg.za.com",
       "action": {
         "do": 0,
@@ -4649,13 +3641,6 @@
       }
     },
     {
-      "PK": "it-security-group.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "it-support-group.com",
       "action": {
         "do": 0,
@@ -4663,21 +3648,7 @@
       }
     },
     {
-      "PK": "it.gg",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "it.gp",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "itheidiot.com",
       "action": {
         "do": 0,
         "status": 1
@@ -4705,13 +3676,6 @@
       }
     },
     {
-      "PK": "ixeo.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "j55.eu",
       "action": {
         "do": 0,
@@ -4727,20 +3691,6 @@
     },
     {
       "PK": "jcmemoryscan.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "jimdofree.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "jimdosite.com",
       "action": {
         "do": 0,
         "status": 1
@@ -4768,28 +3718,7 @@
       }
     },
     {
-      "PK": "joomla.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "jp.gp",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "jqw.de",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "jugem.cc",
       "action": {
         "do": 0,
         "status": 1
@@ -4818,13 +3747,6 @@
     },
     {
       "PK": "kann-helfen.de",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "kb.help",
       "action": {
         "do": 0,
         "status": 1
@@ -4908,13 +3830,6 @@
       }
     },
     {
-      "PK": "kr3w.de",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "kraftonevent.com",
       "action": {
         "do": 0,
@@ -4964,13 +3879,6 @@
       }
     },
     {
-      "PK": "l8n5kafm6l.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "laden.biz",
       "action": {
         "do": 0,
@@ -4986,13 +3894,6 @@
     },
     {
       "PK": "leechall.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "leetleech.org",
       "action": {
         "do": 0,
         "status": 1
@@ -5027,20 +3928,6 @@
       }
     },
     {
-      "PK": "likesyou.org",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "linkcyb.org",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "links.lc",
       "action": {
         "do": 0,
@@ -5049,13 +3936,6 @@
     },
     {
       "PK": "list-mgmt.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "littlebyte.net",
       "action": {
         "do": 0,
         "status": 1
@@ -5097,13 +3977,6 @@
       }
     },
     {
-      "PK": "loveslife.biz",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "lovestoblog.com",
       "action": {
         "do": 0,
@@ -5112,13 +3985,6 @@
     },
     {
       "PK": "loxblog.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "lspmr.org",
       "action": {
         "do": 0,
         "status": 1
@@ -5154,13 +4020,6 @@
     },
     {
       "PK": "ma.gp",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "macao.net",
       "action": {
         "do": 0,
         "status": 1
@@ -5230,21 +4089,7 @@
       }
     },
     {
-      "PK": "mediafirex.icu",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "medianewsonline.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "mega-debrid.eu",
       "action": {
         "do": 0,
         "status": 1
@@ -5265,28 +4110,7 @@
       }
     },
     {
-      "PK": "mirorii.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "mit-wenig-geld.de",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "mixh.jp",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "mixturecloud.com",
       "action": {
         "do": 0,
         "status": 1
@@ -5308,27 +4132,6 @@
     },
     {
       "PK": "mobile.web.tr",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "mobinteg.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "moneyash.top",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "moy.su",
       "action": {
         "do": 0,
         "status": 1
@@ -5370,13 +4173,6 @@
       }
     },
     {
-      "PK": "my-board.org",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "my-free.website",
       "action": {
         "do": 0,
@@ -5391,20 +4187,6 @@
       }
     },
     {
-      "PK": "my-style.in",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "my-webs.org",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "my.gp",
       "action": {
         "do": 0,
@@ -5412,35 +4194,7 @@
       }
     },
     {
-      "PK": "my1.ru",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "my3gb.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "myartsonline.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "mybb.pw",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "mybb.rocks",
       "action": {
         "do": 0,
         "status": 1
@@ -5476,13 +4230,6 @@
     },
     {
       "PK": "mycpanel.rs",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "mydiscussion.net",
       "action": {
         "do": 0,
         "status": 1
@@ -5539,27 +4286,6 @@
     },
     {
       "PK": "mystrikingly.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "mytempdir.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "mywebcommunity.org",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "mywebsitetransfer.com",
       "action": {
         "do": 0,
         "status": 1
@@ -5629,13 +4355,6 @@
       }
     },
     {
-      "PK": "netsons.org",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "netten.ru",
       "action": {
         "do": 0,
@@ -5651,13 +4370,6 @@
     },
     {
       "PK": "newmail.ru",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "nexgenelectricct.com",
       "action": {
         "do": 0,
         "status": 1
@@ -5734,13 +4446,6 @@
       }
     },
     {
-      "PK": "nsfera.pl",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "nut.cc",
       "action": {
         "do": 0,
@@ -5783,13 +4488,6 @@
       }
     },
     {
-      "PK": "okis.ru",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "omas.in",
       "action": {
         "do": 0,
@@ -5798,13 +4496,6 @@
     },
     {
       "PK": "on-air.de",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "on-fleek.app",
       "action": {
         "do": 0,
         "status": 1
@@ -5826,20 +4517,6 @@
     },
     {
       "PK": "one4u.0lx.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "onepage.me",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "onepage.website",
       "action": {
         "do": 0,
         "status": 1
@@ -5888,13 +4565,6 @@
       }
     },
     {
-      "PK": "onlineweb.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "onlinewebshop.net",
       "action": {
         "do": 0,
@@ -5917,13 +4587,6 @@
     },
     {
       "PK": "orgsites.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "over-blog.com",
       "action": {
         "do": 0,
         "status": 1
@@ -6077,13 +4740,6 @@
       }
     },
     {
-      "PK": "picvalley.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "piczo.com",
       "action": {
         "do": 0,
@@ -6154,20 +4810,6 @@
       }
     },
     {
-      "PK": "portmap.host",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "premiumbyleo.co.cc",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "preview-domain.com",
       "action": {
         "do": 0,
@@ -6218,13 +4860,6 @@
     },
     {
       "PK": "profreehost.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "prohosts.org",
       "action": {
         "do": 0,
         "status": 1
@@ -6287,13 +4922,6 @@
       }
     },
     {
-      "PK": "quiztionnaire.uk",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "r-e.kr",
       "action": {
         "do": 0,
@@ -6302,27 +4930,6 @@
     },
     {
       "PK": "r.gp",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "rapidshare.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "rapidshare.de",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "rapidshare.se",
       "action": {
         "do": 0,
         "status": 1
@@ -6441,13 +5048,6 @@
       }
     },
     {
-      "PK": "scienceontheweb.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "se.gp",
       "action": {
         "do": 0,
@@ -6462,13 +5062,6 @@
       }
     },
     {
-      "PK": "sebipay.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "securebankinggroup.com",
       "action": {
         "do": 0,
@@ -6477,13 +5070,6 @@
     },
     {
       "PK": "securebankinggroup.org",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "secureonline.store",
       "action": {
         "do": 0,
         "status": 1
@@ -6519,13 +5105,6 @@
     },
     {
       "PK": "seite77.de",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "sendspace.com",
       "action": {
         "do": 0,
         "status": 1
@@ -6616,28 +5195,7 @@
       }
     },
     {
-      "PK": "simdif.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "site.pro",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "site123.me",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "site44.com",
       "action": {
         "do": 0,
         "status": 1
@@ -6672,35 +5230,7 @@
       }
     },
     {
-      "PK": "skyrock.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "slwatch.co",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "sms.cr",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "social-networking.me",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "socialsmp.com",
       "action": {
         "do": 0,
         "status": 1
@@ -6714,13 +5244,6 @@
       }
     },
     {
-      "PK": "somee.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "sophiashantidaniel.com",
       "action": {
         "do": 0,
@@ -6728,21 +5251,7 @@
       }
     },
     {
-      "PK": "soup.io",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "space.lc",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "speed4up.net",
       "action": {
         "do": 0,
         "status": 1
@@ -6833,20 +5342,6 @@
       }
     },
     {
-      "PK": "supload.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "surfblocked.co.cc",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "surge.sh",
       "action": {
         "do": 0,
@@ -6862,13 +5357,6 @@
     },
     {
       "PK": "sviluppo.host",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "swtest.ru",
       "action": {
         "do": 0,
         "status": 1
@@ -6903,13 +5391,6 @@
       }
     },
     {
-      "PK": "talk4fun.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "te4m.de",
       "action": {
         "do": 0,
@@ -6932,27 +5413,6 @@
     },
     {
       "PK": "teamzonesports.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "tehno-politen.ru",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "tek-blogs.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "teleporthq.app",
       "action": {
         "do": 0,
         "status": 1
@@ -6988,13 +5448,6 @@
     },
     {
       "PK": "test.lc",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "testingnow.me",
       "action": {
         "do": 0,
         "status": 1
@@ -7050,13 +5503,6 @@
       }
     },
     {
-      "PK": "timeforchangecounselling.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "tld.cc",
       "action": {
         "do": 0,
@@ -7099,20 +5545,6 @@
       }
     },
     {
-      "PK": "totalh.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "toutbox.fr",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "tr.gp",
       "action": {
         "do": 0,
@@ -7148,13 +5580,6 @@
       }
     },
     {
-      "PK": "turbo.site",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "turkish.lc",
       "action": {
         "do": 0,
@@ -7183,13 +5608,6 @@
       }
     },
     {
-      "PK": "twilight.ws",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "u.gp",
       "action": {
         "do": 0,
@@ -7211,13 +5629,6 @@
       }
     },
     {
-      "PK": "ucoz.co.uk",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "ucoz.com",
       "action": {
         "do": 0,
@@ -7225,21 +5636,7 @@
       }
     },
     {
-      "PK": "ucoz.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "ucoz.ru",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ueuo.com",
       "action": {
         "do": 0,
         "status": 1
@@ -7281,42 +5678,7 @@
       }
     },
     {
-      "PK": "ultimatefreehost.in",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ultrashare.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "umbler.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "unaux.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "unblog.fr",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "universitriat.co.cc",
       "action": {
         "do": 0,
         "status": 1
@@ -7330,56 +5692,7 @@
       }
     },
     {
-      "PK": "uploadbox.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "uploadbuzz.cc",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "uploader.eu",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "uploadev.org",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "uploading.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "uploadjar.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "upsara.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "urest.org",
       "action": {
         "do": 0,
         "status": 1
@@ -7463,20 +5776,6 @@
       }
     },
     {
-      "PK": "vastserve.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "vdxh.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "ve.gp",
       "action": {
         "do": 0,
@@ -7491,21 +5790,7 @@
       }
     },
     {
-      "PK": "veritafinancebank.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "verkniffen.de",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "vidcloud.co",
       "action": {
         "do": 0,
         "status": 1
@@ -7527,6 +5812,13 @@
     },
     {
       "PK": "vn.gp",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "vn.run",
       "action": {
         "do": 0,
         "status": 1
@@ -7575,28 +5867,7 @@
       }
     },
     {
-      "PK": "wapka.club",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "wapka.site",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "wapka.store",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "wapka.top",
       "action": {
         "do": 0,
         "status": 1
@@ -7632,13 +5903,6 @@
     },
     {
       "PK": "web.pe",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "web99.eu",
       "action": {
         "do": 0,
         "status": 1
@@ -7701,56 +5965,7 @@
       }
     },
     {
-      "PK": "weblium.site",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "webnode.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "webnode.com.pt",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "webnode.cr",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "webnode.es",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "webnode.gr",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "webnode.page",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "webobo.com",
       "action": {
         "do": 0,
         "status": 1
@@ -7765,13 +5980,6 @@
     },
     {
       "PK": "webs.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "webservis.ru",
       "action": {
         "do": 0,
         "status": 1
@@ -7848,21 +6056,7 @@
       }
     },
     {
-      "PK": "wikiupload.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "will-dich.eu",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "work.gd",
       "action": {
         "do": 0,
         "status": 1
@@ -7884,13 +6078,6 @@
     },
     {
       "PK": "world.mu",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "wox.cc",
       "action": {
         "do": 0,
         "status": 1
@@ -7932,13 +6119,6 @@
       }
     },
     {
-      "PK": "wy5532.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "x.gp",
       "action": {
         "do": 0,
@@ -7947,13 +6127,6 @@
     },
     {
       "PK": "x10.bz",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "x10.mx",
       "action": {
         "do": 0,
         "status": 1
@@ -7988,13 +6161,6 @@
       }
     },
     {
-      "PK": "xl8.eu",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "xml.in",
       "action": {
         "do": 0,
@@ -8003,27 +6169,6 @@
     },
     {
       "PK": "xo.je",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "xp3.biz",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "xsl.tel",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "xsltel.com",
       "action": {
         "do": 0,
         "status": 1
@@ -8086,13 +6231,6 @@
       }
     },
     {
-      "PK": "ygrrvlvvgf.top",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "yi.org",
       "action": {
         "do": 0,
@@ -8135,13 +6273,6 @@
       }
     },
     {
-      "PK": "yuichi.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "z.gp",
       "action": {
         "do": 0,
@@ -8164,34 +6295,6 @@
     },
     {
       "PK": "zapier.app",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "zeabur.app",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ziddu.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "zip.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "zohosites.com",
       "action": {
         "do": 0,
         "status": 1
@@ -8227,13 +6330,6 @@
     },
     {
       "PK": "zymic.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "zyrosite.com",
       "action": {
         "do": 0,
         "status": 1

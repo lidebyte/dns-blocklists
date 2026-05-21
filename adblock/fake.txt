@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 20 May 2026 17:15 UTC
-! Version: 2026.0520.1715.25
+! Last modified: 21 May 2026 08:42 UTC
+! Version: 2026.0521.0842.22
 ! Syntax: AdBlock
-! Number of entries: 15717
+! Number of entries: 15715
 !
 ||eoutlet.2023shoponline.com^
 ||trader.212group.de^
@@ -9019,7 +9019,6 @@
 ||malerbedarf-sales.com^
 ||mall-outdoors.com^
 ||mallof.shop^
-||mallorca-holidayhomes.com^
 ||mallorca-partner.com^
 ||mallstrade.com^
 ||malojarabatt.com^
@@ -10056,6 +10055,7 @@
 ||neotechix.com^
 ||neowatt.shop^
 ||neptun-media.de^
+||neptuneselectronics.com^
 ||neroo.de^
 ||nesgesfinancemempoolexchange.com^
 ||neshno.de^
@@ -11997,7 +11997,6 @@
 ||riekeroutlet.at^
 ||riekeroutlet.de^
 ||riekerschuhe.at^
-||rihilozavoradvisorynet.digital^
 ||riiokya.shop^
 ||rileyheftman.shop^
 ||rilladesjab.com^
@@ -12579,7 +12578,6 @@
 ||sevenfiguresolar.com^
 ||seveninter.com^
 ||seventeenk.com^
-||sexicats.com^
 ||sexpuppenkaufen.at^
 ||seyjoy.shop^
 ||seylab.shop^
@@ -12909,6 +12907,7 @@
 ||smartmarket26.com^
 ||smartpills.io^
 ||smartplantivy.com^
+||smartsolve.ai^
 ||smartsteamershop.com^
 ||smartundgeizig.de^
 ||smartwaerme.com^
@@ -15296,7 +15295,6 @@
 ||wiltonsale.com^
 ||wimmer-boutique.at^
 ||wimpanistaeu.shop^
-||win2daycasino.at^
 ||winandwine.com^
 ||windyys.com^
 ||wine-investments.com^
