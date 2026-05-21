@@ -337,13 +337,6 @@
       }
     },
     {
-      "PK": "1fichier.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "1freewebspace.com",
       "action": {
         "do": 0,
@@ -673,20 +666,6 @@
       }
     },
     {
-      "PK": "4shared.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "4sync.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "4u2.de",
       "action": {
         "do": 0,
@@ -974,13 +953,6 @@
       }
     },
     {
-      "PK": "abload.de",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "about.lc",
       "action": {
         "do": 0,
@@ -1030,13 +1002,6 @@
       }
     },
     {
-      "PK": "adrive.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "aeza.network",
       "action": {
         "do": 0,
@@ -1073,13 +1038,6 @@
     },
     {
       "PK": "alavps.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "alfafile.net",
       "action": {
         "do": 0,
         "status": 1
@@ -1416,13 +1374,6 @@
     },
     {
       "PK": "begins.de",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "behance.net",
       "action": {
         "do": 0,
         "status": 1
@@ -2360,13 +2311,6 @@
       }
     },
     {
-      "PK": "chomikuj.pl",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "city.tl",
       "action": {
         "do": 0,
@@ -2452,13 +2396,6 @@
     },
     {
       "PK": "clandomain.org",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "cld.pt",
       "action": {
         "do": 0,
         "status": 1
@@ -2773,13 +2710,6 @@
       }
     },
     {
-      "PK": "datanodes.to",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "dcr.sehlat.io",
       "action": {
         "do": 0,
@@ -2998,27 +2928,6 @@
     },
     {
       "PK": "drivehq.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "dropapk.to",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "dropbox.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "dropboxusercontent.com",
       "action": {
         "do": 0,
         "status": 1
@@ -3389,13 +3298,6 @@
       }
     },
     {
-      "PK": "exbyte.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "ez-sites.ws",
       "action": {
         "do": 0,
@@ -3473,13 +3375,6 @@
       }
     },
     {
-      "PK": "fboom.me",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "fcpages.com",
       "action": {
         "do": 0,
@@ -3515,13 +3410,6 @@
       }
     },
     {
-      "PK": "filedn.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "filedropper.com",
       "action": {
         "do": 0,
@@ -3543,28 +3431,7 @@
       }
     },
     {
-      "PK": "files.catbox.moe",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "files.fm",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "filesusr.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "filetransfer.io",
       "action": {
         "do": 0,
         "status": 1
@@ -3977,13 +3844,6 @@
       }
     },
     {
-      "PK": "fromsmash.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "ftp.totallyanonymous.com",
       "action": {
         "do": 0,
@@ -4139,13 +3999,6 @@
     },
     {
       "PK": "godaddysites.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "gofile.io",
       "action": {
         "do": 0,
         "status": 1
@@ -4355,13 +4208,6 @@
       }
     },
     {
-      "PK": "hosting-test.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "hostingersite.com",
       "action": {
         "do": 0,
@@ -4390,21 +4236,7 @@
       }
     },
     {
-      "PK": "hotchyx.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "hotfile.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "hotlinkfiles.com",
       "action": {
         "do": 0,
         "status": 1
@@ -4516,13 +4348,6 @@
       }
     },
     {
-      "PK": "ibb.co",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "ibiz.cc",
       "action": {
         "do": 0,
@@ -4601,13 +4426,6 @@
     },
     {
       "PK": "imageurlhost.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "imgur.com",
       "action": {
         "do": 0,
         "status": 1
@@ -5104,13 +4922,6 @@
       }
     },
     {
-      "PK": "krakenfiles.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "kulichki.net",
       "action": {
         "do": 0,
@@ -5189,13 +5000,6 @@
     },
     {
       "PK": "lernt.de",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "letitbit.net",
       "action": {
         "do": 0,
         "status": 1
@@ -5426,13 +5230,6 @@
       }
     },
     {
-      "PK": "mediafire.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "mediafirex.icu",
       "action": {
         "do": 0,
@@ -5454,13 +5251,6 @@
       }
     },
     {
-      "PK": "megaup.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "members.domaindlx.com",
       "action": {
         "do": 0,
@@ -5469,13 +5259,6 @@
     },
     {
       "PK": "merchats.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "mexa.sh",
       "action": {
         "do": 0,
         "status": 1
@@ -6280,13 +6063,6 @@
       }
     },
     {
-      "PK": "photobucket.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "photos.lc",
       "action": {
         "do": 0,
@@ -6526,13 +6302,6 @@
     },
     {
       "PK": "r.gp",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "rapidgator.net",
       "action": {
         "do": 0,
         "status": 1
@@ -7232,13 +7001,6 @@
       }
     },
     {
-      "PK": "tezfiles.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "tggame.xyz",
       "action": {
         "do": 0,
@@ -7254,13 +7016,6 @@
     },
     {
       "PK": "thamboli.co.za",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "thefreesite.com",
       "action": {
         "do": 0,
         "status": 1
@@ -7366,20 +7121,6 @@
     },
     {
       "PK": "trackfinanceworld.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "transfer.sh",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "transfernow.net",
       "action": {
         "do": 0,
         "status": 1
@@ -7540,13 +7281,6 @@
       }
     },
     {
-      "PK": "uloz.to",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "ultimatefreehost.in",
       "action": {
         "do": 0,
@@ -7604,13 +7338,6 @@
     },
     {
       "PK": "uploadbuzz.cc",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "uploaded.to",
       "action": {
         "do": 0,
         "status": 1
@@ -7785,13 +7512,6 @@
       }
     },
     {
-      "PK": "vidoza.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "virtue.nu",
       "action": {
         "do": 0,
@@ -7884,13 +7604,6 @@
     },
     {
       "PK": "wapka.website",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "we.tl",
       "action": {
         "do": 0,
         "status": 1
@@ -8156,13 +7869,6 @@
       }
     },
     {
-      "PK": "workupload.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "world-blog.de",
       "action": {
         "do": 0,
@@ -8283,13 +7989,6 @@
     },
     {
       "PK": "xl8.eu",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "xmages.net",
       "action": {
         "do": 0,
         "status": 1

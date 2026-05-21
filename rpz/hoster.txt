@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779325380 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779335940 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 21 May 2026 01:03 UTC
-; Version: 2026.0521.0103.32
+; Last modified: 21 May 2026 03:59 UTC
+; Version: 2026.0521.0359.14
 ; Syntax: RPZ
-; Number of entries: 2440
+; Number of entries: 2354
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -212,8 +212,6 @@ blogspot.com.co CNAME .
 *.blogspot.com.co CNAME .
 fleek.co CNAME .
 *.fleek.co CNAME .
-ibb.co CNAME .
-*.ibb.co CNAME .
 pagedemo.co CNAME .
 *.pagedemo.co CNAME .
 slwatch.co CNAME .
@@ -274,8 +272,6 @@ vidcloud.co CNAME .
 *.1asphost.com CNAME .
 1colony.com CNAME .
 *.1colony.com CNAME .
-1fichier.com CNAME .
-*.1fichier.com CNAME .
 1freewebspace.com CNAME .
 *.1freewebspace.com CNAME .
 1hwy.com CNAME .
@@ -296,10 +292,6 @@ vidcloud.co CNAME .
 *.3blogger.com CNAME .
 42t.com CNAME .
 *.42t.com CNAME .
-4shared.com CNAME .
-*.4shared.com CNAME .
-4sync.com CNAME .
-*.4sync.com CNAME .
 5gbfree.com CNAME .
 *.5gbfree.com CNAME .
 66ghz.com CNAME .
@@ -314,8 +306,6 @@ vidcloud.co CNAME .
 *.9k.com CNAME .
 admarketlocation.com CNAME .
 *.admarketlocation.com CNAME .
-adrive.com CNAME .
-*.adrive.com CNAME .
 ag0rcgwjv5.com CNAME .
 *.ag0rcgwjv5.com CNAME .
 airset.com CNAME .
@@ -458,10 +448,6 @@ dreamstation.com CNAME .
 *.dreamstation.com CNAME .
 drivehq.com CNAME .
 *.drivehq.com CNAME .
-dropbox.com CNAME .
-*.dropbox.com CNAME .
-dropboxusercontent.com CNAME .
-*.dropboxusercontent.com CNAME .
 e-docssig.com CNAME .
 *.e-docssig.com CNAME .
 easyfreehosting.com CNAME .
@@ -514,8 +500,6 @@ ferreracademy.com CNAME .
 *.ferreracademy.com CNAME .
 fileave.com CNAME .
 *.fileave.com CNAME .
-filedn.com CNAME .
-*.filedn.com CNAME .
 filedropper.com CNAME .
 *.filedropper.com CNAME .
 filelu.com CNAME .
@@ -578,8 +562,6 @@ freightinternationalservices.com CNAME .
 *.freightinternationalservices.com CNAME .
 friendcircles.com CNAME .
 *.friendcircles.com CNAME .
-fromsmash.com CNAME .
-*.fromsmash.com CNAME .
 gearhostpreview.com CNAME .
 *.gearhostpreview.com CNAME .
 genblogger.com CNAME .
@@ -612,12 +594,8 @@ hostingersite.com CNAME .
 *.hostingersite.com CNAME .
 hostingsiteforfree.com CNAME .
 *.hostingsiteforfree.com CNAME .
-hotchyx.com CNAME .
-*.hotchyx.com CNAME .
 hotfile.com CNAME .
 *.hotfile.com CNAME .
-hotlinkfiles.com CNAME .
-*.hotlinkfiles.com CNAME .
 hpage.com CNAME .
 *.hpage.com CNAME .
 hr-organization.com CNAME .
@@ -638,8 +616,6 @@ iceiy.com CNAME .
 *.iceiy.com CNAME .
 imageurlhost.com CNAME .
 *.imageurlhost.com CNAME .
-imgur.com CNAME .
-*.imgur.com CNAME .
 infinityfreeapp.com CNAME .
 *.infinityfreeapp.com CNAME .
 inmotionhosting.com CNAME .
@@ -678,8 +654,6 @@ kiluweb.com CNAME .
 *.kiluweb.com CNAME .
 kraftonevent.com CNAME .
 *.kraftonevent.com CNAME .
-krakenfiles.com CNAME .
-*.krakenfiles.com CNAME .
 leaguelineup.com CNAME .
 *.leaguelineup.com CNAME .
 leechall.com CNAME .
@@ -704,8 +678,6 @@ mashstaffing.com CNAME .
 *.mashstaffing.com CNAME .
 me-page.com CNAME .
 *.me-page.com CNAME .
-mediafire.com CNAME .
-*.mediafire.com CNAME .
 medianewsonline.com CNAME .
 *.medianewsonline.com CNAME .
 merchats.com CNAME .
@@ -766,8 +738,6 @@ pcriot.com CNAME .
 *.pcriot.com CNAME .
 peraichi.com CNAME .
 *.peraichi.com CNAME .
-photobucket.com CNAME .
-*.photobucket.com CNAME .
 piczo.com CNAME .
 *.piczo.com CNAME .
 preview-domain.com CNAME .
@@ -834,10 +804,6 @@ tek-blogs.com CNAME .
 *.tek-blogs.com CNAME .
 tempisite.com CNAME .
 *.tempisite.com CNAME .
-tezfiles.com CNAME .
-*.tezfiles.com CNAME .
-thefreesite.com CNAME .
-*.thefreesite.com CNAME .
 timeforchangecounselling.com CNAME .
 *.timeforchangecounselling.com CNAME .
 top8.com CNAME .
@@ -910,8 +876,6 @@ weeblysite.com CNAME .
 *.weeblysite.com CNAME .
 wikiupload.com CNAME .
 *.wikiupload.com CNAME .
-workupload.com CNAME .
-*.workupload.com CNAME .
 wtcsites.com CNAME .
 *.wtcsites.com CNAME .
 wuaze.com CNAME .
@@ -1046,8 +1010,6 @@ abhauen.de CNAME .
 *.abhauen.de CNAME .
 abklappern.de CNAME .
 *.abklappern.de CNAME .
-abload.de CNAME .
-*.abload.de CNAME .
 absorbiert.de CNAME .
 *.absorbiert.de CNAME .
 abstellen.de CNAME .
@@ -1322,8 +1284,6 @@ y55.eu CNAME .
 *.y55.eu CNAME .
 blogspot.fi CNAME .
 *.blogspot.fi CNAME .
-files.fm CNAME .
-*.files.fm CNAME .
 shop.fm CNAME .
 *.shop.fm CNAME .
 000webhost.fr CNAME .
@@ -1606,10 +1566,6 @@ boxmode.io CNAME .
 *.boxmode.io CNAME .
 craftum.io CNAME .
 *.craftum.io CNAME .
-filetransfer.io CNAME .
-*.filetransfer.io CNAME .
-gofile.io CNAME .
-*.gofile.io CNAME .
 mdbgo.io CNAME .
 *.mdbgo.io CNAME .
 nip.io CNAME .
@@ -1818,8 +1774,6 @@ blogspot.md CNAME .
 *.blogspot.md CNAME .
 cfw.me CNAME .
 *.cfw.me CNAME .
-fboom.me CNAME .
-*.fboom.me CNAME .
 freeweb.me CNAME .
 *.freeweb.me CNAME .
 glitch.me CNAME .
@@ -1858,8 +1812,6 @@ clan.mn CNAME .
 *.clan.mn CNAME .
 muf.mobi CNAME .
 *.muf.mobi CNAME .
-files.catbox.moe CNAME .
-*.files.catbox.moe CNAME .
 blogspot.com.mt CNAME .
 *.blogspot.com.mt CNAME .
 24.mu CNAME .
@@ -1884,12 +1836,8 @@ one4u.0lx.net CNAME .
 *.2kool4u.net CNAME .
 6te.net CNAME .
 *.6te.net CNAME .
-alfafile.net CNAME .
-*.alfafile.net CNAME .
 anyhub.net CNAME .
 *.anyhub.net CNAME .
-behance.net CNAME .
-*.behance.net CNAME .
 bigheadhosting.net CNAME .
 *.bigheadhosting.net CNAME .
 builderall.net CNAME .
@@ -1912,8 +1860,6 @@ electronicfiles.net CNAME .
 *.electronicfiles.net CNAME .
 eu5.net CNAME .
 *.eu5.net CNAME .
-exbyte.net CNAME .
-*.exbyte.net CNAME .
 filebin.net CNAME .
 *.filebin.net CNAME .
 flashbuilder.net CNAME .
@@ -1930,8 +1876,6 @@ graffiti.net CNAME .
 *.graffiti.net CNAME .
 great-site.net CNAME .
 *.great-site.net CNAME .
-hosting-test.net CNAME .
-*.hosting-test.net CNAME .
 hotshare.net CNAME .
 *.hotshare.net CNAME .
 inbox24.net CNAME .
@@ -1950,14 +1894,10 @@ kulichki.net CNAME .
 *.kulichki.net CNAME .
 l8n5kafm6l.net CNAME .
 *.l8n5kafm6l.net CNAME .
-letitbit.net CNAME .
-*.letitbit.net CNAME .
 littlebyte.net CNAME .
 *.littlebyte.net CNAME .
 macao.net CNAME .
 *.macao.net CNAME .
-megaup.net CNAME .
-*.megaup.net CNAME .
 mydiscussion.net CNAME .
 *.mydiscussion.net CNAME .
 myeweb.net CNAME .
@@ -1974,8 +1914,6 @@ pktriot.net CNAME .
 *.pktriot.net CNAME .
 ql4h.net CNAME .
 *.ql4h.net CNAME .
-rapidgator.net CNAME .
-*.rapidgator.net CNAME .
 scienceontheweb.net CNAME .
 *.scienceontheweb.net CNAME .
 serv00.net CNAME .
@@ -1990,8 +1928,6 @@ talk4fun.net CNAME .
 *.talk4fun.net CNAME .
 totalh.net CNAME .
 *.totalh.net CNAME .
-transfernow.net CNAME .
-*.transfernow.net CNAME .
 twc1.net CNAME .
 *.twc1.net CNAME .
 ucoz.net CNAME .
@@ -2000,14 +1936,10 @@ ultrashare.net CNAME .
 *.ultrashare.net CNAME .
 umbler.net CNAME .
 *.umbler.net CNAME .
-vidoza.net CNAME .
-*.vidoza.net CNAME .
 vollidiot.net CNAME .
 *.vollidiot.net CNAME .
 x90x.net CNAME .
 *.x90x.net CNAME .
-xmages.net CNAME .
-*.xmages.net CNAME .
 yourfreehosting.net CNAME .
 *.yourfreehosting.net CNAME .
 zip.net CNAME .
@@ -2154,8 +2086,6 @@ c.pl CNAME .
 *.c.pl CNAME .
 cba.pl CNAME .
 *.cba.pl CNAME .
-chomikuj.pl CNAME .
-*.chomikuj.pl CNAME .
 ct8.pl CNAME .
 *.ct8.pl CNAME .
 ddl2.pl CNAME .
@@ -2180,8 +2110,6 @@ mobi.ps CNAME .
 *.mobi.ps CNAME .
 blogspot.pt CNAME .
 *.blogspot.pt CNAME .
-cld.pt CNAME .
-*.cld.pt CNAME .
 webnode.com.pt CNAME .
 *.webnode.com.pt CNAME .
 hostfree.pw CNAME .
@@ -2262,14 +2190,10 @@ blogspot.sg CNAME .
 *.blogspot.sg CNAME .
 download.sh CNAME .
 *.download.sh CNAME .
-mexa.sh CNAME .
-*.mexa.sh CNAME .
 perl.sh CNAME .
 *.perl.sh CNAME .
 surge.sh CNAME .
 *.surge.sh CNAME .
-transfer.sh CNAME .
-*.transfer.sh CNAME .
 downfall.shop CNAME .
 *.downfall.shop CNAME .
 onlineweb.shop CNAME .
@@ -2358,18 +2282,8 @@ server.tl CNAME .
 *.server.tl CNAME .
 team.tl CNAME .
 *.team.tl CNAME .
-we.tl CNAME .
-*.we.tl CNAME .
 welt.tl CNAME .
 *.welt.tl CNAME .
-datanodes.to CNAME .
-*.datanodes.to CNAME .
-dropapk.to CNAME .
-*.dropapk.to CNAME .
-uloz.to CNAME .
-*.uloz.to CNAME .
-uploaded.to CNAME .
-*.uploaded.to CNAME .
 moneyash.top CNAME .
 *.moneyash.top CNAME .
 pl-oferta-id2387942371.top CNAME .
