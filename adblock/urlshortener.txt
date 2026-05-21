@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 20 May 2026 08:44 UTC
-! Version: 2026.0520.0844.13
+! Last modified: 21 May 2026 00:33 UTC
+! Version: 2026.0521.0033.39
 ! Syntax: AdBlock
-! Number of entries: 9916
+! Number of entries: 9918
 !
 ||a.189.cn^
 ||t.2merkato.com^
@@ -1057,6 +1057,7 @@
 ||23conmuc.live^
 ||247superhost.com^
 ||24link.ir^
+||24ml.de^
 ||24sevensocial.com^
 ||260web.com^
 ||263.vn^
@@ -6538,6 +6539,7 @@
 ||q8at.link^
 ||qain.si^
 ||qartvb.com^
+||qaza.info^
 ||qb.dk^
 ||qb9.in^
 ||qbn.ru^

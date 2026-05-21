@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 20 May 2026 08:44 UTC
-! Version: 2026.0520.0844.13
+! Last modified: 21 May 2026 00:33 UTC
+! Version: 2026.0521.0033.39
 ! Syntax: AdBlock
 !
 @@||a.189.cn^
@@ -1050,6 +1050,7 @@
 @@||23conmuc.live^
 @@||247superhost.com^
 @@||24link.ir^
+@@||24ml.de^
 @@||24sevensocial.com^
 @@||260web.com^
 @@||263.vn^
@@ -1330,6 +1331,7 @@
 @@||abr.to^
 @@||abre.ae^
 @@||abre.pub^
+@@||abrir.link^
 @@||abroad-links.com^
 @@||abso.lt^
 @@||abstimmungstarten.de^
@@ -1615,6 +1617,7 @@
 @@||aply.me^
 @@||apna.link^
 @@||apne.ws^
+@@||aporasal.net^
 @@||app.link^
 @@||appbitly.com^
 @@||appcurt.com^
@@ -2588,6 +2591,7 @@
 @@||cplink.co^
 @@||cplink.me^
 @@||cplinker.com^
+@@||cpmlink.net^
 @@||cpnl.ink^
 @@||cptl.me^
 @@||cq.al^
@@ -2770,6 +2774,7 @@
 @@||dalinksavad.eu^
 @@||damoro.ro^
 @@||dandy.dental^
+@@||dar.vin^
 @@||dasb.io^
 @@||dat.bio^
 @@||data-linkup.com^
@@ -3938,6 +3943,7 @@
 @@||hostcafe.info^
 @@||hot.info^
 @@||hotlinkto.info^
+@@||hotm.art^
 @@||hotsexymaids.com^
 @@||housevaluesplus.com^
 @@||housga.me^
@@ -4104,7 +4110,6 @@
 @@||impl.us^
 @@||in.gl^
 @@||in.mt^
-@@||in.run^
 @@||in0.ca^
 @@||incab.us^
 @@||incises.com^
@@ -4206,6 +4211,7 @@
 @@||ishort.in^
 @@||ishortie.com^
 @@||ishortify.com^
+@@||ishortn.ink^
 @@||ishorturl.com^
 @@||ishorturl.net^
 @@||isinstance.com^
@@ -4678,6 +4684,7 @@
 @@||lih.kg^
 @@||lihat.info^
 @@||lihi.biz^
+@@||lihi.cc^
 @@||lihi.io^
 @@||lihi.one^
 @@||lihi.pro^
@@ -4728,6 +4735,7 @@
 @@||link.gy^
 @@||link.sk^
 @@||link.so^
+@@||link.space^
 @@||link-cut.com^
 @@||link-ease.in^
 @@||link-fe.nz^
@@ -4960,6 +4968,7 @@
 @@||linkshorteners.com^
 @@||linkshortify.com^
 @@||linkshortner.net^
+@@||linkshrink.net^
 @@||linkshrink.org^
 @@||linksi.me^
 @@||linksimple.io^
@@ -5019,6 +5028,7 @@
 @@||linkxl.de^
 @@||linky.cc^
 @@||linky.is^
+@@||linky.ph^
 @@||linky31.com^
 @@||linkybe.com^
 @@||linkye.net^
@@ -5095,6 +5105,7 @@
 @@||lnk.co^
 @@||lnk.direct^
 @@||lnk.gd^
+@@||lnk.ink^
 @@||lnk.jo^
 @@||lnk.ke^
 @@||lnk.news^
@@ -5138,6 +5149,7 @@
 @@||lnsrt.com^
 @@||lnst.eu^
 @@||lnv.gy^
+@@||lnwlink.com^
 @@||lnwurl.com^
 @@||lo.ge^
 @@||lob.ee^
@@ -5198,6 +5210,7 @@
 @@||lstu.fr^
 @@||lt.gt^
 @@||lt.tl^
+@@||lt27.de^
 @@||ltd.ac^
 @@||ltdhunt.com^
 @@||ltkiss.cc^
@@ -5217,6 +5230,7 @@
 @@||lup.to^
 @@||lur.to^
 @@||lur.us^
+@@||lurl.cc^
 @@||lurl.org^
 @@||lutendo.tech^
 @@||luto.lol^
@@ -5523,6 +5537,7 @@
 @@||mmo-it.com^
 @@||mnbef.com^
 @@||mney.co^
+@@||mng.bz^
 @@||mnge.it^
 @@||mnot.es^
 @@||mo.ma^
@@ -5687,6 +5702,7 @@
 @@||myporn.link^
 @@||mypowerlinks.org^
 @@||mypoya.com^
+@@||myppt.cc^
 @@||myprivateproxies.org^
 @@||myqlixellink.com^
 @@||myqrcode.mobi^
@@ -6169,6 +6185,7 @@
 @@||pc-helper.xyz^
 @@||pc24.app^
 @@||pca.so^
+@@||pchome.link^
 @@||pck.tv^
 @@||pclosdebian.org^
 @@||pco.la^
@@ -6400,6 +6417,7 @@
 @@||prz.pw^
 @@||psafe.com^
 @@||psafe.ly^
+@@||psce.pw^
 @@||pse.is^
 @@||psee.io^
 @@||psfl.in^
@@ -6459,6 +6477,7 @@
 @@||q8at.link^
 @@||qain.si^
 @@||qartvb.com^
+@@||qaza.info^
 @@||qb.dk^
 @@||qb9.in^
 @@||qbn.ru^
@@ -6764,6 +6783,7 @@
 @@||reten.net^
 @@||rethinktw.cc^
 @@||retont.link^
+@@||reurl.cc^
 @@||reurl.in^
 @@||reut.rs^
 @@||rev.cm^
@@ -7102,6 +7122,7 @@
 @@||shareurl.io^
 @@||shareus.io^
 @@||shareyou.link^
+@@||shatu.nl^
 @@||shavel.ink^
 @@||shavelinks.com^
 @@||shct.io^
@@ -7151,6 +7172,7 @@
 @@||short.io^
 @@||short.ms^
 @@||short.ovh^
+@@||short.pe^
 @@||short.re^
 @@||short.tips^
 @@||short.to^
@@ -7776,6 +7798,7 @@
 @@||splk.it^
 @@||spn.cx^
 @@||spn.sr^
+@@||spoo.me^
 @@||sportrock-links.com^
 @@||spoti.fi^
 @@||spotify.link^
@@ -8448,6 +8471,7 @@
 @@||trick.ly^
 @@||trieuview.life^
 @@||triggerbee.com^
+@@||trim.ac^
 @@||trim.cx^
 @@||trim.one^
 @@||trim-me.de^
@@ -8843,6 +8867,7 @@
 @@||urlifys.com^
 @@||urlin.bio^
 @@||urlin.it^
+@@||urlinkz.me^
 @@||urlino.net^
 @@||urlintel.com^
 @@||urlio.co^
@@ -9297,6 +9322,7 @@
 @@||wec.li^
 @@||wed.li^
 @@||wedew.link^
+@@||wee.so^
 @@||wee.wtf^
 @@||weely.ai^
 @@||weeste.llc^

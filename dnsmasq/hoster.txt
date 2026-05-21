@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 May 2026 17:51 UTC
-# Version: 2026.0520.1751.53
+# Last modified: 21 May 2026 01:03 UTC
+# Version: 2026.0521.0103.32
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1221
+# Number of entries: 1220
 #
 local=/one4u.0lx.net/
 local=/free.bizhat.com/
@@ -547,7 +547,6 @@ local=/fleek.co/
 local=/fleek.cool/
 local=/flf.li/
 local=/flirten.info/
-local=/flixya.com/
 local=/flu.cc/
 local=/flyjasper.ca/
 local=/for-ladys.de/

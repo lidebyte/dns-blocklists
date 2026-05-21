@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 20 May 2026 18:21 UTC
-! Version: 2026.0520.1821.21
+! Last modified: 21 May 2026 01:39 UTC
+! Version: 2026.0521.0139.19
 ! Syntax: AdBlock
-! Number of entries: 96637
+! Number of entries: 96655
 !
 ||explorer.01coin.io^
 ||en.1001cocktails.com^
@@ -5399,6 +5399,7 @@
 ||69-porno.ru^
 ||69-sexgames.com^
 ||69adulttoys.com^
+||69av7.cc^
 ||69axxxxxxxx69.com^
 ||69callgirls.com^
 ||69cgua.com^
@@ -6270,6 +6271,7 @@
 ||aalagay.cn^
 ||aalah.me^
 ||aaliasekh.com^
+||aamchor.com^
 ||aan.xxx^
 ||aanpure.com^
 ||aaporno.lol^
@@ -9732,6 +9734,7 @@
 ||animetvtube.com^
 ||animeuknews.net^
 ||animexxxgirls.com^
+||animexxxporn.pro^
 ||animeyt.es^
 ||animez.to^
 ||animezeira.blog^
@@ -10250,6 +10253,7 @@
 ||arabmales.tv^
 ||arabmenhealth.com^
 ||arabmovies.pro^
+||arabnudes.click^
 ||arabnudes.org^
 ||araboost.com^
 ||arabporn.cc^
@@ -16422,6 +16426,7 @@
 ||bustyteenboobs.net^
 ||bustyteengallery.com^
 ||bustytitty.com^
+||bustytube.info^
 ||bustyv.top^
 ||bustyvee.com^
 ||bustyvivian.com^
@@ -21776,6 +21781,7 @@
 ||desi49.world^
 ||desi49.wtf^
 ||desi49com.com^
+||desi49mms.watch^
 ||desi49tv.com^
 ||desi49x.watch^
 ||desi49xxx.net^
@@ -21864,6 +21870,7 @@
 ||desimms.click^
 ||desimms.site^
 ||desimms2.site^
+||desimms69.watch^
 ||desimmsclub.com^
 ||desimmsclub.net^
 ||desimmsporn.com^
@@ -43908,6 +43915,7 @@
 ||kamababa.desi^
 ||kamababa.mobi^
 ||kamababa.top^
+||kamababax.com^
 ||kamagaya-cashless.jp^
 ||kamagaya-fudousan.com^
 ||kamagaya-reien.com^
@@ -47627,6 +47635,7 @@
 ||lusthub.club^
 ||lustich.de^
 ||lustimp.com^
+||lustiqra18.com^
 ||lustique.com^
 ||lustjizz.com^
 ||lustjogos.com^
@@ -48618,6 +48627,7 @@
 ||masa49.mom^
 ||masa49.org^
 ||masa49x.com^
+||masafun.biz^
 ||masafun.com^
 ||masafun.dev^
 ||masafun.one^
@@ -48634,6 +48644,7 @@
 ||masahub.tips^
 ||masahub.top^
 ||masahub.watch^
+||masahub.world^
 ||masahub2.com^
 ||masaj-erotic.ro^
 ||masajalia.com^
@@ -51088,6 +51099,7 @@
 ||mmstop.com^
 ||mmstown.com^
 ||mmstown.net^
+||mmsvibex.net^
 ||mmsviral.com^
 ||mmsxposure.com^
 ||mmtradersexport.com^
@@ -51295,6 +51307,7 @@
 ||mojamilfka.org^
 ||mojamilfka.sk^
 ||mojemilfka.cz^
+||mojoporn.info^
 ||mojoporntube.com^
 ||mojoporntube.net^
 ||mojoupgrade.com^
@@ -53777,6 +53790,7 @@
 ||nevsex.ru^
 ||nevsexcurs.ru^
 ||nevyda.com^
+||new-acropol.ru^
 ||new-adult.com^
 ||new-bokep.com^
 ||new-hindiporn.com^
@@ -59799,6 +59813,7 @@
 ||pornaimovies.com^
 ||pornaitools.com^
 ||pornaiwriter.com^
+||pornaixxx.pro^
 ||pornalex18.com^
 ||pornalien.com^
 ||pornalin.com^
@@ -61353,6 +61368,7 @@
 ||pornmamki.top^
 ||pornmanagers.com^
 ||pornmanhua.com^
+||pornmania.cc^
 ||pornmania.space^
 ||pornmaniac.tv^
 ||pornmaniak.com^
@@ -69974,6 +69990,7 @@
 ||securityplusexam.com^
 ||securityprocessexplorer.com^
 ||sedoll.com^
+||sedoriax.com^
 ||sedotv.com^
 ||seducam.com^
 ||seducaosexshop.com^
@@ -91653,6 +91670,7 @@
 ||xnxxstepmom.com^
 ||xnxxstories.in^
 ||xnxxstudio.com^
+||xnxxsx.org^
 ||xnxxtamil.rodeo^
 ||xnxxtube.adult^
 ||xnxxtube.biz^
